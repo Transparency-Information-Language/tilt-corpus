@@ -1,14 +1,14 @@
 {
   "meta": {
     "version": 1,
-    "language": "DE",
+    "language": "de",
     "status": "active",
     "_id": "3fbbd729-3ae2-48d2-b2d5-5201d956c638",
     "name": "Bundesministerium der Justiz und für Verbraucherschutz",
     "created": "2021-05-10T12:00:00+0000",
     "modified": "2021-05-10T12:00:00+0000",
     "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
-    "hash" : "0000000000000000000000000000000000000000000000000000000000000000"
+    "_hash" : "0000000000000000000000000000000000000000000000000000000000000000"
   },
   "controller": {
     "country": "DE",
