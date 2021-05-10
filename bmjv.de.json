@@ -1,16 +1,17 @@
 {
   "meta": {
     "version": 1,
-    "language": "de",
+    "language": "DE",
     "status": "active",
     "_id": "3fbbd729-3ae2-48d2-b2d5-5201d956c638",
     "name": "Bundesministerium der Justiz und für Verbraucherschutz",
     "created": "2021-05-10T12:00:00+0000",
     "modified": "2021-05-10T12:00:00+0000",
-    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html"
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "hash" : "0000000000000000000000000000000000000000000000000000000000000000"
   },
   "controller": {
-    "country": "de",
+    "country": "DE",
     "representative": {
       "name": "Christine Lambrecht (Bundesministerin der Justiz und für Verbraucherschutz)",
       "email": "christine.lambrecht@bundestag.de",
@@ -22,7 +23,7 @@
   "dataProtectionOfficer": {
     "name": "Elisabeth Duhr (Behördliche Datenschutzbeauftragte)",
     "address": "Mohrenstraße. 37, 10117 Berlin",
-    "country": "de",
+    "country": "DE",
     "email": "datenschutz@bmjv.bund.de",
     "phone": "+4930185800"
   },
@@ -53,7 +54,7 @@
           },
           "name": "InformationsTechnikZentrum Bund (ITZBund)",
           "address": "Bernkasteler Straße 8, 53175 Bonn",
-          "country": "de",
+          "country": "DE",
           "category": "IT-Dienstleister"
         }
       ],
@@ -86,7 +87,7 @@
           },
           "name": "Matomo",
           "address": "150 Willis St, 6011 Wellington",
-          "country": "nz",
+          "country": "NZ",
           "category": "Webanalysedienst"
         }
       ],
@@ -285,7 +286,7 @@
     "supervisoryAuthority": {
       "name": "Ulrich Kelber (Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit)",
       "address": "Graurheindorfer Str. 153, 53117 Bonn",
-      "country": "de",
+      "country": "DE",
       "email": "poststelle@bfdi.bund.de",
       "phone": "+492289977990"
     },
