@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "_id": "3fbbd729-3ae2-48d2-b2d5-5201d956c638",
+    "name": "Bundesministerium der Justiz und für Verbraucherschutz",
+    "created": "2021-05-10T12:00:00+0000",
+    "modified": "2021-05-10T12:00:00+0000",
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html"
+  },
+  "controller": {
+    "country": "de",
+    "representative": {
+      "name": "Christine Lambrecht (Bundesministerin der Justiz und für Verbraucherschutz)",
+      "email": "christine.lambrecht@bundestag.de",
+      "phone": "+493022773286"
+    },
+    "name": "Bundesministerium der Justiz und für Verbraucherschutz",
+    "address": "Mohrenstraße 37, 10117 Berlin"
+  },
+  "dataProtectionOfficer": {
+    "name": "Elisabeth Duhr (Behördliche Datenschutzbeauftragte)",
+    "address": "Mohrenstraße. 37, 10117 Berlin",
+    "country": "de",
+    "email": "datenschutz@bmjv.bund.de",
+    "phone": "+4930185800"
+  },
+  "dataDisclosed": [
+    {
+      "purposes": [
+        {
+          "purpose": "Internetseite/Logging",
+          "description": "Bei jedem Besuch unserer Internetseite werden Daten erhoben, die aus Sicherheitsgründen und zur Bereitstellung und Optimierung einer funktionsfähigen Webseite sowie unserer Inhalte und Leistungen erforderlich sind."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-e",
+          "description": "Die Verarbeitung ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde."
+        },
+        {
+          "reference": "BSIG-5",
+          "description": "Abwehr von Schadprogrammen und Gefahren für die Kommunikationstechnik des Bundes"
+        }
+      ],
+      "legitimateInterests": [],
+      "recipients": [
+        {
+          "representative": {
+            "name": "Direktor des ITZBund",
+            "email": "poststelle@itzbund.de"
+          },
+          "name": "InformationsTechnikZentrum Bund (ITZBund)",
+          "address": "Bernkasteler Straße 8, 53175 Bonn",
+          "country": "de",
+          "category": "IT-Dienstleister"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": true,
+        "consequences": "Sollten Sie mit den Aufnahmen und Veröffentlichungen nicht einverstanden sein, wenden Sie sich nach Möglichkeit unmittelbar an den für die Motivsuche verantwortlichen Fotografen."
+      },
+      "_id": "3543974c-7611-4694-ab27-6fb2d906712e",
+      "category": "IP-Adresse; Name der abgerufenen Datei; Datum und Uhrzeit des Abrufs; übertragene Datenmenge; Meldung, ob der Abruf erfolgreich war"
+    },
+    {
+      "purposes": [
+        {
+          "purpose": "Um das Informationsangebot auf die Bedürfnisse der Nutzerinnen und Nutzer ausrichten zu können, wertet das BMJV die Zugriffe auf diese Internetseite statistisch aus.",
+          "description": "Aus den erhobenen Daten (z. B. welche Seite besucht worden ist, Länge der Verweildauer auf der Internetseite, ob Downloads vorgenommen wurden, Suchbegriffe usw.) können wir Rückschlüsse über das Nutzungsverhalten auf unserer Internetseite ziehen und erhalten Informationen über weitere technische Parameter (z. B. verwendeter Browser und die Version, Bildschirmauflösung des verwendeten Endgeräts, Betriebssystem)."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-a",
+          "description": "Dieses Webangebot und seine einzelnen Angebote sind Teil der Öffentlichkeitsarbeit des BMJV. Um das Informationsangebot auf die Bedürfnisse der Nutzerinnen und Nutzer ausrichten zu können, wertet das BMJV die Zugriffe auf diese Internetseite auf der Grundlage Ihrer Einwilligung gemäß Artikel 6 Absatz 1 Buchstabe a DS-GVO statistisch aus."
+        }
+      ],
+      "recipients": [
+        {
+          "representative": {
+            "name": "InnoCraft Ltd."
+          },
+          "name": "Matomo",
+          "address": "150 Willis St, 6011 Wellington",
+          "country": "nz",
+          "category": "Webanalysedienst"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "category": "Durch Matomo-Technologie erhobenen Daten (einschließlich Ihrer anonymisierten IP-Adresse) ",
+      "_id": "de70e0d8-9282-45c7-88ed-192385764952"
+    },
+    {
+      "purposes": [
+        {
+          "purpose": "Verarbeitung personenbezogener Daten bei Eingaben und Anfragen",
+          "description": "Die Verarbeitung der Daten ist zur Wahrnehmung unserer Aufgaben erforderlich."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-e",
+          "description": "Die Verarbeitung der Daten ist zur Wahrnehmung unserer Aufgaben erforderlich."
+        },
+        {
+          "reference": "DSGVO-6-3-b",
+          "description": "Die Verarbeitung der Daten ist zur Wahrnehmung unserer Aufgaben erforderlich."
+        },
+        {
+          "reference": "BDSG-3",
+          "description": "Die Verarbeitung der Daten ist zur Wahrnehmung unserer Aufgaben erforderlich."
+        }
+      ],
+      "recipients": [],
+      "storage": [],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "_id": "f161d40b-2bb3-4f24-b09c-644e7b051588",
+      "category": "Wir verarbeiten im Zusammenhang mit Eingaben und Anfragen ausschließlich solche Daten, die notwendig sind, um mit Ihnen zu kommunizieren und um das Verwaltungshandeln des BMJV ordnungsgemäß zu dokumentieren. Hierzu gehören insbesondere jene personenbezogenen Informationen (z. B. Name, Vorname, Anschrift, E-Mail-Adresse usw.), die wir unmittelbar von Ihnen selbst erhalten haben sowie die Information über den von Ihnen gewählten Kontaktweg (Brief, Telefon, E-Mail, Kontaktformular)."
+    },
+    {
+      "purposes": [
+        {
+          "purpose": " Bestellung von Broschüren",
+          "description": "Wenn Sie Broschüren über die Warenkorbfunktion unserer Internetseite, per Post oder E-Mail bestellen, benötigen wir für den Versand Ihren Namen und Ihre Anschrift. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-e"
+        },
+        {
+          "reference": "DSGVO-6-3-b"
+        },
+        {
+          "reference": "BDSG-3"
+        }
+      ],
+      "legitimateInterests": [],
+      "recipients": [],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "Die übermittelten Daten werden einen Monat nach Abwicklung der Bestellung gelöscht.",
+              "ttl": "P1M"
+            }
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false,
+        "consequences": "Bei der Registrierung werden Ihre Daten auf unserem Server gespeichert und eine Bestätigungsnachricht mit einem Link zur endgültigen Registrierung an die von Ihnen angegebene E-Mail Adresse generiert. Soweit Sie die Registrierung nicht durch den Link in dieser E-Mail bestätigen, werden die Daten nach 24 Stunden gelöscht. Im Übrigen werden Ihre Daten bei Abbestellung des Newsletters unmittelbar gelöscht."
+      },
+      "_id": "e8c06b82-a5fd-4513-b5f9-7bb318ae4863",
+      "category": "Name und Anschrift"
+    },
+    {
+      "purposes": [
+        {
+          "description": "Um den Besucherinnen und Besuchern den Zugang zu den Räumlichkeiten des BMJV gewähren zu können.",
+          "purpose": "Öffentlichkeitsarbeit"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-e"
+        },
+        {
+          "reference": "DSGVO-6-3-b"
+        },
+        {
+          "reference": "BDSG-3"
+        }
+      ],
+      "recipients": [
+        {
+          "representative": {},
+          "category": "Diese Daten werden für die Zugangskontrolle an die zuständige Bundespolizei weitergegeben."
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "Die uns von Ihnen zur Verfügung gestellten Daten (Vor- und Zuname; Geburtsdatum, Geburtsort) werden ebenso wie die von Ihnen ggf. freiwillig übermittelten personenbezogenen Daten eine Woche nach Ihrem Besuch im BMJV vollständig gelöscht.",
+              "ttl": "P1W"
+            }
+          ],
+          "purposeConditional": [],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "category": "Besuchergruppen",
+      "_id": "db28f111-f3d1-4523-8465-690c8979c76f"
+    },
+    {
+      "purposes": [
+        {
+          "purpose": "Presse- und Öffentlichkeitsarbeit",
+          "description": "Bei einigen Veranstaltungen werden Foto- und Filmaufnahmen im Rahmen der Presse- und Öffentlichkeitsarbeit des BMJV angefertigt. Auf diese wird in der Regel beim Betreten des Veranstaltungsgeländes hingewiesen. Die Aufnahmen können auf unserer Internetseite, Social-Media-Kanälen, Printmedien und weiteren Medien veröffentlicht werden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-e"
+        },
+        {
+          "reference": "DSGVO-6-3-b"
+        },
+        {
+          "reference": "BDSG-3"
+        },
+        {
+          "reference": "KunstUrhG-23"
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "_id": "7da43e44-9ce7-4d75-8e37-5bc35f0882bd",
+      "category": "Film- und Fotoaufnahmen"
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "administrativeFee": {
+      "amount": 0,
+      "currency": "EUR"
+    },
+    "dataFormats": [
+      "text/plain"
+    ],
+    "description": "Mit dem Recht auf Auskunft erhält der Betroffene eine umfassende Einsicht in die ihn angehenden Daten und einige andere wichtige Kriterien wie beispielsweise die Verarbeitungszwecke oder die Dauer der Speicherung. Es gelten die in § 34 BDSG geregelten Ausnahmen von diesem Recht.",
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de"
+  },
+  "rightToInformation": {
+    "available": true,
+    "description": "Personenbezogene Daten sind Angaben zu einer Person oder Informationen, die sich auf eine Person beziehen (z. B. Name, Adresse, Postanschrift, Telefonnummer, IP-Adresse) und die dazu genutzt werden können, die Identität von Personen zu erfahren. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt – insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten oder zu einer Online-Kennung – identifiziert werden kann.",
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de"
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de",
+    "description": "Das Recht auf Berichtigung beinhaltet die Möglichkeit für den Betroffenen, unrichtige ihn angehende personenbezogene Daten korrigieren zu lassen. Das Recht auf Löschung beinhaltet die Möglichkeit für den Betroffenen, Daten beim Verantwortlichen löschen zu lassen. Dies ist allerdings nur dann möglich, wenn die ihn angehenden personenbezogenen Daten nicht mehr notwendig sind, rechtswidrig verarbeitet werden oder eine diesbezügliche Einwilligung widerrufen wurde. Es gelten die in § 35 BDSG geregelten Ausnahmen von diesem Recht."
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de",
+    "description": "Das Recht auf Datenübertragbarkeit beinhaltet die Möglichkeit für den Betroffenen, die ihn angehenden personenbezogenen Daten in einem gängigen, maschinenlesbaren Format vom Verantwortlichen zu erhalten, um sie ggf. an einen anderen Verantwortlichen weiterleiten zu lassen. Gemäß Artikel 20 Abs. 3 Satz 2 DS-GVO steht dieses Recht aber dann nicht zur Verfügung, wenn die Datenverarbeitung der Wahrnehmung öffentlicher Aufgaben dient. Dies ist beim BMJV nur dann nicht der Fall, wenn die Verarbeitung personenbezogener Daten zu fiskalischen Zwecken erfolgt."
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de",
+    "description": "Soweit die Verarbeitung von personenbezogenen Daten auf Grundlage Ihrer Einwilligung (Artikel 6 Abs. 1 Buchstabe a DS-GVO) erfolgt, können Sie diese jederzeit für den ent-sprechenden Zweck widerrufen. Die Rechtmäßigkeit der Verarbeitung aufgrund Ihrer getätigten Einwilligung bleibt bis zum Eingang Ihres Widerrufs unberührt."
+  },
+  "rightToComplain": {
+    "available": true,
+    "supervisoryAuthority": {
+      "name": "Ulrich Kelber (Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit)",
+      "address": "Graurheindorfer Str. 153, 53117 Bonn",
+      "country": "de",
+      "email": "poststelle@bfdi.bund.de",
+      "phone": "+492289977990"
+    },
+    "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
+    "email": "datenschutz@bmjv.bund.de",
+    "description": "Sie haben die Möglichkeit, sich mit einer Beschwerde gegen die Datenverarbeitung des BMJV an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu wenden, der die datenschutzrechtliche Aufsicht über die Bundesbehörden hat. Er ist wie folgt erreichbar:"
+  },
+  "automatedDecisionMaking": {
+    "inUse": false
+  }
+}
