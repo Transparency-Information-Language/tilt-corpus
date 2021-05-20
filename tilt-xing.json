@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "_id": "f051023d-1cc4-407a-ba34-aec957f34e627",
+    "name": "Xing",
+    "created": "2021-04-28T15:53:05.929588",
+    "modified": "2021-04-28T15:53:05.929588",
+    "version": 2,
+    "language": "en",
+    "status": "active",
+    "url": "https://privacy.xing.com/en/privacy-policy",
+    "_hash": ""
+  },
+  "controller": {
+    "name": "New Work SE",
+    "division": "Information Technology Services",
+    "address": "Dammtorstrasse 30, 20354 Hamburg, Germany",
+    "country": "DE",
+    "representative": {
+      "name": "Petra von Strombeck",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "dataProtectionOfficer": {
+    "name": "Felix Lasse",
+    "address": "Dammtorstrasse 30, 20354 Hamburg, Germany",
+    "country": "Germany",
+    "email": "datenschutzbeauftragter@xing.com",
+    "phone": ""
+  },
+  "dataDisclosed": [
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser type",
+      "purposes": [
+        {
+          "purpose": "",
+          "description": ""
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "",
+          "description": ""
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "category": ""
+        },
+        {
+          "name": "",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Cookie Identifiers",
+      "purposes": [
+        {
+          "purpose": "Ad Analysis",
+          "description": "Tracking helps us to obtain metrics for the success of advertising campaigns and to optimise the way that online ads are displayed."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Tracking for the measurement and optimisation of advertising is based on your consent, see Article 6 (1) a) of the EU General Data Protection Regulation (GDPR). You can withdraw your consent at any time."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Microsoft Corporation",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Criteo SA",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "LinkedIn Corporation",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Facebook Inc.",
+          "division": "Facebook Pixel",
+          "address": "1601 S. California Ave, Palo Alto, CA 94304, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Twitter Inc.",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "AdDefend GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Performance Media Deutschland GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Adform A/s",
+          "division": "Adform",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Adjust GmbH",
+          "division": "",
+          "address": "Saarbrücker Str. 37A 10405 Berlin, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "Christian Henschel, Paul H. Müller",
+            "email": "info@adjust.com",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "ADITION technologies AG",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Outbrain Inc.",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Pinterest Inc.",
+          "division": "Pinterest Europe Ltd.",
+          "address": "Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Jana Würfel",
+            "email": "hallo@pinterest.com",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Xandr Inc.",
+          "division": "AppNexus",
+          "address": "Attn: Privacy Office, 28 West 23rd Street, Fl 4, New York, NY 10010, USA",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Retyp LLC",
+          "division": "OptinMonster",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        },
+        {
+          "name": "Snap Inc.",
+          "division": "Snap Pixel",
+          "address": "2772 Donald Douglas Loop North, Santa Monica, CA 90405, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "",
+      "adequacyDecision": {
+        "available": null,
+        "description": ""
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": ""
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": ""
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": ""
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": ""
+    },
+    "dataFormats": [
+      "",
+      ""
+    ]
+  },
+  "sources": [
+    {
+      "_id": "",
+      "dataCategory": "",
+      "sources": [
+        {
+          "description": "",
+          "url": "",
+          "publiclyAvailable": null
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "supervisoryAuthority": {
+      "name": "",
+      "address": "",
+      "country": "",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "automatedDecisionMaking": {
+    "inUse": null,
+    "logicInvolved": "",
+    "scopeAndIntendedEffects": ""
+  },
+  "changesOfPurpose": [
+    {
+      "description": "",
+      "affectedDataCategories": [
+        "",
+        ""
+      ],
+      "plannedDateOfChange": "",
+      "urlOfNewVersion": ""
+    }
+  ]
+}

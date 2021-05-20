@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "_id": "f051023d-1cc4-407a-ba34-aec957f34e627",
+    "name": "Otto",
+    "created": "2021-04-28T15:53:05.929588",
+    "modified": "2021-04-28T15:53:05.929588",
+    "version": 2,
+    "language": "en",
+    "status": "active",
+    "url": "https://www.otto.de/unternehmen/en/privacy-policy",
+    "_hash": ""
+  },
+  "controller": {
+    "name": "Otto (GmbH & Co KG)",
+    "division": "Onlineshop",
+    "address": "Werner-Otto-Straße 1-7, 22179 Hamburg Germany",
+    "country": "DE",
+    "representative": {
+      "name": "Alexander Birken",
+      "email": "service@otto.de",
+      "phone": "01806-303030"
+    }
+  },
+  "dataProtectionOfficer": {
+    "name": "",
+    "address": "Werner-Otto-Straße 1-7, 22179 Hamburg Germany",
+    "country": "Germany",
+    "email": "datenschutzbeauftragter@ottogroup.com",
+    "phone": ""
+  },
+  "dataDisclosed": [
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser type",
+      "purposes": [
+        {
+          "purpose": "Needs-based design",
+          "description": "continuous optimization of our website"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Elizabeth M. Cunningham",
+            "email": "support-deutschland@google.com",
+            "phone": "+353-1-543-1000"
+          },
+          "category": "Web analysis service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "OS used",
+      "purposes": [
+        {
+          "purpose": "Needs-based design",
+          "description": "continuous optimization of our website"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Elizabeth M. Cunningham",
+            "email": "support-deutschland@google.com",
+            "phone": "+353-1-543-1000"
+          },
+          "category": "Web analysis service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Referrer URL",
+      "purposes": [
+        {
+          "purpose": "Needs-based design",
+          "description": "continuous optimization of our website"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Elizabeth M. Cunningham",
+            "email": "support-deutschland@google.com",
+            "phone": "+353-1-543-1000"
+          },
+          "category": "Web analysis service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "IP address",
+      "purposes": [
+        {
+          "purpose": "Needs-based design",
+          "description": "continuous optimization of our website"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Elizabeth M. Cunningham",
+            "email": "support-deutschland@google.com",
+            "phone": "+353-1-543-1000"
+          },
+          "category": "Web analysis service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Time of server request",
+      "purposes": [
+        {
+          "purpose": "Needs-based design",
+          "description": "continuous optimization of our website"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "Elizabeth M. Cunningham",
+            "email": "support-deutschland@google.com",
+            "phone": "+353-1-543-1000"
+          },
+          "category": "Web analysis service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "",
+      "adequacyDecision": {
+        "available": null,
+        "description": ""
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": ""
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": ""
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": ""
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": ""
+    },
+    "dataFormats": [
+      "",
+      ""
+    ]
+  },
+  "sources": [
+    {
+      "_id": "",
+      "dataCategory": "",
+      "sources": [
+        {
+          "description": "",
+          "url": "",
+          "publiclyAvailable": null
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "supervisoryAuthority": {
+      "name": "",
+      "address": "",
+      "country": "",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "automatedDecisionMaking": {
+    "inUse": null,
+    "logicInvolved": "",
+    "scopeAndIntendedEffects": ""
+  },
+  "changesOfPurpose": [
+    {
+      "description": "",
+      "affectedDataCategories": [
+        "",
+        ""
+      ],
+      "plannedDateOfChange": "",
+      "urlOfNewVersion": ""
+    }
+  ]
+}

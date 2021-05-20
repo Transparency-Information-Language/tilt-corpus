@@ -1,0 +1,3079 @@
+{
+  "meta": {
+    "_id": "f051023d-1cc4-407a-ba34-aec957f34e627",
+    "name": "Deutsche Post AG",
+    "created": "2021-04-28T15:53:05.929588",
+    "modified": "2021-04-28T15:53:05.929588",
+    "version": 2,
+    "language": "en",
+    "status": "active",
+    "url": "https://www.dhl.de/en/toolbar/footer/datenschutz.html",
+    "_hash": ""
+  },
+  "controller": {
+    "name": "Deutsche Post AG",
+    "division": "Logistic and postal service",
+    "address": "Charles-de-Gaulle-Strasse 20, 53113 Bonn, Germany",
+    "country": "DE",
+    "representative": {
+      "name": "Dr Nikolaus von Bomhard",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "dataProtectionOfficer": {
+    "name": "Gabriela Krader",
+    "address": "Corporate Center - 524, 53250 Bonn, Germany",
+    "country": "Germany",
+    "email": "datenschutz@dpdhl.com",
+    "phone": ""
+  },
+  "dataDisclosed": [
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "IP Address",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Hostname of Computer",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Referrer URL",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Host Sites Visited",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Date Visit",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Duration Visit",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Success Visit",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Volume Data Transferred",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser Type",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Operating System",
+      "purposes": [
+        {
+          "purpose": "Deliver Website",
+          "description": "Temporary storage of this data is necessary during your visit to the website in order to allow the website to be delivered to you. Further storage in log files is performed to ensure the functionality of the website and the security of our IT systems."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "T-Systems International GmbH",
+          "division": "",
+          "address": "Hahnstrasse 43d, 60528 Frankfurt am Main",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Hosting Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Referrer URL",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "With the help of the tracking number you can track your packages and see the estimated time of delivery. If a DHL location is stored as delivery address, you can view it by using Bing Maps."
+        },
+        {
+          "purpose": "Location Search",
+          "description": "You can use the Standortfinder on this website to search for our branches, Packstations and parcel shops, which are displayed on a Bing Maps map."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Microsoft Corporation",
+          "division": "Bing Maps",
+          "address": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "IP adress",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "With the help of the tracking number you can track your packages and see the estimated time of delivery. If a DHL location is stored as delivery address, you can view it by using Bing Maps."
+        },
+        {
+          "purpose": "Location Search",
+          "description": "You can use the Standortfinder on this website to search for our branches, Packstations and parcel shops, which are displayed on a Bing Maps map."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Microsoft Corporation",
+          "division": "Bing Maps",
+          "address": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser type",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "With the help of the tracking number you can track your packages and see the estimated time of delivery. If a DHL location is stored as delivery address, you can view it by using Bing Maps."
+        },
+        {
+          "purpose": "Location Search",
+          "description": "You can use the Standortfinder on this website to search for our branches, Packstations and parcel shops, which are displayed on a Bing Maps map."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Microsoft Corporation",
+          "division": "Bing Maps",
+          "address": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser preferences",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "With the help of the tracking number you can track your packages and see the estimated time of delivery. If a DHL location is stored as delivery address, you can view it by using Bing Maps."
+        },
+        {
+          "purpose": "Location Search",
+          "description": "You can use the Standortfinder on this website to search for our branches, Packstations and parcel shops, which are displayed on a Bing Maps map."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Microsoft Corporation",
+          "division": "Bing Maps",
+          "address": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "User location",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "With the help of the tracking number you can track your packages and see the estimated time of delivery. If a DHL location is stored as delivery address, you can view it by using Bing Maps."
+        },
+        {
+          "purpose": "Location Search",
+          "description": "You can use the Standortfinder on this website to search for our branches, Packstations and parcel shops, which are displayed on a Bing Maps map."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Microsoft Corporation",
+          "division": "Bing Maps",
+          "address": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Referrer URL",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "IP adress",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Google Account",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser type",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Browser preferences",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "User location",
+      "purposes": [
+        {
+          "purpose": "Shipment Tracking",
+          "description": "For some shipments we offer a live tracking function that allows you to follow the path of your shipment live on a Google Maps map."
+        },
+        {
+          "purpose": "Delivery to Packstation/Branch",
+          "description": "Within tracking, you will see an option to redirect your shipment to a Packstation or branch if you are not going to be at home at the time of delivery. You can select the appropriate Packstation/branch on a map from Google Maps."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Maps",
+          "address": "Gordon House, Barrow Street, Dublin 4, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Web Mapping Service"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Chat history",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Shipment Number",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Name",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Address",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Chatbot"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "E-mail Address",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Chatbot"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Phone number",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Chatbot"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Usage data",
+      "purposes": [
+        {
+          "purpose": "Chatbot Marie",
+          "description": "DHL Paket GmbH offers you a chat function on some pages of this website so that it can answer your questions about certain products and services quickly and in the best possible way."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-a",
+          "description": "Processing shall be lawful only if the data subject has given consent to the processing of his or her personal data for one or more specific purposes."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Salesforce.com, Inc.",
+          "division": "Cloud-Based Software Services",
+          "address": "Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Chatbot"
+        },
+        {
+          "name": "Amazon Web Services, Inc.",
+          "division": "On-Demand Cloud Computing Platforms",
+          "address": "410 Terry Avenue North, Seattle WA 98109, USA",
+          "country": "USA",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cloud Computing"
+        },
+        {
+          "name": "WhatsApp Ireland Limited",
+          "division": "Messaging Service",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Messenger"
+        },
+        {
+          "name": "LINK Mobility GmbH",
+          "division": "Software Services",
+          "address": "Am Sandtorkai 73, 20457 Hamburg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Hosting"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            "Data is stored for a maximum of 2 years."
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Name",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Contact Details",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Contract data",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Customer History",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Account Credentials",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Metadata",
+      "purposes": [
+        {
+          "purpose": "IT Security",
+          "description": "When logging into the DHL customer account, user data and login attempts are analysed and processed by the Customer Identity & Access Management service (CIAM) of the service provider Akamai Technologies GmbH in order to maintain our IT security requirements."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Akamai Technologies GmbH",
+          "division": "",
+          "address": "",
+          "country": "",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": ""
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Financial Data",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by credit card, direct debit or instant bank transfer, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "Processing shall be lawful only if processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Unzer E-Com GmbH",
+          "division": "Payment Services",
+          "address": "Vangerowstraße 18, 69115 Heidelberg, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "Mirko Hüllemann",
+            "email": "support@unzer.com",
+            "phone": "+49 (6221) 43101-00"
+          },
+          "category": "Payment Provider"
+        },
+        {
+          "name": "Sofort GmbH",
+          "division": "Payment Services",
+          "address": "Theresienhöhe 12, 80339 München, Germany",
+          "country": "Germany",
+          "representative": {
+            "name": "Jacob von Ingelheim",
+            "email": "info@sofort.com",
+            "phone": "+49 89 24 88 376 90"
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Name",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Address",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Company",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "E-mail Address",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "Telephone and Mobile Number",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "f051023d-1cc4-407a-ba34-aec957f34e62",
+      "category": "IP Address",
+      "purposes": [
+        {
+          "purpose": "Payment Service",
+          "description": "If you pay by PayPal, the data required to process the transaction will be collected and processed by the payment service provider"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Processing shall be lawful only if processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "PayPal (Europe) S.à.r.l. & Cie. S.C.A.",
+          "division": "Payment Services",
+          "address": "22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg",
+          "country": "Luxembourg",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Payment Provider"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "",
+      "adequacyDecision": {
+        "available": null,
+        "description": ""
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": ""
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": ""
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": ""
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": ""
+    },
+    "dataFormats": [
+      "",
+      ""
+    ]
+  },
+  "sources": [
+    {
+      "_id": "",
+      "dataCategory": "",
+      "sources": [
+        {
+          "description": "",
+          "url": "",
+          "publiclyAvailable": null
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "supervisoryAuthority": {
+      "name": "",
+      "address": "",
+      "country": "",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "automatedDecisionMaking": {
+    "inUse": null,
+    "logicInvolved": "",
+    "scopeAndIntendedEffects": ""
+  },
+  "changesOfPurpose": [
+    {
+      "description": "",
+      "affectedDataCategories": [
+        "",
+        ""
+      ],
+      "plannedDateOfChange": "",
+      "urlOfNewVersion": ""
+    }
+  ]
+}
