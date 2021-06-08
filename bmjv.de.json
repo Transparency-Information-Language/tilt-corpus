@@ -8,7 +8,7 @@
     "created": "2021-05-10T12:00:00+0000",
     "modified": "2021-05-10T12:00:00+0000",
     "url": "https://www.bmjv.de/DE/Service/Datenschutz/Datenschutzerklaerung/Datenschutzerklaerung_node.html",
-    "_hash" : "0000000000000000000000000000000000000000000000000000000000000000"
+    "_hash": "7200cd9b4b1e78f41b53ea6dd07f6fbbdc8a2e6d6fe61e60ea5538602d3a60b7"
   },
   "controller": {
     "country": "DE",
@@ -65,7 +65,8 @@
         "consequences": "Sollten Sie mit den Aufnahmen und Veröffentlichungen nicht einverstanden sein, wenden Sie sich nach Möglichkeit unmittelbar an den für die Motivsuche verantwortlichen Fotografen."
       },
       "_id": "3543974c-7611-4694-ab27-6fb2d906712e",
-      "category": "IP-Adresse; Name der abgerufenen Datei; Datum und Uhrzeit des Abrufs; übertragene Datenmenge; Meldung, ob der Abruf erfolgreich war"
+      "category": "IP-Adresse; Name der abgerufenen Datei; Datum und Uhrzeit des Abrufs; übertragene Datenmenge; Meldung, ob der Abruf erfolgreich war",
+      "storage": []
     },
     {
       "purposes": [
@@ -94,10 +95,13 @@
       "nonDisclosure": {
         "legalRequirement": false,
         "contractualRegulation": false,
-        "obligationToProvide": false
+        "obligationToProvide": false,
+        "consequences": ""
       },
       "category": "Durch Matomo-Technologie erhobenen Daten (einschließlich Ihrer anonymisierten IP-Adresse) ",
-      "_id": "de70e0d8-9282-45c7-88ed-192385764952"
+      "_id": "de70e0d8-9282-45c7-88ed-192385764952",
+      "legitimateInterests": [],
+      "storage": []
     },
     {
       "purposes": [
@@ -122,10 +126,12 @@
       ],
       "recipients": [],
       "storage": [],
+      "legitimateInterests": [],
       "nonDisclosure": {
         "legalRequirement": false,
         "contractualRegulation": false,
-        "obligationToProvide": false
+        "obligationToProvide": false,
+        "consequences": ""
       },
       "_id": "f161d40b-2bb3-4f24-b09c-644e7b051588",
       "category": "Wir verarbeiten im Zusammenhang mit Eingaben und Anfragen ausschließlich solche Daten, die notwendig sind, um mit Ihnen zu kommunizieren und um das Verwaltungshandeln des BMJV ordnungsgemäß zu dokumentieren. Hierzu gehören insbesondere jene personenbezogenen Informationen (z. B. Name, Vorname, Anschrift, E-Mail-Adresse usw.), die wir unmittelbar von Ihnen selbst erhalten haben sowie die Information über den von Ihnen gewählten Kontaktweg (Brief, Telefon, E-Mail, Kontaktformular)."
@@ -209,10 +215,12 @@
       "nonDisclosure": {
         "legalRequirement": false,
         "contractualRegulation": false,
-        "obligationToProvide": false
+        "obligationToProvide": false,
+        "consequences": ""
       },
       "category": "Besuchergruppen",
-      "_id": "db28f111-f3d1-4523-8465-690c8979c76f"
+      "_id": "db28f111-f3d1-4523-8465-690c8979c76f",
+      "legitimateInterests": []
     },
     {
       "purposes": [
@@ -232,18 +240,25 @@
           "reference": "BDSG-3"
         },
         {
-          "reference": "KunstUrhG-23"
+          "reference": "KUNSTURHG-23"
         }
       ],
       "nonDisclosure": {
         "legalRequirement": false,
         "contractualRegulation": false,
-        "obligationToProvide": false
+        "obligationToProvide": false,
+        "consequences": ""
       },
       "_id": "7da43e44-9ce7-4d75-8e37-5bc35f0882bd",
-      "category": "Film- und Fotoaufnahmen"
+      "category": "Film- und Fotoaufnahmen",
+      "legitimateInterests": [],
+      "recipients": [],
+      "storage": []
     }
   ],
+  "thirdCountryTransfers": [],
+  "sources": [],
+  "changesOfPurpose": [],
   "accessAndDataPortability": {
     "available": true,
     "administrativeFee": {
