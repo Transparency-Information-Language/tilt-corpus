@@ -1,0 +1,312 @@
+{
+	"meta": {
+		"_id": "ee840279-6b20-448e-9b2a-023071ad3120",
+		"name": "Carrefour",
+		"created": "2021-06-08T18:00:00+02:00",
+		"modified": "2021-06-08T18:00:00+02:00",
+		"version": 1,
+		"language": "en",
+		"status": "active",
+		"url": "https://www.carrefour.com/en/personnal-data-protection-policy",
+		"_hash": "55905831fa1c4f6aa35c9f900da062e66d9daa1e9173835be2367ec3d4afe91e"
+	},
+	"controller": {
+		"name": "Alexandre Bompard",
+		"address": "",
+		"country": "FR",
+		"representative":{
+			"name": "",
+			"email": "NotGiven@NotGiven.com",
+			"phone": "0"
+		}
+	},
+	"dataProtectionOfficer": {
+		"name": "Carrefour Service du DPO",
+		"address": "93, Avenue de Paris - CS 15105 - 91342 Massy Cedex.",
+		"country": "FR",
+		"email": "direction_communication_groupe@carrefour.com"
+	},
+	"dataDisclosed": [
+		{
+			"_id": "541170e6-0bda-4f27-88f4-71f70b173e10",
+			"category": "title; first and last name; e-mail-address",
+			"purposes": [
+				{
+					"purpose": "Communication management",
+					"description": "Management and tracking of requests for stock subscriptions and/or subscriptions topublications and various communications, in addition to news flows;"
+				},
+				{
+					"purpose": "Request management",
+					"description": "Management and tracking of requests for information and complaints, where applicable"
+				},
+			],
+			"legalBases": [
+				{
+					"reference": "",
+					"description": "la loi relative à l’informatique, aux fi chiers et aux libertés n° 78-17 du 6 janvier 1978modifi ée et ses mises à jour ou modifi cation"
+				},
+				{
+					"reference": "GDPR",
+					"description": "REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data"
+				}
+			],
+			"legitimateInterests":[
+				{
+					"exists": true,
+					"reasoning": "Processing operations that are based on the pursuit of Carrefour’s legitimate interests are implemented ensuring respect of your rights and freedoms."
+				}
+			],
+			"recipients": [
+				{
+					"category": "Accredited individuals"
+				},
+				{
+					"category": "Service providers and subcontractors"	
+				},
+				{
+					"category": "Official and judicial authorities"
+				}
+
+			],
+			"storage": [
+				{
+					"temporal": [],
+					"purposeConditional": [
+						"The data collected by Carrefour will thus be retained for the time necessary to achieve the purposes described above, plus the statutory period required by law."
+					],
+					"legalBasisConditional": [],
+					"aggregationFunction": "max"
+				}
+			],
+			"nonDisclosure": {
+				"legalRequirement": false,
+				"contractualRegulation": false,
+				"obligationToProvide": true,
+				"consequences": "Carrefour collects data via the website's contact form"
+			}
+		},
+		{
+			"_id": "7e4c76bf-8d81-4097-baaa-2464783f8800",
+			"category": "ip addresses; login tracking; your use of the site, such as the pages visited; other user identifiers",
+			"purposes": [
+				{
+					"purpose": "third-party cookies",
+					"description": "The data collected are essential for fulfi lment of the objectives defi ned for each cookie.They are intended strictly for accredited departments in Carrefour and/or the companyissuing the third-party cookies."
+				},
+				{
+					"purpose": "Identification",
+					"description": "Such identifiers can leave traces which may, especially if they are combined with unique login details and other information received by servers, be used to build profiles of the individuals concerned and to identify them."
+				}
+			],
+			"legalBases": [],
+			"legitimateInterests":[
+				{
+					"exists": true,
+					"reasoning": "Processing operations that are based on the pursuit of Carrefour’s legitimate interests are implemented ensuring respect of your rights and freedoms."
+				}
+			],
+			"recipients": [
+				{
+					"name": "google analytics",
+					"category": "Tracking"
+				},
+				{
+					"name": "social media",
+					"category": "Embedded social media"
+				},
+				{
+					"name": "tag commander",
+					"category": "Analytics"
+				}
+			],
+			"storage": [
+				{
+					"temporal": [
+						{
+							"description": "The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months.",
+							"ttl": "P13M"
+						}
+					],
+					"purposeConditional": [
+						"session cookies which disappear when you leave the Website",
+						"permanent cookies which remain on your terminal equipment until they expire or until you delete them using your browser’s functionalities.",
+						"The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months."
+					],
+					"aggregationFunction": "max"
+				}
+			],
+			"nonDisclosure": {
+				"legalRequirement": false,
+				"contractualRegulation": false,
+				"obligationToProvide": false,
+				"consequences": "if you set your browser to reject cookies certain functionalities, pages and spaces on the Website requiring the use of cookies, will not be available"
+			}
+		},
+		{
+			"_id": "cfb52387-9201-46ff-9ee6-7e4111dfaeff",
+			"category": "consent; device information;",
+			"purposes": [
+				{
+					"purpose": "functional cookies",
+					"description": "The data collected are essential for fulfi lment of the objectives defi ned for each cookie.They are intended strictly for accredited departments in Carrefour and/or the companyissuing the third-party cookies."
+				},
+			],
+			"legalBases": [],
+			"legitimateInterests":[
+				{
+					"exists": true,
+					"reasoning": "Processing operations that are based on the pursuit of Carrefour’s legitimate interests are implemented ensuring respect of your rights and freedoms."
+				}
+			],
+			"recipients": [
+				{
+					"name": "IAM",
+					"category": "iam connection"
+				},
+				{
+					"name": "tag commander",
+					"category": "tag management"
+				},
+				{
+					"name": "incapsula",
+					"category": "security"
+				}
+			],
+			"storage": [
+				{
+					"temporal": [
+						{
+							"description": "The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months.",
+							"ttl": "P13M"
+						}
+					],
+					"purposeConditional": [
+						"session cookies which disappear when you leave the Website",
+						"permanent cookies which remain on your terminal equipment until they expire or until you delete them using your browser’s functionalities.",
+						"The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months."
+					],
+					"aggregationFunction": "max"
+				}
+			],
+			"nonDisclosure": {
+				"legalRequirement": false,
+				"contractualRegulation": false,
+				"obligationToProvide": true,
+				"consequences": "if you set your browser to reject cookies certain functionalities, pages and spaces on the Website requiring the use of cookies, will not be available"
+			}
+		}
+	],
+	"thirdCountryTransfers": [
+		{
+			"adequacyDecision": {
+				"available": false
+			},
+			"appropriateGuarantees": {
+				"available": true,
+				"description": "Carrefour enters into agreements with itsprocessors which precisely defi ne the conditions and procedures for processing personaldata. [...] Carrefour shall secure such transfers by [...] using a service provider who has adopted binding rules recognized by the Europeansupervisory authorities."
+			},
+			"presenceOfEnforcableRightsAndEffectiveRemedies": {
+				"available": false
+			},
+			"standardDataProtectionClause": {
+				"available": true,
+				"description": "Carrefour shall secure such transfers by: entering into an agreement on cross-border data flows established in compliance with the standard contractual provisions issued by the European Commission, or"
+			}
+		},
+		{
+			"adequacyDecision": {
+				"available": true,
+				"description": "selects service providers located outside the European Union in a country with anadequate level of protection of personal data as recognized by the European Commission,or..."
+			},
+			"appropriateGuarantees": {
+				"available": false
+			},
+			"presenceOfEnforcableRightsAndEffectiveRemedies": {
+				"available": false
+			},
+			"standardDataProtectionClause": {
+				"available": false
+			}
+		}
+	],
+	"accessAndDataPortability": {
+		"available": true,
+		"description": "All data subjects enjoy the following rights with regard to data relating to them: [...] a right of access. [...] In connection with the right of access, Carrefour may request that you pay reasonable charges based on the administrative costs for any additional copy of the data to that provided.",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		],
+		"administrativeFee": {
+			"description": "In connection with the right of access, Carrefour may request that you pay reasonablecharges based on the administrative costs for any additional copy of the data to thatprovided.",
+			"amount": 0,
+			"currency": "EUR"
+		},
+	},
+	"sources": [
+		{
+			"_id": "e415209a-124d-46ed-9dcd-ea77be02dbcc",
+			"dataCategory": "unique login details and other information",
+			"sources": [
+				{
+					"description": "...are combined with unique login details and other information received by servers, be used to build profiles of the individuals concerned and to identify them",
+					"url": "",
+					"publiclyAvailable": false
+				}
+			]
+		}
+	],
+	"rightToInformation": {
+		"available": true,
+		"description": "All data subjects enjoy the following rights with regard to data relating to them: [...] a right to information",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		]
+	},
+	"rightToRectificationOrDeletion": {
+		"available": true,
+		"description": "All data subjects enjoy the following rights with regard to data relating to them: [...] - a right of correction; - a right of deletion (unless the data are required for service provision, or necessary to enable Carrefour to comply with its legal obligations or to establish or exercise its rights)",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		]
+	},
+	"rightToDataPortability": {
+		"available": true,
+		"description": "You also enjoy: [...] a right to portability of the data provided; ",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		]
+	},
+	"rightToWithdrawConsent": {
+		"available": true,
+		"description": "You may also withdraw your consent at any time, whenever your consent has been requested (withdrawal of consent will not affect the lawfulness of the processing carried out prior to the withdrawal of your consent).",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		]
+	},
+	"rightToComplain": {
+		"available": true,
+		"description": "8.4 Lodging a complaint Where, after having contacted us, that your rights over you data have not been respected, you may send a complaint to the National Commission on Information Technology and Liberties (CNIL), the French Data Protection Authority. ",
+		"email": "direction_communication_groupe@carrefour.com",
+		"identificationEvidences": [
+			"any appropriate means"
+		],
+		"supervisoryAuthority": {
+			"name": "National Commission on Information Technology and Liberties",
+			"address": "3 place de Fontenoy - TSA 80715 – 75334 Paris cedex 07",
+			"country": "FR",
+			"phone": "01 53 73 22 22"
+		}
+	},
+	"automatedDecisionMaking": {
+		"inUse": false
+	},
+	"changesOfPurpose": [
+		{
+			"description": "It may be subject to change depending on the applicable legal and regulatory framework."
+		}
+	]
+}
