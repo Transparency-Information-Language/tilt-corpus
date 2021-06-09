@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "_id": "8e025a32-6b87-4bf6-9d72-3e951a291477",
+    "name": "YouPorn",
+    "created": "2021-04-20T15:53:05.929588",
+    "modified": "2021-04-20T15:53:05.929588",
+    "version": 2,
+    "language": "en",
+    "status": "active",
+    "url": "https://www.youporn.com/information/#privacy",
+    "_hash": ""
+  },
+  "controller": {
+    "name": "MG Freesites Ltd",
+    "division": "Information Technology Services",
+    "address": "Block 1, Dali Industrial Area, 195-197 Old Road Nicosia-Limassol Dali , 2540 Cyprus",
+    "country": "CY",
+    "representative": {
+      "name": "Andreas Alkiviades Andreou",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "dataProtectionOfficer": {
+    "name": "",
+    "address": "",
+    "country": "",
+    "email": "",
+    "phone": ""
+  },
+  "dataDisclosed": [
+    {
+      "_id": "8e025a32-6b87-4bf6-9d72-3e951a291477",
+      "category": "Cookie Identifiers",
+      "purposes": [
+        {
+          "purpose": "Usage Analysis",
+          "description": "Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "",
+          "description": ""
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": null,
+          "reasoning": ""
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Alphabet Inc.",
+          "division": "Google Analytics",
+          "address": "Gordon House Barrow Street Dublin 4, D04E5W5 Ireland",
+          "country": "Ireland",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cookie"
+        },
+        {
+          "name": "Alphabet Inc.",
+          "division": "DoubleClick Inc.",
+          "address": "111 8th Avenue New York, NY 10011 United States",
+          "country": "United States",
+          "representative": {
+            "name": "",
+            "email": "",
+            "phone": ""
+          },
+          "category": "Cookie"
+        }
+      ],
+      "storage": [
+        {
+          "temporal": [
+            {
+              "description": "",
+              "ttl": ""
+            },
+            {
+              "description": "",
+              "ttl": ""
+            }
+          ],
+          "purposeConditional": [
+            ""
+          ],
+          "legalBasisConditional": [
+            ""
+          ],
+          "aggregationFunction": ""
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null,
+        "consequences": ""
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "",
+      "adequacyDecision": {
+        "available": null,
+        "description": ""
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": ""
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": ""
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": ""
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": ""
+    },
+    "dataFormats": [
+      "",
+      ""
+    ]
+  },
+  "sources": [
+    {
+      "_id": "",
+      "dataCategory": "",
+      "sources": [
+        {
+          "description": "",
+          "url": "",
+          "publiclyAvailable": null
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ]
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      ""
+    ]
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": "",
+    "url": "",
+    "email": "",
+    "identificationEvidences": [
+      "",
+      ""
+    ],
+    "supervisoryAuthority": {
+      "name": "",
+      "address": "",
+      "country": "",
+      "email": "",
+      "phone": ""
+    }
+  },
+  "automatedDecisionMaking": {
+    "inUse": null,
+    "logicInvolved": "",
+    "scopeAndIntendedEffects": ""
+  },
+  "changesOfPurpose": [
+    {
+      "description": "",
+      "affectedDataCategories": [
+        "",
+        ""
+      ],
+      "plannedDateOfChange": "",
+      "urlOfNewVersion": ""
+    }
+  ]
+}
