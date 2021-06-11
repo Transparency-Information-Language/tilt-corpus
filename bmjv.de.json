@@ -164,6 +164,8 @@
               "ttl": "P1M"
             }
           ],
+          "purposeConditional": [],
+          "legalBasisConditional" : [],
           "aggregationFunction": "max"
         }
       ],
@@ -209,6 +211,7 @@
             }
           ],
           "purposeConditional": [],
+          "legalBasisConditional" : [],
           "aggregationFunction": "max"
         }
       ],
