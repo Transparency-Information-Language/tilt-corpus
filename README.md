@@ -3,6 +3,7 @@ A corpus of GDPR machine-readable transparency information powered by the [Trans
 
 ## Useful tools
 - https://www.jsonschemavalidator.net/ to see if there are any broken or missing fields. simply copy the tilt-schema (see below) to the left-hand side and fill your tilt on the right until there are no more errors
+- for having a nice UI to build things: https://rjsf-team.github.io/react-jsonschema-form/
 - https://emn178.github.io/online-tools/sha256.html to create a SHA256 hash
 - https://www.uuidgenerator.net/version4 to create UUIDv4s
 - https://transparency-information-language.github.io/schema/index.html for interactive documentation on TILT
