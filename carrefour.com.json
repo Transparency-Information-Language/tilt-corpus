@@ -132,6 +132,7 @@
 						"permanent cookies which remain on your terminal equipment until they expire or until you delete them using your browser’s functionalities.",
 						"The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -185,6 +186,7 @@
 						"permanent cookies which remain on your terminal equipment until they expire or until you delete them using your browser’s functionalities.",
 						"The data of personal nature collected using cookies will not be retained for longer than is necessary to fulfi l the designated purpose of the cookies concerned, and in any event nolonger than thirteen months."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],

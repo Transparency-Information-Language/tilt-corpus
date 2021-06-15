@@ -54,6 +54,7 @@
 					"purposeConditional": [
 						"Es handelt sich hierbei um Session-Cookies"
 					],
+          			"legalBasisConditional" : [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -276,7 +277,14 @@
 					"category": "IT-Dienstleister Datenerhebung und Testauswertung"
 				}
 			],
-			"storage": [],
+			"storage": [
+				{
+					"temporal": [],
+					"purposeConditional": [],
+          			"legalBasisConditional" : [],
+         			"aggregationFunction": "max"
+				}
+			],
 			"nonDisclosure": {
 				"legalRequirement": false,
 				"contractualRegulation": false,
@@ -318,6 +326,7 @@
 						"Wird Ihr Newsletter-Abonnement nicht innerhalb von 2 Wochen nach Anforderung der Bestätigungsmail bestätigt, werden Ihre bereitgestellten personenbezogenen Daten nicht verarbeitet, sondern automatisch gelöscht",
 						"Nach Abmeldung werden Ihre Anmeldedaten gelöscht."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -369,6 +378,7 @@
 						"Weiterhin speichern wir die von Ihnen angegebenen freiwilligen Daten für die Zeit Ihrer Nutzung des Portals, soweit Sie diese nicht zuvor löschen",
 						"Falls Ihre diesbezügliche Bestätigung nicht innerhalb von 1 Tag erfolgt, werden die von Ihnen angegebenen personenbezogenen Daten automatisch aus unserer Datenbank gelöscht."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -587,7 +597,16 @@
 					"category": "Kontrollpersonal"
 				}
 			],
-			"storage": [],
+			"storage": [
+				{
+					"temporal": [],
+					"purposeConditional": [],
+          			"legalBasisConditional" : [],
+          			"aggregationFunction": "max"
+				}
+				
+
+			],
 			"nonDisclosure": {
 				"legalRequirement": false,
 				"contractualRegulation": false,
@@ -631,6 +650,7 @@
 					"purposeConditional": [
 						"Die Daten werden zwei Jahre nach dem letzten einschlägigen Vorfall, frühestens aber mit der Abwicklung des Vorgangs – in Ihrem Fall des Zahlungseingangs – gelöscht bzw. gesperrt."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -738,6 +758,7 @@
 					"purposeConditional": [
 						"Grundsätzlich werden die personenbezogenen Daten nur so lange gespeichert, wie sie für die Marktforschung, also die Sammlung der Daten, und die Auswertung notwendig sind. Danach werden die Daten gelöscht."
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
@@ -792,6 +813,7 @@
 					"purposeConditional": [
 						"Wenn sich an den jeweiligen Cookies oder sonstigen Anwendungen, in die Sie eingewilligt haben, Änderungen ergeben, die auch Änderungen in der Verarbeitung Ihrer Daten nach sich ziehen können, oder spätestens ein Jahr nach der letzten Verarbeitung Ihrer Nutzereinstellungen erfolgt eine erneute Abfrage der Einwilligung"
 					],
+					"legalBasisConditional": [],
 					"aggregationFunction": "min"
 				}
 			],
@@ -1221,6 +1243,8 @@
 							"ttl": "P2Y"
 						}
 					],
+					"purposeConditional": [],
+					"legalBasisConditional": [],
 					"aggregationFunction": "max"
 				}
 			],
