@@ -242,7 +242,7 @@
 			"description": "In connection with the right of access, Carrefour may request that you pay reasonablecharges based on the administrative costs for any additional copy of the data to thatprovided.",
 			"amount": 0,
 			"currency": "EUR"
-		},
+		}
 	},
 	"sources": [
 		{
