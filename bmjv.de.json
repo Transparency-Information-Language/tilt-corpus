@@ -175,7 +175,8 @@
         "obligationToProvide": false,
         "consequences": "Bei der Registrierung werden Ihre Daten auf unserem Server gespeichert und eine Bestätigungsnachricht mit einem Link zur endgültigen Registrierung an die von Ihnen angegebene E-Mail Adresse generiert. Soweit Sie die Registrierung nicht durch den Link in dieser E-Mail bestätigen, werden die Daten nach 24 Stunden gelöscht. Im Übrigen werden Ihre Daten bei Abbestellung des Newsletters unmittelbar gelöscht."
       },
-      "_id": "e8c06b82-a5fd-4513-b5f9-7bb318ae4863"
+      "_id": "e8c06b82-a5fd-4513-b5f9-7bb318ae4863",
+      "category": ""
     },
     {
       "purposes": [
@@ -220,6 +221,7 @@
         "obligationToProvide": false,
         "consequences": ""
       },
+      "category": "",
       "_id": "db28f111-f3d1-4523-8465-690c8979c76f",
       "legitimateInterests": []
     },
@@ -251,6 +253,7 @@
         "consequences": ""
       },
       "_id": "7da43e44-9ce7-4d75-8e37-5bc35f0882bd",
+      "category": "",
       "legitimateInterests": [],
       "recipients": [],
       "storage": []
