@@ -1,0 +1,289 @@
+{
+    "meta": {
+        "_id": "70032530-fe1a-41b1-9b77-d250025252c9",
+        "name": "ARD Mediathek",
+        "created": "2021-07-17T10:28:28.647078",
+        "modified": "2021-07-17T10:28:28.647097",
+        "version": 1,
+        "language": "de",
+        "status": "active",
+        "url": "https://www.ardmediathek.de/datenschutz/",
+        "_hash": "38fffdffae5f7900edc9cf0d49f507f0da6407a66d2a2a100e2fcfaa61f84435"
+    },
+    "controller": {
+        "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland",
+        "country": "DE",
+        "address": "Neckarstra\u00dfe 230\n70190 Stuttgart",
+        "division": "Südwestrundfunk (SWR)",
+        "representative": {
+            "name": "Prof. Dr. Kai Gniffke",
+            "email": "datenschutz@swr.de"
+        }
+    },
+    "dataProtectionOfficer": {
+        "email": "datenschutz@swr.de",
+        "country": "DE",
+        "name": "Prof. Dr. Armin Herb",
+        "address": "Neckarstra\u00dfe 230\n70190 Stuttgart"
+    },
+    "dataDisclosed": [
+        {
+            "_id": "454308c8-6860-464b-9881-7e6449bb73ba",
+            "category": "Cookies",
+            "purposes": [
+                {
+                    "purpose": "Komfortablerer Zugriff auf unsere Angebote",
+                    "description": ""
+                }
+            ],
+            "legalBases": [],
+            "legitimateInterests": [
+                {
+                    "reasoning": "Bei ARD Online werden aus technischen Gr\u00fcnden sogenannte Cookies eingesetzt, um Ihnen einen komfortableren Zugriff auf unsere Angebote zu erm\u00f6glichen.",
+                    "exists": true
+                }
+            ],
+            "recipients": [],
+            "storage": [
+                {
+                    "purposeConditional": [],
+                    "legalBasisConditional": [],
+                    "temporal": [],
+                    "aggregationFunction": "max"
+                }
+            ],
+            "nonDisclosure": {
+                "consequences": "Wenn Sie nicht m\u00f6chten, dass wir Ihren Computer wiedererkennen, k\u00f6nnen Sie in Ihrem Browser das Speichern von Cookies deaktivieren. Auf vielen TV-Ger\u00e4ten k\u00f6nnen die Cookies im Einstellungsmen\u00fc des Herstellers deaktiviert werden. Unsere Angebote k\u00f6nnen auch ohne Cookies genutzt werden.",
+                "legalRequirement": false,
+                "contractualRegulation": true,
+                "obligationToProvide": false
+            }
+        },
+        {
+            "_id": "73a5daf3-eda8-4e45-bf5d-ff26fac0f9c9",
+            "category": "Z\u00e4hlpixel",
+            "purposes": [
+                {
+                    "purpose": "statistische Zwecke",
+                    "description": "um die Zugriffe auf unsere Angebote messen und unsere Angebote optimieren zu k\u00f6nnen"
+                }
+            ],
+            "legalBases": [
+                {
+                    "reference": "GDPR-6-1a",
+                    "description": "Diese Messung erfolgt vollst\u00e4ndig anonym, sofern nicht eine Nutzerin oder ein Nutzer Mitglied des von der GfK f\u00fcr die AGF betriebenen Fernsehforschungspanels ist. Nur deren Nutzung kann identifiziert und den Panelmitgliedern zugeordnet werden. Diese haben im Rahmen ihrer Panelteilnahme in die Verarbeitung ihrer personenbezogenen Daten eingewilligt."
+                }
+            ],
+            "legitimateInterests": [
+                {
+                    "reasoning": "",
+                    "exists": true
+                }
+            ],
+            "recipients": [
+                {
+                    "name": "INFOnline",
+                    "country": "DE",
+                    "category": "Reichweitenmessung"
+                },
+                {
+                    "name": " GfK",
+                    "country": "DE",
+                    "category": "Reichweitenmessung"
+                },
+                {
+                    "name": "SurveyMonkey",
+                    "category": "Umfragen"
+                },
+                {
+                    "name": "Zlyde",
+                    "category": "Angebotsoptimierung"
+                },
+                {
+                    "name": "Rock Content",
+                    "category": "Liveblogs"
+                },
+                {
+                    "name": "OneSignal",
+                    "category": "Pushmeldungen"
+                },
+                {
+                    "name": "Bunchbox GmbH",
+                    "category": "Analyse des Nutzerverhalten"
+                },
+                {
+                    "name": "Adjust",
+                    "category": "Werbekampagnen im Internet und insbesondere in sozialen Netzwerken"
+                },
+                {
+                    "name": "Google",
+                    "category": "Angebotsoptimierung"
+                },
+                {
+                    "name": "Facebook, Instagram, Twitter und YouTube",
+                    "category": "Sozialen Netzwerke"
+                },
+                {
+                    "name": "AT Internet",
+                    "category": "Reichweitenmessung"
+                }
+            ],
+            "storage": [
+                {
+                    "purposeConditional": [],
+                    "legalBasisConditional": [],
+                    "temporal": [
+                        {
+                            "description": "Auch für die von ARD Online eingesetzten Messverfahren werden Cookies mit zwölf Monaten Lebensdauer gesetzt. Wenn Sie dem Einsatz dieser Messverfahren widersprechen, wird ein Cookie mit einer Lebensdauer von zehn Jahren gesetzt, um die Datenverwendung zu verhindern. Mehr dazu erfahren Sie im folgenden Absatz über Zählpixel.",
+                            "ttl": "P12M"
+                        }
+                    ],
+                    "aggregationFunction": "max"
+                }
+            ],
+            "nonDisclosure": {
+                "consequences": "",
+                "legalRequirement": false,
+                "contractualRegulation": true,
+                "obligationToProvide": false
+            }
+        },
+        {
+            "_id": "71d8d45b-c609-466c-a242-c071ea16aa31",
+            "category": "E-Mail-Adresse",
+            "purposes": [
+                {
+                    "purpose": "um Ihnen den jeweiligen Newsletter schicken zu k\u00f6nnen",
+                    "description": "Diese Dienste erm\u00f6glicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren."
+                }
+            ],
+            "legalBases": [
+                {
+                    "reference": "GDPR-6-1a",
+                    "description": "Einwilligung"
+                }
+            ],
+            "legitimateInterests": [
+                {
+                    "exists": false
+                }
+            ],
+            "recipients": [
+                {
+                    "name": "CleverReach",
+                    "country": "DE",
+                    "category": "Newsletter"
+                },
+                {
+                    "name": "Rapidmail",
+                    "category": "Newsletter"
+                }
+            ],
+            "storage": [
+                {
+                    "purposeConditional": [
+                        "Wenn Sie keine Analyse durch CleverReach bzw. Rapidmail wollen, müssen Sie den jeweiligen Newsletter abbestellen."
+                    ],
+                    "legalBasisConditional": [],
+                    "temporal": [],
+                    "aggregationFunction": "min"
+                }
+            ],
+            "nonDisclosure": {
+                "consequences": "",
+                "legalRequirement": false,
+                "contractualRegulation": false,
+                "obligationToProvide": false
+            }
+        },
+        {
+            "_id": "20dd3b72-a998-46a9-bfd2-d1cde37dd333",
+            "category": "Name, Geburtsjahr, Bundesland und Herkunftsland",
+            "purposes": [
+                {
+                    "purpose": "erh\u00f6hen aber die Qualit\u00e4t der Empfehlungen unserer Produkte",
+                    "description": "Nach erfolgreicher Registrierung werden Ihre Nutzungsdaten mit Ihrem Profil verkn\u00fcpft und gespeichert."
+                }
+            ],
+            "legalBases": [
+                {
+                    "reference": "GDPR-6-1a",
+                    "description": "um Ihnen die von Ihnen ausgew\u00e4hlten Angebote von ARD Online zur Verf\u00fcgung stellen zu k\u00f6nnen."
+                }
+            ],
+            "legitimateInterests": [
+                {
+                    "reasoning": "um Ihnen die von Ihnen ausgew\u00e4hlten Angebote von ARD Online zur Verf\u00fcgung stellen zu k\u00f6nnen.",
+                    "exists": true
+                }
+            ],
+            "recipients": [],
+            "storage": [
+                {
+                    "purposeConditional": [],
+                    "legalBasisConditional": [],
+                    "temporal": [
+                        {
+                            "description": "Sollten Sie Ihren Zugang länger als sechs Monate nicht mehr nutzen, senden wir Ihnen zunächst eine Erinnerungsmail an die bei der Registrierung angegebene E-Mail-Adresse. Sollten Sie sich innerhalb eines Monats nicht erneut einloggen, werden alle Daten Ihres Profils gelöscht.",
+                            "ttl": "P6M"
+                        }
+                    ],
+                    "aggregationFunction": "max"
+                }
+            ],
+            "nonDisclosure": {
+                "consequences": "",
+                "legalRequirement": false,
+                "contractualRegulation": false,
+                "obligationToProvide": false
+            }
+        }
+    ],
+    "thirdCountryTransfers": [],
+    "accessAndDataPortability": {
+        "available": false
+    },
+    "sources": [],
+    "rightToInformation": {
+        "available": true,
+        "description": "Sie k\u00f6nnen Ihre pers\u00f6nlichen Daten einsehen",
+        "email": "datenschutz@swr.de",
+        "identificationEvidences": [
+            "Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten \u00fcbermittelt haben. Der Datenschutzbeauftragte steht Ihnen auch f\u00fcr weitere Fragen zur Verarbeitung ihrer pers\u00f6nlichen Daten durch ARD.de, die ARD Mediathek oder die ARD Audiothek, zum Datenschutz im Bereich des Rundfunks, einschlie\u00dflich des Datenschutzes des Rundfunkbeitrags und des Beitragsservice zur Verf\u00fcgung."
+        ]
+    },
+    "rightToRectificationOrDeletion": {
+        "available": true,
+        "description": "Sie k\u00f6nnen Ihre pers\u00f6nlichen Daten einsehen, \u00e4ndern oder daraus pers\u00f6nliche Daten entfernen.",
+        "email": "datenschutz@swr.de",
+        "identificationEvidences": [
+            "Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten \u00fcbermittelt haben."
+        ]
+    },
+    "rightToDataPortability": {
+        "available": false
+    },
+    "rightToWithdrawConsent": {
+        "available": true,
+        "description": "Sie haben jederzeit die M\u00f6glichkeit, der anonymen Erfassung Ihrer Nutzungsvorg\u00e4nge durch diese externen Dienste zu widersprechen",
+        "email": "datenschutz@swr.de",
+        "identificationEvidences": []
+    },
+    "rightToComplain": {
+        "available": true,
+        "description": "Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten durch ARD Online in Ihren schutzw\u00fcrdigen Interessen verletzt sind, steht Ihnen das Recht auf Beschwerde bei der datenschutzrechtlichen Aufsichtsbeh\u00f6rde zu.",
+        "url": "https://www.swr.de/unternehmen/datenschutz",
+        "email": "datenschutz@swr.de",
+        "identificationEvidences": [],
+        "supervisoryAuthority": {
+            "name": "Prof. Dr. Armin Herb",
+            "address": "Neckarstra\u00dfe 230\n70190 Stuttgart",
+            "country": "DE",
+            "email": "datenschutz@swr.de",
+        }
+    },
+    "automatedDecisionMaking": {
+        "inUse": false
+    },
+    "changesOfPurpose": []
+}
