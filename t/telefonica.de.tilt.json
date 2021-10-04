@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "_id": "2baca7b7-15da-46c2-89de-5f026a0955e7",
+    "name": "telefonica",
+    "created": "2021-06-21T12:21:52.725732",
+    "modified": "2021-06-21T12:21:52.725751",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.telefonica.de/unternehmen/datenschutz/datenschutz-auf-dem-portal.html",
+    "_hash": "9972abdc06bbfc94d92357b934302eac093eb7057a14b9a44c9b0a679a2e902f"
+  },
+  "controller": {
+    "name": "Telef\u00f3nica Germany GmbH &amp;amp; Co. OHG",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "31ce6f7f-8af6-4606-9482-626914db84cf",
+      "category": "Ihre IP-Adresse wird vor der Speicherung des Nutzungsverhaltens anonymisiert (L\u00f6schung der letzten beiden Oktette). Das Surf-Verhalten kann nicht auf eine Person zur\u00fcckverfolgt werden.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "63b18374-de57-46b1-bff3-2484a512518c",
+      "category": "Die angeforderte Website-URL sowie die Website, von der aus die Datei angefordert wurde, die gespeicherten Cookies des Besuchers f\u00fcr die aufgerufene Domain, der Status des Zugriffs (Datei \u00fcbertragen, Datei nicht gefunden, etc.), Datum, Uhrzeit und Dauer des Abrufs, \u00fcbertragene Datenmenge im Rahmen der Verbindung, Typ und Version des verwendeten Browsers, verwendete Sprache, Name des Internet Service Providers und Ihre IP-Adresse . Ihre IP-Adresse wird dabei anonymisiert, um das letzte Oktett gek\u00fcrzt, gespeichert. Ohne die Bereitstellung dieser Daten k\u00f6nnen wir Ihnen unsere Website nicht zur Verf\u00fcgung stellen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Sie haben das Recht auf Beschwerde bei einer Aufsichtsbeh\u00f6rde (Art. 77 DS-GVO). ",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Diese Datenschutzerkl\u00e4rung kann jederzeit unter dem Link \u201eDatenschutz\u201c abgerufen und ausgedruckt werden. Da Gesetzes\u00e4nderungen oder \u00c4nderungen unserer unternehmensinternen Prozesse eine Anpassung dieser Datenschutzerkl\u00e4rung erforderlich machen k\u00f6nnen, die wir uns entsprechend vorbehalten, bitten wir Sie, diese Datenschutzerkl\u00e4rung regelm\u00e4\u00dfig abzurufen.\nII. Besuch unserer Website\nWir m\u00f6chten Sie im Folgenden dar\u00fcber informieren, welche personenbezogenen Daten wir im Rahmen Ihres Besuchs unserer Website www.telefonica.de verarbeiten.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

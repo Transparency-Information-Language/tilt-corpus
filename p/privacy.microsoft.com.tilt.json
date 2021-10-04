@@ -1,0 +1,1338 @@
+{
+  "meta": {
+    "_id": "3df02dee-d728-4fc3-bb57-752a82419561",
+    "name": "Microsoft",
+    "created": "2021-07-21T13:38:51.194677",
+    "modified": "2021-07-21T13:38:51.194700",
+    "version": 1,
+    "language": "en",
+    "status": "active",
+    "url": "https://privacy.microsoft.com/en-us/privacystatement",
+    "_hash": "8b7d0ec9a508e16589037ff7e749f04054afff7bfd992285c574aa88575aa3c1"
+  },
+  "controller": {
+    "name": "Microsoft Corporation",
+    "country": "USA",
+    "address": "One Microsoft Way, Redmond, Washington 98052, USA",
+    "division": "software",
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "04a38f99-19bf-47d7-91ed-275cfae5d2da",
+      "category": "first and last name",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "69c55ba7-97a3-4588-b424-cd55020abb93",
+      "category": "email address,",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a32ae1cf-a96d-4687-9832-3b609bec5d1a",
+      "category": "postal address",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e24bdbf0-f7cb-405d-9bc7-31df8a9dedb8",
+      "category": " phone number",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c3460c19-f78f-4a53-b611-afea7fe015f4",
+      "category": "Passwords",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "471f13be-4cda-4869-8db9-3c0651fdceac",
+      "category": "password hints",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4c9bb9d4-c818-4773-88e5-476cf9a07e1d",
+      "category": " security information used for authentication and account access",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "200817a8-aaed-4742-9c93-f73dca41be8b",
+      "category": "age",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "447b10ca-c132-4d53-aab6-9e10c2e89569",
+      "category": "gender",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "2461221d-8a65-421f-b3e8-0c1549acb8ce",
+      "category": "country",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3a591fea-4d8a-4e24-a94b-bcd030d52af6",
+      "category": " preferred language",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7023b12a-fc6e-41b3-be40-ea054f3e8f37",
+      "category": "Payment data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "ac6e0729-e9cd-4a57-be62-393fda24aa97",
+      "category": "Data to process payments",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "9d6a47e0-c1be-4383-8dc0-b3c5e4482b8e",
+      "category": "Subscription and licensing data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "872f56bd-c6b9-471d-b7f9-9a1316a017e0",
+      "category": "use of Microsoft products",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4b34df25-0b0f-43c0-8980-50b3df799471",
+      "category": "Device and usage data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "342d7c03-8db3-4c03-a9c2-4b7272214852",
+      "category": "Payment and account history.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4255de2e-6aed-4bc9-9ec2-57b029ffa81d",
+      "category": "Browse histor",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e811f708-c53c-44fd-9340-0baa16fb6958",
+      "category": "Device, connectivity, and configuration data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e762e2b8-4171-4183-8175-7f7a00eec533",
+      "category": "Communications, including audio, video, text (typed, inked, dictated, or otherwise), in a message, email, call, meeting request, or chat.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4c2ac1db-31b9-4802-a20c-981c77a2fec4",
+      "category": "Photos, images, songs, movies, software, and other media or documents you store, retrieve, or otherwise process with our cloud.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7edc2522-5e71-4f40-95b9-b004621bf962",
+      "category": "Video or recordings. Recordings of events and activities at Microsoft buildings, retail spaces, and other locations. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "96fe090b-1e71-441d-83dd-99fe2918c4f4",
+      "category": "Data about your device, your device configuration, and nearby networks",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "64199a1d-3406-4aca-b5b2-ce9635cd0c9d",
+      "category": "Troubleshooting and help data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "bc9675db-5c69-43c8-a91f-bd95efec8db0",
+      "category": "Content consumption data",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "access",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": "15a92329-c84c-4926-9a21-0af0993fc352",
+      "dataCategory": "We also obtain data from third parties",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "fbc3da13-1a6a-46d7-a325-c38ece0d295e",
+      "dataCategory": "Data brokers from which we purchase demographic data to supplement the data we collect",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "9a3f6a65-2828-46b5-80a1-8110d0abc33d",
+      "dataCategory": "Services that make user-generated content from their service available to others, such as local business reviews or public social media posts",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "23ada863-1d4a-4ab0-b8ea-575287ab4f73",
+      "dataCategory": "Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "00de555a-812b-4898-8a36-3fbcc78beabd",
+      "dataCategory": "Service providers that help us determine your device\u2019s location.\nPartners with which we offer co-branded services or engage in joint marketing activities",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "c356aef1-87c5-4be7-87a8-e2c09e1c74f1",
+      "dataCategory": "Developers who create experiences through or for Microsoft products",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "bc7ac8a5-d92c-43a9-a3ea-08bb3d81c6dc",
+      "dataCategory": "Third parties that deliver experiences through Microsoft products.\nPublicly-available sources, such as open government databases.\nIf you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "You can",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": " exercise your data protection rights",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "control",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "your",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "personal",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "data",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

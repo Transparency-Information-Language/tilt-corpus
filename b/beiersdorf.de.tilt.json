@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "_id": "06869192-f96a-4e46-a581-41f441f4d901",
+    "name": "beiersdorf",
+    "created": "2021-06-21T12:21:52.270612",
+    "modified": "2021-06-21T12:21:52.270632",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.beiersdorf.de/meta-pages/datenschutzerklaerung",
+    "_hash": "58ee7a39b9cd4d050d48bd49665bf50d0273e66d2ffdcbd4f382d323c27762c4"
+  },
+  "controller": {
+    "name": "Beiersdorf AG",
+    "country": "Germany",
+    "address": "Unnastrasse 48; 20245 Hamburg",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "Dataprotection[at]beiersdorf.com",
+    "phone": null,
+    "country": "Germany",
+    "name": null,
+    "address": "Unnastrasse 48; 20245 Hamburg"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "d28f9eb2-38f5-4ebc-aa57-b0b04836671e",
+      "category": "ERHEBUNG UND VERARBEITUNG PERSONENBEZOGENER DATEN BEI BESUCH UNSERER WEBSITE",
+      "purposes": [
+        {
+          "purpose": "f\u00fcr die Darstellung unserer Website und die Gew\u00e4hrleistung von Stabilit\u00e4t und Sicherheit technisch notwendig",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Wir geben die erhobenen Daten an die zust\u00e4ndigen internen Abteilungen und an andere verbundene Unternehmen des Beiersdorf Konzerns oder an externe Dienstleister, Auftragnehmer (z.B. Hosting, Content Management System) zur Bearbeitung entsprechend den erforderlichen Zwecken (zur Darstellung der Website und zur Erstellung der Inhalte) weiter.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Die L\u00f6schung der Logfiles erfolgt nach 7 Tagen"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "274890f7-0023-4fb8-8d3c-10a616aa1340",
+      "category": "Cookies",
+      "purposes": [
+        {
+          "purpose": "um Ihnen die Webseite gem\u00e4\u00df Ihren Pr\u00e4ferenzen optimal gestalten und anzeigen zu k\u00f6nnen",
+          "description": null
+        },
+        {
+          "purpose": "Technische Cookies gew\u00e4hrleisten Funktionen, ohne die Sie unsere Webseiten nicht wie vorgesehen nutzen k\u00f6nnen. Diese Cookies werden ausschlie\u00dflich von uns verwendet und sind deshalb First Party Cookies. Das bedeutet, dass s\u00e4mtliche Informationen, die in den Cookies gespeichert sind, an unsere Webseite zur\u00fcckgespielt werden.",
+          "description": null
+        },
+        {
+          "purpose": "Funktionale Cookies erm\u00f6glichen unserer Webseite, bereits get\u00e4tigte Angaben (wie z.B. registrierter Name oder Sprachauswahl) zu speichern und Ihnen darauf basierend verbesserte und pers\u00f6nlichere Funktionen anzubieten. Diese Cookies sammeln und speichern ausschlie\u00dflich pseudonymisierte Informationen, sodass diese nicht Ihre Bewegungen auf anderen Webseiten verfolgen k\u00f6nnen.",
+          "description": null
+        },
+        {
+          "purpose": "Performance Cookies sammeln Informationen dar\u00fcber, wie unsere Webseiten genutzt werden, um folglich deren Attraktivit\u00e4t, Inhalt und Funktionalit\u00e4t zu verbessern",
+          "description": null
+        },
+        {
+          "purpose": "Marketing Cookies stammen von externen Unternehmen (Third Party Cookies) und werden verwendet, um webseiten\u00fcbergreifend Informationen \u00fcber die vom Benutzer besuchten Websites zu sammeln, um zielgruppenorientierte Werbung f\u00fcr den Benutzer zu erstellen",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Diese Cookies helfen uns beispielsweise zu bestimmen, ob und welche Unterseiten unserer Webseite besucht werden und f\u00fcr welche Inhalte sich die Nutzer besonders interessieren",
+          "exists": true
+        },
+        {
+          "reasoning": "Diese erm\u00f6glichen personalisierte Online-Anzeigen und erweiterte Analyse- und Auswertungsm\u00f6glichkeiten \u00fcber die Zielgruppe und das Nutzerverhalten.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": " Bei Ihrem n\u00e4chsten Aufruf unserer Webseite mit demselben Endger\u00e4t werden die in Cookies gespeicherten Informationen in weiterer Folge entweder an unsere Webseite (\u201eFirst Party Cookie\u201c) oder an eine andere Webseite, zu der das Cookie geh\u00f6rt (\u201eThird Party Cookie\u201c), zur\u00fcckgesandt.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Dar\u00fcber hinaus k\u00f6nnen Sie Ihren Internet-Browser so einstellen, dass das Speichern von Cookies generell auf Ihrem Endger\u00e4t verhindert wird bzw. Sie jedes Mal gefragt werden, ob Sie mit dem Setzen von Cookies einverstanden sind. Einmal gesetzte Cookies k\u00f6nnen Sie auch jederzeit wieder l\u00f6schen. Wie all dies im Einzelnen funktioniert, finden Sie in der Hilfe-Funktion Ihres Browsers"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "de4ef8bd-4afc-458b-85ba-8f4a3c511c7d",
+      "category": "Web Analyse",
+      "purposes": [
+        {
+          "purpose": "Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Ireland Limited (\u201eGoogle\u201c). Die Konfiguration von Google Analytics wurde von uns so angepasst, dass nur die Webseitenanalysefunktion verwendet wird, sofern keine gesonderte Zustimmung f\u00fcr die Werbefunktionen erteilt wurde.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelm\u00e4\u00dfig verbessern zu k\u00f6nnen. \u00dcber die gewonnenen Statistiken k\u00f6nnen wir unser Angebot verbessern und f\u00fcr Sie als Nutzer interessanter ausgestalten. Zudem erhalten wir dar\u00fcber Informationen \u00fcber die Funktionsf\u00e4higkeit unserer Seite (zum Beispiel zur Erkennung von Navigationsproblemen).",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Die durch das Cookie erzeugten Informationen \u00fcber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA \u00fcbertragen und dort gespeichert",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Informationen des Drittanbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436\u20091001. Nutzerbedingungen: http://www.google.com/analytics/terms/de.html, \u00dcbersicht zum Datenschutz: http://www.google.com/intl/de/analytics/learn/privacy.html, sowie die Datenschutzerkl\u00e4rung: http://www.google.de/intl/de/policies/privacy. F\u00fcr die Ausnahmef\u00e4lle, in denen personenbezogene Daten in die USA \u00fcbertragen werden, hat Google Standardvertragsklauseln gem. Art. 46 DSGVO abgeschlossen. Weitere Informationen dazu befinden sich hier: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_de.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Lebensdauer der Cookies: bis zu 12 Monate (dies gilt nur f\u00fcr Cookies, die \u00fcber diese Webseite gesetzt wurden).\n\nSpeicherdauer: bis zu 26 Monate"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "eebd01b9-11f6-4567-8830-bf41da7abfd9",
+      "category": "Social Plugins",
+      "purposes": [
+        {
+          "purpose": "Der Plug-in-Anbieter speichert die \u00fcber Sie erhobenen Daten als Nutzungsprofile und nutzt diese f\u00fcr Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (auch f\u00fcr nicht eingeloggte Nutzer) zur Darstellung von bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks \u00fcber Ihre Aktivit\u00e4ten auf unserer Website zu informieren",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "\u00dcber die Plug-ins bieten wir Ihnen die M\u00f6glichkeit, mit den sozialen Netzwerken und anderen Nutzern zu interagieren, so dass wir unser Angebot verbessern und f\u00fcr Sie als Nutzer interessanter ausgestalten k\u00f6nnen.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; http://www.facebook.com/policy.php; weitere Informationen zur Datenerhebung: http://www.facebook.com/help/186325668085084, http://www.facebook.com/about/privacy/your-info-on-other#applications sowie http://www.facebook.com/about/privacy/your-info#everyoneinfo.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; https://twitter.com/privacy.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Pinterest Inc., 808 Brannan Street San Francisco, CA 94103, USA, http://about.pinterest.com/privacy/",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Xing AG, G\u00e4nsemarkt 43, 20354 Hamburg, DE; http://www.xing.com/privacy.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "T3N, yeebase media GmbH, Kriegerstr. 40, 30161 Hannover, Deutschland; https://t3n.de/store/page/datenschutz.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; http://www.linkedin.com/legal/privacy-policy",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "b8b6e45f-9a38-4567-bc3b-14adb0cf4dd3",
+      "category": "YouTube-Videos",
+      "purposes": [
+        {
+          "purpose": "YouTube speichert Ihre Daten als Nutzungsprofile und nutzt sie f\u00fcr Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (selbst f\u00fcr nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks \u00fcber Ihre Aktivit\u00e4ten auf unserer Website zu informieren.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "ac35c5d9-c825-4b71-8191-ac258485a9cf",
+      "category": "Online Werbung",
+      "purposes": [
+        {
+          "purpose": "um mit Hilfe von Werbemitteln (sogenannten Google Ads) auf externen Webseiten auf unsere attraktiven Angebote aufmerksam zu machen",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Wir verfolgen damit das Interesse, Ihnen Werbung anzuzeigen, die f\u00fcr Sie von Interesse ist, unsere Website f\u00fcr Sie interessanter zu gestalten und eine faire Berechnung von Werbe-Kosten zu erreichen.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Weitere Informationen zum Datenschutz bei Google finden Sie hier: http://www.google.com/intl/de/policies/privacy und https://services.google.com/sitestats/de.html. Alternativ k\u00f6nnen Sie die Webseite der Network Advertising Initiative (NAI) unter http://www.networkadvertising.org besuchen.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Lebensdauer der Cookies: bis zu 180 Tage (dies gilt nur f\u00fcr Cookies, die \u00fcber diese Webseite gesetzt wurden)."
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e86fe766-5e4e-41b8-b79a-1ca937813b58",
+      "category": "Captchas",
+      "purposes": [
+        {
+          "purpose": " um automatische Programme/ Bots an der Nutzung von Textfeldern zu hindern",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ". Dies erh\u00f6ht die Sicherheit unserer Webseite und vermeidet SPAM f\u00fcr den User. Dies ist zugleich unser berechtigtes Interesse und erf\u00fcllt unsere rechtliche Verpflichtung.",
+          "description": null
+        },
+        {
+          "reference": "Rechtsgrundlagen:",
+          "description": null
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": " Dies erh\u00f6ht die Sicherheit unserer Webseite und vermeidet SPAM f\u00fcr den User. Dies ist zugleich unser berechtigtes Interesse und erf\u00fcllt unsere rechtliche Verpflichtung.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": " Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland \u00fcbermittelt.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "6a0bea4a-468b-411c-9d11-2ced2356fdb5",
+      "category": "Google Maps",
+      "purposes": [
+        {
+          "purpose": " Bei Verwendung der Funktion werden Informationen an Google \u00fcbertragen und f\u00fcr deren Zwecke analysiert. Dies schlie\u00dft in der Regel Ihre IP-Adresse sowie die M\u00f6glichkeit ein, dass diese Informationen auf einen der Server von Google in den USA \u00fcbertragen werden.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Rechtsgrundlage:\nArt. 6 (1) f DSGVO (berechtigtes Interesse)",
+          "description": null
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Wir verwenden Google Maps, um die auf unserer Website angegebenen Standorte leicht zu finden. Dies ist unser berechtigtes Interesse gem\u00e4\u00df Art. 6 (1) f DSGVO.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irland",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Recht auf Auskunft",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [
+      "Bei der Bearbeitung Ihrer Rechte kann es m\u00f6glich sein, dass wir Sie um einen Identit\u00e4tsnachweis bitten."
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Recht auf Berichtigung oder L\u00f6schung",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [
+      "Bei der Bearbeitung Ihrer Rechte kann es m\u00f6glich sein, dass wir Sie um einen Identit\u00e4tsnachweis bitten."
+    ]
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Recht auf Daten\u00fcbertragbarkeit",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [
+      "Bei der Bearbeitung Ihrer Rechte kann es m\u00f6glich sein, dass wir Sie um einen Identit\u00e4tsnachweis bitten."
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Recht auf Widerspruch gegen die Verarbeitung",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [
+      "Bei der Bearbeitung Ihrer Rechte kann es m\u00f6glich sein, dass wir Sie um einen Identit\u00e4tsnachweis bitten."
+    ]
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": " Recht, sich bei einer Datenschutz-Aufsichtsbeh\u00f6rde \u00fcber die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [
+      "Bei der Bearbeitung Ihrer Rechte kann es m\u00f6glich sein, dass wir Sie um einen Identit\u00e4tsnachweis bitten."
+    ],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

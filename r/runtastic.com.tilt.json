@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "_id": "350b53b3-78f4-4b35-b32d-9f3be1eb43d2",
+    "name": "Runtastic",
+    "created": "2021-07-28T15:31:53.108742",
+    "modified": "2021-07-28T15:31:53.108764",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.runtastic.com/de/datenschutz",
+    "_hash": "13025c35f4bcb39bcd779bd8701db77ceb9057da4569b6095b349db12c56569f"
+  },
+  "controller": {
+    "name": "Runtastic GmbH",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "dataprotection@runtastic.com",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "2e1ecd6a-6b27-4d38-9dd6-9f42cca8b311",
+      "category": "KATEGORIEN PERSONENEBEZOGENER DATEN.\nDatenquellen Runtastic verarbeitet personenbezogene Daten die Du und direkt oder indirekt zug\u00e4nglich machst (z.B. indem Du unsere Produkte nutzt), die andere uns zug\u00e4nglich machen (z.B. wenn Du deinen Account mit einer Partner-Platform verkn\u00fcpfst) oder die wir selbst generieren (z.B. deine User-ID). Bitte beachte, dass der genau Umfang der betreffend dich verarbeiteten personenbezogenen Daten davon abh\u00e4ngt, wie Du unsere Produkte nutzt. Es kann daher sein, dass wir nicht in allen Kategorien Daten dich betreffend verarbeiten.\nKategorien personenebezogener Daten die wir von dir erheben oder generieren. Das sind die Kategorien personenbezogener Daten, die wir direkt oder indirekt von dir erheben oder selbst generieren:\nIdentit\u00e4tsdaten - alle Informationen, die dich als individuelle lebende Person identifizieren. Dazu geh\u00f6ren unter anderem: Name (Vorname, Nachname, Initialen), Geburtsdatum, E-Mail Adresse, Geschlecht, Profilbild, User-ID (inklusive deiner adidas Membership ID), Spitzname, Passwort und Rabattcodes, die dir zugeordnet wurden.\nKontaktdaten - alle Informationen, die verwendet werden k\u00f6nnen, um dich zu kontaktieren. Dazu geh\u00f6ren unter anderem: Telefonnummer, Versand- und Rechnungsadresse, E-Mail Adresse, Messenger ID, Social-Media-Handle und andere Kommunikationskan\u00e4le, \u00fcber die Du mit uns in Kontakt getreten bist.\nStandortdaten - alle Informationen, die wir verwenden k\u00f6nnen, um zu wissen oder zu vermuten, wo Du dich befindest, in Echtzeit oder anderweitig. Dazu geh\u00f6ren unter anderem: angegebener Wohnort, aktueller Anmeldestandort (IP-Adresse), Echtzeitinformationen zum Ger\u00e4testandort \u00fcber Ger\u00e4tesensoren und -signale, GPS-Standort (wenn Du diesen mit uns teilst - z. B. \u00fcber die Einstellungen deines Mobilger\u00e4ts) oder Informationen, die uns helfen zu vermuten, wo Du dich befinden k\u00f6nntest, wie z. B. die spezifische Runtastic oder adidas Website, die Du besucht hast oder wenn Du auf einer Social-Media-Seite zu einer Veranstaltung oder einer Website eincheckst, zu der der Standort angegeben ist, sofern dieser mit uns geteilt wird.\nGr\u00f6\u00dfeninformationen - alle Informationen betreffend deine K\u00f6rperma\u00dfe. Dazu geh\u00f6ren unter anderem: Schuhgr\u00f6\u00dfe, Kleidergr\u00f6\u00dfe, Gr\u00f6\u00dfe und Gewicht.\nKaufdaten - alle Informationen die wir verwenden, um deinen Kaufvorgang abzuschlie\u00dfen oder damit verbundene Aufzeichnungen und deine Rechnung zu erstellen. Dazu geh\u00f6ren unter anderem: Zahlungsdienstanbieter, Dauer deiner Runtastic Subscription, Preis, W\u00e4hrung, und Steuer (basierend auf der Angabe des Landes). Wir speichern zwar keine Bank- und Kreditkartendaten und verarbeiten sie auch sonst nicht, nutzen aber eine Zahlung-ID die dir vom jeweiligen Zahlungsdiensteanbieter zugeordnet wird.\nProfil- und Community Informationen - alle Informationen, die Du uns \u00fcber dein Social-Profile und/oder im Zuge der Interaktion mit Communities oder anderen Usern*innen zug\u00e4nglich machst. Dazu geh\u00f6ren unter anderem: Follower Information in der Runtastic Community, Information die Du teilst, wenn Du an Runtastic or adidas Events/Challenges teilnimmst oder Gruppen/Communities beitritts, egal ob als Trainer, Teammitglied, Teilnehmer oder Promoter, Fotos und Videos die Du teilst, Informationen die Du in deinem Biografie-Text bekannt gibst, Teamzugeh\u00f6rigkeiten und -rollen, Interessen, Feedback, \u201cLikes\u201d und Kommentare, Leaderboard-Rankings, Eventteilnahme, Gruppenmitgliedschaften inklusive Rollen und Challenge Teilnahmen inklusive Erfolgen.\nWenn Du uns ausdr\u00fccklich genehmigst, auf dein Telefonbuch zuzugreifen, vergleichen wir die E-Mail-Adressen deiner Kontakte mit den E-Mail-Adressen der registrierten User*innen in der Runtastic Community und zeigen dir eine Liste von Personen an, denen Du vielleicht folgen m\u00f6chtest. Wir speichern diese Informationen nicht.\nSocial Media Informationen - alle Informationen, die wir erhalten wenn Du mit uns \u00fcber Social-Media Kan\u00e4le interagierst. Dazu geh\u00f6ren unter anderem: alle in Social-Media Kan\u00e4len \u00f6ffentlich geteilten Informationen wie Social-Media-Handle, Social-Media Aktivit\u00e4ten und \u00f6ffentliche Postings, \u201cLikes\u201d und andere Reaktionen, Connections, \u00f6ffentliche Fotos oder solche die Du mit uns teilst indem Du sie uns sendest oder indem du uns erw\u00e4hnst oder unseren Social-Media-Beitr\u00e4gen mithilfe von \u201eHandles\u201c oder \u201eHashtags\u201c folgst, sowie Kommentare und Nachrichten die Du \u00f6ffentlich oder Privat mit uns teilst.\nGer\u00e4teinformation - alle Informationen betreffend dein (mobiles) Endger\u00e4t, die durch unsere Apps erfasst werden. Dazu geh\u00f6ren unter anderem: Ger\u00e4te EUI, Ger\u00e4te ID, Ger\u00e4te Fingerabdruck, IP/Wifi Information, Betriebssystem, auf dem Ger\u00e4t gespeicherte Daten wenn Zugriff darauf gew\u00e4hrt wird, Log-Informationen wenn Zugriff darauf gew\u00e4hrt wird, installierte Partner Platform Apps und Ger\u00e4te Typ und Version.\nBrowsing Informationen - alle Informationen betreffend dein Browsing Verhalten. Dazu geh\u00f6ren unter anderem: Browser Name, IP Adresse, Clickstream Data, Datum und Uhrzeit des Besuchs und Verweilzeit auf der Webseite, Pages die Du besucht hast, Links die Du auf unserer Webseite oder in unseren Marketing Messages angeklickt hast, \u00fcbertragenes Datenvolumen, Quell-URL (falls Du \u00fcber eine andere Webseite oder eine Werbeanzeige auf unsere Webseite kamst, Browsersprache und -version sowie add-ons.\nAktivit\u00e4tsdaten - alle Informationen im Zusammenhang mit deinen Fitness Aktivit\u00e4ten, die Du mit unseren Produkten aufzeichnet oder importiert. Dazu geh\u00f6ren unter anderem: Aktivit\u00e4tstyp, Distanz, Dauer, Trainingsplan (Start und Endzeit), Fitness Score, Geschwindigkeit, Fl\u00e4chennutzungsdaten, verbrannte Kalorien, Herzfrequenz, RunScore, Nahrungszufuhr, GPS Karten und Fotos.\nKorrespondenz - alle Informationen, die Du im Zuge der Kommunikation mit unseren Customer Happiness Agents und anderen Mitarbeitern bekannt gibst. Dazu geh\u00f6ren unter anderem: Meinungen die Du uns mitteilst und die deinen Standpunkt verdeutlichen und Kommentare. Das kann der Fall sein, wenn Du uns Feedback gibst, wenn du unsere Services und Produkte untersucht und bewertest oder wenn Du an Diskussionen zur Produktforschung und -entwicklung teilnimmst.\nPr\u00e4ferenzdaten - alle Informationen, die auf deine Pr\u00e4ferenzen hinweisen, ob explizit, falls von dir bekannt gegeben, oder geschlussfolgert. Dazu geh\u00f6ren unter anderem: Aktivit\u00e4tspr\u00e4ferenz (Sportarten), Standort-/Markenpr\u00e4ferenz, bevorzugte Sprache, Produkt- und Pr\u00e4ferenzen bei Produktattributen, Einheiten (Distanz, Gewicht, Temperatur), pers\u00f6nliche Ziele und Motivation (z.B. j\u00e4hrliches Laufziel, Gewichtsziel), Trainingsplaninformationen, generierte Workouts, Ausr\u00fcstungsinformationen (Marke, Modell, Gr\u00f6\u00dfe, Farbe, Bild) und Produktbewertungen.\nCreators Club Informationen - alle Informationen, die sich auf deine Creators Club-Mitgliedschaft beziehen. Dazu geh\u00f6ren: Akquisitions-ID (wo Du dich f\u00fcr die Mitgliedschaft angemeldet hast), Mitgliedsland, Creators Club-Member-ID, Datum, an dem Du Mitglied geworden bist, Punkte und Stufe, Engagement-Historie, Pr\u00e4mien-Historie und zugewiesene Mitglieder-Gutscheine.\nPersonenbezogene Daten die wir von anderen erhalten. Das sind die personenbezogenen Daten, die wir von Dritten erhalten:\nAnmeldung via Facebook oder Google - Wenn Du einen Runtastic Account via Facebook oder Google Social Login erstellst, erhalten wir die folgenden Daten vom entsprechenden Service Provider:\nFacebook Inc. (1601 South California Avenue, Palo Alto, CA 94304, USA, \u201cFacebook\u201d): Vor- und Nachname, E-Mail Adresse, Geschlecht, Geburtsdatum und Profilbild.\nGoogle Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA, \u201cGoogle\u201d): Vor- und Nachname, E-Mail Adresse, Geschlecht, Geburtsdatum und Profilbild.\nFacebook-Freund*innenliste - Wenn Du dem ausdr\u00fccklich zustimmst, erhalten wir von Facebook Informationen dar\u00fcber, mit wem Du in der Facebook-Community befreundet bist. Wir nutzen diese Informationen, um dir eine Liste von Personen anzuzeigen, denen Du vielleicht folgen m\u00f6chtest. Wir speichern diese Informationen nicht.\nPartner Plattformen - Wir bieten einen automatisierten Import von Aktivit\u00e4tsdaten an, die Du \u00fcber Partner Plattformen aufgezeichnet hast. Wir importieren Daten aber nur dann, wenn Du dem Partner und uns dazu eine ausdr\u00fcckliche Anweisung erteilt hast, in dem Du deinen Runtastic Account mit deinem Account der jeweiligen Partnerplattform verbunden hast.\nApple HealthKit - Wir bieten die M\u00f6glichkeit an, unsere Produkte mit Apples (Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA; \u201cApple\u201d) HealthKit zu verbinden (f\u00fcr weitere Informationen dazu siehe here), welches eine zentrale Ablage f\u00fcr Gesundheits- und Fitnessdaten auf iPhone und Apple Watch bietet.\nInnerhalb der HealthKit Einstellungen kannst Du ausw\u00e4hlen, ob unsere Produkte dort gespeicherte Daten lesen und importieren oder in unseren Produkten gespeicherte Daten dort schreiben, also exportieren d\u00fcrfen (siehe dazu bitte Weitergabe von personenbezogenen Daten an andere Dienste .). Du kannst auch beides ausw\u00e4hlen.\nGoogle Fit - Wir bieten die M\u00f6glichkeit an, unsere Produkte mit Googles Fit SDK, einer Plattform zur Kontrolle von Fitnessdaten, zu verbinden.\nInnerhalb der Google Fit Einstellungen kannst Du ausw\u00e4hlen, ob unsere Produkte dort gespeicherte Daten lesen und importieren oder in unseren Produkten gespeicherte Daten dort schreiben, also exportieren d\u00fcrfen (siehe dazu bitte Weitergabe von personenbezogenen Daten an andere Dienste .). Du kannst auch beides ausw\u00e4hlen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "\u00dcbertragung von personenbezogenen Daten au\u00dferhalb der EU/EWR/CH. Wir geben personenbezogenen Daten nur dann an Dritte au\u00dferhalb der EU, des EWR und der Schweiz weiter, wenn (i) sich der Dritte in einem Land befindet, das ein angemessenes Datenschutzniveau gem\u00e4\u00df Artikel 45 der DSGVO bietet, oder wenn (ii) angemessene Sicherheitsvorkehrungen zum Schutz der personenbezogenen Daten und deiner damit verbundenen Rechte getroffen wurden.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Auskunftsrecht. Du hast das Recht, (i) eine Best\u00e4tigung dar\u00fcber zu erhalten, ob deine personenbezogenen Daten von uns verarbeitet werden, und, falls dies der Fall ist, (ii) genauere Informationen \u00fcber die Daten und (iii) eine Kopie der Daten. Die genaueren Informationen betreffen u. a. Verarbeitungszwecke, Datenkategorien, m\u00f6gliche Empf\u00e4nger oder die Dauer der Speicherung. Du findest sie in dieser Datenschutzerkl\u00e4rung.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Recht auf L\u00f6schung. Du hast das Recht, personenbezogene Daten, die wir \u00fcber dich speichern, l\u00f6schen zu lassen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Recht auf Daten\u00fcbertragbarkeit. Du hast das Recht, (i) eine Kopie deiner Daten in einem strukturierten, g\u00e4ngigen und maschinenlesbaren Format zu erhalten und (ii) diese Daten ohne Behinderung durch uns an einen anderen Verantwortlichen zu \u00fcbermitteln.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "postalisch.\nWiderruf der Zustimmung. Wenn Du eine Einwilligung zur Verarbeitung personenbezogener Daten f\u00fcr einen bestimmten Zweck erteilt hast, kannst Du diese jederzeit widerrufen. Die Rechtm\u00e4\u00dfigkeit der bis zum Widerruf aufgrund der Einwilligung erfolgten Datenverarbeitung wird dadurch jedoch nicht ber\u00fchrt. In bestimmten F\u00e4llen k\u00f6nnen wir deine personenbezogenen Daten auch noch nach dem Widerruf der Einwilligung weiter verarbeiten, wenn wir eine andere Rechtsgrundlage daf\u00fcr haben.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Recht auf Einreichung einer Beschwerde. Du hast das Recht, eine Beschwerde bei deiner lokalen Datenschutzbeh\u00f6rde einzureichen, wenn du der Meinung bist, dass unsere Verarbeitung deiner personenbezogenen Daten gegen geltendes Recht verst\u00f6\u00dft.\nDie \u00d6sterreichische Datenschutzbeh\u00f6rde kann wie folgt kontaktiert werden:\nE-Mail: dsb@dsb.gv.at Telefon: +43 (0) 1 52152 2550 Anschrift: Barichgasse 40-42, 1030 Wien ,Austria Web: https://www.dsb.gv.at/kontak",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

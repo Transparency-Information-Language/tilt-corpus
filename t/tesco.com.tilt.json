@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "_id": "cb47690d-ed38-411f-bf4c-d31e54568405",
+    "name": "tesco",
+    "created": "2021-06-21T12:21:52.289265",
+    "modified": "2021-06-21T12:21:52.289286",
+    "version": 1,
+    "language": "en",
+    "status": "active",
+    "url": "https://www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy/?ref=ie",
+    "_hash": "eee8a016960f3fb79cb55a66d592f64249bdde326c14af5b61f4388b973ec2a3"
+  },
+  "controller": {
+    "name": "Tesco Ireland Limited",
+    "country": null,
+    "address": "Tesco Customer Contact Centre\nIDA Business and Technology Park\nButlerstown\nCork Road\nWaterford",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "dataprotectionroi@tesco.com",
+    "phone": "01-2152000",
+    "country": null,
+    "name": "ODPC",
+    "address": "Tesco Customer Service Centre\nGresham House\nMarine Road\nD\u00fan Laoghaire\nCounty Dublin"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "8abe9f32-b667-4ae8-89f6-226e2a5b35f4",
+      "category": "Your personal details, including your postal and billing addresses, email addresses, phone numbers and date of birth and title",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c5781dd6-16d0-47c8-8435-f8878d4dbcd0",
+      "category": "Information relating to your membership of any of our clubs, such as Christmas Savers",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3bca5c4e-a8bd-4067-8231-f00ad4d46f52",
+      "category": "account login details",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "edf86277-286f-40f2-b08f-c112750b2a88",
+      "category": "online purchases",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c6d8cc50-4673-470a-a9a6-d040538fb2d6",
+      "category": "online browsing behaviour on our Websites and Mobile Apps and information about when you click on one of our adverts ",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "562f7a53-0a7a-4f0d-8e4b-ec5b446e1cfd",
+      "category": "Information about any devices you have used to access our Services ",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "2f3c4e64-8a3c-4dd7-affb-bac12bf2cf31",
+      "category": "When you use Clubcard to shop with us, or use Clubcard vouchers or coupons, we may collect:\nTransaction information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4549314e-e76f-45a6-8042-d3f7bcfe0915",
+      "category": "When you contact us or we contact you or you take part in promotions, competitions, surveys or reviews about our Services, we may collect:\nPersonal data you provide about yourself anytime you contact us about our Services (for example, your name, username and contact details), including by phone, email or post or when you speak with us through social media\nDetails of the emails and other digital communications we send to you that you open, including any links in them that you click on\nYour feedback and contributions to customer surveys and reviews.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "71714249-386b-4356-9903-e807b60c1dc9",
+      "category": "When you visit our stores:\nfootage of you may be reocrder on our CCTV systems",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "bc0b899e-515c-4e05-a3c4-834b8966728f",
+      "category": "When you use our pharmacies:\npersonal data including your prescription details, medical history, payment details and contact/address information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "You have the right to see the personal data we hold about you. This is called a Subject Access Request.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "if you believe we hold inaccurate or missing information, please let us know and we will correct it.",
+    "url": null,
+    "email": "DataProtectionROI@tesco.com",
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

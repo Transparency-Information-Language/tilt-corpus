@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "_id": "36044a74-ee5f-4496-814a-729898bf0c19",
+    "name": "basf",
+    "created": "2021-06-21T12:21:52.603971",
+    "modified": "2021-06-21T12:21:52.603991",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.basf.com/global/de/legal/data-protection.html",
+    "_hash": "fd40b93c37db3851543439d186b3150439057b3d5c0eb8b569628fbce1d15df1"
+  },
+  "controller": {
+    "name": "BASF",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "data-protection.eu@basf.com",
+    "phone": "+49 (0) 621 60-0",
+    "country": null,
+    "name": "Alexandra Haug",
+    "address": "67056 Ludwigshafen"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "f90fbd18-6b34-418f-b950-01fec1a843fb",
+      "category": "1. Logfiles\na. Datenverarbeitung\nWenn Sie unsere Webseite lediglich informatorisch besuchen, sich also nicht registrieren oder auf sonstige Weise Daten \u00fcbermitteln (z.B. \u00fcber ein Kontaktformular), werden folgende Informationen automatisch von Ihrem Browser an unseren Server \u00fcbermittelt:\n\nIP-Adresse Ihres Endger\u00e4ts\nInformationen zu Ihrem Browser\nName der Webseite von der aus Sie uns besuchen\nName der aufgerufenen Angebotsseite (URL) oder der aufgerufenen Datei\nDatum und Uhrzeit Ihres Besuchs\nStatusangaben wie beispielsweise Fehlermeldungen\n\u00dcbertragene Datenmengen und der Zugriffsstatus (Datei \u00fcbertragen, Datei nicht gefunden, etc.)\nBetriebssystem und Version des Betriebssystems Ihres Rechners sowie der Name Ihres Access-Providers",
+      "purposes": [
+        {
+          "purpose": "Ihnen die angeforderten Inhalte zur Verf\u00fcgung stellen zu k\u00f6nnen",
+          "description": null
+        },
+        {
+          "purpose": "die Sicherheit und Stabilit\u00e4t unserer Webseite zu gew\u00e4hrleisten und unzul\u00e4ssige Nutzungen nachzuvollziehen",
+          "description": null
+        },
+        {
+          "purpose": "eine komfortable Nutzung unserer Webseite zu erm\u00f6glichen.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Beim Besuch unserer Webseite werden die in Ziffer B. 1. a. genannten Informationen sowie die Informationen aus den als unbedingt erforderlich klassifizierten Cookies automatisiert verarbeitet. Die \u00dcbermittlung dieser Informationen erfolgt freiwillig. Ohne die Zurverf\u00fcgungstellung dieser personenbezogenen Daten k\u00f6nnen wir Ihnen die angeforderte Seite nicht anzeigen.",
+          "description": null
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Ihre Daten werden zur Erm\u00f6glichung der Kontaktaufnahme und Bearbeitung Ihres Anliegens sowie der Bereitstellung unseres jeweiligen Services verarbeitet sowie zur Verhinderung eines Missbrauchs des Kontaktformulars und zur Sicherstellung der Sicherheit unserer informationstechnischen Systeme.",
+          "exists": true
+        },
+        {
+          "reasoning": "Wir verwenden YouTube-Videos auf unserer Website, um diese auf einfache Weise zu pr\u00e4sentieren.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Speicherdauer"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        },
+        {
+          "purposeConditional": [
+            "Speicherdauer"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        },
+        {
+          "purposeConditional": [
+            "Speicherdauer"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f7a30aca-3e26-494f-ab16-0edf74d56831",
+      "category": "Cookies",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Auskunftsrecht",
+    "url": null,
+    "email": "data-protection.eu@basf.com",
+    "identificationEvidences": [
+      " Identit\u00e4t mit zwei Faktoren nachweisen"
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Recht auf L\u00f6schung",
+    "url": null,
+    "email": "data-protection.eu@basf.com",
+    "identificationEvidences": [
+      "Identit\u00e4t mit zwei Faktoren nachweisen"
+    ]
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Recht auf Daten\u00fcbertragbarkeit",
+    "url": null,
+    "email": "data-protection.eu@basf.com",
+    "identificationEvidences": [
+      "Identit\u00e4t mit zwei Faktoren nachweisen"
+    ]
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Recht auf Widerruf Ihrer Einwilligung",
+    "url": null,
+    "email": " data-protection.eu@basf.com",
+    "identificationEvidences": [
+      "Identit\u00e4t mit zwei Faktoren nachweisen"
+    ]
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Widerspruchsrecht",
+    "url": null,
+    "email": "data-protection.eu@basf.com",
+    "identificationEvidences": [
+      "Identit\u00e4t mit zwei Faktoren nachweisen"
+    ],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

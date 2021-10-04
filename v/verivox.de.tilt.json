@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "_id": "e0374156-7bc1-4641-a4c2-f261edb1fb30",
+    "name": "verivox",
+    "created": "2021-06-21T12:21:52.431660",
+    "modified": "2021-06-21T12:21:52.431691",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.verivox.de/dateien/datenschutzbestimmungen-verivox-gmbh-120378.pdf",
+    "_hash": "8481ee85fdf293168e0f88081d19dc794f1f6737b6808c18480c49d944ff7a4d"
+  },
+  "controller": {
+    "name": "Verivox GmbH",
+    "country": "69115",
+    "address": "Max-Jarecki-Stra\u00dfe 21",
+    "division": null,
+    "representative": {
+      "name": "Maximilian Hartung",
+      "email": "service@verivox.de",
+      "phone": "+49 (6221) 7961-100"
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "service@verivox.de",
+    "phone": "+49 (6221) 7961-100",
+    "country": "69115",
+    "name": "Maximilian Hartung",
+    "address": "Max-Jarecki-Stra\u00dfe 21\n69115 Heidelberg"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "168f846e-5a1c-4f84-aa5e-4b176a445a71",
+      "category": "Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder\nidentifizierbare nat\u00fcrliche Person beziehen (z. B. Name, Anschrift, Telefonnummer,\nGeburtsdatum oder E-Mail-Adresse).",
+      "purposes": [
+        {
+          "purpose": "1. \u2022 Bereitstellung dieses OnlineAngebots und Vertragserf\u00fcllung\ngem\u00e4\u00df unseren AGB einschlie\u00dflich\nAbrechnung.\nErm\u00f6glichung der Nutzung des\nOnline-Angebots f\u00fcr nicht\nregistrierte Nutzer;\n\u2022 Erm\u00f6glichung der Nutzung des\nLogin-Bereichs des Online-Angebots\nf\u00fcr registrierte Nutzer zur;\nVertragserf\u00fcllung\nSeite 6 von 26\n\u2022 Bereitstellung einer\nKontaktm\u00f6glichkeit sowie\nBeantwortung dar\u00fcber gesendeter\nAnfragen;\n\u2022 Erm\u00f6glichung von OnlineVertragsabschl\u00fcssen, einschlie\u00dflich\nAbrechnung und Bonit\u00e4tspr\u00fcfungen\nim Vorfeld. Zur Abrechnung kann\nauch der Verkauf von Forderungen\nz\u00e4hlen.\n2. Automatisierte Vorbef\u00fcllung der\nRatenkreditantragsstrecke auf Basis von\nKontotransaktionsdaten (\u201eService zur\nAntragsvorbef\u00fcllung\u201c) gem\u00e4\u00df unseren AGB\nVertragserf\u00fcllung, Einwilligung\n3. Bereitstellung dieses Online-Angebots im\nBereich \u201eMein Konto\u201c und Vertragserf\u00fcllung\ngem\u00e4\u00df unseren Nutzungsbedingungen\nVertragserf\u00fcllung\n4. Vermittlung von Vergleichen und Vertr\u00e4gen\nsowie Vertragserf\u00fcllung gem\u00e4\u00df unseren AGB\neinschlie\u00dflich Abrechnung und\nBonit\u00e4tspr\u00fcfungen im Vorfeld. Zur Abrechnung\nkann auch der Verkauf von Forderungen z\u00e4hlen.\nVertragserf\u00fcllung und Berechtigtes\nInteresse; wir haben ein berechtigtes\nInteresse an der Durchf\u00fchrung von\nBonit\u00e4tspr\u00fcfungen. Dieses erl\u00e4utern wir\nausf\u00fchrlich im Abschnitt\nBonit\u00e4tspr\u00fcfungen; auch am Verkauf\nvon Forderungen haben wir ein\nberechtigtes Interesse. Dieses erl\u00e4utern\nwir ausf\u00fchrlich im Abschnitt\nForderungsmanagement.\n5. Personalisierung des Angebots. Vertragserf\u00fcllung, Einwilligung\n6. Analyse des Angebots zur Ermittlung von\nNutzungsverhalten einschlie\u00dflich\nMarktforschung und Reichweitenmessung\n(\u201eWeb-Analyse\u201c)\nBerechtigtes Interesse; wir haben ein\nberechtigtes Interesse, das\nNutzungsverhalten in unserem OnlineAngebot zu analysieren um dies\nfortlaufend zu verbessern bzw. an die\nInteressen unserer Nutzer anpassen zu\nk\u00f6nnen.\n7. Erfassung und Auswertung von Nutzungsverhalten f\u00fcr interessenbasierte Werbung (auch\ndurch Dritte)\nBerechtigtes Interesse; wir und andere\nWerbetreibende haben ein berechtigtes\nInteresse, interessenbasierte Werbung\nauszuspielen und unseren Nutzern\nWerbung zu bieten, die auf deren\npers\u00f6nliche Interessen zugeschnitten\nist.\n8. Eigen- und Fremdwerbung im gesetzlich\nzul\u00e4ssigen Umfang bzw. einwilligungsbasiert.\nEinwilligung oder Berechtigtes\nInteresse; wir haben ein berechtigtes\nInteresse an Direktmarketing, solange\ndies im Einklang mit datenschutz- und\nwettbewerbsrechtlichen Vorgaben\nerfolgt.\nSeite 7 von 26\n9. Durchf\u00fchrung von Gewinnspielen gem\u00e4\u00df den\njeweiligen Gewinnspielbedingungen.\nVertragserf\u00fcllung\n10. Versand eines E-Mail-Newsletters zu eigenen\nAngeboten ohne Anmeldung.\nBerechtigtes Interesse; wir haben ein\nberechtigtes Interesse an\nDirektmarketing, solange das Marketing\nunter Beachtung daten-schutz- und\nwettbewerbsrechtlicher Vorgaben\nerfolgt\n11. Versand eines Newsletters mit Einwilligung des\nEmpf\u00e4ngers per E-Mail bzw. SMS/MMS.\nVertragserf\u00fcllung, bzw. Einwilligung\n12. Einbindung von Social Plugins und Social ShareFunktionen.\nBerechtigtes Interesse; wir haben wir\nein berechtigtes Interesse daran, auf den\nWunsch unserer Nutzer, die ein Social\nPlugin aktiviert haben, deren\nInformationen mit dem entsprechenden\nsozialen Netz-werk zu teilen.\n13. Bereitstellung eines Logins \u00fcber soziale\nNetzwerke (Social Sign In).\nVertragserf\u00fcllung\n14. Bereitstellung eines Logins \u00fcber 7Pass Vertragserf\u00fcllung\n15. Ermittlung von St\u00f6rungen und Gew\u00e4hrleistung\nder Systemsicherheit einschlie\u00dflich Aufdeckung\nund Nachverfolgung unzul\u00e4ssiger Zugriffe und\nZugriffsversuche auf unsere Web-Server\nErf\u00fcllung unserer rechtlichen\nVerpflichtungen im Bereich\nDatensicherheit sowie Berechtigtes\nInteresse; wir haben ein berechtigtes\nInteresse an der Beseitigung von\nSt\u00f6rungen, der Gew\u00e4hrleistung der\nSystemsicherheit und der Aufdeckung\nund Nachverfolgung unzul\u00e4ssiger\nZugriffsversuche bzw. Zugriffe.\n16. Telefonische Beratung Vertragserf\u00fcllung oder Einwilligung\n17. Beratung via E-Mail Vertragserf\u00fcllung oder Einwilligung\n18. Briefwerbung Vertragserf\u00fcllung oder Einwilligung\n19. Beratung per Chat Einwilligung\n20. Abwicklung und Auszahlung von\ntarifabh\u00e4ngigen Boni- oder Cashbackzahlungen,\nKulanzzahlungen etc.\nVertragserf\u00fcllung\n21. Qualit\u00e4tskontrolle, einschlie\u00dflich interne\nAusbildungszwecke\nBerechtigtes Interesse; wir haben ein\nberechtigtes Interesse daran, die\nQualit\u00e4t unserer Dienstleistungen zu\nkontrollieren und unsere Mitarbeiter\nauszubilden bzw. zu schulen, um den\ngleichbleibend hohen Qualit\u00e4tsstandard\nunserer Dienstleistungen sicherstellen\nzu k\u00f6nnen.\n22. Maklermandat: Betreuung von\nVersicherungsangelegenheiten; Vermittlung\nvon angefragtem Versicherungsschutz,\ninsbesondere durch Vertretung gegen\u00fcber\nVersicherern, Geltendmachung von\nVersicherungsleistungen, Mitwirkung bei der\nSchadensregulierung\nVertragserf\u00fcllung; ausdr\u00fcckliche\nEinwilligung bei der Verarbeitung von\nGesundheitsdaten\nSeite 8 von 26\n23. Auskunftsmandat: Abfrage von Informationen\nund Ausk\u00fcnften zu bestehenden Vertr\u00e4gen bei\nVersicherern\nVertragserf\u00fcllung; ausdr\u00fcckliche\nEinwilligung bei der Verarbeitung von\nGesundheitsdaten\n24. Erfassung, Analyse und Weiterleitung von\nberatungsrelevanten Dokumenten zur\nKreditvermittlung\nVertragserf\u00fcllung\n25. Speicherung und Zug\u00e4nglichmachung von Daten\naus abgebrochenen Vermittlungsauftr\u00e4gen\nVertragserf\u00fcllung sofern dies auf\nKundenwunsch geschieht im Rahmen\ndes Beratungsmandat im Finanzbereich,\nsowie im Rahmen des Maklermandats\nabgebrochene Vermittlungsauftr\u00e4ge\nkurzfristig zu speichern und\nentsprechende Reminder zu versenden.\n26. Tracking des Nutzerverhaltens zu Zwecken der\nProvisionierung.\nBerechtigtes Interesse; wir haben ein\nberechtigtes Interesse zur Abrechnung\nvon Provisionen falls der Preisvergleich\nund die Sichtung eines Angebots eines\nVertriebspartners \u00fcber unser OnlineAngebot zum Vertragsabschluss mit\ndemselben f\u00fchrt\n27. Durchf\u00fchrung von Kundenumfragen zur\nVerbesserung des Online- und\nDienstleistungsangebots\nEinwilligung des Betroffenen\n28. Weiterleitung von Reklamationsanfragen an\nH\u00e4ndler\nVertragserf\u00fcllung\n29. Abwicklung und Auszahlung von verivox\nBonussystem \"verismart\" Zahlungen\nVertragserf\u00fcllung\n30. Beratung per SMS Vertragserf\u00fcllung oder Einwilligung\n31. Generierung und Weiterleitung von\nK\u00fcndigungsschreiben an Vorversorger und\nVorversicherer im Rahmen des\nK\u00fcndigungsservices\nVertragserf\u00fcllung oder Einwilligung",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Wenn wir personenbezogene Daten verarbeiten bedeutet dies, dass wir diese z. B. erheben,\nspeichern, nutzen, an andere \u00fcbermitteln oder l\u00f6schen.\nGrunds\u00e4tzlich k\u00f6nnen Sie unser Online-Angebot ohne Angabe personenbezogener Daten nutzen.\nDie Nutzung bestimmter Services kann allerdings die Angabe personenbezogener Daten\nerfordern, z. B. eine Registrierung oder die Teilnahme an einem Gewinnspiel. Pflichtangaben sind\nentsprechend gekennzeichnet. Wenn Sie uns die hierf\u00fcr erforderlichen Daten nicht zur Verf\u00fcgung\nstellen m\u00f6chten, k\u00f6nnen Sie die entsprechenden Services leider nicht nutzen.",
+          "description": null
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": "6. Weitergabe von Daten an Dritte\nSeite 9 von 26\nIhre personenbezogenen Daten werden von uns grunds\u00e4tzlich nur dann an Dritte gegeben, soweit\ndies zur Vertragserf\u00fcllung erforderlich ist, wir oder der Dritte ein berechtigtes Interesse an der\nWeitergabe haben oder Ihre Einwilligung hierf\u00fcr vorliegt. Sofern Daten an Dritte \u00fcbermittelt\nwerden, wird dies in diesen Datenschutzbestimmungen erl\u00e4utert. Bei einer \u00dcbermittlung auf\nBasis einer Einwilligung kann die Erl\u00e4uterung auch bei Einholung der Einwilligung erteilt werden.\nDar\u00fcber hinaus geben wir personenbezogene Daten an Anbieter von Tools zur Ausspielung\n\u201einteressenbasierter Werbung\u201c sowie in Einzelf\u00e4llen an Anbieter von Analyse-Tools weiter.\nN\u00e4here Informationen zu diesen Anbietern finden Sie in unserer Consent Management Platform\n(\u201eCMP\u201c). Diese erreichen Sie hier:\nhttps://www.verivox.de/company/agb/#uc-central-modal-show\nDar\u00fcber hinaus k\u00f6nnen Daten an Dritte \u00fcbermittelt werden, soweit wir aufgrund gesetzlicher\nBestimmungen oder durch vollstreckbare beh\u00f6rdliche oder gerichtliche Anordnung hierzu\nverpflichtet sein sollten.",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "8. Speicherfristen\nWir speichern Ihre Daten solange, wie dies zur Erbringung unseres Online-Angebots und der\ndamit verbundenen Services erforderlich ist bzw. wir ein berechtigtes Interesse an der weiteren\nSpeicherung haben. In allen anderen F\u00e4llen l\u00f6schen wir Ihre personenbezogenen Daten mit\nAusnahme solcher Daten, die wir zur Erf\u00fcllung gesetzlicher (z. B. steuer- oder handelsrechtlicher)\nAufbewahrungsfristen weiter vorhalten m\u00fcssen (z. B. Rechnungen).\nDie Verarbeitung von Daten, die einer gesetzlichen Aufbewahrungsfrist unterliegen, werden wir\nbis zum Ablauf der Frist einschr\u00e4nken.\nKonkret gelten f\u00fcr die im Rahmen dieses Online-Angebots verarbeiteten personenbezogenen\nDaten folgende Aufbewahrungsfristen:\nLog-Dateien 90 Tage\nVertragsrelevante Daten bei der\nProduktvermittlung wie Ausweisdaten\nL\u00f6schung nach best\u00e4tigter \u00dcbertragung an\nden Provider\nBeratungsrelevante Daten bei der\nProduktvermittlung wie Teile der\nStammdaten, Produktdaten, Vertragsdaten,\nKontaktdaten\nBis zum Ende der Vertragslaufzeit und Ablauf\nder gesetzlichen Aufbewahrungsfristen\nVertragsrelevante Daten f\u00fcr die\nBereitstellung eigener Produkte wie Teile der\nStammdaten, Produktdaten, Vertragsdaten,\nAbrechnungsdaten, Kontaktdaten\nBis zum Ende der Vertragslaufzeit und Ablauf\nder gesetzlichen Aufbewahrungsfristen\nAbrechnungsrelevante Daten wie Teile der\nStammdaten, Tarifdaten, Vertragsdaten\nBis zum Ablauf der gesetzlichen\nAufbewahrungsfristen\nDaten und Dokumente deren Verarbeitung\ndurch gesonderte Einwilligung legitimiert\nwurde\nBis zum Entfall der jeweiligen Zwecke oder\nbis zum Widerruf der Einwilligung\nDaten zur Antragsvorbef\u00fcllung Bis zum Entfall des Zwecks oder bis zum\nWiderruf der Einwilligung\nDaten des Kundenkontos \u201eMein Konto\u201c wie\nStammdaten, Vertragsmanagerdaten,\nVersicherungsmanagerdaten\nBis zur L\u00f6schung des Kontos durch den\nKunden\nMaklermandatsrelevante Daten wie\nBeratungsdokumentation\nBis zum Ablauf der gesetzlichen\nAufbewahrungsfristen"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "15.2 Ihr Recht auf L\u00f6schung\nSie k\u00f6nnen, wenn die gesetzlichen Voraussetzungen vorliegen, von uns unverz\u00fcgliche L\u00f6schung\nIhrer personenbezogenen Daten verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "15.1. Ihre Rechte auf Auskunft und Berichtigung\nSie k\u00f6nnen verlangen, dass wir Ihnen best\u00e4tigen, ob wir Sie betreffende personenbezogene Daten\nverarbeiten und Sie haben ein Recht auf Auskunft im Hinblick auf Ihre von uns verarbeiteten\nDaten. Sollten Ihre Daten unrichtig oder unvollst\u00e4ndig sein, k\u00f6nnen Sie verlangen, dass Ihre Daten\nberichtigt bzw. vervollst\u00e4ndigt werden. Wenn wir Ihre Daten an Dritte weitergegeben haben\ninformieren wir diese \u00fcber die Berichtigung, soweit dies gesetzlich vorgeschrieben ist.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "die Rechtsgrundlage f\u00fcr die Verarbeitung ausschlie\u00dflich Ihre Einwilligung war und Sie\ndiese widerrufen haben",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "16. Ihr Beschwerderecht bei einer Aufsichtsbeh\u00f6rde\nSie haben das Recht, eine Beschwerde bei einer Datenschutzbeh\u00f6rde einzureichen. Sie k\u00f6nnen\nsich dazu insbesondere an die Datenschutzbeh\u00f6rde wenden, die f\u00fcr Ihren Wohnort bzw. Ihr\nBundesland zust\u00e4ndig ist oder die f\u00fcr den Ort zust\u00e4ndig ist, an dem die Verletzung des\nDatenschutzrechts stattgefunden hat.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": "Der Landesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit\nBaden-W\u00fcrttemberg\nPostfach 10 29 32\n70025 Stuttgart",
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Auf Anfrage k\u00f6nnen Sie von uns Informationen zu den von uns vorgenommenen Berechtigtes\nInteressen erhalten. Nutzen Sie hierf\u00fcr einfach die Angaben in Abschnitt Kontakt.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

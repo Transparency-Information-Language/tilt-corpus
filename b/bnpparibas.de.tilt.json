@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "_id": "764844f3-222a-4c29-b2c2-163cdadd2cc7",
+    "name": "bnp_paribas",
+    "created": "2021-06-21T12:21:52.252924",
+    "modified": "2021-06-21T12:21:52.252942",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.bnpparibas.de/de/datenschutzrichtlinie/",
+    "_hash": "779c6b11f96b843f84e038b940839bc8a894fbdf30ec972a87887bf56d5affcc"
+  },
+  "controller": {
+    "name": "BNP Paribas-Gruppe",
+    "country": "Deutschland",
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "gdpr.desk.cib@bnpparibas.com",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "c54da4f8-c739-42af-abdc-3a593a1b4046",
+      "category": "Gesundheitsdaten f\u00fcr den Abschluss bestimmter Versicherungsvertr\u00e4ge",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "596141d4-3ed7-4513-9e4b-b05ba5ce1ccd",
+      "category": " personenbezogenen Daten",
+      "purposes": [
+        {
+          "purpose": "Produkte und Dienstleistungen bereitzustellen und zu optimieren",
+          "description": "Transaktionsnachweise;\nPr\u00e4vention von Betrug;\nIT-Management einschlie\u00dflich Infrastrukturmanagement (z. B. gemeinsame Plattformen), sowie Ma\u00dfnahmen zur Aufrechterhaltung des kontinuierlichen Gesch\u00e4ftsbetriebs und IT-Sicherheit;\nErstellung von individuellen statistischen Modellen anhand von Auswertungen der Transaktionen f\u00fcr die Ermittlung Ihrer Kreditrisikoeinstufung;\nErstellung von aggregierten Statistiken, Tests und Modellen zum Zweck der Forschung und Entwicklung, um das Risikomanagement unserer Unternehmensgruppe zu optimieren oder um bestehende Produkte und Dienstleistungen zu verbessern bzw. neue zu entwickeln;\nSchulung unserer Mitarbeiter durch die Aufzeichnung von Anrufen in unseren Callcentern;1\nUnser Angebot f\u00fcr Sie oder die Rechtsperson, die Sie vertreten, und das Angebot anderer Unternehmenseinheiten von BNP Paribas zu personalisieren mittels;\nVerbesserung der Qualit\u00e4t unserer Bankgesch\u00e4fts-, Finanz- oder Versicherungsprodukte oder \u2013dienstleistungen;\nBewerbung von Produkten oder Dienstleistungen, die zu Ihren pers\u00f6nlichen Umst\u00e4nden und Ihrem Profil passen; dies kann erreicht werden durch:\ndie Segmentierung unserer Interessenten und Kunden;\ndie Analyse Ihrer Gewohnheiten und Pr\u00e4ferenzen in den unterschiedlichen Kan\u00e4len (Besuche in unseren Niederlassungen, E-Mails oder Nachrichten, Besuche auf unserer Website usw.);\ndie Weitergabe ihrer Daten an eine andere Unternehmenseinheit von BNP Paribas, insbesondere wenn Sie oder die Rechtsperson, die Sie vertreten, ein Kunde dieser anderen Einheit ist bzw. wird;\ndie Abstimmung der Produkte oder Dienstleistungen, die Sie bereits erworben haben oder nutzen, mit anderen Daten, die uns \u00fcber Sie vorliegen (z. B. k\u00f6nnten wir daraus ersehen, dass Sie Kinder, aber noch keine Familienschutz-Versicherung haben); und\ndie \u00dcberwachung von Transaktionen, um jene zu ermitteln, die von Ihrer normalen Routine abweichen (z. B. wenn eine gro\u00dfe Abhebung von Ihrem Bankkonto in einem Land erfolgt, in dem Sie nicht wohnhaft sind).\nIhre Daten k\u00f6nnen in anonymisierte Statistiken eingebunden werden, die gegebenenfalls unseren Unternehmenskunden angeboten werden, um sie bei ihrer Gesch\u00e4ftsentwicklung zu unterst\u00fctzen. In diesem Fall werden Ihre personenbezogenen Daten keinesfalls offengelegt, und die Personen, die diese anonymisierten Statistiken erhalten, sind nicht in der Lage, Ihre Identit\u00e4t zu ermitteln."
+        },
+        {
+          "purpose": "Risikomanagement zu verbessern",
+          "description": "Transaktionsnachweise;\nPr\u00e4vention von Betrug;\nIT-Management einschlie\u00dflich Infrastrukturmanagement (z. B. gemeinsame Plattformen), sowie Ma\u00dfnahmen zur Aufrechterhaltung des kontinuierlichen Gesch\u00e4ftsbetriebs und IT-Sicherheit;\nErstellung von individuellen statistischen Modellen anhand von Auswertungen der Transaktionen f\u00fcr die Ermittlung Ihrer Kreditrisikoeinstufung;\nErstellung von aggregierten Statistiken, Tests und Modellen zum Zweck der Forschung und Entwicklung, um das Risikomanagement unserer Unternehmensgruppe zu optimieren oder um bestehende Produkte und Dienstleistungen zu verbessern bzw. neue zu entwickeln;\nSchulung unserer Mitarbeiter durch die Aufzeichnung von Anrufen in unseren Callcentern;1\nUnser Angebot f\u00fcr Sie oder die Rechtsperson, die Sie vertreten, und das Angebot anderer Unternehmenseinheiten von BNP Paribas zu personalisieren mittels;\nVerbesserung der Qualit\u00e4t unserer Bankgesch\u00e4fts-, Finanz- oder Versicherungsprodukte oder \u2013dienstleistungen;\nBewerbung von Produkten oder Dienstleistungen, die zu Ihren pers\u00f6nlichen Umst\u00e4nden und Ihrem Profil passen; dies kann erreicht werden durch:\ndie Segmentierung unserer Interessenten und Kunden;\ndie Analyse Ihrer Gewohnheiten und Pr\u00e4ferenzen in den unterschiedlichen Kan\u00e4len (Besuche in unseren Niederlassungen, E-Mails oder Nachrichten, Besuche auf unserer Website usw.);\ndie Weitergabe ihrer Daten an eine andere Unternehmenseinheit von BNP Paribas, insbesondere wenn Sie oder die Rechtsperson, die Sie vertreten, ein Kunde dieser anderen Einheit ist bzw. wird;\ndie Abstimmung der Produkte oder Dienstleistungen, die Sie bereits erworben haben oder nutzen, mit anderen Daten, die uns \u00fcber Sie vorliegen (z. B. k\u00f6nnten wir daraus ersehen, dass Sie Kinder, aber noch keine Familienschutz-Versicherung haben); und\ndie \u00dcberwachung von Transaktionen, um jene zu ermitteln, die von Ihrer normalen Routine abweichen (z. B. wenn eine gro\u00dfe Abhebung von Ihrem Bankkonto in einem Land erfolgt, in dem Sie nicht wohnhaft sind).\nIhre Daten k\u00f6nnen in anonymisierte Statistiken eingebunden werden, die gegebenenfalls unseren Unternehmenskunden angeboten werden, um sie bei ihrer Gesch\u00e4ftsentwicklung zu unterst\u00fctzen. In diesem Fall werden Ihre personenbezogenen Daten keinesfalls offengelegt, und die Personen, die diese anonymisierten Statistiken erhalten, sind nicht in der Lage, Ihre Identit\u00e4t zu ermitteln."
+        },
+        {
+          "purpose": " Geltendmachung, Aus\u00fcbung oder Verteidigung unsere Rechtsanspr\u00fcche",
+          "description": "Transaktionsnachweise;\nPr\u00e4vention von Betrug;\nIT-Management einschlie\u00dflich Infrastrukturmanagement (z. B. gemeinsame Plattformen), sowie Ma\u00dfnahmen zur Aufrechterhaltung des kontinuierlichen Gesch\u00e4ftsbetriebs und IT-Sicherheit;\nErstellung von individuellen statistischen Modellen anhand von Auswertungen der Transaktionen f\u00fcr die Ermittlung Ihrer Kreditrisikoeinstufung;\nErstellung von aggregierten Statistiken, Tests und Modellen zum Zweck der Forschung und Entwicklung, um das Risikomanagement unserer Unternehmensgruppe zu optimieren oder um bestehende Produkte und Dienstleistungen zu verbessern bzw. neue zu entwickeln;\nSchulung unserer Mitarbeiter durch die Aufzeichnung von Anrufen in unseren Callcentern;1\nUnser Angebot f\u00fcr Sie oder die Rechtsperson, die Sie vertreten, und das Angebot anderer Unternehmenseinheiten von BNP Paribas zu personalisieren mittels;\nVerbesserung der Qualit\u00e4t unserer Bankgesch\u00e4fts-, Finanz- oder Versicherungsprodukte oder \u2013dienstleistungen;\nBewerbung von Produkten oder Dienstleistungen, die zu Ihren pers\u00f6nlichen Umst\u00e4nden und Ihrem Profil passen; dies kann erreicht werden durch:\ndie Segmentierung unserer Interessenten und Kunden;\ndie Analyse Ihrer Gewohnheiten und Pr\u00e4ferenzen in den unterschiedlichen Kan\u00e4len (Besuche in unseren Niederlassungen, E-Mails oder Nachrichten, Besuche auf unserer Website usw.);\ndie Weitergabe ihrer Daten an eine andere Unternehmenseinheit von BNP Paribas, insbesondere wenn Sie oder die Rechtsperson, die Sie vertreten, ein Kunde dieser anderen Einheit ist bzw. wird;\ndie Abstimmung der Produkte oder Dienstleistungen, die Sie bereits erworben haben oder nutzen, mit anderen Daten, die uns \u00fcber Sie vorliegen (z. B. k\u00f6nnten wir daraus ersehen, dass Sie Kinder, aber noch keine Familienschutz-Versicherung haben); und\ndie \u00dcberwachung von Transaktionen, um jene zu ermitteln, die von Ihrer normalen Routine abweichen (z. B. wenn eine gro\u00dfe Abhebung von Ihrem Bankkonto in einem Land erfolgt, in dem Sie nicht wohnhaft sind).\nIhre Daten k\u00f6nnen in anonymisierte Statistiken eingebunden werden, die gegebenenfalls unseren Unternehmenskunden angeboten werden, um sie bei ihrer Gesch\u00e4ftsentwicklung zu unterst\u00fctzen. In diesem Fall werden Ihre personenbezogenen Daten keinesfalls offengelegt, und die Personen, die diese anonymisierten Statistiken erhalten, sind nicht in der Lage, Ihre Identit\u00e4t zu ermitteln."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Auskunft: Sie k\u00f6nnen Informationen zur Verarbeitung Ihrer personenbezogenen Daten und eine Kopie dieser Daten anfordern.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Datenl\u00f6schung: Sie k\u00f6nnen verlangen, dass Ihre personenbezogenen Daten gel\u00f6scht werden, soweit dies nach geltendem Recht zul\u00e4ssig ist.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Einschr\u00e4nkung der Datenverarbeitung: Sie k\u00f6nnen eine Einschr\u00e4nkung der Verarbeitung Ihrer personenbezogenen Daten verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Einspruch gegen die Datenverarbeitung: Sie k\u00f6nnen einer Verarbeitung Ihrer personenbezogenen Daten unter Verweis auf Ihre besondere Situation widersprechen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "Profiling",
+    "inUse": true,
+    "scopeAndIntendedEffects": "zur Bek\u00e4mpfung von Geldw\u00e4sche, Terrorismusfinanzierung und verm\u00f6gensgef\u00e4hrdenden Straftaten  verpflichtet. Dabei werden auch Datenauswertungen  (u.a. im Zahlungsverkehr) vorgenommen. Diese Ma\u00dfnahmen dienen zugleich auch Ihrem Schutz."
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Website oder \u00fcber die sonstigen \u00fcblichen Kommunikationskan\u00e4le",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "_id": "8c9ffd2f-239f-40cb-8136-e476c0b2eacc",
+    "name": "takeda",
+    "created": "2021-06-21T12:21:52.640614",
+    "modified": "2021-06-21T12:21:52.640634",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.takeda.com/de-de/privacy-policy/",
+    "_hash": "8d0f1600f2cd85e9ac2a45411d58419fdb7ac60d04a775c0920ee116b31671fa"
+  },
+  "controller": {
+    "name": "Takeda ",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "privacyoffice@takeda.com",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "dd5f31bc-7844-498d-9d15-19adc4e5fbbd",
+      "category": "Name und Kontaktdaten: Wir k\u00f6nnen Ihren Namen, Ihre Postanschrift, Ihre E-Mail-Adresse, Ihre Telefonnummer und andere \u00e4hnliche Kontaktdaten erheben, wenn Sie uns diese freiwillig zur Verf\u00fcgung stellen.\nNutzungsdaten: Wir erheben m\u00f6glicherweise Daten dar\u00fcber, wie Sie und Ihr Ger\u00e4t mit unseren Diensten interagieren, beispielsweise die Internet-Protokoll-Adresse (IP-Adresse), die verwendet wird, um Ihren Computer mit dem Internet zu verbinden, Ihre Anmeldedaten, Browsertyp und -version, Zeitzoneneinstellung, Browser-Plug-in-Typen und -Versionen, Betriebssystem und Plattform, Informationen \u00fcber Ihren Besuch und Ihre Online-Aktivit\u00e4ten (z. B. Seitenreaktionszeiten, Download-Fehler, L\u00e4nge der Besuche auf bestimmten Seiten, Informationen zur Seiteninteraktion (z. B. Bl\u00e4ttern, Klicks und Mausbewegungen) und die Art, wie man sich von der Seite entfernt hat).\nBeziehungs- und Interaktionsdaten: Wir k\u00f6nnen Daten \u00fcber unsere Interaktionen und Meetings erheben, z. B. wenn Sie uns f\u00fcr Informationen und Unterst\u00fctzung kontaktieren.\nStandortdaten: Wir erheben m\u00f6glicherweise ungenaue Daten wie einen aus Ihrer IP-Adresse abgeleiteten Standort oder Daten, die mit geringerer Genauigkeit angeben, wo Sie sich befinden, z. B. in welcher Stadt oder in welchem Postleitzahlgebiet.\nGesetzlich vorgeschriebene Informationen: Wir k\u00f6nnen zus\u00e4tzliche Daten \u00fcber Sie erheben, die mit der Patientensicherheit und unerw\u00fcnschten Ereignissen zu tun haben oder die durch die f\u00fcr Takeda geltenden Gesetze erforderlich sein k\u00f6nnen.\nIn einigen F\u00e4llen und nur f\u00fcr bestimmte Arten von Diensten erg\u00e4nzen wir die Informationen, die wir \u00fcber Einzelpersonen besitzen, mit Informationen, die wir von Dritten erhalten, sowie mit Informationen, die \u00f6ffentlich oder kommerziell verf\u00fcgbar sind und/oder die durch andere legale Mittel beschafft werden k\u00f6nnen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "Takeda kann personenbezogene Daten in L\u00e4nder au\u00dferhalb des Landes Ihres Wohnsitzes \u00fcbertragen. Die Gesetze der Empf\u00e4ngerl\u00e4nder bieten m\u00f6glicherweise keinen so strengen Schutz f\u00fcr personenbezogene Daten wie das Land Ihres Wohnsitzes. In F\u00e4llen, in denen ein Empf\u00e4ngerland ein geringeres Schutzniveau bietet, verpflichtet sich Takeda, dass angemessene Schutzma\u00dfnahmen vorhanden sind und dass die geltenden Gesetze und Verordnungen im Zusammenhang mit solchen Daten\u00fcbermittlungen eingehalten werden.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "In bestimmten F\u00e4llen verpflichtet sich Takeda, vertragliche Vereinbarungen zu treffen (z. B. Standardvertragsklauseln der Europ\u00e4ischen Union), oder st\u00fctzt sich auf andere verf\u00fcgbare Mechanismen der Daten\u00fcbermittlung, die auf einen angemessenen Schutz abzielen. Eine Kopie der EU-Standardvertragsklauseln finden Sie unter: Standardvertragsklauseln",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Takeda respektiert Ihr Recht oder, soweit gesetzlich zul\u00e4ssig, mittels Ihres bevollm\u00e4chtigten Vertreters, zu erfahren und sich dar\u00fcber zu erkundigen, welche personenbezogenen Daten wir erhoben, verwendet oder offengelegt haben. Dar\u00fcber hinaus haben Sie oder Ihr bevollm\u00e4chtigter Vertreter das Recht, die Korrektur oder L\u00f6schung solcher personenbezogenen Daten sowie die Entfernung Ihrer personenbezogenen Daten zu verlangen, die sich im Besitz von Dritten befinden, mit denen wir Gesch\u00e4ftsbeziehungen unterhalten. Takeda wird Sie aufgrund der Aus\u00fcbung eines dieser Rechte nicht benachteiligen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Wenn Sie eine Anfrage an Takeda richten m\u00f6chten, um Zugang zu Ihren personenbezogenen Daten, die Sie Takeda zur Verf\u00fcgung gestellt haben, zu erhalten, diese zu korrigieren oder zu l\u00f6schen, setzen Sie sich bitte \u00fcber unser Online-Formular Individuelle Rechte mit uns in Verbindung.. Wir werden Ihnen zeitnah antworten. Wir werden uns nach Treu und Glauben bem\u00fchen, Ihnen Auskunft zu Ihren personenbezogenen Daten zu geben und auf Ihren Wunsch hin alle Ungenauigkeiten zu korrigieren oder solche Informationen zu l\u00f6schen, sofern sie nicht anderweitig aus gesetzlichen Gr\u00fcnden oder aufgrund anderer gesetzlich zul\u00e4ssiger Ausnahmen aufbewahrt werden m\u00fcssen. Sollte Ihre Anfrage aus irgendeinem Grund abgelehnt werden, werden wir Sie dar\u00fcber benachrichtigen. Bevor wir Ihrer Anfrage nachgehen k\u00f6nnen, ben\u00f6tigen wir m\u00f6glicherweise zus\u00e4tzliche Informationen von Ihnen, um Ihre Identit\u00e4t zu verifizieren.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Hinsichtlich der von uns erhobenen Daten haben Sie Wahlm\u00f6glichkeiten. Wenn Sie gebeten werden, Ihre personenbezogenen Daten an Takeda weiterzugeben, k\u00f6nnen Sie dies ablehnen. Ihre Entscheidung, Ihre personenbezogenen Daten nicht an Takeda weiterzugeben, kann jedoch bedeuten, dass Sie unsere Dienste, Funktionen oder Angebote nicht oder nicht vollst\u00e4ndig nutzen k\u00f6nnen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "_id": "129ada7f-4fe4-4088-ad7c-43aecde1764e",
+    "name": "Tagesschau App",
+    "created": "2021-07-30T11:43:04.642821",
+    "modified": "2021-07-30T11:43:04.642850",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.tagesschau.de/datenschutzerklaerung100.html",
+    "_hash": "3a3d07cd967cf1e6c7a2fabd4e8ab087230c7fd3747fe457f01717b864c2e0be"
+  },
+  "controller": {
+    "name": "Norddeutscher Rundfunk (NDR)",
+    "country": "Norddeutsch",
+    "address": "Rothenbaumchaussee 132\n20149 Hamburg",
+    "division": "Anstalt des \u00f6ffentlichen Rechts",
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@ndr.de",
+    "phone": null,
+    "country": "Norddeutsch",
+    "name": "Dr. Heiko Neuhoff",
+    "address": "Gremienb\u00fcro\nRothenbaumchaussee 132\n20149 Hamburg"
+  },
+  "dataDisclosed": [
+    {
+      "_id": [],
+      "category": [],
+      "purposes": [],
+      "legalBases": [],
+      "legitimateInterests": [],
+      "recipients": [],
+      "recipientsOnlyCategory": [],
+      "storage": [],
+      "nonDisclosure": []
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": "0186c2bd-bd18-46b1-9d3e-b81c2810b34f",
+      "dataCategory": "Name der abgerufenen Datei",
+      "sources": [
+        {
+          "description": "Jede Nutzung unserer App und jeder Abruf einer in der App hinterlegten Datei werden protokolliert.",
+          "url": null,
+          "publiclyAvailable": false
+        }
+      ]
+    },
+    {
+      "_id": "855e557d-c140-4192-a040-d428cbea0519",
+      "dataCategory": "Datum und Uhrzeit des Abrufs",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "ff42a7e4-7d93-41f9-b49f-ecffd673fa2b",
+      "dataCategory": "\u00fcbertragene Datenmenge",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "4c3f704d-47b9-438a-bcf3-ffa2d852b0c2",
+      "dataCategory": "Meldung \u00fcber erfolgreichen Abruf",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "cfc81df1-33ff-48fa-9cce-66133d56c751",
+      "dataCategory": "App-Kennung",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "6c106931-46f6-4938-9030-3c799e114c90",
+      "dataCategory": "anfragende Domain",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    },
+    {
+      "_id": "4cf1df54-515a-4a75-b529-86431dfe9665",
+      "dataCategory": "IP-Adressen der anfragenden Ger\u00e4te",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Sie haben dar\u00fcber hinaus ein Recht auf Berichtigung und/oder Vervollst\u00e4ndigung der Sie betreffenden unrichtigen oder unvollst\u00e4ndigen personenbezogenen Daten. Ferner k\u00f6nnen Sie von uns verlangen, dass die Sie betreffenden personenbezogenen Daten unverz\u00fcglich gel\u00f6scht werden, soweit nicht die Verarbeitung der Daten zur Aus\u00fcbung der Meinungs- und Rundfunkfreiheit erforderlich ist.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Sie haben zudem das Recht, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten Widerspruch einzulegen und Ihre zur Verarbeitung personenbezogener Daten erkl\u00e4rte Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtm\u00e4\u00dfigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht ber\u00fchrt.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Schlie\u00dflich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten zu beschweren, wenn Ihrer Ansicht nach ein Versto\u00df gegen das Datenschutzrecht vorliegt.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "Personenbezogene Daten werden zu jeweils ganz unterschiedlichen Zwecken und immer auf gesetzm\u00e4\u00dfiger Grundlage verarbeitet, beispielsweise: Vertragsanbahnung und -erf\u00fcllung (Art. 6 Abs. 1 b) DSGVO), z. B. um Ihnen - Zutritt zu unserem Grundst\u00fcck und R\u00e4umlichkeiten im Rahmen von Auftragsbeziehungen oder bei Veranstaltungen oder auch zur Kantinennutzung gew\u00e4hren zu k\u00f6nnen, - eine von Ihnen angefragte Leistung zur Verf\u00fcgung stellen zu k\u00f6nnen (bspw. Newsletter, Programmheft, personalisierter Zugang zu bestimmten Internetangeboten), - eine Gewinnspiel- oder Verlosungsteilnahme zu erm\u00f6glichen, Schutz lebenswichtiger Interessen eines Betroffenen (Art. 6 Abs. 1 d) DSGVO), - beispielsweise Einsichtnahme in und Weitergabe von personenbezogenen Daten im Falle eines Unfalles, falls der Betroffene selbst nicht auskunftsf\u00e4hig sein sollte; Wahrnehmung des Rundfunk- und Programmauftrags des NDR als Aufgabe, die im \u00f6ffentlichen Interesse liegt (Art. 6 Abs. 1 e) DSGVO), - beispielsweise Bearbeitung von H\u00f6rerpost oder Programmbeschwerden; Wahrung berechtigter Interessen des NDR in Abw\u00e4gung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 f) DSGVO), - beispielsweise Verarbeitung von personenbezogenen Daten f\u00fcr die Au\u00dfendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen).",
+    "inUse": true,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "meta": {
+    "_id": "1ef0797c-273d-4956-8660-7ec973c8ee67",
+    "name": "bvg",
+    "created": "2021-10-04T15:41:08.023941",
+    "modified": "2021-10-04T15:41:08.023975",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.bvg.de/de/datenschutz",
+    "_hash": null
+  },
+  "controller": {
+    "name": "Die Berliner Verkehrsbetriebe A\u00f6R",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@bvg.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "c0850c5a-de2b-4024-8e68-58c5992fc19b",
+      "category": "IP-Adresse\nZeitpunkt der Anfrage\nGer\u00e4tedaten, wie Betriebssystem, Browserversion, Bildschirmaufl\u00f6sung\nEinstellungen, die Sie bei der Nutzung unserer Webseite vornehmen (z.B. Sprachwahl)\n3.1.3      Rechtsgrundlage f\u00fcr die Datenverarbeitung, Zweck der Datenverarbeitung\nBerechtigtes Interesse (Art. 6 Abs. 1 S.1 lit. f DSGVO): Sicherstellung der der reibungslosen Nutzung und wesentlicher Grundfunktionen der Webseite.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "67c39319-16d5-42d4-b95d-9c06ef3d3ebe",
+      "category": "Der Grund der Kontaktaufnahme, Ihre E-Mail-Adresse und Ihr Name werden von uns gespeichert",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "b5324252-ace6-4210-9dc6-61bef8545bce",
+      "category": "Im Rahmen der Bewerbung werden Ihr Name, Ihre Kontaktdaten, Ihre Qualifikationen sowie weitere Daten, die Sie uns mit Ihrer Bewerbung \u00fcbermitteln",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4d9a3f2a-1faa-43d9-87c3-ff20fe05d9f3",
+      "category": "Vorname, Nachname, Anschrift (beim Online-Verfahren: auch E-Mail-Adresse), Geburtsdatum, und Gehaltsvorstellung, Informationen zu Ihren fachlichen Kompetenzen (u.a. Schulausbildung, Berufsausbildung, sonstige F\u00e4higkeiten) sowie Nachweise entsprechender Angaben (u.a. Zeugnisse)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f679303e-6b0d-48ad-952c-46ca0626a061",
+      "category": "Ihre Staatsb\u00fcrgerschaft bzw. das Vorliegen eines g\u00fcltigen, eine Erwerbst\u00e4tigkeit gestattenden Aufenthaltstitels m\u00fcssen wir abfragen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7c36b344-8fe4-4cdb-a19a-690e35b2ff1b",
+      "category": "Es steht ihnen jedoch frei, im Rahmen Ihrer Bewerbung Angaben zur Schwerbehinderteneigenschaft zu machen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e01f6844-73d7-45ef-b6ef-3d761a670e2b",
+      "category": " Vorname, Name, Geburtsdatum, Geschlecht",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c7f377ff-6bac-4683-b4da-15545cb6a401",
+      "category": "Die IP-Adresse, Uhrzeit und Datum des Zugriffs, Browseraktivit\u00e4ten und -einstellungen sowie Anmelde-ID-Daten werden aus Sicherheitsgr\u00fcnden zur Authentifizierung und Eingabesteuerung ben\u00f6tigt;",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "63dc4ddb-b785-4516-8c22-f888e61003db",
+      "category": "vollst\u00e4ndiger Name, Adresse, Geburtsdatum, Geschlecht, Kontodaten (au\u00dfer Sch\u00fclerticket Berlin AB), Zahlungsweise (monatlich oder j\u00e4hrlich), ggf. der vollst\u00e4ndige Name, Geburtsdatum, Geschlecht und Adresse der gesetzlichen Vertretung oder des Vormunds/Betreuers ",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f89bbf24-cfbb-409f-91af-a863bacaa332",
+      "category": "Ihr Foto und einen Berechtigungsnachweis",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "294ff4bb-58b3-4698-9b9c-a592990510b4",
+      "category": "Name des Fahrgastes ohne g\u00fcltigen Fahrausweis, Zeit und Ort der Kontrolle, Forderungsh\u00f6he",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "6fdf1372-a65e-4f39-86ff-c0684bd46d58",
+      "category": "Foto, Name, Adresse, Firmenzugeh\u00f6rigkeit, Kontodaten, Zahlungsinformationen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "99cb9cd0-1af5-4081-a058-47613dc821b1",
+      "category": "\u200bName, Vorname,\nGeburtsdatum,\nGeschlecht,\nAnschrift,\nE-Mail-Adresse,\nBankverbindung,\nName und Anschrift gesetzlicher Vertreterinnen und Vertreter,\nZeit, Ort und sonstige f\u00fcr die Rechtsverfolgung erhebliche Umst\u00e4nde des Vorfalls einschlie\u00dflich Forderungen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "b92d15a4-6048-4ef6-9baf-19c2b9bb70aa",
+      "category": "Ihr Name, Ihre Kontaktdaten, Ihre Adresse oder E-Mail-Adresse, Ihre Telefonnummer oder bei Mitarbeitern der BVG oder ihrer 100%igen Tochtergesellschaften auch Organisationseinheit und Dienstausweis-Nr",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "9a64cd47-d6c5-4f28-9d8b-14eb35773d17",
+      "category": "Allerdings behalten wir uns vor, vom Gewinner den Vor- und Nachnamen sowie Wohnort und Gewinn zu ver\u00f6ffentlichen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e9cae14c-aba2-4800-a813-eec6d4ba1a92",
+      "category": "Name, Vorname, Wert des Gewinns.  Diese Daten speichern wir nur so lange, wie es aufgrund der einschl\u00e4gigen Steuergesetze erforderlich ist",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3eb50cf9-6c3e-4611-a9f8-b710ff71a50d",
+      "category": "Bei einzelnen Projekten kann es notwendig sein, Name, Kontaktdaten, Adresse oder E-Mail-Adresse abzufragen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "0bbb9ac2-deaf-47ed-be3c-4fe994e19096",
+      "category": "IP-Adresse",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c4c66426-8fc1-4da0-9f62-febfd4ce7fa2",
+      "category": "Zeitpunkt und Dauer des Besuchs",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "102c33f2-349b-436c-8832-9889f53f5439",
+      "category": "Ger\u00e4tedaten, wie Betriebssystem, Browserversion, Bildschirmaufl\u00f6sung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f974b0d8-43ad-4598-9bb5-6a5c331d29ca",
+      "category": "Besuchte Webseiten\nZustimmungsinformationen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "924ded7f-e882-47b4-b4d4-d18e223bed64",
+      "category": "IP-Adresse\nGer\u00e4tedaten, wie Betriebssystem, Browserversion, Bildschirmaufl\u00f6sung\nInformationen \u00fcber den Traffic von und zu unserer Webseite",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "d3942de6-51af-4b18-ab70-d4915794fed1",
+      "category": "IP-Adresse\nDatum und Uhrzeit\nSeitenaufrufe inkl. Titel und URL\nReferrer-URL\naufgerufene und heruntergeladene Dateien\nKlicks auf Elemente oder Links zu anderen Seiten\nf\u00fcr den Seitenaufbau ben\u00f6tigte Zeit\nGer\u00e4teinformationen (Spracheinstellungen, Bildschirmaufl\u00f6sung, Browsertyp/-version)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "020fc5e7-b43f-4cd3-aa9e-5a3713d96459",
+      "category": "IP-Adresse\nGer\u00e4tedaten, wie Betriebssystem, Browserversion, Bildschirmaufl\u00f6sung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a196d533-5656-4fec-be67-36f4f7cc15e7",
+      "category": "IP-Adresse\nZeitpunkt des Absendens\nInformation, auf welcher Seite Sie das Formular ausgef\u00fcllt haben",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "fc28a971-c6b2-4881-8627-0c73acad3a2c",
+      "category": "IP-Adresse\nUserID\nConversationID\nggf. vom Nutzer eingegebene Daten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3833cc62-4a87-4558-b8a5-875d3d94e5a3",
+      "category": "IP-Adressen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "20499f8d-b0c1-49a4-a913-3fda274e52a7",
+      "category": "Online-Kennzeichnungen (einschlie\u00dflich Cookie-Kennungen)\nGer\u00e4tekennungen\nTechnische Eigenschaften von Nutzern (z.B. Browsertyp und -version, Ger\u00e4tetyp, Betriebssystem)\nMessung des Nutzungsverhaltens (z.B. Aufrufe einzelner Seiten / Inhalte, Aufrufe von Inhalten verschiedener Bereiche, Sitzungsdauer / Verweildauer, Absprungrate\nNutzung einzelner Funktionalit\u00e4ten der Webseite (z.B. Fahrplanauskunft, Suchanfragen, Downloads)\neCommerce-Aktivit\u00e4t (z.B. gekaufte Produkte, Ums\u00e4tze)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "45caf3e2-be29-4e54-bd5f-b551343acad9",
+      "category": "IP-Adressen\nOnline-Kennzeichnungen (einschlie\u00dflich Cookie-Kennungen)\nGer\u00e4tekennungen\nTechnische Eigenschaften von Nutzern (z.B. Browsertyp und -version, Ger\u00e4tetyp, Betriebssystem)\nMessung des Nutzungsverhaltens (z.B. Aufrufe einzelner Seiten / Inhalte, Aufrufe von Inhalten verschiedener Bereiche, Sitzungsdauer / Verweildauer, Absprungrate\nNutzung einzelner Funktionalit\u00e4ten der Webseite (z.B. Fahrplanauskunft, Suchanfragen, Downloads)\neCommerce-Aktivit\u00e4t (z.B. gekaufte Produkte, Ums\u00e4tze)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "0c92a1ea-8bdf-4d09-a8ed-576edb2826ec",
+      "category": "mindestens IP-Adresse, Browser-Daten, Einstellungen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "cbbede19-1a4f-4552-8a9d-6a42732e3ad6",
+      "category": "kann es sich um die IP-Adresse, den Browsertyp, das Betriebssystem, Informationen zu der zuvor aufgerufenen Website und den von Ihnen aufgerufenen Seiten, Ihrem Standort, Ihrem Mobilfunkanbieter, dem von Ihnen genutzten Endger\u00e4t (einschlie\u00dflich Ger\u00e4te-ID und Anwendungs-ID), die von Ihnen verwendeten Suchbegriffe und Cookie-Informationen handeln.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "consentmanager AB\nH\u00e5ltegelv\u00e4gen 1b\n72348 V\u00e4ster\u00e5s\nSchweden",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Cloudflare, Inc.\n101 Townsend St\nSan Francisco\nCA 94107\nUSA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Google Ireland Limited\nGordon House\nBarrow Street\nDublin 4\nIrland",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Instapage Inc.\n303 Second Street\nSuite 901 South Tower\nSan Francisco, CA 94107\nUSA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Microsoft Corporation\nOne Microsoft Way\nRedmond, WA 98052-6399\nUSA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Google LLC\n1600 Amphitheatre Parkway\nMountain View, California 94043\nUSA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Google LLC\n1600 Amphitheatre Parkway\nMountain View, California 94043\nUSA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Google Ireland Limited\nGordon House\nBarrow Street\nDublin 4\nIrland",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Es ist nicht auszuschlie\u00dfen, dass Google Ireland die von Ihnen verarbeiteten Informationen an einen Server von Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, \u00fcbermittelt und diese dort verarbeitet werden.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Sie haben gegebenenfalls auch das Recht zu verlangen, dass wir die personenbezogenen Daten direkt einem anderen Verantwortlichen \u00fcbermitteln, soweit dies technisch machbar ist;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Auskunft \u00fcber Ihre bei uns verarbeiteten personenbezogenen Daten zu erhalten und/oder Kopien dieser Daten zu verlangen. Dies schlie\u00dft Ausk\u00fcnfte \u00fcber den Zweck der Nutzung, die Kategorie der genutzten Daten, deren Empf\u00e4nger und Zugriffsberechtigte sowie, falls m\u00f6glich, die geplante Dauer der Datenspeicherung oder, falls dies nicht m\u00f6glich ist, die Kriterien f\u00fcr die Festlegung dieser Dauer, ein;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, g\u00e4ngigen und maschinenlesbaren Format zu verlangen und diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu \u00fcbermitteln;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Die Einwilligung zu verweigern oder \u2013 ohne Auswirkung auf die Rechtm\u00e4\u00dfigkeit der vor dem Widerruf erfolgten Datenverarbeitungen \u2013 Ihre Einwilligung zur Verarbeitung Ihrer personenbezogenen Daten jederzeit zu widerrufen;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Rechtliche Ma\u00dfnahmen zu ergreifen oder die Datenschutzaufsichtsbeh\u00f6rde anzurufen, wenn Sie der Ansicht sind, dass Ihre Rechte infolge einer nicht im Einklang mit den datenschutzrechtlichen Vorgaben stehenden Verarbeitung Ihrer personenbezogenen Daten verletzt wurden.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "Eine automatisierte Entscheidungsfindung \u2013 einschlie\u00dflich Profiling \u2013 erfolgt nicht.",
+    "inUse": true,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Wir passen den Datenschutzhinweis an ver\u00e4nderte Funktionalit\u00e4ten oder ge\u00e4nderte Rechtslagen an. Wir empfehlen Ihnen daher, unsere Datenschutzhinweise in regelm\u00e4\u00dfigen Abst\u00e4nden zur Kenntnis zu nehmen.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

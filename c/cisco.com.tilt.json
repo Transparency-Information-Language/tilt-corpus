@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "_id": "2af7d55e-f217-4a3c-8f21-7a152cf6a781",
+    "name": "Cisco",
+    "created": "2021-07-17T10:22:08.239232",
+    "modified": "2021-07-17T10:22:08.239259",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.cisco.com/c/de_de/about/legal/privacy-full.html",
+    "_hash": "e78bc6b2280a67b2f54b46e376b70c4f6d51409b614b409ea55d936a30de2921"
+  },
+  "controller": {
+    "name": "Cisco ",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "3f3b855a-9222-461f-a993-2c465a395149",
+      "category": "Wenn Sie unsere Websites besuchen, unsere L\u00f6sungen verwenden oder mit uns interagieren, erfassen wir m\u00f6glicherweise Daten, einschlie\u00dflich personenbezogener Daten. Wir erfassen auch personenbezogene Daten aus vertrauensw\u00fcrdigen Drittanbieterquellen und beauftragen Dritte mit der Erfassung von personenbezogenen Daten in unserem Namen.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "9ac9420b-a141-4b15-998e-e015c517469f",
+      "category": "Wenn Sie Cisco die personenbezogenen Daten eines Dritten zur Verf\u00fcgung stellen (wie Name, E-Mail-Adresse und Telefonnummer), erkl\u00e4ren Sie, dass Sie von diesem Dritten die Erlaubnis daf\u00fcr haben. Beispiele hierf\u00fcr sind die Weiterleitung von Referenz- oder Marketingmaterialien an Freunde oder die Vermittlung einer Arbeitsstelle. Dritte k\u00f6nnen den Bezug jeglicher zuk\u00fcnftigen Mitteilungen k\u00fcndigen, indem sie auf den Link in der urspr\u00fcnglichen Nachricht oder hier klicken. In einigen Situationen erfassen Cisco und die von uns beauftragten Drittanbieter m\u00f6glicherweise automatisch Daten mithilfe von Cookies, Weblogs, Web-Beacons oder \u00e4hnlichen Anwendungen. Diese Daten werden verwendet, um die Funktionsf\u00e4higkeit, Leistung und Effektivit\u00e4t der Website oder L\u00f6sung nachzuvollziehen und zu verbessern und um Funktionen, Inhalte oder Angebote besser f\u00fcr Sie zuzuschneiden. Weitere Informationen finden Sie im Abschnitt Cookies und andere Web-Technologien weiter unten.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Wir bem\u00fchen uns nach Treu und Glauben, begr\u00fcndeten Antr\u00e4gen auf Zugriff, L\u00f6schung, Aktualisierung, Unterdr\u00fcckung oder Korrektur Ihrer nachzukommen. Antr\u00e4ge werden innerhalb von 30 Tagen beantwortet. Sollten wir Ihrem Antrag nicht stattgeben oder mehr Zeit ben\u00f6tigen, informieren wir Sie \u00fcber unsere Gr\u00fcnde.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Wir bieten Ihnen verschiedene M\u00f6glichkeiten, auf Ihre personenbezogenen Daten zuzugreifen und sie zu korrigieren, zu unterdr\u00fccken oder zu l\u00f6schen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Falls Sie nicht m\u00f6chten, dass Cisco Ihre Daten zu Marketingzwecken an Dritte weitergibt, klicken Sie hier",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

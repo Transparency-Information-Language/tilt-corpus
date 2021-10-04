@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "_id": "1881a520-9916-4c07-a048-6d5805b9b34a",
+    "name": "SPD",
+    "created": "2021-07-21T13:58:27.423411",
+    "modified": "2021-07-21T13:58:27.423433",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.spd.de/site/datenschutz/",
+    "_hash": "d6eabe9c369e144114e76f964261cf170790cda048f0be52c63f5168df437937"
+  },
+  "controller": {
+    "name": "Sozialdemokratische Partei Deutschlands",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutzbeauftragter[at]spd.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "737d13ec-a15f-497f-9237-aa8dd6df15b6",
+      "category": "6. WOF\u00dcR WERDEN IHRE DATEN VERARBEITET?\na. Anfragen\nWenn Sie Fragen oder W\u00fcnsche haben, stehen wir Ihnen gerne zur Verf\u00fcgung. Wir verarbeiten Ihre Angaben zur Beantwortung Ihrer Anfragen (Art.6 Abs.1 b, f DSGVO). Die Mitteilung von als Pflichtangaben gekennzeichneten Adress- und Telekommunikationsdaten ist dabei erforderlich, um Ihr Anliegen bearbeiten und beantworten zu k\u00f6nnen. Die freiwillige Angabe weiterer Daten erleichtert uns die Bearbeitung Ihrer Anfrage.\n\nDie Angaben aus Ihrer Anfrage speichern wir nach Beantwortung der Anfrage im Regelfall f\u00fcr zw\u00f6lf Monate f\u00fcr den Fall weiterer Nachfragen, falls es sich nicht um Handels-oder Gesch\u00e4ftsbriefe handelt, diese speichern wir f\u00fcr mindestens sechs Jahre.\n\nb. Registrierung\nWir verarbeiten mit Ihrer jederzeit f\u00fcr die Zukunft widerruflichen Einwilligung Ihre erforderlichen Registrierungsangaben (Pflichtangaben, z.B. Name, E-Mail-Adresse, Benutzername und Passwort), die im Rahmen Ihrer Registrierung oder Nutzung freiwillig mitgeteilten weiteren Daten (z.B. Mitgliedsnummer, Geburtsdatum), Ihre Angaben aus Ihren vorherigen Registrierungen auf unseren Websites und ggfs. Ihre Aufgaben und Ihre Mitgliedschaft in der SPD \u2013 auch soweit Ihre politische Meinung betroffen ist \u2013 f\u00fcr die Bereitstellung und Ihre Nutzung der Funktionen in unseren passwortgesch\u00fctzten Bereichen zur Unterst\u00fctzung der SPD (Art.6 Abs.1 a, Art.9 Abs.2 DSGVO). Ihre SPD-Mitgliedschaft kann Ihnen Zugriff auf zus\u00e4tzliche Funktionen innerhalb des passwortgesch\u00fctzten Bereichs erm\u00f6glichen.\n\nDie Erteilung der Einwilligung ist f\u00fcr die Nutzung der passwortgesch\u00fctzten Bereiche erforderlich. Wird sie widerrufen, ist die Nutzung dieser Bereiche nicht mehr m\u00f6glich.\n\nDie Registrierungsangaben f\u00fcr Ihr Online-Konto speichern wir, bis Sie Ihr Online-Konto wieder aufheben, soweit keine andere Aufbewahrungszwecke entgegen stehen. Dies kann z.B. Ihre Mitgliedschaft (siehe Ziffer c.) sein.\n\nc. Mitgliedschaft\nIhre Daten, die Sie uns bei Ihrem Online-Antrag f\u00fcr Ihre Mitgliedschaft in der SPD mitteilen oder die wir im Laufe Ihrer Mitgliedschaft von Ihnen erfahren, werden entsprechend der SPD-Datenschutzrichtlinie verarbeitet. Dort finden Sie n\u00e4here Informationen.\n\n\nd. Spenden\nIhre erforderlichen Adress-, Telekommunikations-, Spenden- und Kontodaten aus Ihrer Spende werden \u2013 auch soweit Ihre politische Meinung betroffen ist \u2013 durch die Sozialdemokratische Partei Deutschlands (Parteivorstand) und ihren Dienstleister (Altruja GmbH, Augustenstra\u00dfe 62, 80333 M\u00fcnchen) zur Abwicklung Ihrer Spende verarbeitet (Art.6 Abs.1 b DSGVO).\n\nEine oder mehrere Zuwendungen einer Person an die Partei, deren Summe im Kalenderjahr den Betrag von 10.000 Euro \u00fcberschreitet, werden mit Namen und Anschrift des/der Zuwendenden sowie der Gesamth\u00f6he der Zuwendung in unserem j\u00e4hrlichen Rechenschaftsbericht ver\u00f6ffentlicht. Spenden, die im Einzelfall die Summe von 50.000 Euro \u00fcberschreiten, werden dem Bundestagspr\u00e4sidenten unverz\u00fcglich gemeldet, der sie zeitnah als Bundestagsdrucksache ver\u00f6ffentlicht. (Art.6 Abs.1 c DSGVO).\n\nIhre f\u00fcr die Spende relevanten Daten und die dazu geh\u00f6rigen Dokumente (z.B. Handelsbriefe, Spendenquittung, Zuwendungsbest\u00e4tigungen) speichern wir au\u00dferdem gem\u00e4\u00df der gesetzlichen Anforderungen nach den gesetzlichen Vorschriften f\u00fcr mindestens 10 Jahre.\n\ne. Online-Beitragsquittung\nIhre erforderlichen Daten (Mitgliedsnummer, Name und Anschrift, H\u00f6he des Beitrags, Status der Mitgliedschaft sowie IP-Adresse mit Datum und Uhrzeit) werden \u2013 auch soweit Ihre politische Meinung betroffen ist \u2013 durch die Sozialdemokratische Partei Deutschlands (Parteivorstand) und ihren Dienstleister (Mediakom GmbH & Co KG, Kampenwandstra\u00dfe 81 83229 Aschau i. Ch.) zur Abwicklung der Online-Beitragsquittierung verarbeitet (Art.6 Abs.1 b DSGVO).\n\nf. Informationen per E-Mail bzw. SMS\nMit Ihren jederzeit f\u00fcr die Zukunft widerruflichen, ausdr\u00fccklichen Einwilligungen benachrichtigen wir und falls angegeben unsere Gliederungen Sie per E-Mail bzw. SMS \u00fcber unsere politischen Themen und Veranstaltungen sowie \u00fcber detailliertere regionale politische Informationen und/oder unsere Pressemitteilungen (Art.6 Abs.1 a DSGVO).\n\nIhre verpflichtenden Angaben bei Erteilung Ihrer Einwilligung verarbeiten wir, um Ihnen die von Ihnen gew\u00e4hlten E-Mail-Nachrichten zusenden und Sie pers\u00f6nlich ansprechen zu k\u00f6nnen.\n\nZur Einholung Ihrer Einwilligungen verwenden wir online das sog. Double-Opt-in-Verfahren, um zu vermeiden, dass unsere E-Mail-Nachrichten an E-Mail-Adressen von Personen versandt werden, die diese nicht angefordert haben. Hierbei wird nach den Vorgaben der Datenschutzaufsichtsbeh\u00f6rden auch Ihre IP-Adresse erfasst und zu Dokumentationszwecken gespeichert. (Art.7 Abs.1, Art.6 Abs.1 c DSGVO).\n\nIhre f\u00fcr Zwecke der SMS-/E-Mail-Information erhobenen Daten speichern wir nur solange der Werbezweck besteht und rechtm\u00e4\u00dfig erreichbar ist, insbesondere nur bis uns ein Widerruf Ihrer Einwilligung oder Ihr Widerspruch gegen die Verarbeitung Ihrer Daten f\u00fcr Werbezwecke erreicht (s. Ziffer 7.). Soweit es sich bei E-Mail-Informationen um Handels- oder Gesch\u00e4ftsbriefe handelt, speichern wir diese f\u00fcr mindestens sechs Jahre.\n\ng. Presse-Anmeldungen\nBei einer Anmeldung zu einer Veranstaltung verarbeiten wir Ihre erforderlichen Adress- und Telekommunikationsdaten und Ihre Angaben zu Ihrer Redaktion bzw. Ihrer Funktion f\u00fcr Ihren Zugang zur Veranstaltung und die Zurverf\u00fcgungstellung eines Arbeitsplatzes (Art.6 Abs.1 b DSGVO).\n\nIhre f\u00fcr die Anmeldung relevanten Daten und die dazu geh\u00f6rigen Dokumente (z.B. Handelsbriefe, Best\u00e4tigungen) speichern wir gem\u00e4\u00df der gesetzlichen Anforderungen nach den gesetzlichen Vorschriften f\u00fcr mindestens sechs Jahre bzw. zehn Jahre.\n\nh. Online-Bewerbung\nWenn Sie sich auf eines unserer Stellenangebote bewerben, verarbeiten wir Ihre Adress-, Telekommunikations- und Bewerbungsdaten zur Bearbeitung Ihrer Bewerbung und im gesetzlich zul\u00e4ssigen Umfang f\u00fcr Zwecke Ihres sich ggfs. anschlie\u00dfenden Anstellungsverh\u00e4ltnisses (\u00a7 26 BDSG, Art. 9 Abs.2 DSGVO). Ihre Angaben sind freiwillig, und erm\u00f6glichen uns \u00fcber Ihre Anstellung urteilen bzw. mit Ihnen ggfs. zu Ihrer Bewerbung Kontakt aufnehmen zu k\u00f6nnen.\n\nEndet das Bewerbungsverfahren ohne Anstellung werden Ihre Daten regelm\u00e4\u00dfig noch sechs Monate zu Dokumentationszwecken gespeichert und danach ebenso wie die uns \u00fcbersandten Unterlagen gel\u00f6scht bzw. vernichtet, es sei denn Sie haben uns Ihre Einwilligung zur Verwendung der Daten f\u00fcr k\u00fcnftige Bewerbungsverfahren gegeben (Art.6 Abs.1 a, Art. 9 Abs.2 DSGVO).\n\ni. Verl\u00e4ngerte Speicherfristen\nDie angegebenen Speicherfristen k\u00f6nnen sich entsprechend verl\u00e4ngern, wenn im Einzelfall, insbesondere wenn die Daten f\u00fcr verschiedene Zwecke verarbeitet werden, eine l\u00e4ngere gesetzliche oder vertragliche Aufbewahrungsfrist oder -m\u00f6glichkeit besteht.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "7. JEDERZEITIGES WIDERSPRUCHS- UND WIDERRUFSRECHT\nSie haben das Recht, jederzeit aus Gr\u00fcnden, die sich aus Ihrer besonderen Situation ergeben, bei Vorliegen der gesetzlichen Voraussetzungen gegen die Verarbeitung Ihrer Daten Widerspruch einzulegen (Art.21 Abs.1 DSGVO).\n\nWenn Sie der Verarbeitung Ihrer Daten f\u00fcr Werbezwecke widersprechen (Art.21 Abs.2 DSGVO) oder eine erteilte Einwilligung widerrufen m\u00f6chten, gen\u00fcgt jederzeit eine kurze Nachricht an unseren Datenschutzbeauftragen per E-Mail an datenschutzbeauftragter[at]spd.de oder per Post an Sozialdemokratische Partei Deutschlands, Parteivorstand, Datenschutzbeauftragter, Wilhelmstra\u00dfe 141, 10963 Berlin. Ihre Daten werden dann nicht mehr f\u00fcr die vom Werbewiderspruch oder dem Widerruf der Einwilligung erfassten Zwecke der Werbung verarbeitet.\n\nDie Rechtm\u00e4\u00dfigkeit der bis zum Widerspruch bzw. Widerruf erfolgten Verarbeitung bleibt dadurch unber\u00fchrt.\n\nNach Ihrem Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten f\u00fcr Werbezwecke bzw. dem Widerruf Ihrer Einwilligung, sind wir datenschutzrechtlich nach den Vorgaben der deutschen Datenschutzaufsichtsbeh\u00f6rden verpflichtet, die hierf\u00fcr erforderlichen Daten (Name, Anschrift, E-Mail-Adresse) in unsere interne Werbesperrliste aufzunehmen und dauerhaft \u2013 nur f\u00fcr diesen Zweck \u2013 zu speichern (zu sperren) und zum Abgleich mit unseren k\u00fcnftigen Werbedateien zu verwenden. (Art.21 Abs.3, Art.17 Abs.3 b, Art.6 Abs. 1 c DSGVO). So l\u00e4sst sich die Beachtung Ihres Werbewiderspruch bzw. des Widerrufs Ihrer Einwilligung dauerhaft sicherstellen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "17. \u00c4NDERUNGEN\nVon Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Hinweise zum Datenschutz f\u00fcr zuk\u00fcnftig erhobene Daten anzupassen. Wir behalten uns daher vor, diese Hinweise jederzeit zu \u00e4ndern. Wir werden die ge\u00e4nderte Version der Datenschutzhinweise ebenfalls an dieser Stelle ver\u00f6ffentlichen. Wenn Sie uns wieder besuchen, sollten Sie sich daher die Datenschutzhinweise erneut durchlesen.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

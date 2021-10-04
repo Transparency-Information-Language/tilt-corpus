@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "_id": "5c8b83da-c90a-454d-a610-a0d777db5428",
+    "name": "GR\u00dcNE",
+    "created": "2021-07-21T13:59:26.965451",
+    "modified": "2021-07-21T13:59:26.965481",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.gruene.de/service/datenschutz",
+    "_hash": "88272faddfe0aa0997e5da611a239607d137e6ca4050a73ac64f34911f9377d5"
+  },
+  "controller": {
+    "name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+    "country": "Deutschland",
+    "address": " Platz vor dem Neuen Tor 1, 10115 Berlin.",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@gruene.de",
+    "phone": "02224/988290",
+    "country": " Deutschland",
+    "name": "SCO-CON:SULT",
+    "address": "Hauptstra\u00dfe 27, 53604 Bad Honnef"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "e2ddbcc9-511b-4c23-b9d3-41e075ca433e",
+      "category": "Unsere Website verwendet Matomo (150 Willis St, 6011 Wellington, New Zealand; vormals: Piwik)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "2f577e2f-7f8e-48be-a18b-ecc9d5a81227",
+      "category": "Cookies",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a7b01261-ee07-47a3-8ea4-67928971b05f",
+      "category": " IP-Adresse wird bei diesem Vorgang umgehend anonymisiert",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "Google auch Daten \u00fcber die Nutzung der Maps-Funktionen durch Besucher der Webseiten erhoben, verarbeitet und genutz",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Twitter",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Facebook, Facebook Messenger und WhatsApp",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "url": null,
+    "email": "datenschutz@gruene.de",
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "url": null,
+    "email": "datenschutz@gruene.de",
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "url": null,
+    "email": "datenschutz@gruene.de",
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "url": null,
+    "email": "datenschutz@gruene.de",
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

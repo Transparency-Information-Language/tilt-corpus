@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "_id": "94b90162-d6b1-472b-925a-d93dc85b915f",
+    "name": "ryanair",
+    "created": "2021-06-21T12:21:52.694158",
+    "modified": "2021-06-21T12:21:52.694178",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.ryanair.com/de/de/CorporateLinks/datenschutzbestimmung",
+    "_hash": "02f99ec2692f35f8d9711f9bfce1159beadd1cecf753a39c3962f23be8585841"
+  },
+  "controller": {
+    "name": "Ryanair",
+    "country": "Irland",
+    "address": "Ryanair Dublin Office, Airside Business Park, Swords, Co. Dublin",
+    "division": "die Hauptbetriebsgesellschaft der Ryanair Gruppe",
+    "representative": {
+      "name": " Ryanair D.A.C",
+      "email": "DPO@ryanair.com",
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "a4b725c3-6dab-4b2b-9b52-896ce1e1170e",
+      "category": "Name, Adresse, E-Mail-Adresse, Telefonnummer, Reisepassnummer und andere Angaben des Reisepasses oder eines anderen anerkannten Ausweisdokumentes, Kredit- oder Debitkarteninformationen sowie andere Zahlungsdetails",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "38a5e17e-760c-44cd-9fc4-bab1776e681d",
+      "category": "   zus\u00e4tzliche Fluggastinformationen, einschlie\u00dflich Ihres Namen, Ihrer Nationalit\u00e4t, Ihres Geburtsdatums, Ihres Geschlecht sowie Nummer, Ablaufdatum und Land der Ausstellung des Reisepasses oder Personalausweises",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f92d1e84-513d-48dc-b805-90b3bb8d077a",
+      "category": "    Gesundheitszustand bei Passagieren, die medizinische Hilfe ben\u00f6tigen und/oder bestimmte Ern\u00e4hrungsanforderungen einhalten m\u00fcssen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "ed1efb84-3ff7-415d-8327-4906033b3024",
+      "category": "   Reiseverlauf",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "2fe76fbc-e9f7-497f-a3f9-48fb18951c2f",
+      "category": "Informationen \u00fcber Reisevorlieben von Ihnen und Ihrer/n Begleitperson/en, die Sie in Ihrem myRyanair-Konto angeben",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "cb2b627e-bbcd-4822-979c-e54515899887",
+      "category": "    Informationen \u00fcber Ihre Eink\u00e4ufe von Produkten oder die Inanspruchnahme von Dienstleistungen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c849fd0f-840b-4891-80e7-ec050c10d66c",
+      "category": "   Informationen \u00fcber Ihre Nutzung unserer Webseite und/oder App",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "acd3c0a4-942c-4919-ab5a-eb6502e3f927",
+      "category": "Die Mitteilungen, die Sie \u00fcber Briefe, E-Mails, Chat-Dienste, Anrufe und soziale Medien mit uns austauschen oder uns senden",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7776b5f9-7100-4366-bcf3-d484255b360c",
+      "category": "Standort",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "Israel",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Marokko",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Jordanien",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "USA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

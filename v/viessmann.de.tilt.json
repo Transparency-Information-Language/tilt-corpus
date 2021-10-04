@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "_id": "630df240-fa0d-41ed-a76c-bbf8b616a759",
+    "name": "vinci",
+    "created": "2021-06-21T12:21:52.467823",
+    "modified": "2021-06-21T12:21:52.467890",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.viessmann.de/de/datenschutzerklaerung.html",
+    "_hash": "be3e356d6b4783cf65eceb9be0392822b869f3e5c07a6b1440a8f183964c9248"
+  },
+  "controller": {
+    "name": "VINCI",
+    "country": "Frankreich",
+    "address": "1 cours Ferdinand de Lesseps, F-92851 Rueil-Malmaison Cedex",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": "Frankreich",
+    "name": "Data Protection Officer",
+    "address": "1 cours Ferdinand de Lesseps, F-92851 Rueil-Malmaison Cedex,"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "bd0e6a82-4bd6-4d27-a8c9-98da1433cf7b",
+      "category": "Kontakte",
+      "purposes": [
+        {
+          "purpose": "Bearbeitung der Anfrage",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Bearbeitung der Anfrage"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": "erforderliche Zeit zur Bearbeitung der Anfrage",
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Erfassung personenbezogener Daten beruht auf freiwilliger Angabe mit Ausnahme der obigen Dienste, die bei Nichtangabe personenbezogener Daten nicht erbracht werden k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "608f5196-9f22-4989-8749-605030d89d4c",
+      "category": "Abo Pressemitteilungen",
+      "purposes": [
+        {
+          "purpose": "Abonnement-Verwaltung",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "solange das Abo besteht (Abos k\u00f6nnen jederzeit abbestellt werden)"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Verarbeitung personenbezogener Daten beruht auf der Einwilligung der Betroffenen, die ihre Einwilligung jederzeit widerrufen k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "bc8b876a-5d11-4b89-ada8-c3789a221e2d",
+      "category": "Karriere",
+      "purposes": [
+        {
+          "purpose": "Bearbeitung von Bewerbungen bei Stellenausschreibungen und von Stellenanzeigen-Abos",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "12 Monate ab Einreichung einer Bewerbung"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        },
+        {
+          "purposeConditional": [
+            "solange das Abo vom Nutzer nicht gel\u00f6scht wird"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Erfassung personenbezogener Daten beruht auf freiwilliger Angabe mit Ausnahme der obigen Dienste, die bei Nichtangabe personenbezogener Daten nicht erbracht werden k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7a34b341-6fce-481a-b598-77ca3cbdb4d5",
+      "category": "Bestellung von Gesch\u00e4ftsberichten",
+      "purposes": [
+        {
+          "purpose": "Bearbeitung der Bestellung",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "erforderliche Zeit zur Bearbeitung der Anfrage"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Erfassung personenbezogener Daten beruht auf freiwilliger Angabe mit Ausnahme der obigen Dienste, die bei Nichtangabe personenbezogener Daten nicht erbracht werden k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c0da645a-1d75-4d27-91c6-61b399ea2859",
+      "category": "Aktion\u00e4rsclub",
+      "purposes": [
+        {
+          "purpose": "Identifizierung, Verwaltung und Information der Mitglieder",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "solange der Account vom Nutzer nicht gel\u00f6scht wird"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Erfassung personenbezogener Daten beruht auf freiwilliger Angabe mit Ausnahme der obigen Dienste, die bei Nichtangabe personenbezogener Daten nicht erbracht werden k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7db0cf46-1dc2-45d9-88c3-5d6ef5a16902",
+      "category": "Zirkel der Belegschaftsaktion\u00e4re",
+      "purposes": [
+        {
+          "purpose": "Identifizierung, Verwaltung und Information der Mitglieder",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "solange der Account vom Nutzer nicht gel\u00f6scht wird"
+          ],
+          "legalBasisConditional": [],
+          "temporal": {
+            "description": null,
+            "ttl": null
+          },
+          "aggregationFunction": null
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Die Erfassung personenbezogener Daten beruht auf freiwilliger Angabe mit Ausnahme der obigen Dienste, die bei Nichtangabe personenbezogener Daten nicht erbracht werden k\u00f6nnen.",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Recht auf Auskunft",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Berichtigung",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "L\u00f6schung",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Einwilligung jederzeit widerrufen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Recht auf Widerspruch",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": "Data Protection Officer",
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

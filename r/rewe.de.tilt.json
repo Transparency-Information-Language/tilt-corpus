@@ -1,0 +1,1048 @@
+{
+  "meta": {
+    "_id": "1e350b3a-98e3-40cd-bfe2-f580798e341b",
+    "name": "rewe",
+    "created": "2021-06-21T12:21:52.355664",
+    "modified": "2021-06-21T12:21:52.355692",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.rewe.de/service/datenschutz/lieferservice-abholservice",
+    "_hash": "66e86086311e3b9bd0089eb4fe1aebe4fde00d6e8457e25fd251e4ea2b2a86c8"
+  },
+  "controller": {
+    "name": "REWE Markt GmbH",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@rewe.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "56c2dcbf-81d3-4000-98e0-ab9b7296fe25",
+      "category": "Wir verarbeiten deine personenbezogenen Daten, wenn du den REWE Liefer- oder Abholservice nutzt. Im Einzelnen k\u00f6nnen\ndies folgende Daten sein:\nDaten \u00fcber deine beim REWE Liefer- oder Abholservice oder im Markt get\u00e4tigten Eink\u00e4ufe (u.a. Waren/ Dienstleistungen,\nPreis, Rabattbetrag, Ort und Zeitpunkt des Vorgangs)\nDaten, die f\u00fcr den Kauf, die Abholung beim REWE Abholservice, inkl. Abholstation oder die Lieferung beim REWE\nLieferservice erworbenen Waren/ Dienstleistungen ben\u00f6tigt werden (Rechnungsadresse, Lieferadresse, Telefonnummer,\nbevorzugte Abhol- bzw. Lieferzeiten)\nDaten zur Zahlungsabwicklung (Kreditkartendaten, Kontodaten, PayPal-Daten)\nDaten zu deinen Versandeinstellungen (Lieferflat)\nDaten, die wir zur Alters\u00fcberpr\u00fcfung und zum Nachweis dieser ben\u00f6tigen (z.B. dein Geburtsdatum sowie ggf. den\nNachweis der entsprechenden Pr\u00fcfung bei der Bestellung im Onlineshop sowie bei der altersbeschr\u00e4nkten\nWarenausgabe vor Ort)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "8b9a2297-0bf8-45d9-ad62-ae8ecd118324",
+      "category": "Daten zu deiner Bonit\u00e4t (bei Auswahl einer Zahlungsart, welche mit einem finanziellen Ausfallrisiko verbunden ist),\nwelche wir bei Auskunfteien abfragen\nDaten \u00fcber Lieferadressen, welche unsere Auslieferungsfahrer bei der Auslieferung von Bestellungen erfassen, u.a.\nAngaben zur Parkplatzsituation\nDaten, die wir bei Postdienstleistern einholen, um die von dir angegebene Rechnungs- und Lieferadresse zu verifizieren,\nzu korrigieren oder zu vervollst\u00e4ndigen\nDaten, die wir zum Nachweis deiner Alters\u00fcberpr\u00fcfung ben\u00f6tigen (z.B. Angaben, ob du \u00fcber 18 Jahre alt bist, sowie ggf.\nden Nachweis der entsprechenden Pr\u00fcfung bei der altersbeschr\u00e4nkten Warenausgabe vor Ort)",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f1e00d31-3ec9-4523-8903-82850b1433b8",
+      "category": "Ort und Zeitpunkt des Vorgangs",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "8fcad5d8-6989-452c-95cc-006034d7e718",
+      "category": " Rabattbetrag",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "82a564e2-b960-4152-ab51-b3ee543ac6fa",
+      "category": "Preis",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "cab20252-6980-40ca-bdc2-9f3aa02f03ea",
+      "category": "Waren/ Dienstleistungen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "96285fee-eb77-4f2a-a3cc-988b5b81f7f6",
+      "category": "Rechnungsadresse",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a9b30533-246e-4a11-8a05-3b6440140d6e",
+      "category": "Lieferadresse",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "d4a6142c-7103-4d4c-a786-ec7e23927f94",
+      "category": "Telefonnummer",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a9dbbe74-99a5-445e-a53f-74bdd9aa7c16",
+      "category": "bevorzugte Abhol- bzw. Lieferzeiten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f8e57226-6124-4a65-b806-f3d9c5292132",
+      "category": "(Kreditkartendaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "5cbc23a1-97ec-4655-a3a2-90edec6656c6",
+      "category": "Kontodaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "33c916d0-bcdd-420b-872b-8cb800a89bb1",
+      "category": "PayPal-Daten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "166ccfb9-44a2-492a-bb7c-70e17e13c937",
+      "category": "Lieferflat",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "72a07687-35d9-438e-9803-85e41f9785be",
+      "category": "Geburtsdatum",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "d5a13b10-03ca-4a0f-a63a-aea539218087",
+      "category": "Nachweis der entsprechenden Pr\u00fcfung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "090a1737-c138-4c8e-abe8-29b686cb1fe8",
+      "category": "Daten zu deiner Bonit\u00e4t",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "1f61d975-3062-44f5-8be3-d39d251d3f57",
+      "category": "Daten \u00fcber Lieferadressen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c7c75b44-f040-4d84-a475-601647d14d87",
+      "category": "Daten, die wir bei Postdienstleistern einholen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "87ab338f-26cf-468a-a388-bafdf0e82a85",
+      "category": "Daten, die wir zum Nachweis deiner Alters\u00fcberpr\u00fcfung ben\u00f6tigen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": " Werden Daten au\u00dferhalb der Europ\u00e4ischen Union verarbeitet?\nF\u00fcr die Verarbeitung deiner Daten setzen wir auch Dienstleister ein, die sich in Drittl\u00e4ndern au\u00dferhalb der Europ\u00e4ischen Union\nbefinden. L\u00e4nder au\u00dferhalb der Europ\u00e4ischen Union handhaben den Schutz von personenbezogenen Daten anders als\nL\u00e4nder innerhalb der Europ\u00e4ischen Union. Es gibt aktuell keinen Beschluss der EU-Kommission, dass diese Drittl\u00e4nder\nallgemein ein angemessenes Schutzniveau bieten. Wir haben daher besondere Ma\u00dfnahmen getroffen, um sicherzustellen,\ndass deine Daten in den Drittl\u00e4ndern ebenso sicher wie innerhalb der Europ\u00e4ischen Union verarbeitet werden. Mit\nDienstleistern in Drittl\u00e4ndern schlie\u00dfen wir den von der Kommission der Europ\u00e4ischen Union f\u00fcr die Verarbeitung von\npersonenbezogenen Daten in Drittl\u00e4ndern bereitgestellten Datenschutzvertrag (Standard-Datenschutzklauseln) ab. Dieser\nsieht geeignete Garantien f\u00fcr den Schutz deiner Daten bei Dienstleistern im Drittland vor.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "10.2 Berichtigung\nSollten deine Angaben nicht (mehr) zutreffend sein, kannst du die Berichtigung deiner Daten verlangen. Sollten deine Daten\nunvollst\u00e4ndig sein, kannst du eine Vervollst\u00e4ndigung verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Du kannst Auskunft \u00fcber deine von uns verarbeiteten personenbezogenen Daten verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "10.3 L\u00f6schung\nDu hast das Recht, die L\u00f6schung deiner Daten zu verlangen. Bitte beachte, dass ein Anspruch auf L\u00f6schung von dem\nVorliegen eines legitimen Grundes abh\u00e4ngt. Zudem d\u00fcrfen keine Vorschriften bestehen, die uns zur Aufbewahrung deiner\nDaten verpflichten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "10.8 Daten\u00fcbertragbarkeit\nDu hast das Recht, personenbezogene Daten, die du uns mitgeteilt hast, in einem elektronischen Format zu erhalten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "10.9 Widerruf deiner Einwilligung\nDu hast das Recht, eine Einwilligung in die Verarbeitung deiner Daten, welche du uns gegen\u00fcber erteilt hast, jederzeit zu\nwiderrufen. Dies gilt auch f\u00fcr den Widerruf von Einwilligungserkl\u00e4rungen, die du uns gegen\u00fcber vor Geltung der DatenschutzGrundverordnung, also vor dem 25.05.2018, abgegeben hast. Am einfachsten kannst du eine von dir erteilte Einwilligung\nwiderrufen, indem du dich per E-Mail an die oben genannten Kontaktdaten wendest. Der Widerruf der Einwilligung ber\u00fchrt\nnicht die Rechtm\u00e4\u00dfigkeit der bis zum Widerruf durchgef\u00fchrten Verarbeitung deiner Daten.\nBitte beachte: Wenn du eine Einwilligung widerrufen m\u00f6chtest, welche du im Zusammenhang mit deiner Teilnahme am\nPAYBACK-Programm erteilt hast, wende dich bitte direkt an PAYBACK, z.B. online auf PAYBACK.de, telefonisch im PAYBACK\nService Center oder schriftlich an PAYBACK GmbH, Postfach 23 21 03, 85330 M\u00fcnchen. PAYBACK wird uns \u00fcber deinen\nWiderruf informieren.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "10.7 Beschwerderecht\nDu bist berechtigt, bei einer Datenschutzaufsichtsbeh\u00f6rde Beschwerde einzureichen, wenn du mit der Verarbeitung deiner\nDaten nicht einverstanden bist.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

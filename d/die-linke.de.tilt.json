@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "_id": "b869d5a5-ccca-4c88-a7b1-eeb790905d62",
+    "name": "DIE LINKE",
+    "created": "2021-07-21T14:02:51.616063",
+    "modified": "2021-07-21T14:02:51.616086",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.die-linke.de/seitenfuss/datenschutz/",
+    "_hash": "5c20d0baf6e1b33ad5660b4a24e0bb6a83b70163456d5fc87cbed5f236378dcd"
+  },
+  "controller": {
+    "name": "DIE LINKE",
+    "country": "Deutschland",
+    "address": "Puttkamerstr. 16 \u2013 18 (5. Etage",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "mailbox@datenschutz-berlin.de",
+    "phone": "030 2155050",
+    "country": null,
+    "name": null,
+    "address": "https://www.datenschutz-berlin.de/buergerinnen-und-buerger/ihre-beschwerde-bei-uns/"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "6eb1984f-0608-4d69-8361-3d86b0da84d4",
+      "category": "Browsertyp/ -version",
+      "purposes": [
+        {
+          "purpose": "statistischen Auswertung",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7f674a03-2086-4e55-98f1-2caa599292fc",
+      "category": "Referrer URL (die zuvor besuchte Seite) Uhrzeit der Serveranfrage.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "a1475233-7d76-4319-957a-9e65746e5968",
+      "category": " IP-Adresse aller Nutzer",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "1dbf8d90-496a-4ecd-9cee-e3e867527637",
+      "category": " Daten aus dem Spendenformular speichern und verarbeiten wir in Zusammenarbeit mit den am SEPA-Lastschri\ufffdverfahren bzw. Kartenzahlung beteiligten Banken gem\u00e4\u00df der Datenschutzvorschri\ufffden sowie der Vorschri\ufffden des Parteiengesetzes.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "Informationen \u00fcber abgerufene Kartenausschnitte \u00fcber den Browser an den Dienstleister Mapbox ",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "Daten, die an Mapbox \u00fcbermittelt werden, sind die Daten, die ein Browser grund- s\u00e4tzlich beim Aufruf von Websiten \u00fcbertr\u00e4gt:\nBrowsertyp/ -version\nverwendetes Betriebssystem\nReferrer URL (die zuvor besuchte Seite) Uhrzeit der Serveranfrage.\n\u00dcber ein von Mapbox an das Ger\u00e4t des Nutzenden \u00fcbermitteltes Session Cookie wird die Information, welcher Kartenausschnitt von dem Ger\u00e4t angefordert wird, an Mapbox \u00fcbertragen.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Recht auf Auskun\ufffd",
+    "url": "https://www.datenschutz-berlin.de/buergerinnen-und-buerger/ihre-beschwerde-bei-uns/",
+    "email": "mailbox@datenschutz-berlin.de",
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Beschwerderecht",
+    "url": "https://www.datenschutz-berlin.de/buergerinnen-und-buerger/ihre-beschwerde-bei-uns/",
+    "email": "mailbox@datenschutz-berlin.de",
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

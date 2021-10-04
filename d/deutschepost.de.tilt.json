@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "_id": "8820d45e-6f2a-401f-a005-0a7e9eaf1fcf",
+    "name": "Deutsche Post AG (deutschepost.de)",
+    "created": "2021-07-16T12:44:23.060853",
+    "modified": "2021-07-16T12:44:23.060880",
+    "version": 1,
+    "language": "en",
+    "status": "active",
+    "url": "https://www.deutschepost.de/en/f/footer/data-protection-and-cookies.html",
+    "_hash": "b3de10923d806f9a88e0a2a95d83672eb566d77b10ee44e96c167d396763b5f6"
+  },
+  "controller": {
+    "name": "Deutsche Post AG",
+    "country": "Germany",
+    "address": "Charles-de-Gaulle-Stra\u00dfe 20\n    53113 Bonn",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@dpdhl.com",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": "Deutsche Post AG\n     Gabriela Krader, LL.M\n     53250 Bonn, Germany"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "549b2b39-3bf7-427b-be15-85e5379455be",
+      "category": "IP",
+      "purposes": [
+        {
+          "purpose": "Google reCAPTCHA",
+          "description": "We use the reCAPTCHA service from Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) to protect our website against spam and misuse. reCAPTCHA prevents automated software (termed \u201cbots\u201d) from engaging in abusive activities on the website, i.e. it helps check whether the inputs are actually made by a human being. In order to determine this, the following data is transferred to Google:"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "ff20010a-2e63-48e4-87ac-a77380d3baf6",
+      "category": " Google account",
+      "purposes": [
+        {
+          "purpose": "Google reCAPTCHA",
+          "description": "We use the reCAPTCHA service from Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) to protect our website against spam and misuse. reCAPTCHA prevents automated software (termed \u201cbots\u201d) from engaging in abusive activities on the website, i.e. it helps check whether the inputs are actually made by a human being. In order to determine this, the following data is transferred to Google:"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "56b1b571-3e7b-4dbf-b4fd-772d5878565d",
+      "category": " input behavior",
+      "purposes": [
+        {
+          "purpose": "Google reCAPTCHA",
+          "description": "We use the reCAPTCHA service from Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) to protect our website against spam and misuse. reCAPTCHA prevents automated software (termed \u201cbots\u201d) from engaging in abusive activities on the website, i.e. it helps check whether the inputs are actually made by a human being. In order to determine this, the following data is transferred to Google:"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "869a647b-0183-4227-9c24-2e3037b6d01b",
+      "category": "connection data of the requesting computer",
+      "purposes": [
+        {
+          "purpose": "system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c4d7ddf7-97fe-433d-bd0b-cb173d6f2b9c",
+      "category": "which of our websites you visit",
+      "purposes": [
+        {
+          "purpose": "system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e86c0fe8-4033-44eb-b65a-0653443ffe69",
+      "category": "date",
+      "purposes": [
+        {
+          "purpose": " system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "131d7d92-841f-4c82-add4-60ebe45a9263",
+      "category": "length of your visit",
+      "purposes": [
+        {
+          "purpose": "system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3b0fb81d-bb16-44fc-b8db-0c333cedbee9",
+      "category": "data identifying the type of browser and operating system used",
+      "purposes": [
+        {
+          "purpose": "system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "c59a1133-29d0-4ace-b671-1f6326436243",
+      "category": "website from which you visit us",
+      "purposes": [
+        {
+          "purpose": "system security",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "USA",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "please contact: consentric@deutschepost.de.",
+    "url": null,
+    "email": "consentric@deutschepost.de",
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "If you exercise your right to object \u2013 especially to the use of your data for advertising purposes \u2013 please contact the address given in the relevant \u201cProducts and Services\u201d section.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

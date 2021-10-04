@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "_id": "fe2e8a06-9923-4c73-b48f-cf8375f6e305",
+    "name": "Siemens AG",
+    "created": "2021-07-16T12:31:59.852348",
+    "modified": "2021-07-16T12:31:59.852390",
+    "version": 1,
+    "language": "en",
+    "status": "active",
+    "url": "https://new.siemens.com/global/en/general/privacy-notice.html",
+    "_hash": "312d1f87dab3b0128b70cda72103220f86e701cef4c7b9d13e5816d77de91930"
+  },
+  "controller": {
+    "name": "Siemens Aktiengesellschaft",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "dataprotection@siemens.com",
+    "phone": null,
+    "country": null,
+    "name": "Data Privacy Organization",
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": [],
+      "category": [],
+      "purposes": [],
+      "legalBases": [],
+      "legitimateInterests": [],
+      "recipients": [],
+      "recipientsOnlyCategory": [],
+      "storage": [],
+      "nonDisclosure": []
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Obtain from us confirmation as to whether or not personal data concerning you are being processed, and where that is the case, access to the personal data;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Obtain from us the erasure of your personal data;",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Data portability concerning personal data, which you actively provided",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

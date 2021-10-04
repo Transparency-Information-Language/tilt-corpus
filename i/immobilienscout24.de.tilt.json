@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "_id": "5bba7283-8241-4715-bb1e-11b2efdced25",
+    "name": "Immobilienscout",
+    "created": "2021-07-21T13:49:49.766652",
+    "modified": "2021-07-21T13:49:49.766674",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.immobilienscout24.de/agb/datenschutz.html",
+    "_hash": "44d6748222429ac9a65a6eb5f491c0621e5db8859ce6311384b854f7a7b18d1b"
+  },
+  "controller": {
+    "name": "Immobilien Scout GmbH",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": [],
+      "category": [],
+      "purposes": [],
+      "legalBases": [],
+      "legitimateInterests": [],
+      "recipients": [],
+      "recipientsOnlyCategory": [],
+      "storage": [],
+      "nonDisclosure": []
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Auskunftsrecht",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "L\u00f6schung",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Daten\u00fcbertragbarkeit",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Widerspruchsrecht",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Beschwerderecht",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "\u00c4nderung",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

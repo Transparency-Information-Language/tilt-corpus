@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "_id": "fa42d13a-cdbc-4ffd-96f8-af78962f6b47",
+    "name": "CDU",
+    "created": "2021-07-21T13:57:17.132874",
+    "modified": "2021-07-21T13:57:17.132906",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.cdu.de/datenschutz",
+    "_hash": "f763ba7d3a57fa22cbbbe1901dad0207164e26e0dceed1de8311602f9f8e1697"
+  },
+  "controller": {
+    "name": "CDU Deutschlands",
+    "country": null,
+    "address": "Klingelh\u00f6ferstra\u00dfe 8, 10785 Berlin",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@cdu.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "61064fcb-403e-4a82-b493-c9f949f454bd",
+      "category": "\u00a7 5 Erhebung personenbezogener Daten bei Besuch unserer Website\n\n(1) Bei der blo\u00df informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen \u00fcbermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server \u00fcbermittelt. Wenn Sie unsere Website betrachten m\u00f6chten, erheben wir die folgenden Daten, die f\u00fcr uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilit\u00e4t und Sicherheit zu gew\u00e4hrleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO):\n\nAnonymisierte IP-Adresse\nDatum und Uhrzeit der Anfrage\nZeitzonendifferenz zur Greenwich Mean Time (GMT)\nInhalt der Anforderung (konkrete Seite)\nZugriffsstatus/HTTP-Statuscode\njeweils \u00fcbertragene Datenmenge\nWebsite, von der die Anforderung kommt\nBrowser\nBetriebssystem und dessen Oberfl\u00e4che\nSprache und Version der Browsersoftware.\nDiese Daten werden in einer Protokolldatei beim Server unserer Providers Union-Betriebs-GmbH, Egermannstra\u00dfe 2, 53359 Rheinbach, gespeichert. Die Speicherung dieser Daten dient dazu, die Sicherheit und Stabilit\u00e4t unserer Webseite zu optimieren sowie Angriffe auf unsere Webseite und Missbrauch erkennen und verfolgen zu k\u00f6nnen. Um die datenschutzkonforme Verarbeitung zu gew\u00e4hrleisten, haben wir einen Vertrag \u00fcber Auftragsverarbeitung mit unserem Hoster geschlossen. An dieser Verarbeitung haben wir ein berechtigtes Interesse. Rechtsgrundlage ist (Art 6 Abs. 1 lit f) DSGVO). Die Daten werden gel\u00f6scht, sobald sie f\u00fcr die Erreichung des Zwecks ihrer Erhebung nicht mehr ben\u00f6tigt werden.\n\n(2) Weiterhin werden bei Nutzung der Webseiten Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (in diesem Fall also uns), bestimmte Informationen zuflie\u00dfen. Cookies k\u00f6nnen keine Programme ausf\u00fchren oder Viren auf Ihren Computer \u00fcbertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen.\n\na) Diese Webseite nutzt Cookies in folgendem Umfang:\n\nTransiente Cookies (tempor\u00e4rer Einsatz)\nPersistente Cookies (zeitlich beschr\u00e4nkter Einsatz)\nThird-Party Cookies (von Drittanbietern)\nb) Transiente Cookies werden automatisiert gel\u00f6scht, wenn Sie den Browser schlie\u00dfen. Dazu z\u00e4hlen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zur\u00fcckkehren. Die Session-Cookies werden gel\u00f6scht, wenn Sie sich ausloggen oder den Browser schlie\u00dfen.\n\nc) Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gel\u00f6scht, die sich je nach Cookie unterscheiden kann. Sie k\u00f6nnen die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit l\u00f6schen.\n\nd) Welche Cookies, ihre Speicherdauer sowie deren Zweck entnehmen Sie bitte dem Cookie-Hinweis. Die Nutzung von Cookies k\u00f6nnen Sie in den Einstellungen Ihres jeweiligen Browsers einschr\u00e4nken oder und kann hier spezifisch f\u00fcr die Webseite eingeschr\u00e4nkt oder widerrufen werden.\n\ne) Sie k\u00f6nnen Ihre Browser-Einstellung entsprechend Ihren W\u00fcnschen konfigurieren und z. B. die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie eventuell nicht alle Funktionen dieser Website nutzen k\u00f6nnen.\n\nf) Die genutzten Flash-Cookies werden nicht durch Ihren Browser erfasst, sondern durch Ihr Flash-Plug-in. Weiterhin nutzen wir HTML5 storage objects, die auf Ihrem Endger\u00e4t abgelegt werden. Diese Objekte speichern die erforderlichen Daten unabh\u00e4ngig von Ihrem verwendeten Browser und haben kein automatisches Ablaufdatum. Wenn Sie keine Verarbeitung der Flash-Cookies w\u00fcnschen, m\u00fcssen Sie ein entsprechendes Add-On installieren, z. B. \u201eBetter Privacy\u201c f\u00fcr Mozilla Firefox (https://addons.mozilla.org/de/firefox/addon/betterprivacy/) oder das Adobe-Flash-Killer-Cookie f\u00fcr Google Chrome. Die Nutzung von HTML5 storage objects k\u00f6nnen Sie verhindern, indem Sie in Ihrem Browser den privaten Modus einsetzen. Zudem empfehlen wir, regelm\u00e4\u00dfig Ihre Cookies und den Browser-Verlauf manuell zu l\u00f6schen.\n\n\u00a7 6 Kontaktformular\n\n(1) Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und f\u00fcr den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n(2) Die Verarbeitung dieser Daten erfolgt auf der Grundlage von Art. 6 Abs. 1 lit. b D-GVO, sofern Ihre Anfrage mit der Erf\u00fcllung eines Vertrages zusammenh\u00e4ngt oder zur Durchf\u00fchrung vorvertraglicher Ma\u00dfnahmen erforderlich ist. In allen \u00fcbrigen F\u00e4llen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit f. DS-GVO) oder auf Ihrer Einwilligung (Art. 9 Abs. 2 lit a. DS-GVO).\n\n(3) Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur L\u00f6schung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck f\u00fcr die Datenspeicherung entf\u00e4llt ( z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen \u2013 insbesondere Aufbewahrungsfristen \u2013 bleiben unber\u00fchrt.\n\n\u00a7 7 Anfrage per E-Mail, Telefon usw.\n\n(1) Wenn Sie uns per E-Mail, Telefon oder dergleichen kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet.\n\n(2) Die Verarbeitung dieser Daten erfolgt auf der Grundlage von Art. 6 Abs. 1 lit. b D-GVO, sofern Ihre Anfrage mit der Erf\u00fcllung eines Vertrages zusammenh\u00e4ngt oder zur Durchf\u00fchrung vorvertraglicher Ma\u00dfnahmen erforderlich ist. In allen \u00fcbrigen F\u00e4llen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit f. DS-GVO) oder auf Ihrer Einwilligung (Art. 9 Abs. 2 lit a. DS-GVO).\n\n(3) Die von Ihnen im Kontaktanfrage eingegebenen Daten verbleiben bei uns, bis Sie uns zur L\u00f6schung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck f\u00fcr die Datenspeicherung entf\u00e4llt ( z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen \u2013 insbesondere Aufbewahrungsfristen \u2013 bleiben unber\u00fchrt.\n\n\u00a7 8 Newsletter\n\n(1) Mit Ihrer Einwilligung k\u00f6nnen Sie unseren Newsletter abonnieren, mit dem wir Sie \u00fcber die aktuelle politische Lage informieren. Der konkrete Newsletter ist in der entsprechenden Einwilligungserkl\u00e4rung benannt.\n\n(2) F\u00fcr die Anmeldung zu unserem Newsletter verwenden wir das sog. Double-opt-in-Verfahren. Das hei\u00dft, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir Sie um Best\u00e4tigung bitten, dass Sie den Versand des Newsletters w\u00fcnschen. Wenn Sie Ihre Anmeldung nicht innerhalb von 72 Stunden best\u00e4tigen, werden Ihre Informationen gesperrt und werden regelm\u00e4\u00dfig gel\u00f6scht. Dar\u00fcber hinaus speichern wir jeweils Ihre eingesetzten IP-Adressen und Zeitpunkte der Anmeldung und Best\u00e4tigung. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen m\u00f6glichen Missbrauch Ihrer pers\u00f6nlichen Daten aufkl\u00e4ren zu k\u00f6nnen. Die Datenverarbeitung im Zusammenhang mit der \u00dcbersendung der Best\u00e4tigungs-E-Mail f\u00fcr Ihre Anmeldung und die damit verbundene Datenprotokollierung erfolgt gem\u00e4\u00df Art. 6 Abs. 1 lit. f DS-GVO. aufgrund unseres berechtigten Interesses an dem Nachweis Ihrer ordnungsgem\u00e4\u00dfen Anmeldung.\n\nF\u00fcr den Versand des Newsletters setzen wir Dienstleister ein, denen wir die benannten Daten \u00fcbermitteln und mit denen Auftragsverarbeitungsvertr\u00e4ge geschlossen wurden.\n\n(3) Pflichtangabe f\u00fcr die \u00dcbersendung des Newsletters ist allein Ihre E-Mail-Adresse. Die Angabe weiterer, gesondert markierter Daten ist freiwillig und wird verwendet, um Sie pers\u00f6nlich ansprechen zu k\u00f6nnen. Nach Ihrer Best\u00e4tigung speichern wir Ihre E-Mail-Adresse zum Zweck der Zusendung des Newsletters. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a, Art. 9 Abs. 2 S. 1 lit. a DS-GVO. Die Einwilligung ist jederzeit widerrufbar.\n\n(4) Ihre Einwilligung in die \u00dcbersendung des Newsletters k\u00f6nnen Sie jederzeit widerrufen und den Newsletter abbestellen. Den Widerruf k\u00f6nnen Sie durch Klick auf den in jeder Newsletter-E-Mail bereitgestellten Link, per E-Mail an datenschutz@cdu.de oder durch eine Nachricht an die im Impressum angegebenen Kontaktdaten erkl\u00e4ren. Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse bei uns bzw. dem Newsletterdienstanbieter in einer Blackliste gespeichert, um k\u00fcnftige Mailings zu verhindern. Die Daten aus der Blacklist werden nur f\u00fcr diesen Zweck verwendet und nicht mit anderen Daten zusammengef\u00fchrt. Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DS-GVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. Sie k\u00f6nnen der Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse \u00fcberwiegen.\n\n(5) Sofern Sie uns Ihre Einwilligung erteilt haben, werten wir beim Newsletterversand Ihr Nutzerverhalten aus und speichern die Daten. Auch hierf\u00fcr nutzen wir das in Absatz 2 beschriebene Double-Opt-In-Verfahren. Das hei\u00dft, dass wir Ihnen nach Ihrer Anmeldung eine E-Mail an die angegebene E-Mail-Adresse senden, in welcher wir Sie um Best\u00e4tigung bitten. Zur Speicherung der Daten enthalten die versendeten E-Mails sogenannte Web-Bacons bzw. Tracking-Pixel, die Ein-Pixel-Bilddateien darstellen, die auf unserer Website gespeichert sind. F\u00fcr die Auswertungen verkn\u00fcpfen wir die in \u00a7 4 genannten Daten und die Web-Bacons mit Ihrer E-Mail-Adresse und einer individuellen ID. Dies erfolgt um Nachrichten und Newsletter zu personalisieren. Um Informationen und Angebote menschlich und pers\u00f6nlich zu gestalten, speichern und konsolidieren wir zum einen einzelne Aktivit\u00e4ten, um Informationen und Angebote gezielt an Einzelpersonen zu richten, und zum anderen gruppieren wir unsere Kontakte entsprechend ihrer Aktivit\u00e4ten um Informationen und Angebote auf unterschiedliche Interessen und Bed\u00fcrfnisse anpassen zu k\u00f6nnen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. a, Art. 9 Abs. 2 S. 1 lit. a DS-GVO. Die Einwilligung ist jederzeit widerrufbar.\n\nWir weisen ausdr\u00fccklich darauf hin, dass die genannte Profilbildung nicht einem Profiling im Sinne des Art. 22 DS-GVO dient, also zu einer automatisierten Entscheidung f\u00fchrt, die gegen\u00fcber Betroffenen rechtliche Wirkung entfaltet oder sie sonst erheblich beeintr\u00e4chtigt, sondern nur um Informationen und Angebote anbieten zu k\u00f6nnen, die den Newsletter-Abonnenten entsprechen.\n\n\u00a7 9 Pinnwand-Funktion\n\n(1) An einigen Stellen unserer Website haben Sie die M\u00f6glichkeit, Teile eines Textes zu markieren und sie entweder an unsere Website zu pinnen oder \u00fcber einen ausgew\u00e4hlten Social-Media-Kanal bzw. E-Mail zu teilen.\n\n(2) Wenn Sie den markierten Text pinnen m\u00f6chten, fragen wir nach Ihrem Vor- und Nachname. Ihr markierter Text wird auf unserer Website zusammen mit Ihren Initialen ver\u00f6ffentlicht (z.B. Max Mustermann wird zu M.M.)\n\nWir speichern jeweils Ihre eingesetzten IP-Adressen und Zeitpunkte des Pinn-Vorgangs. Zweck des Verfahrens ist, Ihre Anmeldung nachweisen und ggf. einen m\u00f6glichen Missbrauch Ihrer pers\u00f6nlichen Daten aufkl\u00e4ren zu k\u00f6nnen.\n\n(3) Wenn Sie den markierten Text teilen m\u00f6chten, werden keine weiteren personenbezogenen Daten von uns verarbeitet. Sie werden unsere Website verlassen und auf die entsprechende Sozial-Media-Seite weitergeleitet. Auf die von diesen Webseiten verarbeitenden personenbezogenen Daten haben wir keinen Einfluss.\n\n\u00a7 10 Weitere Funktionen und Angebote unserer Website\n\n(1) Neben der rein informatorischen Nutzung unserer Website bieten wir verschiedene Angebote an, die Sie bei Interesse nutzen k\u00f6nnen. Dazu m\u00fcssen Sie in der Regel weitere personenbezogene Daten angeben, die wir zur Erbringung der jeweiligen Angebote nutzen. Personenbezogene Daten werden bei folgenden Handlungen bzw. Aktionen abgefragt, wenn:\n\nInhalte eingesendet, bewertet, oder kommentiert werden,\neinem Voting teilgenommen wird,\ndie Teilnahme an Aktionen/Veranstaltungen bekannt gegeben wird,\nDownloads oder andere Inhalte angefordert werden,\nmittels Kontaktformular oder E-Mail aktiv Kontakt zu uns aufgenommen wird,\nauf Funktionen in E-Mails reagiert wird (sog. \u201eAction Links\u201c), oder uns sonstige, optionale Informationen zur Verf\u00fcgung gestellt werden.\n(2) Abh\u00e4ngig von der genauen Funktion der Website werden insbesondere folgende Daten von uns f\u00fcr die Verarbeitung gespeichert: Vorname, Nachname, Geburtsdatum, Geschlecht, Foto, Adresse, E-Mail, Telefonnummer, Registrierungsdatum, Benutzername, Passwort, IP-Adresse, an welchen Aktionen teilgenommen wurde, welche Aktivit\u00e4ten gesetzt wurden oder andere, im jeweiligen Formular explizit ersichtliche Daten (z.B. \u00fcbermittelte Inhalte).\n\n(3) Ver\u00f6ffentlichung von Daten: Manche Funktionen unserer Website k\u00f6nnen den Sinn und Zweck haben, von Nutzern bereitgestellte Daten zu ver\u00f6ffentlichen (Personenkomitees, Foto-Walls, etc.). Diese Daten werden nur nach vorheriger ausdr\u00fccklicher Einwilligung gem\u00e4\u00df Art. 9 Abs. 2 lit. d DS-GVO automatisiert verarbeitet und Profilen zugeordnet. Auch hier verwenden zur Verifizierung das in \u00a7 5 Abs. 2 beschrieben Double-Opt-In-Verfahren. Die Einwilligung kann jederzeit widerrufen werden.\n\n(4) Die in Absatz 2 und 3 angegebenen Daten werden nur nach vorheriger ausdr\u00fccklicher Einwilligung gem\u00e4\u00df Art. 9 Abs. 2 lit. d DS-GVO automatisiert verarbeitet und Profilen zugeordnet. Auch hier verwenden zur Verifizierung Ihrer Einwilligung f\u00fcr die Profilerstellung das in \u00a7 5 Abs. 2 beschrieben Double-Opt-In-Verfahren. Die Einwilligung kann jederzeit widerrufen werden.\n\n(5) Wir weisen ausdr\u00fccklich darauf hin, dass die genannte Profilbildung nicht einem Profiling im Sinne des Art. 22 DS-GVO dient, also zu einer automatisierten Entscheidung f\u00fchrt, die gegen\u00fcber Betroffenen rechtliche Wirkung entfaltet oder sie sonst erheblich beeintr\u00e4chtigt, sondern nur um Informationen und Angebote anbieten zu k\u00f6nnen, die den Newsletter-Abonnenten entsprechen.\n\n(6) Teilweise bedienen wir uns zur Verarbeitung Ihrer Daten externer Dienstleister. Diese wurden von uns sorgf\u00e4ltig ausgew\u00e4hlt und beauftragt, sind an unsere Weisungen gebunden und werden regelm\u00e4\u00dfig kontrolliert.\n\n(7) Soweit unsere Dienstleister oder Partner ihren Sitz in einem Staat au\u00dferhalb des Europ\u00e4ischen Wirtschaftsraumen (EWR) haben, informieren wir Sie \u00fcber die Folgen dieses Umstands in der Beschreibung des Angebotes.\n\n\u00a7 11 Spenden\n\n(1) Wenn Sie uns eine Spende zukommen lassen wollen, werden wir Sie nach Ihren personenbezogenen Daten fragen. Hierbei handelt es sich um besondere Kategorien personenbezogener Daten gem\u00e4\u00df Art. 9 Abs. 1 Datenschutz-Grundverordnung (politische Meinung). Diese Angaben werden ben\u00f6tigt, um eine Spendenbescheinigung ausstellen zu k\u00f6nnen und wir verarbeiten sie gem\u00e4\u00df Art. 9 Abs. 2 lit. d) Datenschutz-Grundverordnung auf der Grundlage geeigneter Garantien im Rahmen unserer rechtm\u00e4\u00dfigen T\u00e4tigkeiten verarbeitet.\n\n(2) Bitte beachten Sie zudem, dass die Person, die spenden m\u00f6chte, mit dem Kreditkartenbesitzer bzw. Kontoinhaber identisch sein muss.\n\n(3) Sofern Sie eine oder mehrere Spendenzuwendungen ab 10.000 Euro an uns \u00fcbermitteln, werden Ihre personenbezogenen Daten (Name, ggf. Unternehmen, Anschrift und H\u00f6he der Zuwendung) gem\u00e4\u00df \u00a7 25 Abs. 3 Satz 1 Parteiengesetz in unserem Rechenschaftsbericht ver\u00f6ffentlicht. Gem\u00e4\u00df \u00a7 25 Abs. 3 Satz 2 und 3 des Parteiengesetzes werden wir Spenden, die im Einzelfall die H\u00f6he von 50.000 Euro \u00fcbersteigen, dem Pr\u00e4sidenten des Deutschen Bundestages unverz\u00fcglich anzeigen. Ihre personenbezogenen Daten sowie die Summe der Spende werden als Bundestagsdrucksache und auf der Website des Bundestags ver\u00f6ffentlicht. Rechtsgrundlage ist Art.6 Abs.1 c DS-GVO in Verbindung mit dem Parteiengesetz. Ihre f\u00fcr die Spende relevanten Daten und die dazu geh\u00f6rigen Dokumente (z.B. Handelsbriefe, Spendenquittung, Zuwendungsbest\u00e4tigungen) speichern wir au\u00dferdem gem\u00e4\u00df der gesetzlichen Anforderungen nach den gesetzlichen Vorschriften f\u00fcr mindestens 10 Jahre.\n\n(4) Unsere Online-Spenden wickeln wir \u00fcber den Auftragsverarbeiter Gr\u00fcn Software AG ab, mit dem wir einen Auftragsverarbeitungsvertrag geschlossen haben. Das garantiert f\u00fcr Sie Sicherheit beim Spenden und bedeutet f\u00fcr uns weniger Verwaltungsaufwand. Die Rechtsgrundlage Mehr Informationen hierzu finden Sie unter www.gruen.net/spendino\n\n\u00a7 12 Mitgliedschaft\n\nIhre besonderen personenbezogenen Daten gem\u00e4\u00df Art. 9 DS-GVO, die Sie uns bei Ihrem Online-Antrag f\u00fcr Ihre Mitgliedschaft in der CDU Deutschlands mitteilen oder die wir im Laufe Ihrer Mitgliedschaft von Ihnen erfahren, werden entsprechend der Art. 9 Abs. 9 lit. d DS-GVO im Rahmen der rechtm\u00e4\u00dfigen T\u00e4tigkeiten in Verbindung mit dem Statut der CDU Deutschlands verarbeitet.\n\n\u00a7 13 Bewerbungen\n\n(1) Wenn Sie sich auf eines unserer Stellenangebote bewerben, verarbeiten wir Ihre Adress-, Telekommunikations- und Bewerbungsdaten zur Bearbeitung Ihrer Bewerbung und im gesetzlich zul\u00e4ssigen Umfang f\u00fcr Zwecke Ihres sich ggfs. anschlie\u00dfenden Anstellungsverh\u00e4ltnisses (\u00a7 26 BDSG, Art. 9 Abs. 2 DSGVO). Ihre Angaben sind freiwillig, und erm\u00f6glichen uns \u00fcber Ihre Anstellung urteilen bzw. mit Ihnen ggfs. zu Ihrer Bewerbung Kontakt aufnehmen zu k\u00f6nnen.\n\n(2) Endet das Bewerbungsverfahren ohne Anstellung werden Ihre Daten regelm\u00e4\u00dfig noch sechs Monate zu Dokumentationszwecken gespeichert und danach ebenso wie die uns \u00fcbersandten Unterlagen gel\u00f6scht bzw. vernichtet, es sei denn Sie haben uns Ihre Einwilligung zur Verwendung der Daten f\u00fcr k\u00fcnftige Bewerbungsverfahren gegeben (Art.6 Abs.1 a, Art. 9 Abs.2 DSGVO).\n\n(3) Die angegebenen Speicherfristen k\u00f6nnen sich entsprechend verl\u00e4ngern, wenn im Einzelfall, insbesondere wenn die Daten f\u00fcr verschiedene Zwecke verarbeitet werden, eine l\u00e4ngere gesetzliche oder vertragliche Aufbewahrungsfrist oder -m\u00f6glichkeit besteht.",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": "\u00a7 4 Hinweis zur Datenweitergabe in die USA\n\nAuf unserer Webseite sind unter anderem Tools von Unternehmen mit Sitz in den USA eingebunden. Wenn Sie diese Tools aktiviert haben, k\u00f6nnen ihre personenbezogenen Daten an die US-Server der jeweiligen Unternehmen weitergegeben werden. Wir wiesen darauf hin, dass die USA kein sicherer Drittstaat im Sinne des EU-Datenschutzrechts sind. US-Unternehmen sind dazu verpflichtet, personenbezogenen Daten an Sicherheitsbeh\u00f6rden herauszugeben, ohne dass Sie als Betroffener hiergegen gerichtlich vorgehen k\u00f6nnten. Es kann daher nicht ausgeschlossen werden, dass US-Beh\u00f6rden (z. B. Geheimdienste) ihre auf US-Servern befindlichen Daten zu \u00fcberwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Wir haben auf diese Verarbeitungst\u00e4tigkeiten keinen Einfluss.",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Recht auf Auskunft,",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Recht auf Berichtigung oder L\u00f6schung,",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Recht auf Daten\u00fcbertragbarkeit.\nDaten\u00fcbertragbarkeit",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Recht auf Widerspruch gegen die Verarbeitung, (siehe \u00a7 11)\nWiderruf Ihrer gegebenen Einwilligung mit Wirkung f\u00fcr die Zukunft (siehe \u00a7 11)",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbeh\u00f6rde \u00fcber die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Hinweis zur Beschwerde bei einer Aufsichtsbeh\u00f6rde: Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht einem Betroffenen das Recht auf Beschwerde bei einer Aufsichtsbeh\u00f6rde \u2013 insbesondere im Mitgliedstaat des Aufenthaltsortes des Nutzers, des Arbeitsplatzes des Nutzers oder des Orts des mutma\u00dflichen Versto\u00dfes \u2013 zu, wenn der Nutzer der Ansicht ist, dass die Verarbeitung seiner personenbezogenen Daten durch uns gegen die DS-GVO verst\u00f6\u00dft. Eine Liste der Aufsichtsbeh\u00f6rden in Deutschland finden Sie hier: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "\u00a7 15 Keine automatisiere Entscheidungsfindung (einschlie\u00dflich Profiling) Wir haben nicht die Absicht, von Ihnen erhobene personenbezogene Daten f\u00fcr ein Verfahren zur automatisierten Entscheidungsfindung (einschlie\u00dflich Profiling) zu verwenden.",
+    "inUse": true,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

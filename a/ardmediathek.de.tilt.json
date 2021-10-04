@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "_id": "70032530-fe1a-41b1-9b77-d250025252c9",
+    "name": "ARD Mediathek",
+    "created": "2021-07-17T10:28:28.647078",
+    "modified": "2021-07-17T10:28:28.647097",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.ardmediathek.de/datenschutz/",
+    "_hash": "38fffdffae5f7900edc9cf0d49f507f0da6407a66d2a2a100e2fcfaa61f84435"
+  },
+  "controller": {
+    "name": "S\u00fcdwestrundfunk (SWR)",
+    "country": null,
+    "address": "Neckarstra\u00dfe 230\n70190 Stuttgart",
+    "division": null,
+    "representative": {
+      "name": "Prof. Dr. Kai Gniffke",
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@swr.de",
+    "phone": null,
+    "country": null,
+    "name": "Prof. Dr. Armin Herb",
+    "address": "Neckarstra\u00dfe 230\n70190 Stuttgart"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "454308c8-6860-464b-9881-7e6449bb73ba",
+      "category": "Cookies",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Bei ARD Online werden aus technischen Gr\u00fcnden sogenannte Cookies eingesetzt, um Ihnen einen komfortableren Zugriff auf unsere Angebote zu erm\u00f6glichen.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn Sie nicht m\u00f6chten, dass wir Ihren Computer wiedererkennen, k\u00f6nnen Sie in Ihrem Browser das Speichern von Cookies deaktivieren. Auf vielen TV-Ger\u00e4ten k\u00f6nnen die Cookies im Einstellungsmen\u00fc des Herstellers deaktiviert werden. Unsere Angebote k\u00f6nnen auch ohne Cookies genutzt werden.",
+        "legalRequirement": false,
+        "contractualRegulation": true,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "73a5daf3-eda8-4e45-bf5d-ff26fac0f9c9",
+      "category": "Z\u00e4hlpixel",
+      "purposes": [
+        {
+          "purpose": "statistische Zwecke",
+          "description": "um die Zugriffe auf unsere Angebote messen und unsere Angebote optimieren zu k\u00f6nnen"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Rechtsgrundlage ist insoweit hinsichtlich der Panelteilnehmer Art. 6 (1) a DSGVO",
+          "description": "Diese Messung erfolgt vollst\u00e4ndig anonym, sofern nicht eine Nutzerin oder ein Nutzer Mitglied des von der GfK f\u00fcr die AGF betriebenen Fernsehforschungspanels ist. Nur deren Nutzung kann identifiziert und den Panelmitgliedern zugeordnet werden. Diese haben im Rahmen ihrer Panelteilnahme in die Verarbeitung ihrer personenbezogenen Daten eingewilligt."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": "INFOnline",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": " GfK",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "SurveyMonkey",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Zlyde",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Rock Content",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "OneSignal",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Bunchbox GmbH",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Adjust",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Google",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Facebook, Instagram, Twitter und YouTube",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": "sozialen Netzwerken"
+        },
+        {
+          "name": "AT Internet",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "71d8d45b-c609-466c-a242-c071ea16aa31",
+      "category": "E-Mail-Adresse",
+      "purposes": [
+        {
+          "purpose": "um Ihnen den jeweiligen Newsletter schicken zu k\u00f6nnen",
+          "description": "Diese Dienste erm\u00f6glicht es uns, den Newsletter-Versand zu organisieren und die Nutzung des Newsletters zu analysieren."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "Einwilligung",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": "CleverReach",
+          "country": "Deutschland",
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        },
+        {
+          "name": "Rapidmail",
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": {
+            "name": null,
+            "email": null,
+            "phone": null
+          },
+          "category": null
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "20dd3b72-a998-46a9-bfd2-d1cde37dd333",
+      "category": "Name, Geburtsjahr, Bundesland und Herkunftsland",
+      "purposes": [
+        {
+          "purpose": "erh\u00f6hen aber die Qualit\u00e4t der Empfehlungen unserer Produkte",
+          "description": "Nach erfolgreicher Registrierung werden Ihre Nutzungsdaten mit Ihrem Profil verkn\u00fcpft und gespeichert."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Art. 6 Abs. 1 lit. b DSGVO",
+          "description": "um Ihnen die von Ihnen ausgew\u00e4hlten Angebote von ARD Online zur Verf\u00fcgung stellen zu k\u00f6nnen."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "um Ihnen die von Ihnen ausgew\u00e4hlten Angebote von ARD Online zur Verf\u00fcgung stellen zu k\u00f6nnen.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Sie k\u00f6nnen Ihre pers\u00f6nlichen Daten einsehen",
+    "url": null,
+    "email": "datenschutz@swr.de",
+    "identificationEvidences": [
+      "Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten \u00fcbermittelt haben. Der Datenschutzbeauftragte steht Ihnen auch f\u00fcr weitere Fragen zur Verarbeitung ihrer pers\u00f6nlichen Daten durch ARD.de, die ARD Mediathek oder die ARD Audiothek, zum Datenschutz im Bereich des Rundfunks, einschlie\u00dflich des Datenschutzes des Rundfunkbeitrags und des Beitragsservice zur Verf\u00fcgung."
+    ]
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Sie k\u00f6nnen Ihre pers\u00f6nlichen Daten einsehen, \u00e4ndern oder daraus pers\u00f6nliche Daten entfernen.",
+    "url": null,
+    "email": "datenschutz@swr.de",
+    "identificationEvidences": [
+      "Bitte nennen Sie dabei das jeweilige Angebot, um das es geht oder an das Sie Ihre Daten \u00fcbermittelt haben."
+    ]
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Sie haben jederzeit die M\u00f6glichkeit, der anonymen Erfassung Ihrer Nutzungsvorg\u00e4nge durch diese externen Dienste zu widersprechen",
+    "url": null,
+    "email": "datenschutz@swr.de",
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung der Sie betreffenden personenbezogenen Daten durch ARD Online in Ihren schutzw\u00fcrdigen Interessen verletzt sind, steht Ihnen das Recht auf Beschwerde bei der datenschutzrechtlichen Aufsichtsbeh\u00f6rde zu.",
+    "url": "https://www.swr.de/unternehmen/datenschutz",
+    "email": "datenschutz@swr.de",
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": "Prof. Dr. Armin Herb",
+      "address": "Neckarstra\u00dfe 230\n70190 Stuttgart",
+      "country": null,
+      "email": "datenschutz@swr.de",
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

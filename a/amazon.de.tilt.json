@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "_id": "2ef0797c-273d-4956-8660-7ec973c8ee67",
+    "name": "amazon",
+    "created": "2021-07-07T15:41:08.023941",
+    "modified": "2021-07-07T15:41:08.023975",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
+    "_hash": "6736ae8ea979b1b3983aa86c0dcb3aaacc8a51018a94af85c549b9e0854e397e"
+  },
+  "controller": {
+    "name": "Amazon Europe Core S.\u00e0.r.l., die Amazon EU S.\u00e0.r.l, die Amazon Services Europe S.\u00e0.r.l. und die Amazon Media EU S.\u00e0.r.l.",
+    "country": "Luxemburg",
+    "address": "38, avenue John F. Kennedy, L-1855",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": "eu-privacy@amazon.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "296ca805-2161-48a6-8adb-227d96dc8838",
+      "category": "Informationen, die Sie uns geben: Wir erfassen und speichern alle Informationen, die Sie uns im Zusammenhang mit Amazon Services \u00fcbermitteln. ",
+      "purposes": [
+        {
+          "purpose": "Wir verarbeiten Ihre pers\u00f6nlichen Informationen, um die Amazon Services, die wir unseren Kunden anbieten, zu betreiben, bereitzustellen und zu verbessern.",
+          "description": "Kauf und Lieferung von Produkten und Dienstleistungen. Wir verwenden Ihre pers\u00f6nlichen Informationen, um Bestellungen entgegenzunehmen und abzuwickeln, Produkte und Dienstleistungen zu liefern, Zahlungen abzuwickeln und mit Ihnen \u00fcber Bestellungen, Produkte, Dienstleistungen und Werbeangebote zu kommunizieren.\nBereitstellung, Fehlerbehebung und Verbesserung der Amazon Services. Wir nutzen Ihre pers\u00f6nlichen Informationen, um Funktionen bereitzustellen, Leistungen zu analysieren, Fehler zu beheben und die Benutzerfreundlichkeit und Effektivit\u00e4t der Amazon Services zu verbessern.\nEmpfehlungen und Personalisierung. Wir verarbeiten Ihre pers\u00f6nlichen Informationen, um Funktionen, Produkte und Dienstleistungen zu empfehlen, die f\u00fcr Sie von Interesse sein k\u00f6nnten, um Ihre Pr\u00e4ferenzen zu ermitteln und Ihre Erfahrungen mit Amazon Services zu personalisieren.\nBereitstellung von Sprach-, Bild- und Kameradiensten. Wenn Sie unsere Sprach-, Bild- und Kameradienste nutzen, verarbeiten wir Ihre Spracheingabe, Ihre Bilder und Videos und andere pers\u00f6nliche Informationen, um auf Ihre Anfragen zu antworten, Ihnen den gew\u00fcnschten Dienst zu erbringen und unsere Amazon Services Angebote zu verbessern. F\u00fcr weitere Informationen \u00fcber Alexa Sprachdienste, klicken Sie hier.\nEinhaltung rechtlicher Verpflichtungen. In bestimmten F\u00e4llen erheben und nutzen wir Ihre pers\u00f6nlichen Informationen, um unsere gesetzlichen Verpflichtungen zu erf\u00fcllen. Zum Beispiel sammeln wir von Verk\u00e4ufern Informationen bez\u00fcglich des Sitzes und ihren Bankkontoinformationen zum Zwecke der Identit\u00e4tspr\u00fcfung und zu weiteren Zwecke.\nKommunikation mit Ihnen. Wir verwenden Ihre pers\u00f6nlichen Informationen, um mit Ihnen \u00fcber verschiedene Kan\u00e4le (z.B. per Telefon, E-Mail, Chat) bez\u00fcglich Amazon Services zu kommunizieren.\nAnzeigen. Wir verwenden Informationen wie Ihre Interaktionen mit Amazon Websites, Inhalte oder Dienstleistungen, um interessenbezogene Anzeigen f\u00fcr Funktionen, Produkte und Dienstleistungen zu schalten, die f\u00fcr Sie von Interesse sein k\u00f6nnten. Wir verwenden keine Informationen, die Sie pers\u00f6nlich identifizieren, zur Anzeige interessenbasierter Werbung. Um mehr zu erfahren, lesen Sie bitte unsere Hinweise zur interessenbasierten Werbung.\nBetrugspr\u00e4vention und Kreditrisiken. Wir verarbeiten pers\u00f6nliche Informationen, um Betrug und Missbrauch zu verhindern oder aufzudecken, um die Sicherheit unserer Kunden, von Amazon Europe und Dritten zu sch\u00fctzen. Zur Bewertung von und dem Umgang mit Kreditrisiken setzen wir gegebenenfalls auch Scoring-Verfahren ein.\nZwecke, f\u00fcr die wir Ihre Einwilligung einholen. Eventuell bitten wir Sie um Ihre Einwilligung, Ihre pers\u00f6nlichen Informationen f\u00fcr einen speziellen Zweck zu verarbeiten, den wir Ihnen mitteilen werden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": "Die EU-DSGVO verlangt eine Rechtsgrundlage f\u00fcr unsere Verarbeitung von pers\u00f6nlichen Informationen. Unsere Rechtsgrundlage h\u00e4ngt vom jeweiligen Zweck der Datenverarbeitung ab. ",
+          "description": "Durchf\u00fchrung eines Vertrags, wenn wir Ihnen ein Produkt oder eine Dienstleistung zur Verf\u00fcgung stellen, oder mit Ihnen diesbez\u00fcglich kommunizieren. Dies beinhaltet die Verarbeitung Ihrer pers\u00f6nlichen Informationen zur Annahme und Abwicklung von Bestellungen, Auslieferung von Produkten und Dienstleistungen und zur Zahlungsabwicklung.\nUnsere berechtigten gesch\u00e4ftlichen Interessen und die Interessen unserer Kunden, wenn wir Amazon Dienste verbessern (u.a. wenn wir Ihre Stimmeingaben, Videos oder Kameradaten zur Verbesserung von Diensten nutzen), wenn wir Betrug oder Missbrauch aufdecken und vorbeugen, um die Sicherheit unserer Kunden, unsere eigene Sicherheit und die von Dritten zu sch\u00fctzen, und wenn wir Ihnen interessenbasierte Werbung anzeigen.\nIhre Einwilligung, wenn wir Sie f\u00fcr einen bestimmten, Ihnen mitgeteilten Zweck nach Ihrer Einwilligung in die Verarbeitung Ihrer pers\u00f6nlichen Informationen fragen. Wenn Sie in die Verarbeitung Ihrer pers\u00f6nlichen Informationen durch uns f\u00fcr einen bestimmten Zweck einwilligen, k\u00f6nnen Sie Ihre Einwilligung jederzeit widerrufen und wir werden Ihre Daten dann nicht mehr f\u00fcr diesen Zweck verarbeiten.\nGesetzliche Pflichten, wenn wir Ihre pers\u00f6nlichen Informationen verarbeiten, um eine gesetzliche Verpflichtung zu erf\u00fcllen. Zum Beispiel erheben wir den Sitz und Kontodaten von Verk\u00e4ufern zum Zweck des Identit\u00e4tsnachweises."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "5b150c7e-c611-4ee6-806b-f5689fd7e95d",
+      "category": "Informationen aus anderen Quellen: Gelegentlich nutzen wir auch Informationen \u00fcber Sie aus anderen Quellen, wie z.B. aktualisierte Liefer- und Adressinformationen unserer Spediteure, die wir verwenden, um unsere Aufzeichnungen zu korrigieren und Ihren n\u00e4chsten Einkauf einfacher zu liefern. ",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Zus\u00e4tzlich haben Sie, innerhalb des jeweils geltenden Rechts, das Recht, Auskunft, Berichtigung und L\u00f6schung Ihrer pers\u00f6nlichen Informationen zu verlangen. Weiterhin steht Ihnen das Recht auf Daten\u00fcbertragbarkeit zu.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Zus\u00e4tzlich haben Sie, innerhalb des jeweils geltenden Rechts, das Recht, Auskunft, Berichtigung und L\u00f6schung Ihrer pers\u00f6nlichen Informationen zu verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Zus\u00e4tzlich haben Sie, innerhalb des jeweils geltenden Rechts, das Recht, Auskunft, Berichtigung und L\u00f6schung Ihrer pers\u00f6nlichen Informationen zu verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Weiterhin steht Ihnen das Recht auf Daten\u00fcbertragbarkeit zu. Sie k\u00f6nnen unserer Datenverarbeitung widersprechen oder in speziellen F\u00e4llen die Beschr\u00e4nkung der Datenverarbeitung von uns verlangen. ",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Haben Sie in die Verarbeitung Ihrer Informationen f\u00fcr einen bestimmen Zweck eingewilligt, k\u00f6nnen Sie diese Einwilligung jederzeit widerrufen und wir werden Ihre Informationen f\u00fcr diesen Zweck nicht weiter verarbeiten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Sie k\u00f6nnen eine Beschwerde bei unserer federf\u00fchrenden Aufsichtsbeh\u00f6rde, der Commission Nationale pour la Protection des Donn\u00e9es in Luxemburg [externer Link], sowie bei einer lokalen Beh\u00f6rde einreichen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "Automatische Informationen\nBeispiele f\u00fcr Informationen, die wir sammeln und analysieren, beinhalten:\n\nDie Internet-Protocol (IP)-Adresse, die Ihren Computer und andere Ger\u00e4te mit dem Internet verbindet;\nLogins, E-Mail-Adressen, Passw\u00f6rter,\nInformationen \u00fcber Computer, Ger\u00e4te und Verbindungen wie z. B. Ger\u00e4teanwendungen, Browsertypen und -Versionen, Browser-Plugin-Typen und -Version, Betriebssysteme und Zeitzoneneinstellungen;\nDer Standort Ihres Ger\u00e4ts oder Computers;\nInformationen \u00fcber Content-Interaktionen, wie Content-Downloads, Streams und Wiedergabedetails, einschlie\u00dflich Dauer und Anzahl gleichzeitiger Streams und Downloads, sowie Netzwerkdetails f\u00fcr Streaming- und Downloadqualit\u00e4t, einschlie\u00dflich Informationen \u00fcber Ihren Internetdienstanbieter;\nGer\u00e4te Metriken, z.B. wann ein Ger\u00e4t verwendet wird, Anwendungsnutzung, Verbindungsdaten und alle Fehler oder Ereignisausf\u00e4lle;\nAmazon Service Metriken (z.B. das Auftreten von technischen Fehlern, Ihre Interaktionen mit Servicefunktionen und -Inhalten, Ihre Einstellungen und Backup-Informationen, Standort Ihres Ger\u00e4ts, auf dem eine Anwendung l\u00e4uft, Informationen \u00fcber hochgeladene Bilder und Dateien (z.B. Dateiname, Datum, Uhrzeit und Ort Ihrer Bilder));\nVersionen und Zeiteinstellungen;\nIhre Bestell- und Inhaltsnutzungshistorie, die wir manchmal mit \u00e4hnlichen Informationen anderer Kunden zusammenf\u00fchren und in nicht pers\u00f6nlich identifizierbarer Form in Features wie Bestseller abbilden;\nDer komplette Uniform Resource Locators (URL) Clickstream zu, durch und aus unserer Website, d. h. die Reihenfolge der Seiten unseres Internet-Angebots, die Sie aufsuchen, einschlie\u00dflich Datum und Zeit, Cookie- Nummer, der Produkte und/oder Inhalte, die Sie angeschaut oder nach denen Sie gesucht haben, einschlie\u00dflich der Dauer bis zum Aufbau einer Webseite, deren fehlerhaftes Herunterladen, Informationen zur Interaktion zwischen Seiten (z.B. Scrolling, Klicken, Mouse-overs); oder\nTelefonnummern, die Sie genutzt haben, um den Kundenservice anzurufen, und\nBilder oder Videos, wenn Sie in unseren Stores einkaufen und Amazon Dienste nutzen.\nAuf unserer Website benutzen wir auch Ger\u00e4tekennungen, Cookies und \u00e4hnliche Technologien auf Ger\u00e4ten, Apps und unseren Webseiten, um Browsing-, Nutzungs- und andere Informationen zu erheben. ",
+    "inUse": true,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Unser Gesch\u00e4ft \u00e4ndert sich st\u00e4ndig und genauso \u00e4ndert sich diese Datenschutzerkl\u00e4rung. Wir empfehlen, regelm\u00e4\u00dfig unsere Website besuchen und \u00c4nderungen zur Kenntnis nehmen. Soweit nichts anderes geregelt ist, unterliegt die Nutzung s\u00e4mtlicher Informationen, die wir \u00fcber Sie und Ihre Kundenkonten haben, dieser Datenschutzerkl\u00e4rung.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

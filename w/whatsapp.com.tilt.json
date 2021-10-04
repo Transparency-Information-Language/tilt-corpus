@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "_id": "8c32b28a-f6a3-485f-82f7-b6a29bf21eec",
+    "name": "whatsapp",
+    "created": "2021-06-21T12:21:52.661643",
+    "modified": "2021-06-21T12:21:52.661662",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.whatsapp.com/legal/privacy-policy",
+    "_hash": "bd31b72818becd2562a119b3577403a6531458804085f92de2cb70d091d26964"
+  },
+  "controller": {
+    "name": "WhatsApp",
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": [],
+      "category": [],
+      "purposes": [],
+      "legalBases": [],
+      "legitimateInterests": [],
+      "recipients": [],
+      "recipientsOnlyCategory": [],
+      "storage": [],
+      "nonDisclosure": []
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Du kannst auf deine Informationen zugreifen bzw. sie \u00fcbertragen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": "17f8918a-d683-4fdb-936e-56b4a100ae9a",
+      "dataCategory": "Informationen Dritter",
+      "sources": [
+        {
+          "description": [],
+          "url": [],
+          "~publiclyAvailable": []
+        }
+      ]
+    }
+  ],
+  "rightToInformation": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": "Informationen, die du zur Verf\u00fcgung stellst",
+    "inUse": true,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": "Aktualisierungen unserer Richtlinie\nWir k\u00f6nnen unsere Datenschutzrichtlinie \u00e4ndern oder aktualisieren. Wir werden dich ggf. von \u00c4nderungen an dieser Datenschutzrichtlinie in Kenntnis setzen und das Datum \u201eLetzte \u00c4nderung\u201c oben in dieser Datenschutzrichtlinie aktualisieren. Bitte lies dir unsere Datenschutzrichtlinie von Zeit zu Zeit erneut durch.",
+      "affectedDataCategories": [],
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "_id": "b0bc6aee-32ee-4bef-a616-0f1d9de35fc1",
+    "name": "Google Assistant",
+    "created": "2021-07-16T08:49:10.097390",
+    "modified": "2021-07-16T08:49:10.097410",
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://support.google.com/googlenest/answer/7072285?hl=de",
+    "_hash": "fe3f148a18dcf31a51524cf02ec9a50967bccf168511dd3bc3ae14f330ffdc58"
+  },
+  "controller": {
+    "name": null,
+    "country": null,
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "6b9b590f-8623-44cc-9d32-3f49f48f7411",
+      "category": "Es werden nur die Daten verwendet, auf die Sie vorher den Zugriff erlaubt haben, z. B. Ihre Kontakte oder Aktivit\u00e4ten auf Websites und in Apps von Google. ",
+      "purposes": [
+        {
+          "purpose": "Damit kann Ihnen Google Assistant bessere und n\u00fctzlichere Antworten liefern.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "6c2f2792-24c8-4700-9aad-5e83a853dc7a",
+      "category": "Kann Google Assistant oder die Google Home App auf meinen Such- und Standortverlauf zugreifen?\nJa.",
+      "purposes": [
+        {
+          "purpose": "um beispielsweise die richtige Zeitzone zu bestimmen oder Ihnen f\u00fcr Sie relevante Wetter- und Verkehrsinformationen zu geben.",
+          "description": null
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "~exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": [],
+      "adequacyDecision": [],
+      "appropriateGuarantees": [],
+      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+      "standardDataProtectionClause": []
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Bitte lesen Sie die Datenschutzerkl\u00e4rung von Google, die FAQ zum Datenschutz: Google Nest und unsere Verpflichtung zum Schutz der Privatsph\u00e4re in Ihrem Zuhause, um zu erfahren, welche Daten wir warum erheben und welche Einstellungen und Tools f\u00fcr das Aktualisieren, Verwalten, Exportieren und L\u00f6schen Ihrer Daten zur Verf\u00fcgung stehen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Unter Google Assistant-Aktivit\u00e4ten in der Google Home App und der Assistant App sowie online unter myactivity.google.com k\u00f6nnen Sie Ihre Aktivit\u00e4ten ansehen",
+    "url": "myactivity.google.com",
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Unter Google Assistant-Aktivit\u00e4ten in der Google Home App und der Assistant App sowie online unter myactivity.google.com k\u00f6nnen Sie Ihre Aktivit\u00e4ten ansehen und sie auch jederzeit l\u00f6schen.",
+    "url": "myactivity.google.com",
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Bitte lesen Sie die Datenschutzerkl\u00e4rung von Google, die FAQ zum Datenschutz: Google Nest und unsere Verpflichtung zum Schutz der Privatsph\u00e4re in Ihrem Zuhause, um zu erfahren, welche Daten wir warum erheben und welche Einstellungen und Tools f\u00fcr das Aktualisieren, Verwalten, Exportieren und L\u00f6schen Ihrer Daten zur Verf\u00fcgung stehen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Sie k\u00f6nnen einschr\u00e4nken, welche Daten von Google erhoben werden, indem Sie die Einstellungen f\u00fcr Ihr Google-Konto pr\u00fcfen und entsprechend aktualisieren \u2013 und zwar jederzeit.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": null,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}
