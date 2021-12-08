@@ -1,0 +1,397 @@
+    {
+        "meta": {
+            "_id": "b0bc6aee-32ee-4bef-a616-0f1d9de35fc1", 
+            "name": "Google Assistant", 
+            "created": "2021-07-16T08:49:10.097390", 
+            "modified": "2021-07-16T08:49:10.097410", 
+            "version": 1, 
+            "language": "de", 
+            "status": "active", 
+            "url": "https://support.google.com/googlenest/answer/7072285?hl=de", 
+            "_hash": "fe3f148a18dcf31a51524cf02ec9a50967bccf168511dd3bc3ae14f330ffdc58"
+        }, 
+        "controller": {
+            "name": "Google Ireland Limited", 
+            "country": "Irland", 
+            "address": "Gordon House, Barrow Straße, Dublin 4", 
+            "division": null, 
+            "representative": {
+                "name": null, 
+                "email": null, 
+                "phone": null
+            }
+        }, 
+        "dataProtectionOfficer": {
+            "email": "support-deutschland@google.com", 
+            "phone": "+35315431000", 
+            "country": "Irland", 
+            "name": "Google Ireland Limited", 
+            "address": "Gordon House, Barrow Straße, Dublin 4"
+        }, 
+        "dataDisclosed": [
+            {
+                "_id": "6b9b590f-8623-44cc-9d32-3f49f48f7411", 
+                "category": "Namen, Passwort, wenn angegeben Telefonnummer, Zahnlungsinformationen und E-Mail Adresse und Inhalte, die Sie bei der Nutzung unserer Dienste erstellen, hochladen oder von anderen erhalten", 
+                "purposes": [
+                    {
+                        "purpose": "Bereitstellung der Dienste.", 
+                        "description": "Hierzu zählen beispielsweise die Verarbeitung Ihrer Suchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie Inhalte teilen möchten."
+                    },
+                    {
+                        "purpose": "Wartung und Verbesserung der Dienste.", 
+                        "description": " Beispielsweise verwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben. Außerdem nutzen wir Ihre Daten, um unsere Dienste zu verbessern. Dazu zählt beispielsweise die Feststellung, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete Rechtschreibprüfung verbessern können."
+                    },
+                    {
+                        "purpose": "Entwicklung neuer Dienste.", 
+                        "description": "Beispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, bei der Entwicklung von Google Fotos."
+                    },
+                    {
+                        "purpose": "Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen.", 
+                        "description": "Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und von personalisierten Suchergebnissen. Beispielsweise erhalten Sie im Sicherheitscheck Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind."
+                    },
+                    {
+                        "purpose": "Messung der Leistung.", 
+                        "description": "Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden."
+                    },
+                    {
+                        "purpose": "Kommunikation mit Nutzenden.", 
+                        "description": "Wir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie auch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein."
+                    },
+                    {
+                        "purpose": "Schutz von Google, Google-Nutzenden und der Öffentlichkeit.", 
+                        "description": "Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten."
+                    }
+
+                ], 
+                "legalBases": [
+                    {
+                        "reference": [], 
+                        "description": []
+                    }
+                ],
+                "legitimateInterests": [
+                    {
+                        "reasoning": [], 
+                        "~exists": []
+                    }
+                ],
+                 "recipients": [
+                     {
+                         "name": [], 
+                         "country": [], 
+                         "division": [], 
+                         "address": [], 
+                         "representative": [], 
+                         "category": []
+                    }
+                ],
+                "storage": [
+                    {
+                        "purposeConditional": [], 
+                        "legalBasisConditional": [], 
+                        "temporal": [], 
+                        "aggregationFunction": []
+                    }
+                ],
+                "nonDisclosure": {
+                    "consequences": null, 
+                    "legalRequirement": null, 
+                    "contractualRegulation": null, 
+                    "obligationToProvide": null
+                }
+            }, 
+            {
+                "_id": "6b9b590f-8623-44cc-9d32-3f4e9f48f7411", 
+                "category": "Daten über die Apps, Browser und Geräte, die Sie mein Zugriff auf Google-Dienste verwenden", 
+                "purposes": [
+                    {
+                        "purpose": "Bereitstellung der Dienste.", 
+                        "description": "Hierzu zählen beispielsweise die Verarbeitung Ihrer Suchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie Inhalte teilen möchten."
+                    },
+                    {
+                        "purpose": "Wartung und Verbesserung der Dienste.", 
+                        "description": " Beispielsweise verwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben. Außerdem nutzen wir Ihre Daten, um unsere Dienste zu verbessern. Dazu zählt beispielsweise die Feststellung, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete Rechtschreibprüfung verbessern können."
+                    },
+                    {
+                        "purpose": "Entwicklung neuer Dienste.", 
+                        "description": "Beispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, bei der Entwicklung von Google Fotos."
+                    },
+                    {
+                        "purpose": "Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen.", 
+                        "description": "Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und von personalisierten Suchergebnissen. Beispielsweise erhalten Sie im Sicherheitscheck Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind."
+                    },
+                    {
+                        "purpose": "Messung der Leistung.", 
+                        "description": "Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden."
+                    },
+                    {
+                        "purpose": "Kommunikation mit Nutzenden.", 
+                        "description": "Wir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie auch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein."
+                    },
+                    {
+                        "purpose": "Schutz von Google, Google-Nutzenden und der Öffentlichkeit.", 
+                        "description": "Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten."
+                    }
+                ], 
+                "legalBases": [
+                    {
+                        "reference": [], 
+                        "description": []
+                    }
+                ],
+                "legitimateInterests": [
+                    {
+                        "reasoning": [], 
+                        "~exists": []
+                    }
+                ],
+                 "recipients": [
+                     {
+                         "name": [], 
+                         "country": [], 
+                         "division": [], 
+                         "address": [], 
+                         "representative": [], 
+                         "category": []
+                    }
+                ],
+                "storage": [
+                    {
+                        "purposeConditional": [], 
+                        "legalBasisConditional": [], 
+                        "temporal": [], 
+                        "aggregationFunction": []
+                    }
+                ],
+                "nonDisclosure": {
+                    "consequences": null, 
+                    "legalRequirement": null, 
+                    "contractualRegulation": null, 
+                    "obligationToProvide": null
+                }
+            }, 
+            {
+                "_id": "6c2f2792-24c8-4700-9aad-5e83a8w53dc7a", 
+                "category": "Daten zu Ihren Aktivitäten u.A. Suchanfragen, Kaufaktivitäten, Personen mit denen Sie kommunizieren, Aktivitäten aus Websites und Apps von Drittanbietern", 
+                "purposes": [
+                    {
+                        "purpose": "Bereitstellung der Dienste.", 
+                        "description": "Hierzu zählen beispielsweise die Verarbeitung Ihrer Suchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie Inhalte teilen möchten."
+                    },
+                    {
+                        "purpose": "Wartung und Verbesserung der Dienste.", 
+                        "description": " Beispielsweise verwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben. Außerdem nutzen wir Ihre Daten, um unsere Dienste zu verbessern. Dazu zählt beispielsweise die Feststellung, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete Rechtschreibprüfung verbessern können."
+                    },
+                    {
+                        "purpose": "Entwicklung neuer Dienste.", 
+                        "description": "Beispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, bei der Entwicklung von Google Fotos."
+                    },
+                    {
+                        "purpose": "Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen.", 
+                        "description": "Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und von personalisierten Suchergebnissen. Beispielsweise erhalten Sie im Sicherheitscheck Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind."
+                    },
+                    {
+                        "purpose": "Messung der Leistung.", 
+                        "description": "Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden."
+                    },
+                    {
+                        "purpose": "Kommunikation mit Nutzenden.", 
+                        "description": "Wir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie auch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein."
+                    },
+                    {
+                        "purpose": "Schutz von Google, Google-Nutzenden und der Öffentlichkeit.", 
+                        "description": "Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten."
+                    }
+                ], 
+                "legalBases": [
+                    {
+                        "reference": [], 
+                        "description": []
+                    }
+                ],
+                "legitimateInterests": [
+                    {
+                        "reasoning": [], 
+                        "~exists": []
+                    }
+                ],
+                "recipients": [
+                    {
+                        "name": [], 
+                        "country": [], 
+                        "division": [], 
+                        "address": [], 
+                        "representative": [], 
+                        "category": []
+                    }
+                ], 
+                "storage": [
+                    {
+                        "purposeConditional": [], 
+                        "legalBasisConditional": [], 
+                        "temporal": [], 
+                        "aggregationFunction": []
+                    }
+                ], 
+                "nonDisclosure": {
+                    "consequences": null, 
+                    "legalRequirement": null, 
+                    "contractualRegulation": null, 
+                    "obligationToProvide": null
+                }
+            },
+            {
+                "_id": "6c2f2792-24c8-4700-9aad-5e83a853qdc7a", 
+                "category": "Standortdaten", 
+                "purposes": [
+                    {
+                        "purpose": "Bereitstellung der Dienste.", 
+                        "description": "Hierzu zählen beispielsweise die Verarbeitung Ihrer Suchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie Inhalte teilen möchten."
+                    },
+                    {
+                        "purpose": "Wartung und Verbesserung der Dienste.", 
+                        "description": " Beispielsweise verwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben. Außerdem nutzen wir Ihre Daten, um unsere Dienste zu verbessern. Dazu zählt beispielsweise die Feststellung, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete Rechtschreibprüfung verbessern können."
+                    },
+                    {
+                        "purpose": "Entwicklung neuer Dienste.", 
+                        "description": "Beispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, bei der Entwicklung von Google Fotos."
+                    },
+                    {
+                        "purpose": "Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen.", 
+                        "description": "Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und von personalisierten Suchergebnissen. Beispielsweise erhalten Sie im Sicherheitscheck Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind."
+                    },
+                    {
+                        "purpose": "Messung der Leistung.", 
+                        "description": "Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden."
+                    },
+                    {
+                        "purpose": "Kommunikation mit Nutzenden.", 
+                        "description": "Wir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie auch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein."
+                    },
+                    {
+                        "purpose": "Schutz von Google, Google-Nutzenden und der Öffentlichkeit.", 
+                        "description": "Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten."
+                    }
+                ], 
+                "legalBases": [
+                    {
+                        "reference": [], 
+                        "description": []
+                    }
+                ],
+                "legitimateInterests": [
+                    {
+                        "reasoning": [], 
+                        "~exists": []
+                    }
+                ],
+                "recipients": [
+                    {
+                        "name": [], 
+                        "country": [], 
+                        "division": [], 
+                        "address": [], 
+                        "representative": [], 
+                        "category": []
+                    }
+                ], 
+                "storage": [
+                    {
+                        "purposeConditional": [], 
+                        "legalBasisConditional": [], 
+                        "temporal": [], 
+                        "aggregationFunction": []
+                    }
+                ], 
+                "nonDisclosure": {
+                    "consequences": null, 
+                    "legalRequirement": null, 
+                    "contractualRegulation": null, 
+                    "obligationToProvide": null
+                }
+            }
+        ], 
+        "thirdCountryTransfers": [
+            {
+                "country": [], 
+                "adequacyDecision": [], 
+                "appropriateGuarantees": [], 
+                "presenceOfEnforceableRightsAndEffectiveRemedies": [], 
+                "standardDataProtectionClause": []
+            }
+        ], 
+        "accessAndDataPortability": {
+            "available": true, 
+            "description": "Bitte lesen Sie die Datenschutzerkl\u00e4rung von Google, die FAQ zum Datenschutz: Google Nest und unsere Verpflichtung zum Schutz der Privatsph\u00e4re in Ihrem Zuhause, um zu erfahren, welche Daten wir warum erheben und welche Einstellungen und Tools f\u00fcr das Aktualisieren, Verwalten, Exportieren und L\u00f6schen Ihrer Daten zur Verf\u00fcgung stehen.", 
+            "url": null, 
+            "email": null, 
+            "identificationEvidences": [], 
+            "administrativeFee": {
+                "amount": null, 
+                "currency": null
+            }, 
+            "dataFormats": []
+        }, 
+        "sources": [
+            {
+                "_id": [], 
+                "dataCategory": [], 
+                "sources": []
+            }
+        ],
+        "rightToInformation": {
+            "available": true, 
+            "description": "Unter Google Assistant-Aktivit\u00e4ten in der Google Home App und der Assistant App sowie online unter myactivity.google.com k\u00f6nnen Sie Ihre Aktivit\u00e4ten ansehen", 
+            "url": "myactivity.google.com", 
+            "email": null, 
+            "identificationEvidences": []
+        }, 
+        "rightToRectificationOrDeletion": {
+            "available": true, 
+            "description": "Unter Google Assistant-Aktivit\u00e4ten in der Google Home App und der Assistant App sowie online unter myactivity.google.com k\u00f6nnen Sie Ihre Aktivit\u00e4ten jederzeit l\u00f6schen.", 
+            "url": "myactivity.google.com", 
+            "email": null, 
+            "identificationEvidences": []
+        }, 
+        "rightToDataPortability": {
+            "available": true, 
+            "description": "Sie können eine Kopie Ihrer Inhalte aus Ihrem Google-Konto exportieren, um diese zu sichern oder sie mit einem anderen Dienst als den von Google zu nutzen.", 
+            "url": null, 
+            "email": null, 
+            "identificationEvidences": []
+        }, 
+        "rightToWithdrawConsent": {
+            "available": true, 
+            "description": "Sie k\u00f6nnen einschr\u00e4nken, welche Daten von Google erhoben werden, indem Sie die Einstellungen f\u00fcr Ihr Google-Konto pr\u00fcfen und entsprechend aktualisieren \u2013 und zwar jederzeit.", 
+            "url": null, 
+            "email": null, 
+            "identificationEvidences": []
+        }, 
+        "rightToComplain": {
+            "available": null, 
+            "description": null, 
+            "url": null, 
+            "email": null, 
+            "identificationEvidences": [], 
+            "supervisoryAuthority": {
+                "name": null, 
+                "address": null, 
+                "country": null, 
+                "email": null, 
+                "phone": null
+            }
+        }, 
+        "automatedDecisionMaking": {
+            "logicInvolved": null, 
+            "inUse": true, 
+            "scopeAndIntendedEffects": null
+        }, 
+        "changesOfPurpose": [
+            {
+                "description": "Wir ändern diese Datenschutzerklärung von Zeit zu Zeit. Wir werden Ihre Rechte im Rahmen dieser Datenschutzerklärung ohne Ihre ausdrückliche Zustimmung nicht einschränken. Wir geben immer das Veröffentlichungsdatum der letzten Änderungen an und bieten Ihnen Zugriff auf archivierte Versionen. Bei wesentlichen Änderungen weisen wir deutlicher auf diese hin. So werden Sie zum Beispiel bei bestimmten Diensten per E-Mail über eine Änderung der Datenschutzerklärung benachrichtigt.", 
+                "affectedDataCategories": [], 
+                "plannedDateOfChange": [], 
+                "urlOfNewVersion": []
+            }
+        ]
+    }
