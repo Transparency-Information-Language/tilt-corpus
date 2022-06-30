@@ -12,9 +12,9 @@
   },
   "controller": {
     "name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
-    "country": "Deutschland",
+    "country": "DE",
     "address": " Platz vor dem Neuen Tor 1, 10115 Berlin.",
-    "division": null,
+    "division": "Org. Geschäftsführung",
     "representative": {
       "name": null,
       "email": null,
@@ -24,132 +24,231 @@
   "dataProtectionOfficer": {
     "email": "datenschutz@gruene.de",
     "phone": "02224/988290",
-    "country": " Deutschland",
+    "country": "DE",
     "name": "SCO-CON:SULT",
     "address": "Hauptstra\u00dfe 27, 53604 Bad Honnef"
   },
   "dataDisclosed": [
     {
-      "_id": "e2ddbcc9-511b-4c23-b9d3-41e075ca433e",
-      "category": "Unsere Website verwendet Matomo (150 Willis St, 6011 Wellington, New Zealand; vormals: Piwik)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2f577e2f-7f8e-48be-a18b-ecc9d5a81227",
+      "_id": "60f94b5c-cd85-4156-a7a4-5fb0255acd3c",
       "category": "Cookies",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Analyse der Benutzung der Webseite",
+          "description": "Piwik verwendet sog. “Cookies”, das sind Textdateien, die auf Deinem Computer gespeichert werden und die unsererseits eine Analyse der Benutzung der Webseite ermöglichen."
+        },
+        {
+          "purpose": "Analyse der Benutzung der Mitmach-Aktionen",
+          "description": "Zur Webanalyse werden dabei ebenfalls “Cookies” angelegt, die unsererseits eine Analyse der Benutzung der Mitmach-Aktionen ermöglichen."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Vertragserfüllung oder vorvertragliche Maßnahmen"
+        },
+        {
+          "reference": "GDPR-6-1-c",
+          "description": "rechtliche Verpflichtungen"
+        },
+        {
+          "reference": "GDPR-6-1-d",
+          "description": "Zur Wahrung eines berechtigten Interesses. Die schutzwürdigen Interessen der Betroffenen überwiegen das erstgenannte Interesse nicht. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten pseudonymisiert."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten pseudonymisiert.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category":"none"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": 
+          [
+            {
+              "description":"Die Daten werden von uns für ein Jahr zu Nutzungsanalysezwecken gespeichert. Deine IP-Adresse wird bei diesem Vorgang umgehend anonymisiert, so dass Du als Nutzer für uns anonym bleibst. ",
+              "ttl":"P1Y"
+            }
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
+        "consequences": "Wenn Du mit der Speicherung und Auswertung dieser Daten aus Deinem Besuch nicht einverstanden bist, kannst Du der Speicherung und Nutzung nachfolgend per Mausklick jederzeit widersprechen. In diesem Fall wird in Deinem Browser ein sog. Opt-Out-Cookie abgelegt, was zur Folge hat, dass Matomo keinerlei Sitzungsdaten erhebt. Achtung: Wenn Du Deine Cookies löschst, so hat dies zur Folge, dass auch das Opt-Out-Cookie gelöscht wird und ggf. von Dir erneut aktiviert werden muss. Wenn Du der Speicherung und Nutzung von Cookies widersprichst, kann es jedoch sein, dass Du in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen kannst.",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
       }
     },
     {
-      "_id": "a7b01261-ee07-47a3-8ea4-67928971b05f",
-      "category": " IP-Adresse wird bei diesem Vorgang umgehend anonymisiert",
+      "_id": "b3b04dab-1ccf-4085-931f-8546fd1f6c1a",
+      "category": "E-Mail",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Kontaktaufnahme",
+          "description": "Wenn Du per Formular auf der Website oder per E-Mail Kontakt mit uns aufnimmst, werden Deine angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Vertragserfüllung oder vorvertragliche Maßnahmen"
+        },
+        {
+          "reference": "GDPR-6-1-c",
+          "description": "rechtliche Verpflichtungen"
+        },
+        {
+          "reference": "GDPR-6-1-d",
+          "description": "Zur Wahrung eines berechtigten Interesses. Die schutzwürdigen Interessen der Betroffenen überwiegen das erstgenannte Interesse nicht. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten pseudonymisiert."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "exists": false
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category":"none"
+        }
+      ],
+      "storage": [
+        {
+          "temporal":   
+            [
+              {
+                "description":"Wenn Du per Formular auf der Website oder per E-Mail Kontakt mit uns aufnimmst, werden Deine angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert.",
+                "ttl":"P6M"
+              }
+            ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "e77e18ba-a5d8-495d-98c1-b077b4ebdfff",
+      "category": "Daten über die Nutzung der Maps-Funktionen",
+      "purposes": [
+        {
+          "purpose": "Geographische Informationen visuell darstellen",
+          "description": "Die Webseite gruene.de verwendet Google Maps API, um geographische Informationen visuell darzustellen."
+        }
+      ],
+      "legalBases": [
+          {
+              "reference": "GDPR-6-1-a",
+              "description": "Einwilligung"
+            },
+            {
+              "reference": "GDPR-6-1-b",
+              "description": "Vertragserfüllung oder vorvertragliche Maßnahmen"
+            },
+            {
+              "reference": "GDPR-6-1-c",
+              "description": "rechtliche Verpflichtungen"
+            },
+            {
+              "reference": "GDPR-6-1-d",
+              "description": "Zur Wahrung eines berechtigten Interesses. Die schutzwürdigen Interessen der Betroffenen überwiegen das erstgenannte Interesse nicht. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten pseudonymisiert."
+            }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": false
+        }
+      ],
+      "recipients": [
+        {
+          "name":"Google Ireland Limited",
+          "country":"IE",
+          "address":"Gordon House, Barrow Straße, Dublin 4",
+          "category":"Daten über die Nutzung der Maps-Funktionen"
+        }
+      ],
+      "storage": [
+        {
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "b6b980f0-4f18-477c-8707-335e1ade8175",
+      "category": "Social Plugins",
+      "purposes": [
+        {
+          "purpose": "Artikel teilen",
+          "description": "Die Webseite gruene.de verwendet mit den \"Teilen\" Buttons am Anfang der Artikel sogenannte Social Plugins von Twitter, Facebook, Facebook Messenger und WhatsApp."
+        }
+      ],
+      "legalBases": [
+          {
+              "reference": "GDPR-6-1-a",
+              "description": "Einwilligung"
+            },
+            {
+              "reference": "GDPR-6-1-b",
+              "description": "Vertragserfüllung oder vorvertragliche Maßnahmen"
+            },
+            {
+              "reference": "GDPR-6-1-c",
+              "description": "rechtliche Verpflichtungen"
+            },
+            {
+              "reference": "GDPR-6-1-d",
+              "description": "Zur Wahrung eines berechtigten Interesses. Die schutzwürdigen Interessen der Betroffenen überwiegen das erstgenannte Interesse nicht. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten pseudonymisiert."
+          }
+      ],
+      "legitimateInterests": [
+        {
+          "exists": false
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Twitter International Unlimited Company",
+          "country": "IE",
+          "division": "Datenschutzbeauftragter",
+          "address": "One Cumberland Place, Fenian Street, Dublin 2, D02 AX07 IRLAND",
+          "category": "Social Network"
+        },
+        {
+          "name": "Meta Platforms Ireland Ltd.",
+          "country": "IE",
+          "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Irland",
+          "category": "Social Network"
+        },
+        {
+          "name": "WhatsApp Ireland Limited (\"WhatsApp\")",
+          "country": "IR",
+          "address": "WhatsApp Ireland Limited\nAttn: Privacy Policy\n4 Grand Canal Square\nGrand Canal Harbour\nDublin 2, Ireland ",
+          "category": "Social Network"
         }
       ],
       "storage": [
@@ -157,87 +256,22 @@
           "purposeConditional": [],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
+        "consequences": "",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
       }
     }
   ],
-  "thirdCountryTransfers": [
-    {
-      "country": "Google auch Daten \u00fcber die Nutzung der Maps-Funktionen durch Besucher der Webseiten erhoben, verarbeitet und genutz",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Twitter",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Facebook, Facebook Messenger und WhatsApp",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    }
-  ],
+  "thirdCountryTransfers": [],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.",
+    "email": "datenschutz@gruene.de"
   },
   "sources": [
     {
@@ -248,57 +282,44 @@
   ],
   "rightToInformation": {
     "available": true,
-    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.",
     "url": null,
-    "email": "datenschutz@gruene.de",
-    "identificationEvidences": []
+    "email": "datenschutz@gruene.de"
   },
   "rightToRectificationOrDeletion": {
     "available": true,
-    "description": "Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.",
     "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "email": "datenschutz@gruene.de"
   },
   "rightToDataPortability": {
     "available": true,
-    "description": "Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.",
     "url": null,
-    "email": "datenschutz@gruene.de",
-    "identificationEvidences": []
+    "email": "datenschutz@gruene.de"
   },
   "rightToWithdrawConsent": {
     "available": true,
-    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.",
     "url": null,
-    "email": "datenschutz@gruene.de",
-    "identificationEvidences": []
+    "email": "datenschutz@gruene.de"
   },
   "rightToComplain": {
     "available": true,
-    "description": " Rechte auf Auskunft, Berichtigung, L\u00f6schung, Einschr\u00e4nkung, Daten\u00fcbertragbarkeit, Widerruf und Widerspruch zu",
+    "description": "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Du glaubst, dass die Verarbeitung Deiner Daten gegen das Datenschutzrecht verstößt oder Deine datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, kannst Du Dich bei der Aufsichtsbehörde beschweren. ",
     "url": null,
     "email": "datenschutz@gruene.de",
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
+      "name": "Landesdatenschutzbeauftragte",
       "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "country": "DE",
+      "email": null
     }
   },
   "automatedDecisionMaking": {
-    "logicInvolved": null,
-    "inUse": null,
-    "scopeAndIntendedEffects": null
+    "inUse": false
   },
   "changesOfPurpose": [
-    {
-      "description": [],
-      "affectedDataCategories": [],
-      "plannedDateOfChange": [],
-      "urlOfNewVersion": []
-    }
   ]
 }

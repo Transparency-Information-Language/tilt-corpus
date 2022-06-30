@@ -12,7 +12,7 @@
   },
   "controller": {
     "name": "Zoom Video Communications, Inc.",
-    "country": "us",
+    "country": "US",
     "address": "55 Almaden Blvd, Suite 600\n\nSan Jose, CA 95113",
     "division": "Data",
     "representative": {
@@ -24,829 +24,896 @@
   "dataProtectionOfficer": {
     "email": "privacy@zoom.us",
     "phone": null,
-    "country": null,
+    "country": "US",
     "name": null,
-    "address": null
+    "address": "Zoom Video Communications, Inc.\nAttention: Data Privacy Officer\n55 Almaden Blvd, Suite 600\nSan Jose, CA 95113"
   },
   "dataDisclosed": [
     {
       "_id": "0112176c-e991-444e-b0ab-780f7bceaa43",
-      "category": "Account Informatio",
+      "category": "Account Information",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["administrator name", "contact information", "account ID", "billing information", "account plan information"]
     },
     {
-      "_id": "bf7bb9ea-cd7c-4e39-af39-69483c678250",
-      "category": "name",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "1cc2e3ee-f36b-4593-8e8e-546eff1ffde1",
-      "category": "contact information",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "070185c5-4214-4dce-b118-b08e3fa2b76e",
-      "category": "billing information",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "62c4e6ee-31eb-47cb-a08f-9b38362bd766",
-      "category": "account ID",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "beff13b6-08a3-4b2e-88f1-226d274ea3ab",
-      "category": "account plan information",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "8a3384ed-f481-4ba8-b193-b8580f84e296",
+      "_id": "09ee5666-5835-4a63-8fa0-0e7a5feb74b4",
       "category": "Profile and Participant Information",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["name", "display name", "picture", "email address", "phone number", "job information", "stated locale", "user id"]
     },
     {
-      "_id": "8ca7028a-6a6f-4b75-9a48-94a03a87ecc9",
-      "category": " email address,",
+      "_id":"ea693b6f-2202-4c23-95f5-3f1642fdbbaf",
+      "category": "Contacts and Calender Integrations",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["contact information"]
     },
     {
-      "_id": "fb767db2-1a45-4199-828e-f616de4084aa",
-      "category": "picture",
+      "_id":"d9f2876a-34ce-4b95-b0f8-b557e3034f6f",
+      "category": "Settings",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["audio settings", "video settings", "recording file location", "screen sharing setting"]
     },
     {
-      "_id": "be03426b-7e44-4ee8-b656-9051625c0970",
-      "category": "phone number,",
+      "_id":"ec8dd863-c9be-44e8-a5f3-293e94274795",
+      "category": "Registration Information",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["name", "contact information", "responses to registration questions"]
     },
     {
-      "_id": "960cbf68-f65f-41d7-a61b-7bdadfe7a95f",
-      "category": " job information,",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "128c1735-ef57-4736-974b-ba27769c7de7",
-      "category": "stated locale,",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f880706b-adba-4832-a3b1-8fdd470634dd",
-      "category": "user ID",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d7dceeb9-0c87-4376-b012-2bdeee850290",
-      "category": "Contacts and Calendar Integrations",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "a14df12a-4ccb-4639-a1f7-02034e3662b7",
+      "_id": "79899483-2dcd-45f6-a068-f4adc8784c69",
       "category": "Device Information",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "12e9f6bd-127e-4488-b2a0-ec83e000927d",
-      "category": " computers, phones, and other devices people use when interacting with Zoom Products",
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["information about the speakers", "microphone", "camera", "OS version", "hard disk ID", "PC name", "MAC address","IP address", "device attributes", "WIFI information"]
+    },{
+      "_id": "772634c0-68fa-4e3f-9c3f-e050a92bc527",
+      "category": "marketing, Webinar, Messaging Content and Context",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["audio", "video", "in-meeting messages", "chat messaging content", "transcriptions", "written feedback", "responses to polls and Q&A", "files", "invitation details", "meeting or chat name", "meeting agenda", "voice", "image"]
+    },
+    {
+      "_id":"aaad0238-c8ba-4524-b75b-93cd29830f9b",
+      "category": "Product and Website Usage",
+      "purposes": [
+        {
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
       }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["when participants join and leave a meeting", "whether participants sent messages", "performance data", "mouse movements", "clicks", "keystrokes", "actions (such as mute/unmute or video on/off)"]
+    },{
+      "_id": "723820fc-6c9d-4822-a4b0-38a13ce2f132",
+      "category": "Communications with Zoom",
+      "purposes": [
+        {
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["support questions", "your account", "other inquiries"]
+    },
+    {
+      "_id": "18d0a187-3946-4511-8a4d-4f99b1fb68d1",
+      "category": "Information from Partners",
+      "purposes": [
+        {
+          "purpose": "Provide Zoom Products and Services",
+          "description": "To provide Products, features, and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, including to customize Zoom Product features and recommendations for accounts or their users. Zoom also uses personal data, including contact information, to route invitations and messages to recipients when people send invitations and messages using Zoom Products. This may also include using personal data for customer support, which may include accessing audio, video, files, and messages, at the direction of the account owner or their users. We also use personal data to manage our relationship and contracts with account owners, including billing, compliance with contractual obligations, and related administration."
+        },
+      {
+        "purpose":"Product Research and Development",
+        "description":"To develop, test, and improve Zoom Products, including, for example, content-related features (such as background filters), and to troubleshoot products and features."
+      },
+      {
+        "purpose":"Marketing, Promotions, and Third-Party Advertising",
+        "description":"To permit Zoom and/or its third party marketing partners to market, advertise, and promote Zoom Products, features, and services, including based on your product usage, information we receive from third-party partners, or if you visit our websites, information about how and when you visit, and your interactions with them. We may also use cookies or similar technology, including from third-party advertising partners, to show you ads within Zoom Products about products, services, or causes from third parties. Zoom does NOT use meeting, webinar, or messaging content (specifically, audio, video, files, and messages) for any marketing, promotions or third-party advertising purposes."
+      },
+      {
+        "purpose":"Authentication, Integrity, Security, and Safety",
+        "description":"To authenticate accounts and activity, detect, investigate, and prevent malicious conduct or unsafe experiences, address security threats, protect public safety, and secure Zoom Products."
+      },
+      {
+        "purpose":"Communicate with you",
+        "description":"We use personal data (including contact information) to communicate with you about Zoom Products, features, and services, including product updates, your account, and changes to our policies and terms. We also use your information to respond to you when you contact us."
+      },
+      {
+        "purpose":"Legal Reasons",
+        "description":"To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, and to enforce or investigate potential violations of our Terms of Service or policies."
+      }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"As necessary for our contract: When we enter into a contract directly with you, we process your personal data on the basis of our contract in order to prepare and enter into the contract, as well as to perform and manage our contract (i.e., providing Zoom Products, features and services to account owners, their users, and those they invite to join meetings and webinars hosted on their accounts, and manage our relationship and contract, including billing, compliance with contractual obligations, and related administration). If we do not process your personal data for these purposes, we may not be able to provide you with all Products, features, and services;"
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookie-Präferenzen;"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "As necessary to comply with our legal obligations: We process your personal data to comply with the legal obligations to which we are subject for the purposes of compliance with EEA laws, regulations, codes of practice, guidelines, or rules applicable to us, and for responses to requests from, and other communications with, competent EEA public, governmental, judicial, or other regulatory authorities. This includes detecting, investigating, preventing, and stopping fraudulent, harmful, unauthorized, or illegal activity (“fraud and abuse detection”) and compliance with privacy laws;"
+        },
+        {
+          "reference":"GDPR-6-1-d",
+          "description":"To protect your vital interests or those of others: We process certain personal data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": "As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the account owner and/or reseller providing you with the Products (which includes billing, compliance with contractual obligations, and related administration and support); (ii) develop, test, and improve our Products and troubleshoot products and features; (iii) ensure authentication, integrity, security, and safety of accounts, activity, and Products, including detect and prevent malicious conduct and violations of our terms and policies, prevent or investigate bad or unsafe experiences, and address security threats; (iv) send marketing communications, advertising, and promotions related to the Products; and (v) comply with non-EEA laws, regulations, codes of practice, guidelines, or rules applicable to us and respond to requests from, and other communications with, competent non-EEA public, governmental, judicial, or other regulatory authorities, as well as meet our corporate and social responsibility commitments, protect our rights and property and the ones of our customers, resolve disputes, and enforce agreements.",
+          "exists": true
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Reseller"
+        },
+        {
+          "category": "Vendors"
+        },
+        {
+          "category": "Marketing, Advertising"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": ["The length of time we have an ongoing relationship with you and provide Zoom Products to you (for example, for as long as you have an account with us or keep using our Products)","Whether account owners modify or their users delete information through their accounts", "Whether we have a legal obligation to keep the data (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them)", "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)"],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false
+      },
+      "subcategories":["company size", "industry", "contact information"]
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "country": "US",
+      "_comment": "Therefore, by using Zoom Products or providing personal data for any of the purposes stated above, you acknowledge that your personal data may be transferred to or stored in the United States where we are established, as well as in other countries outside of the EEA, Switzerland, and the UK. Such countries may have data protection rules that are different and less protective than those of your country."
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)",
+    "url": "https://zoom-privacy.my.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2",
+    "email": "privacy@zoom.us"
   },
   "sources": [
     {
       "_id": [],
-      "dataCategory": [],
-      "sources": []
+      "dataCategory": "Information from Partners",
+      "sources": [{
+        "descriptopn":"",
+        "url":"",
+        "publiclyAvailable":false,
+        "category":"market data enrichment services"
+      }],
+      "_comment": "No data about possible sources available"
     }
   ],
   "rightToInformation": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": " You have the right to access any personal data that we hold about you ",
+    "url": "https://zoom-privacy.my.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2",
+    "email": "privacy@zoom.us"
   },
   "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": " You have the right to require us to correct any inaccurate or incomplete personal data",
+    "url": "https://zoom-privacy.my.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2",
+    "email": "privacy@zoom.us"
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Whether retention is advisable in light of our legal position (such as in regard to the enforcement of our agreements, the resolution of disputes, and applicable statutes of limitations, litigation, or regulatory investigation)",
+    "url": "https://zoom-privacy.my.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2",
+    "email": "privacy@zoom.us"
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "You have the right to withdraw your consent at any time by visiting our cookie management tool",
+    "url": "httos://zoom.us",
+    "email": "privacy@zoom.us"
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
+    "available": true,
+    "description": "You also have the right to lodge a complaint to a data protection authority. For more information, please contact your local data protection authority.",
+    "email": "privacy@zoom.us",
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Data Protection Commission",
+      "address": "21 Fitzwilliam Square South\nDublin 2\nD02 RD28\nIreland",
+      "country": "IE",
+      "phone": "+3531 7650100",
+      "url":"https://forms.dataprotection.ie/contact"
     }
   },
   "automatedDecisionMaking": {
-    "logicInvolved": null,
-    "inUse": null,
-    "scopeAndIntendedEffects": null
+    "logicInvolved": "Zoom uses advanced tools to automatically scan content such as virtual backgrounds, profile images, and files uploaded or exchanged through chat",
+    "inUse": true,
+    "scopeAndIntendedEffects": "for the purpose of detecting and preventing violations of our terms or policies and illegal or other harmful activity, and its employees may investigate such content where required for legal, safety, or security reasons"
   },
   "changesOfPurpose": [
-    {
-      "description": [],
-      "affectedDataCategories": [],
-      "plannedDateOfChange": [],
-      "urlOfNewVersion": []
-    }
   ]
 }
