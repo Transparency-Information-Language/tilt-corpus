@@ -72,27 +72,27 @@
       ],
       "legalBases": [
         {
-          "reference": "Art. 6 DSGVO",
+          "reference": "DSGVO-6-1-a",
           "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
         },
         {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-b",
             "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-c",
             "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-e",
             "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-f",
             "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-d",
             "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
           }
       ],
@@ -154,7 +154,7 @@
       "storage": [
         {
           "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-          "aggregationFunction": null
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -207,27 +207,27 @@
         ],
         "legalBases": [
             {
-                "reference": "Art. 6 DSGVO",
+                "reference": "DSGVO-6-1-a",
                 "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
               },
               {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-b",
                   "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-c",
                   "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-e",
                   "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-f",
                   "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-d",
                   "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
                 }
         ],
@@ -289,7 +289,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -342,27 +342,27 @@
         ],
         "legalBases": [
             {
-                "reference": "Art. 6 DSGVO",
+                "reference": "DSGVO-6-1-a",
                 "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
               },
               {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-b",
                   "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-c",
                   "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-e",
                   "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-f",
                   "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-d",
                   "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
                 }
         ],
@@ -424,7 +424,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -477,27 +477,27 @@
         ],
         "legalBases": [
             {
-                "reference": "Art. 6 DSGVO",
+                "reference": "DSGVO-6-1-a",
                 "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
               },
               {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-b",
                   "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-c",
                   "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-e",
                   "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-f",
                   "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-d",
                   "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
                 }
         ],
@@ -559,7 +559,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -612,27 +612,27 @@
         ],
         "legalBases": [
             {
-                "reference": "Art. 6 DSGVO",
+                "reference": "DSGVO-6-1-a",
                 "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
               },
               {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-b",
                   "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-c",
                   "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-e",
                   "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-f",
                   "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
                 },
                 {
-                  "reference": "Art. 6 DSGVO",
+                  "reference": "DSGVO-6-1-d",
                   "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
                 }
         ],
@@ -643,58 +643,28 @@
         ],
         "recipients": [
             {
-              "name": null,
-              "country": null,
-              "division": null,
-              "address": null,
-              "representative": null,
               "category": "Partner, die unsere Analysedienste nutzen"
             },
             {
-                "name": null,
-                "country": null,
-                "division": null,
-                "address": null,
-                "representative": null,
                 "category": "Werbetreibende"
               },
               {
-                "name": null,
-                "country": null,
-                "division": null,
-                "address": null,
-                "representative": null,
                 "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
               },
               {
-                "name": null,
-                "country": null,
-                "division": null,
-                "address": null,
-                "representative": null,
                 "category": "Anbieter und Dienstleister"
               },
               {
-                "name": null,
-                "country": null,
-                "division": null,
-                "address": null,
-                "representative": null,
                 "category": "Forscher und Wissenschaftler"
               },
               {
-                "name": null,
-                "country": null,
-                "division": null,
-                "address": null,
-                "representative": null,
                 "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
               }
           ],
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {

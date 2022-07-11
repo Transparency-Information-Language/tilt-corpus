@@ -72,23 +72,23 @@
       ],
       "legalBases": [
         {
-          "reference": "Art. 6 DSGVO",
+          "reference": "DSGVO-6-1-a",
           "description": "gemäß deiner Einwilligung"
         },
         {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-c",
             "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-d",
             "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-e",
             "description": "wie es im öffentlichen Interesse erforderlich ist"
           },
           {
-            "reference": "Art. 6 DSGVO",
+            "reference": "DSGVO-6-1-f",
             "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
           }
       ],
@@ -99,58 +99,28 @@
       ],
       "recipients": [
         {
-          "name": null,
-          "country": null,
-          "division": null,
-          "address": null,
-          "representative": null,
           "category": "Partner, die unsere Analysedienste nutzen"
         },
         {
-            "name": null,
-            "country": null,
-            "division": null,
-            "address": null,
-            "representative": null,
             "category": "Werbetreibende"
           },
           {
-            "name": null,
-            "country": null,
-            "division": null,
-            "address": null,
-            "representative": null,
             "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
           },
           {
-            "name": null,
-            "country": null,
-            "division": null,
-            "address": null,
-            "representative": null,
             "category": "Anbieter und Dienstleister"
           },
           {
-            "name": null,
-            "country": null,
-            "division": null,
-            "address": null,
-            "representative": null,
             "category": "Forscher und Wissenschaftler"
           },
           {
-            "name": null,
-            "country": null,
-            "division": null,
-            "address": null,
-            "representative": null,
             "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
           }
       ],
       "storage": [
         {
           "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-          "aggregationFunction": null
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -202,30 +172,30 @@
             }
         ],
         "legalBases": [
-          {
-            "reference": "Art. 6 DSGVO",
-            "description": "gemäß deiner Einwilligung"
-          },
-          {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
-            },
             {
-              "reference": "Art. 6 DSGVO",
-              "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es im öffentlichen Interesse erforderlich ist"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
-            }
+                "reference": "DSGVO-6-1-a",
+                "description": "gemäß deiner Einwilligung"
+              },
+              {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "wie es im öffentlichen Interesse erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
+                }
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
@@ -281,7 +251,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -333,26 +303,26 @@
             }
         ],
         "legalBases": [
-          {
-            "reference": "Art. 6 DSGVO",
-            "description": "gemäß deiner Einwilligung"
-          },
-          {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
-            },
             {
-              "reference": "Art. 6 DSGVO",
-              "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es im öffentlichen Interesse erforderlich ist"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
-            }
+                "reference": "DSGVO-6-1-a",
+                "description": "gemäß deiner Einwilligung"
+              },
+              {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "wie es im öffentlichen Interesse erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
+                }
         ],
         "legitimateInterests": [
           {
@@ -412,7 +382,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -464,26 +434,26 @@
             }
         ],
         "legalBases": [
-          {
-            "reference": "Art. 6 DSGVO",
-            "description": "gemäß deiner Einwilligung"
-          },
-          {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
-            },
             {
-              "reference": "Art. 6 DSGVO",
-              "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es im öffentlichen Interesse erforderlich ist"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
-            }
+                "reference": "DSGVO-6-1-a",
+                "description": "gemäß deiner Einwilligung"
+              },
+              {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "wie es im öffentlichen Interesse erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
+                }
         ],
         "legitimateInterests": [
           {
@@ -543,7 +513,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
@@ -595,26 +565,26 @@
             }
         ],
         "legalBases": [
-          {
-            "reference": "Art. 6 DSGVO",
-            "description": "gemäß deiner Einwilligung"
-          },
-          {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
-            },
             {
-              "reference": "Art. 6 DSGVO",
-              "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es im öffentlichen Interesse erforderlich ist"
-            },
-            {
-              "reference": "Art. 6 DSGVO",
-              "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
-            }
+                "reference": "DSGVO-6-1-a",
+                "description": "gemäß deiner Einwilligung"
+              },
+              {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "wie es zur Erfüllung unserer rechtlichen Pflichten erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "um deine wesentlichen Interessen oder die von anderen zu schützen"
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "wie es im öffentlichen Interesse erforderlich ist"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "wie es für unsere berechtigten Interessen (sowie die von anderen) erforderlich ist, einschließlich unseres Interesses daran, innovative, personalisierte, sichere und profitable Dienste für unsere Nutzer und Partner bereitzustellen, außer wenn diese Interessen von deinen Interessen oder grundlegenden Rechten und Freiheiten, die den Schutz personenbezogener Daten erfordern, überwogen werden."
+                }
         ],
         "legitimateInterests": [
           {
@@ -674,7 +644,7 @@
         "storage": [
           {
             "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
-            "aggregationFunction": null
+            "aggregationFunction": "max"
           }
         ],
         "nonDisclosure": {
