@@ -170,45 +170,6 @@
       }
     },
     {
-      "_id": "866666c0-6f0d-498e-a4b2-aa852f61ad1d",
-      "category": "Kontaktaufnahme",
-      "purposes": 
-      [
-        {
-          "purpose":"Bearbeitung der Kontaktanfrage",
-          "description":"Die uns dazu übermittelten personenbezogenen Daten (z. B. Name, Anschrift, Telefonnummer oder E-Mail-Adresse) dienen ausschließlich der Bearbeitung von Kontaktanfragen der Nutzenden. "
-        }
-      ],
-      "legalBases": [
-        {
-          "reference":"GDPR-6-1-a",
-          "description":"Einwilligung"
-        }
-      ],
-      "legitimateInterests": {
-        "exists":false
-      },
-      "recipients": [],
-      "storage": {
-        "aggregationFunction":"min",
-        "purposeConditional":[
-          "Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind."
-        ]
-      },
-      "nonDisclosure":     {
-        "legalRequirement": false,
-        "contractualRegulation": true,
-        "obligationToProvide": true,
-        "consequences": "Die Erfassung der Daten zur Bereitstellung der App und deren Speicherung ist für den Betrieb des Angebots zwingend erforderlich, sodass seitens der Nutzenden keine Widerspruchsmöglichkeit besteht."
-      },
-      "subcategories":[
-        "Name",
-        "Anschrift",
-        "Telefonnummer",
-        "E-Mail-Adresse" 
-      ]
-    }
-    {
       "_id": "8641f12a-1488-44fc-9ddf-abdd0bc8d517",
       "category": "Firebase Analytics Werbe-ID",
       "purposes": 
