@@ -99,23 +99,53 @@
       ],
       "recipients": [
         {
-          "category": "Partner, die unsere Analysedienste nutzen"
-        },
-        {
-            "category": "Werbetreibende"
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Partner, die unsere Analysedienste nutzen"
           },
           {
-            "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
-          },
-          {
-            "category": "Anbieter und Dienstleister"
-          },
-          {
-            "category": "Forscher und Wissenschaftler"
-          },
-          {
-            "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
-          }
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Werbetreibende"
+            },
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+            },
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Anbieter und Dienstleister"
+            },
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Forscher und Wissenschaftler"
+            },
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+            }
       ],
       "storage": [
         {
