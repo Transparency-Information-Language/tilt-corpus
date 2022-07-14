@@ -11,185 +11,179 @@
     "_hash": "9972abdc06bbfc94d92357b934302eac093eb7057a14b9a44c9b0a679a2e902f"
   },
   "controller": {
-    "name": "Telef\u00f3nica Germany GmbH &amp;amp; Co. OHG",
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "Telefónica Germany GmbH & Co. OHG",
+    "country": "DE",
+    "address": "Telefónica Germany GmbH & Co. OHG \n Georg-Brauchle-Ring 50 \n 80992 München",
     "representative": {
       "name": null,
-      "email": null,
-      "phone": null
+      "email": null
     }
   },
   "dataProtectionOfficer": {
     "email": null,
-    "phone": null,
-    "country": null,
+    "url":"https://www.telefonica.de/datenschutz-kontakt",
+    "country": "DE",
     "name": null,
-    "address": null
+    "address": "Telefónica Germany GmbH & Co. OHG \n Datenschutzbeauftragter \n Georg-Brauchle-Ring 50 \n 80992 München"
   },
   "dataDisclosed": [
     {
       "_id": "31ce6f7f-8af6-4606-9482-626914db84cf",
-      "category": "Ihre IP-Adresse wird vor der Speicherung des Nutzungsverhaltens anonymisiert (L\u00f6schung der letzten beiden Oktette). Das Surf-Verhalten kann nicht auf eine Person zur\u00fcckverfolgt werden.",
+      "category": "Logfiles",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Ermittlung und Beseitigung von Störungen",
+          "description": "Diese Daten verarbeiten wir, zum Zwecke der Ermittlung und Beseitigung von Störungen (Art. 6 Abs. 1 S. 1 f) DS-GVO)"
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-f",
+          "description": "Diese Daten verarbeiten wir, zum Zwecke der Ermittlung und Beseitigung von Störungen (Art. 6 Abs. 1 S. 1 f) DS-GVO)"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Diese Daten verarbeiten wir, zum Zwecke der Ermittlung und Beseitigung von Störungen (Art. 6 Abs. 1 S. 1 f) DS-GVO)",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "name": "Youtube",
+          "country": "US",
+          "address": "YouTube LLC, 901 Cherry Avenue, San Bruno, CA 94066, USA",
+          "category": "Anzeige von YouTube-Videos"
+        },
+        {
+          "name": "Flickr-Fotos",
+          "country": "US",
+          "address": "SmugMug, Inc., 67 E. Evelyn Ave, Suite 200, Mountain View, California, U.S.",
+          "category": "Anzeige von Flickr-Fotos"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [{
+            "description":"Die Logfiles werden sieben Tagen  nach Erstellung gelöscht.",
+            "ttl":"P7D"
+          }],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
+        "consequences": "Ohne die Bereitstellung dieser Daten können wir Ihnen unsere Website nicht zur Verfügung stellen. ",
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "obligationToProvide": true
+      },
+      "subcategories":[
+        "angeforderte Website-URL",
+        "die Website, von der aus die Datei angefordert wurde",
+        "Cookies",
+        "der Status des Zugriffs (Datei übertragen, Datei nicht gefunden, etc.)",
+        "Datum, Uhrzeit und Dauer des Abrufs", 
+        "übertragene Datenmenge im Rahmen der Verbindung", 
+        "Typ und Version des verwendeten Browsers", 
+        "verwendete Sprache", 
+        "Name des Internet Service Providers",
+        "IP-Adresse"
+      ]
     },
     {
-      "_id": "63b18374-de57-46b1-bff3-2484a512518c",
-      "category": "Die angeforderte Website-URL sowie die Website, von der aus die Datei angefordert wurde, die gespeicherten Cookies des Besuchers f\u00fcr die aufgerufene Domain, der Status des Zugriffs (Datei \u00fcbertragen, Datei nicht gefunden, etc.), Datum, Uhrzeit und Dauer des Abrufs, \u00fcbertragene Datenmenge im Rahmen der Verbindung, Typ und Version des verwendeten Browsers, verwendete Sprache, Name des Internet Service Providers und Ihre IP-Adresse . Ihre IP-Adresse wird dabei anonymisiert, um das letzte Oktett gek\u00fcrzt, gespeichert. Ohne die Bereitstellung dieser Daten k\u00f6nnen wir Ihnen unsere Website nicht zur Verf\u00fcgung stellen.",
+      "_id": "",
+      "category": "E-Mail-Adresse",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Newsletter",
+          "description": "Sie erhalten einen Newsletter, wenn Sie sich auf der Seite https://www.telefonica.de für einen entsprechende Dienst anmelden "
+        },
+        {
+          "purpose":"statistische Auswertungen",
+          "description":"Über den Newsletter sind statistische Auswertungsmöglichkeiten von Nutzungsdaten möglich. Hierzu erfassen wir sowohl die Öffnungen der E-Mail als auch die internen Klicks. Diese Informationen dienen dazu, die Inhalte der Newsletter spannender und relevanter zu gestalten sowie den Erfolg der Kampagnen zu messen. "
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-b",
+          "description": "ntsprechende Dienst anmelden"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Rechtsgrundlage dieses Trackings ist die Wahrung der berechtigten Interessen gemäß Art. 6 Abs. 1 Buchstabe f) DSGVO."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Rechtsgrundlage dieses Trackings ist die Wahrung der berechtigten Interessen gemäß Art. 6 Abs. 1 Buchstabe f) DSGVO.",
+          "exists": true
         }
       ],
       "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional":
+          [
+            "Wir speichern Ihre Daten nur während des Bezugs des Newsletters sowie zur Wahrung von Widersprüchen in den Erhalt des Newsletters."
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
+        "consequences": "Sie haben als Empfänger:in jederzeit die Möglichkeit, sich vom Newsletter über den Abmeldelink am Ende jeder Newsletter-Ausgabe abzumelden, falls Sie damit nicht einverstanden sind.",
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
+        "obligationToProvide": false
       }
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "country": "US",
+      "adequacyDecision": {
+        "available":false
+      },
+      "appropriateGuarantees": {
+        "available":true,
+        "description":"https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_de"
+      },
+      "standardDataProtectionClause": {
+        "available":true,
+        "description":"https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_de "
+      }
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Sie haben das Recht, Auskunft über Ihre verarbeiteten Daten zu erhalten (Art. 15 DS-GVO).",
+    "url": "https://meine-daten.telefonica.de"
   },
   "sources": [
-    {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
-    }
   ],
   "rightToInformation": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Sie haben das Recht, Auskunft über Ihre verarbeiteten Daten zu erhalten (Art. 15 DS-GVO).",
+    "url": "https://meine-daten.telefonica.de"
   },
   "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": null
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": null
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Sie haben das Recht, Ihre abgegebenen Einwilligungen in die Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widerrufen. Die Rechtmäßigkeit der auf Grund der Einwilligung bis zum Widerruf erfolgten Verarbeitung bleibt dabei vom Widerruf unberührt. Wie Sie den Widerruf erklären können, teilen wir Ihnen bei Einholung der Einwilligung mit. Jedenfalls können Sie sich zur Erklärung Ihres Widerrufs an unseren Datenschutzbeauftragten wenden."
   },
   "rightToComplain": {
     "available": true,
     "description": "Sie haben das Recht auf Beschwerde bei einer Aufsichtsbeh\u00f6rde (Art. 77 DS-GVO). ",
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
+      "name": "Datenschutzaufsichtsbehörde",
       "address": null,
       "country": null,
-      "email": null,
-      "phone": null
+      "email": null
     }
   },
   "automatedDecisionMaking": {

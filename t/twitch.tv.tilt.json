@@ -11,104 +11,1498 @@
     "_hash": "f9987454558443041ee3214688187950a5df17d52a55473e3c8d689c9a923acf"
   },
   "controller": {
-    "name": null,
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "Twitch Interactive, Inc. (und seinen Affiliates, „Twitch“)",
+    "country": "US",
+    "address": "Twitch Interactive, Inc. \n 350 Bush Street \n 2nd Floor \n San Francisco \n CA 94104",
     "representative": {
-      "name": null,
-      "email": null,
-      "phone": null
+      "name": "Twitch Sweden AB",
+      "email": "privacy@twitch.tv",
+      "address":"witch Sweden AB \n Polstjärnegatan 14 \n  417 56 Gothenburg \n Sweden"
     }
   },
   "dataProtectionOfficer": {
-    "email": null,
-    "phone": null,
+    "email": "privacy@twitch.tv",
     "country": null,
     "name": null,
     "address": null
   },
   "dataDisclosed": [
     {
-      "_id": [],
-      "category": [],
-      "purposes": [],
-      "legalBases": [],
-      "legitimateInterests": [],
-      "recipients": [],
-      "recipientsOnlyCategory": [],
-      "storage": [],
-      "nonDisclosure": []
+      "_id": "7a3f7990-d911-4924-9de3-e9f3db4083ed",
+      "category": "Name",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+    },
+    {
+      "_id": "a97c40ec-e6dd-46cf-934e-a382a8049a04",
+      "category": "Stimme",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }     
+    },
+    {
+      "_id": "0abc02ae-0890-4483-a30c-a3f031a65b56",
+      "category": "Bilder",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "fe396d0b-a761-4283-b261-816112d8f0ff",
+      "category": "Twitch-Benutzername",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "c72d8203-fca7-4430-b03b-72f1700240ca",
+      "category": "E-Mail-Adresse",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "db486766-dcd9-4afb-be0a-6c524362e424",
+      "category": "Postanschrift",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "85995ca7-6a7c-40f2-a0c0-fb21528daaac",
+      "category": "Telefonnummer",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "6b64bfa6-2804-41ac-8c8f-46ed3f813ad3",
+      "category": "Kreditkartennummer",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "fad62d11-b156-4f05-bfe0-8e29195bcd38",
+      "category": "Abrechnungsinformationen",
+      "purposes": [
+        {
+          "purpose": "Twitch-Dienste betreiben, warten, optimieren, bereitstellen, erstellen und entwickeln",
+          "description": "Twitch nutzt diese Informationen, um die Gesamtheit der (bestehenden oder neuen) Features, Funktionen und Dienste im Rahmen der Twitch-Dienste zu betreiben, zu warten, zu optimieren, bereitzustellen, zu erstellen und zu entwickeln"
+        },
+        {
+          "purpose":"Sicherheit",
+          "description": "die Sicherheit für unsere Websites, Produkte, Software und Anwendungen zu gewährleisten"
+        },
+        {
+          "purpose":"Beziehungen verwalten",
+          "description":" Beziehungen zu Twitch-Kontoinhabern (z. B. Partnern, Affiliates) zu verwalten, einschließlich von Zahlungen von oder an uns"
+        },
+        {
+          "purpose":"Benutzererlebnis verwalten",
+          "description":"das Benutzererlebnis bei Twitch durch Inhaltsempfehlungen zu optimieren, indem wir Inhalte bereitstellen, von denen wir hoffen, dass sie für die Benutzer sinnvoll und interessant sind, darunter auch Werbung und Marketingmitteilungen"
+        },
+        {
+          "purpose":"Inhalte kommentieren",
+          "description":"es dir zu ermöglichen, Inhalte zu kommentieren und dich an Online-Spielen, Wettbewerben oder Belohnungsprogrammen zu beteiligen"
+        },
+        {
+          "purpose":"Betrug und Missbrauch vermeiden",
+          "description":"Betrug und Missbrauch zu vermeiden"
+        },
+        {
+          "purpose":"Nutzungstrends analysieren",
+          "description":"Nutzungstrends unserer Benutzer zu analysieren"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Twitch kann dir regelmäßig Werbematerial oder Mitteilungen zu den Twitch-Diensten senden."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": "Wenn du uns solche Informationen nicht zur Verfügung stellst oder uns zu ihrer Löschung aufforderst, kannst du möglicherweise nicht mehr auf Twitch-Dienste zugreifen oder diese verwenden",
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": false
+      }
+      
+    },
+    {
+      "_id": "bb7761ea-f267-434d-9992-c251b78230b2",
+      "category": "IP-Adresse",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "23dee3ab-1990-446f-b1e5-8b56ddc8bd56",
+      "category": "Informationen zu deiner Nutzung der Twitch-Dienste",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "0f944135-d932-4f34-a1bc-db6a4f50bbff",
+      "category": "Geräte- und Browsertypen und -kennungen",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "0f944135-d932-4f34-a1bc-db6a4f50bbff",
+      "category": "Adressen von verweisenden Seiten und Beendigungsseiten",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "8c54325f-02c5-4778-b170-e9a05b0a8853",
+      "category": "Software- und Systemtypen",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "364c6398-dc1a-4490-8df5-156b867860aa",
+      "category": "Benutzer-ID",
+      "purposes": [
+        {
+          "purpose": "automatische Aktualisierung der Twitch-Anwendung auf deinem System",
+          "description": "automatische Aktualisierung der Twitch-Anwendung auf deinem System"
+        },
+        {
+          "purpose":"Speicherung deiner Informationen",
+          "description": "Speicherung deiner Informationen, damit du sie bei deinem nächsten Besuch bei oder Zugriff auf Twitch-Diensten nicht erneut eingeben musst"
+        },
+        {
+          "purpose":"Werbung",
+          "description":"Bereitstellung angepasster Werbung, Inhalte und Informationen"
+        },
+        {
+          "purpose":"Überwachung des Erfolgs von Marketingkampagnen",
+          "description":"Überwachung des Erfolgs von Marketingkampagnen"
+        },
+        {
+          "purpose":"Nutzungsmetriken",
+          "description":"Überwachung und Speicherung aggregierter Site-Nutzungsmetriken wie die Gesamtzahl der Besucher oder der aufgerufenen Seiten"
+        },
+        {
+          "purpose":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten",
+          "description":"Verfolgung deiner Teilnahme, Einreichungen und Status bei Aktionen und sonstigen Aktivitäten"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wir können auch um deine Zustimmung dazu bitten, deine personenbezogenen Daten für einen bestimmten Zweck zu verarbeiten, über den wir dich informieren."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description": "Einhaltung vertraglicher Verpflichtungen, im Hinblick auf die Vorbereitung von Vertragsabschlüssen"
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description": "Einhaltung rechtlicher Pflichten"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description": "berechtigten Interessen von Twitch"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":null
+        }
+      ],
+      "recipients": [
+        {
+          "category": "Dienstanbieter in unserem Auftrag"
+        },
+        {
+          "category": "Affiliates"
+        },
+        {
+          "category":"Affiliates",
+          "name":"Amazon.com, Inc."
+        },
+        {
+          "category":"Behörden"
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [
+            "Twitch speichert die Daten zu deiner Nutzung von Twitch so lange, wie dies erforderlich ist, um die entsprechenden Zwecke zu erfüllen, die in diesem Datenschutzhinweis beschrieben sind",
+            "für steuerliche und buchhalterische oder andere Zwecke, über die wir dich informieren",
+            "soweit dies rechtlich erforderlich (oder zugelassen) ist"
+          ],
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "country": "US",
+      "appropriateGuarantees": {
+        "available":true,
+        "description":"Von Twitch erfasste Informationen können in deiner Region, in den Vereinigten Staaten (zum Beispiel in unseren großen Rechenzentren) oder in jedem anderen Land gespeichert und verarbeitet werden, in dem Twitch bzw. Affiliates, Tochtergesellschaften, Partner oder Dienstleister ihren Sitz haben oder über Einrichtungen verfügen.  Wenn wir solchen Einrichtungen Informationen über dich zur Verfügung stellen, ergreifen wir geeignete Maßnahmen, um sicherzustellen, dass deine Daten angemessen und gemäß diesem Datenschutzhinweis sowie gültiger Gesetze geschützt werden."
+      }
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Zugang zu den personenbezogenen Daten, die bei uns über dich hinterlegt sind, oder eine Kopie dieser Informationen erhalten",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ]
   },
   "sources": [
     {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
-    }
+      "_id": "aeb9741f-3003-464b-ae17-9b62fc7b22b6",
+      "dataCategory": "demografische und statistische Daten",
+      "sources": [
+          {
+              "description": "Werbung",
+              "url": null,
+              "publiclyAvailable": false
+          },
+          {
+            "description": "Spiele",
+            "url": null,
+            "publiclyAvailable": false
+        },
+        {
+          "description": "von dir genutzte Dienste",
+          "url": null,
+          "publiclyAvailable": false
+        },
+        {
+          "description": "soziale Medien",
+          "url": null,
+          "publiclyAvailable": false
+        }
+      ]
+  },
+  {
+    "_id": "5b3ad7ae-7343-4a4d-8bd9-cd592a5f5076",
+    "dataCategory": "Informationen zu deiner Nutzung der Dienste erfassen, deine Nutzung der Inhalte eingeschlossen, die du über die Twitch-Dienste sendest",
+    "sources": [
+        {
+            "description": "Riot",
+            "url": null,
+            "publiclyAvailable": false
+        },
+        {
+          "description": "Steam",
+          "url": null,
+          "publiclyAvailable": false
+      }
+    ]
+  }
   ],
   "rightToInformation": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Zugang zu den personenbezogenen Daten, die bei uns über dich hinterlegt sind, oder eine Kopie dieser Informationen erhalten",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ]
   },
   "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Aktualisierung personenbezogener Daten, die veraltet oder falsch sind; Löschung bestimmter personenbezogener Daten, die bei uns über dich hinterlegt sind",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ]
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Zugang zu den personenbezogenen Daten, die bei uns über dich hinterlegt sind, oder eine Kopie dieser Informationen erhalten",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ]
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "available": true,
+    "description": "Widerruf deiner zuvor gewährten Einwilligung zur Verarbeitung deiner personenbezogenen Daten",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ]
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+    "available": true,
+    "description": "Gegebenenfalls kannst du eine Beschwerde an die Datenschutzbehörde in deinem Aufenthaltsland richten. Alternativ kannst du dich an die Gerichte vor Ort wenden, wenn du glaubst, dass deine Rechte verletzt wurden.",
+    "url": "https://www.twitch.tv/p/de-de/legal/privacy-choices/",
+    "identificationEvidences": [
+      "IP-Adresse",
+      "Geburtsdatum",
+      "Transaktions-ID",
+      "E-Mail-Adresse"
+    ],
+    "supervisoryAuthority":{
+      "name":"Swedish Authority for Privacy Protection",
+      "country":"SE"
     }
   },
   "automatedDecisionMaking": {

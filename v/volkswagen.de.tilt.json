@@ -12,1634 +12,576 @@
   },
   "controller": {
     "name": "Volkswagen AG",
-    "country": null,
-    "address": null,
-    "division": null,
+    "country": "DE",
+    "address": "Volkswagen AG, Berliner Ring 2, 38440 Wolfsburg",
     "representative": {
       "name": null,
-      "email": null,
+      "email": "kundenbetreuung@volkswagen.de",
       "phone": null
     }
   },
   "dataProtectionOfficer": {
     "email": "datenschutz@volkswagen.de",
     "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
+    "country": "DE",
+    "name": "Datenschutzbeauftragter der Volkswagen AG",
+    "address": "Datenschutzbeauftragter der Volkswagen AG, Berliner Ring 2, 38440 Wolfsburg"
   },
   "dataDisclosed": [
+    {
+      "_id": "e005d30b-37c3-4b0a-8057-c1a233073a9f",
+      "category": "IP Adresse",
+      "purposes": [
+        {
+          "purpose":"3D Streaming",
+          "description":"Um ein 3D Streaming auf unserer Website anbieten zu können, verarbeiten wir Ihre IP-Adresse. Das 3D Streaming dient zur Darstellung von Fahrzeugmodellen in einer virtuellen, dreidimensionalen Umgebung, welche Sie interaktiv bedienen können."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Die Verarbeitung dieser Daten erfolgt gemäß Artikel 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses, Ihnen das 3D Streaming ordnungsgemäß anzeigen zu können sowie ein technisches Monitoring zu gewährleisten. "
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":true,
+          "reasoning":"Die Verarbeitung dieser Daten erfolgt gemäß Artikel 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses, Ihnen das 3D Streaming ordnungsgemäß anzeigen zu können sowie ein technisches Monitoring zu gewährleisten. "
+        }
+      ],
+      "recipients": [
+        {
+          "name": "ZeroLight Limited",
+          "address": "Live Works, 55-57 Quayside, Newcastle, UK NE1 3DE",
+          "country": "UK",
+          "category":"Auftragsverarbeiter"
+        }
+      ],
+      "storage": [
+        {
+          "aggregationFunction":"max",
+         "temporal":
+          [
+            {
+              "description":"Die personenbezogenen Daten werden nach spätestens 30 Tagen automatisch gelöscht.",
+              "ttl": "P30D"
+            }
+          ]
+        }
+      ],
+      "nonDisclosure": {
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "supercategory": "Protokolldateien"
+    },
     {
       "_id": "08a2cb3d-3078-450c-a794-f88c788b1551",
       "category": "Anrede, Vor-/Nachname und E-Mail-Adresse, optional Titel",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Bestellung Newsletter",
+          "description": "Erbringung dieses Services im Rahmen Ihrer dafür gegebenen Einwilligung genutzt"
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "exists": false
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "category": "Auftragsverarbeiter"
+        },
+        {
+          "name": "Bosse Consulting GmbH",
+          "category": "Auftragsverarbeiter"
+        },
+        {
+          "name": "Diconium GmbH",
+          "category": "Auftragsverarbeiter"
+        },
+        {
+          "name":"Salesforce.com, Inc.",
+          "category":"Auftragsverarbeiter" 
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "purposeConditional": [
+            "Sobald Sie den Newsletter abbestellen, werden Ihre für den Newsletter angegeben personenbezogenen Daten gelöscht, sofern keine anderen Aufbewahrungsfristen (z. B. steuerliche Aufbewahrungsfristen) entgegenstehen. "
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
+        "obligationToProvide": false
       }
     },
     {
-      "_id": "78b38147-6477-453a-a6fe-358dc9a21ee4",
-      "category": " IP-Adresse, Datum und Uhrzeit der Absendung des Web-Formulars sowie die IP-Adresse, Datum und Uhrzeit der Best\u00e4tigung",
+      "_id": "85c755a5-9435-4fb2-87ab-ecd5e990bd9e",
+      "category": "Daten aus Angebots-, Verkaufs- und Bestellsystemen",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose":"Erstellung von Auswertungen zur Unternehmenssteuerung",
+          "description":"Zum Zweck der Erstellung von Auswertungen zur Unternehmenssteuerung führt die Volkswagen AG Analysen von Angebots-, Verkaufs- und Bestelldaten nach Modell, Verkaufskanal, Bestellstatus, Analysen nachgefragter Varianten und Ausstattungen und Reportings zu betriebswirtschaftlichen Kenngrößenzahlen unter Verwendung einer Identifikationsnummer durch. Darüber hinaus führt die Volkswagen AG die ihr vorliegenden Daten mit externen Informationen wie bspw. sozioökonomischen bzw. soziodemografischen Merkmalen zusammen. Im Zuge der Verarbeitung werden Ihre personenbezogenen Daten pseudonymisiert. Die Pseudonymisierung beinhaltet die Entfernung aller direkten persönlichen Identifikationsmerkmale (z.B. Name, E-Mail, Telefonnummer, Fahrzeugidentifikationsnummer). Indirekt rückführbare Identifikationsmerkmale (Pseudonyme) werden beibehalten. Erst im Anschluss an diese Pseudonymisierung werden die Daten in den Analytics-Systemen der Volkswagen AG analysiert. Es erfolgt zu keinem Zeitpunkt eine Wiederherstellung des direkten Personenbezugs. Die aus der Analyse resultierenden Ergebnisse (insbesondere Metriken und Kennzahlen) sind vollständig anonym. Für darüberhinausgehende Verarbeitungen (z.B. Errechnung von Segmenten, Metriken und Kennzahlen) werden die Daten im Vorfeld anonymisiert. "
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-f",
+          "description":"Die beschriebene Verarbeitung Ihrer Daten erfolgt aufgrund des berechtigten Interesses der Volkswagen AG Auswertungen zur Unternehmenssteuerung durchzuführen"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "exists":true,
+          "reasoning":"Die beschriebene Verarbeitung Ihrer Daten erfolgt aufgrund des berechtigten Interesses der Volkswagen AG Auswertungen zur Unternehmenssteuerung durchzuführen"
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "name": "Amazon Web Services EMEA SARL",
+          "category":"Cloud Provider"
+        },
+        {
+          "name":"CARIAD SE",
+          "country":"DE",
+          "category":"Auftragsverarbeiter"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+        "aggregationFunction":"max",
+        "purposeConditional":
+        [
+          "sobald der Zweck entfällt, zu dem sie erhoben wurden ",
+          "sofern der Löschung keine anderen Aufbewahrungspflichten entgegenstehen"
+        ],
+         "temporal":
+          [
+            {
+              "description":"Die Volkswagen AG löscht Ihre pseudonymen Daten nach 3 Jahren",
+              "ttl": "P3Y"
+            }
+          ]
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "subcategories": [
+        "Private Kontakt- und Identifikationsdaten (Adresse)",
+        "Vertragsdaten (z.B. Fahrzeugausstattung, Bestelldaten, Logistikdaten)",
+        "Kfz-Nutzungsdaten (z.B. Fahrzeugdaten)",
+        "IT-Nutzungsdaten (z.B. letzte Anmeldungen an den Diensten, Nutzung von Fuktionen)"
+      ]
+    },
+    {
+      "_id": "827b5d4a-5b39-409f-8022-31eefd33af9e",
+      "category": "Kontakt",
+      "purposes": [
+        {
+          "purpose":"Kontaktaufnahme über das Kontaktformular",
+          "description":"Sie haben die Möglichkeit, über ein Kontaktformular mit uns Kontakt aufzunehmen und eine Anfrage an uns zu richten"
+        },
+        {
+          "purpose":"Kontaktaufnahme über den Live-Chat",
+          "description":"Alternativ zum Kontaktformular haben Sie die Möglichkeit über den Live-Chat mit uns Kontakt aufzunehmen. Sollte eine sofortige und komplette Klärung Ihrer Anfrage nicht möglich sein und eine weiterläufige Bearbeitung notwendig sein, wird ein entsprechender Vorgang angelegt"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"um Ihre Anfrage zu bearbeiten"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":false
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Salesforce.com, Inc.",
+          "category":"Auftragsverarbeiter"
+        }
+      ],
+      "storage": [
+        {
+        "aggregationFunction":"max",
+        "purposeConditional":
+        [
+          "Wir löschen Ihre Daten, sobald wir Ihre Anfrage zu Ihrer Zufriedenheit beantwortet haben",
+          "sofern der Löschung keine anderen Aufbewahrungspflichten entgegenstehen"
+        ]
+        }
+      ],
+      "nonDisclosure": {
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "subcategories": [
+        "Anrede",
+        "Vor-/Nachname",
+        "E-Mail-Adresse",
+        "Titel",
+        "Telefonnummer",
+        "IP Adresse"
+      ]
+    },
+    {
+      "_id": "5c85b935-1fcf-4094-aeb6-31a605f8b0bb",
+      "category": "Serviceanfragen",
+      "purposes": [
+        {
+          "purpose":"Bearbeitung Ihrer Serviceanfrage",
+          "description":"Sie haben die Möglichkeit, eine Serviceanfrage über die Website www.volkswagen.de (z. B. im Bereich der Händlersuche) zu den Themen (Inspektion/Öl-Service, Ersatzteile, Räderwechsel, Zubehör, Hauptuntersuchung) an Ihren Volkswagen Partner zu versenden."
+        },
+        {
+          "purpose":"Terminvereinbarung",
+          "description":"Die übermittelten Daten werden von Ihrem Volkswagen Partner zur Kontaktaufnahme über den von Ihnen ausgewählten Kommunikationskanal (E-Mail oder Telefon) zum Zweck der Terminvereinbarung verwendet. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Diese Erhebung und Übermittlung der Daten erfolgt auf Grundlage eines Vertragsanbahnungsverhältnisses (Art. 6 Abs. 1 lit. b DSGVO) zur Bearbeitung Ihrer Serviceanfrage."
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":false
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "category":"Auftragsverabeiter"
+        },
+        {
+          "name":"CARIAD SE",
+          "country":"DE",
+          "address":"Berliner Ring 2 Brieffach 1080/2, 38440 Wolfsburg",
+          "category":"Auftragsverabeiter"
+        },
+        {
+          "name":"dx.one",
+          "country":"DE",
+          "address":"Daimlerstraße 6-8, 38446 Wolfsburg",
+          "category":"Auftragsverabeiter"
+        },
+        {
+          "name":"Amazon Web Services Inc.",
+          "country":"LU",
+          "address":"Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855 Luxemburg",
+          "category":"Auftragsverabeiter"
+        },
+        {
+          "name":"Salesforce.com EMEA Limited",
+          "country":"UK",
+          "address":"Floor 26 Salesforce Tower, 110 Bishopsgate, LONDON, EC2N 4AY, GR0ßBRITANNIEN",
+          "category":"Auftragsverabeiter"
+        }
+      ],
+      "storage": [
+        {
+        "aggregationFunction":"max",
+         "temporal":
+          [
+            {
+              "description":"Die von Ihnen angegebenen personenbezogenen Daten und Ihr Anliegen werden grundsätzlich nach Abschluss der Anfrage durch uns nach 7 Monaten gelöscht.",
+              "ttl": "P7M"
+            }
+          ]
+        }
+      ],
+      "nonDisclosure": {
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "subcategories": [
+        "Name", 
+        "Vorname", 
+        "Ihr Anliegen (Freitext-Feld)", 
+        "E-Mail Adresse", 
+        "gewünschter Volkswagen Partner", 
+        "IP-Adresse", 
+        "Datum Ihrer Bestätigung & Ihrer Zustimmung zur Datenverarbeitung", 
+        "Versanddatum der Bestätigungsmail an Sie",
+        "Anrede", 
+        "Titel", 
+        "Telefonnummer", 
+        "KFZ-Kennzeichen", 
+        "Fahrzeug-Identifizierungsnummer (FIN)", 
+        "Erstzulassungsdatum", 
+        "Fahrzeugmodell", 
+        "Marke", 
+        "Kilometerstand"
+      ]
+    },
+    {
+      "_id": "38e8ccff-3acf-4e6b-8bf0-69e259213e81",
+      "category": " Name, Vorname, E-Mail-Adresse und/oder Telefonnummer",
+      "purposes": [
+        {
+          "purpose":"Werbezustellung",
+          "description":"Wenn Sie Informationen zu unseren Produkten erhalten möchten, können Sie die entsprechende Werbung bestellen."
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Hierfür werden im Rahmen der von Ihnen zu gebenden Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) folgende Daten zum Zwecke der Werbezustellung verarbeitet"
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "exists":false
+        }
+      ],
+      "recipients": [
+        {
+          "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "category":"Auftragsdienstleister"
+        },
+        {
+          "name":"Bosse Consulting GmbH",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Diconium GmbH",
+          "category":"Auftragsverarbeiter"
+        }
+      ],
+      "storage": [
+        {
+        "aggregationFunction":"max",
+        "purposeConditional":
+        [
+          "Sobald Sie Ihre Einwilligung widerrufen haben, werden Ihre personenbezogenen Daten gelöscht ",
+          "sofern der Löschung keine anderen Aufbewahrungspflichten entgegenstehen"
+        ]
+        }
+      ],
+      "nonDisclosure": {
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
       }
     },
     {
-      "_id": "3786b1e7-0712-44f6-b871-0e291dc56c14",
-      "category": "Anrede, Vor-/Nachname, E-Mail-Adresse und optional: Titel, Telefonnummer",
+      "_id": "a9e5ba9a-8b79-4756-88e7-b71d64f5b0fb",
+      "category": "Volkswagen ID",
+      "additional": "https://vwid.vwgroup.io/data-privacy",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose":"persönliche Gestaltung der digitalen Services",
+          "description":"Wenn Sie in diese persönliche Gestaltung einwilligen, analysieren wir dazu Ihr Nutzugsverhalten anhand Ihrer Cookie-Einstellungen und fügen dieses mit Ihrem Volkswagen ID Benutzerkonto zusammen, um Ihnen Inhalte der digitalen Services und Werbung basierend auf Ihren Präferenzen und Interessen auszuspielen und Ihre Erwartungen und Bedürfnisse bestmöglich zu erfüllen. "
+        },
+        {
+          "purpose":"Online-Leasing ID. Modelle",
+          "description":"Auf unserer Webseite haben Sie die Möglichkeit, den Abschluss eines Leasingvertrags zu starten und diesen auf einer Webseite der Volkswagen Leasing GmbH fortzuführen. Diese Option bieten wir Ihnen im Kontext der ID. Modelle an."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"Sofern Sie die Volkswagen ID nutzen, wird der von Ihnen ausgewählte Dienst mit Ihrem Volkswagen ID Benutzerkonto verknüpft. Diese Verknüpfung erfolgt nur, wenn Sie dieser eingewilligt haben"
+        },
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Die hierfür erforderliche Datenverarbeitung erfolgt im Rahmen der Vertragserfüllung (Art. 6 Abs. 1 S. 1 lit. b DSGVO). "
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Die Verarbeitung dieser Daten erfolgt gemäß Artikel 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses, Ihnen eine möglichst komfortable Vertragserstellung zu ermöglichen und um die Fahrzeugbestellung durchführen zu können."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "exists":true,
+          "reasoning":"Die Verarbeitung dieser Daten erfolgt gemäß Artikel 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses, Ihnen eine möglichst komfortable Vertragserstellung zu ermöglichen und um die Fahrzeugbestellung durchführen zu können."
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "category":"Auftragsdienstleister"
+        },
+        {
+          "name":"Bosse Consulting GmbH",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Diconium GmbH",
+          "category":"Auftragsverarbeiter"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+        "aggregationFunction":"max",
+        "purposeConditional":
+        [
+          "Wir verarbeiten diese oben genannten Daten solange, wie das für den vorgenannten Zweck erforderlich ist und löschen diese allgemein unverzüglich nach Wegfall der rechtlichen Grundlage, wenn sie für die genannten Zwecke nicht mehr erforderlich sind oder die genannten Zwecke wegfallen ",
+          "sofern der Löschung keine anderen Aufbewahrungspflichten entgegenstehen"
+        ]
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "subcategories":[
+        "Anrede",
+        "Name",
+        "E-Mail Adresse",
+        "Telefonnummer",
+        "Vorgangsnummer",
+        "Volkswagen Partner"
+      ]
     },
     {
-      "_id": "bd148485-c9d5-4d13-88cd-4e7e8bb36676",
-      "category": "Name, Vorname, E-Mail-Adresse und/oder Telefonnummer",
+      "_id": "954fa15a-e77a-484b-a932-58d25d4bbe95",
+      "category": "We Charge",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose":"Standortfreigabe",
+          "description":"Die Nutzung bestimmter Funktionen oder Dienste (z.B. um verfügbare Ladesäulen zu finden) ist nur möglich, wenn wir auf Ihrem Endgerät auf Ihren Standort zugreifen und Ihre Geodaten verarbeiten können. Dazu ist bei web-basierten Funktionen eine Übertragung Ihrer Positionsdaten über den jeweiligen Browser notwendig. Eine Übertragung der Positionsdaten erfolgt nur, wenn Sie diese Funktion in den Einstellungen Ihres Browsers aktiviert haben. "
+        },
+        {
+          "purpose":"Kundensupport",
+          "description":"Bei Fragen zur Nutzung der web-basierten Funktionen von We Charge können Sie jederzeit den Volkswagen Kundensupport kontaktieren und uns Ihr Kundenfeedback übermitteln."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"Diese Datenverarbeitung erfolgt aufgrund Ihrer Einwilligung, die Sie beim erstmaligen Aufrufen der Funktion erteilen (vgl. Art. 6 Abs. 1 lit. a) DSGVO)"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":" Wir geben Ihre Anfrage und Ihre Daten aber nur an entsprechend weiter, wenn dies zur Bearbeitung Ihres Anliegens erforderlich ist und zu einer schnelleren und kundenfreundlicheren Bearbeitung in Ihrem und unserem berechtigten Interesse führt (vgl. Art. 6 Abs. 1 lit. f) DSGVO)."
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "exists":true,
+          "reasoning":" Wir geben Ihre Anfrage und Ihre Daten aber nur an entsprechend weiter, wenn dies zur Bearbeitung Ihres Anliegens erforderlich ist und zu einer schnelleren und kundenfreundlicheren Bearbeitung in Ihrem und unserem berechtigten Interesse führt (vgl. Art. 6 Abs. 1 lit. f) DSGVO)."
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
+          "name":"Google Inc.",
+          "category":"Map Provider"
+        },
+        {
+          "name":"HERE EUROPE BV",
+          "country":"NL",
+          "address":"HERE EUROPE BV, Kennedyplein 222, 5611 ZT Eindhoven, Niederlande",
+          "category":"Routenberechnung"
+        },
+        {
+          "name":"NTT Data Group",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Teleperformance Group Europe",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Middle-East and Africa SAS",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "name":"Salesforce.com EMEA Limited",
+          "category":"Auftragsverarbeiter"
+        },
+        {
+          "category":"Service Partner"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+        "aggregationFunction":"max",
+        "purposeConditional":
+        [
+          "Wir verarbeiten die Routendaten solange, wie das für den vorgenannten Zweck erforderlich ist und löschen diese allgemein unmittelbar nach Bereitstellung der Route",
+          "Werden Ihre Daten für mehrere Zwecke benötigt und verarbeitet, werden sie automatisch gelöscht oder in anonymisierter Form gespeichert, die keine direkten Rückschlüsse auf Ihre Person zulässt, sobald der letzte spezifische Zweck erfüllt worden ist."
+        ],
+        "temporal":[
+          {
+            "description":"aus technischen Gründen können gelöschte Routen nach der Löschung noch bis zu 30 Tage innerhalb von Datenbank-Backups bestehen",
+            "ttl":"P30D"
+          }
+        ]
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "82502fd5-9b2e-4b98-9804-7735508c4c05",
-      "category": "IP-Adresse, Datum und Uhrzeit der Absendung",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "28ad41f2-fe4a-47f7-aa32-1c19ca41cf0c",
-      "category": "Anrede, Anschrift und E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "5eedc248-f6c1-4756-b8f2-16bdf1d3a83e",
-      "category": "Anrede, Titel, Vorname(n) und Nachname, Adresse, Land und Registrierungsnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fce7688c-6cda-45ee-9adf-aedd9f94f66f",
-      "category": "Ihr Name (ggf. mit Anrede), Ihre Anschrift, Ihre E-Mail-Adresse, eine ID Ihrer Anfrage, Angaben zu der von Ihnen pr\u00e4ferierten Zahlungsmethode und Abholung sowie zu zus\u00e4tzlichen von Ihnen ausgew\u00e4hlten Services und Ihre Kundennummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "4ee157f2-8c96-49ec-a92a-9f14d29e97fd",
-      "category": "Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "8247014d-e4cc-40cb-bf43-e0e0e017ab5a",
-      "category": "IP-Adresse, Datum und Uhrzeit der Absendung des Web-Formulars sowie die IP-Adresse, Datum und Uhrzeit Ihrer Best\u00e4tigung.",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "28038e92-aad9-42d0-b69e-a2a0b67fcac1",
-      "category": "Pseudonyme Identifikationsdaten (z.B. eine zuf\u00e4llig generierte pseudonyme Nutzerkennung)\nKfz-Nutzungsdaten (z.B. Fahrtenbuch, Fl\u00fcssigkeitsf\u00fcllst\u00e4nde)\nVertragsdaten (z.B. Fahrzeugausstattung, laufende Vertr\u00e4ge mit verkn\u00fcpften Diensten)\nIT-Nutzungsdaten (z.B. letzte Anmeldungen an den Diensten, Nutzung von Funktionen)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "09f44171-04fa-4929-aa59-76a1d1bef042",
-      "category": "Name, Titel, Anrede, E-Mail-Adresse, Geburtsjahr; sofern eine telefonische Kontaktaufnahme durch Ihren ausgew\u00e4hlten Service Partner gew\u00fcnscht, au\u00dferdem die Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d8c869b3-aad6-4032-98a6-65e9beec7560",
-      "category": "Name, Titel, Anrede, E-Mail-Adresse; sofern eine telefonische Kontaktaufnahme durch Ihren ausgew\u00e4hlten Partner gew\u00fcnscht, au\u00dferdem die Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "ff7b7206-1fe2-455e-ac15-4c20ea6b0a94",
-      "category": "Name, Titel, Anrede, E-Mail-Adresse; sofern eine telefonische Kontaktaufnahme durch Ihren ausgew\u00e4hlten Partner gew\u00fcnscht, au\u00dferdem die Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "1fd9c7ef-b89f-4f38-9d34-401faa047a3a",
-      "category": "eingegebener/ermittelter Standort",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f8709fd6-55fc-46ef-bd89-e4a9bb3d8295",
-      "category": "Marke, Modell sowie Fahrgestellnummer und aus Ihrem Volkswagen ID Profil Ihr Vorname, Name, Adresse und E-Mailadresse, Anrede",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "800f4e8c-05be-4b56-be59-b71149c3819b",
-      "category": "Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "5d07e657-b6ec-47cb-9afc-f4b73374ef37",
-      "category": "Fahrzeugmodell, Teile-Nummer(n), Teilebezeichnung, Rechnungsdatum, H\u00e4ndlername, H\u00e4ndlerstra\u00dfe, H\u00e4ndler PLZ, H\u00e4ndlerort",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "c2697238-2c6d-4dce-97cc-318ced044cc0",
-      "category": "Land, Vorname, Nachname, Stra\u00dfe, Hausnummer, PLZ, Wohnort, E-Mail, optional: Anrede, Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "a556007e-f663-4fb0-8681-f3edabdaf2b4",
-      "category": "IBAN, BIC/SWIFT Code, Name der Bank, Kontoinhaber",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "3d2de348-0192-4433-a952-ae88614d3125",
-      "category": "Land, Vorname, Nachname, Stra\u00dfe, Hausnummer, PLZ, Wohnort, E-Mail, optional: Anrede, Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "965d83bc-6876-4d55-abbe-694aa4c48313",
-      "category": "Standort zum Zeitpunkt Ihrer Anfrage",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "8c10eaef-0546-4ae6-b2e5-3c6913234451",
-      "category": "Name, E-Mail-Adresse, Telefonnummer, Sprache sowie \u2013 je nach Anfrage \u2013 z. B., Betriebssystem Ihres Endger\u00e4tes, Spracheinstellungen, Fehleranalysen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "6acd4ebf-865a-4aff-b3fd-a131a9add79e",
-      "category": "Name, Anschrift, E-Mail-Adresse, Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "c3ae3574-680a-4b1a-9ea0-0b863a6830cd",
-      "category": "Name, Anschrift, E-Mail-Adresse, Telefonnumer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "e5077e66-d83a-4cd3-b92b-fcdafaf47c89",
-      "category": "Ihr Name (ggf. mit Anrede), Ihre Anschrift, Ihre E-Mail-Adresse, eine ID Ihrer Anfrage, Angaben zu der von Ihnen pr\u00e4ferierten Zahlungsmethode und der Abholung, Ihr Bestellstatus sowie Ihre Kundennummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "68da3f2a-22e9-47ca-9cd7-6484d176a81e",
-      "category": "Telefonnummer respektive E-Mail-Adresse und optional: Anrede",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "71ccceb4-ac5c-4558-8e10-4f605c30ce2f",
-      "category": "Vorname, Nachname, Anrede, Titel, Stra\u00dfe, Hausnummer, Postleitzahl, Stadt, E-Mail und Geburtstag",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "a0402bab-7b9a-4239-ae93-a9f67edc13b7",
-      "category": "Vorname, Nachname, Anrede, Titel, E-Mail",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "3a144637-31cf-40c4-88d6-6d779e6d765f",
-      "category": "Name, E-Mail Adresse, Adresse, Telefonnummer, Land und Sprache",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "233ef99b-b517-4715-82f7-4cd835ed1c3e",
-      "category": "Cookie ID, Mobile Device ID, IP-Adresse, Interessensinformationen, Webbrowser und Ger\u00e4teinformationen, Informationen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+         "legalRequirement": false,
+         "contractualRegulation": false,
+         "obligationToProvide": false,
+         "consequences": ""
+      },
+      "subcategories":[
+        "Geodaten",
+        "Routendaten",
+        "Fahrzeugdaten",
+        "Name",
+        "E-Mail Adresse",
+        "Telefonnummer",
+        "Sprache"
+      ]
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": "Salesforce.com, Inc",
+      "country": "US",
+      "companies": ["Salesforce.com, Inc", "Amazon Web Services EMEA SARL", "Google Inc.", "Commercetools Pte. Ltd."],
       "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
+        "available": false
       },
       "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Salesforce.com, Inc",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Commercetools Pte. Ltd. und Commercetools Inc.",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Amazon Web Services",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": " HERE EUROPE BV, Kennedyplein 222, 5611 ZT Eindhoven, Niederlande (HERE) ",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Salesforce.com Inc.",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Commercetools Pte. Ltd. und Commercetools Inc.",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Adobe Systems Software Ireland Limited (\u201eAdobe\u201c)",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": " Adobe Systems Incorporated",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
+        "available": true,
+        "description": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32010D0087"
       }
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Sie haben das Recht, von uns Auskunft (Art. 15 DSGVO) über die Verarbeitung Ihrer personenbezogenen Daten zu erhalten.",
+    "url": "https://datenschutz.volkswagen.de/request",
+    "identificationEvidences": [
+      "anhand unserer Systeme",
+      "PostIdent",
+      "Fahrzeugidentifikationsnummer"
+    ]
   },
   "sources": [
     {
@@ -1651,43 +593,48 @@
   "rightToInformation": {
     "available": true,
     "description": "Sie haben das Recht, von uns Auskunft (Art. 15 DSGVO) \u00fcber die Verarbeitung Ihrer personenbezogenen Daten zu erhalten.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "url": "https://datenschutz.volkswagen.de/request",
+    "identificationEvidences": [
+      "anhand unserer Systeme",
+      "PostIdent",
+      "Fahrzeugidentifikationsnummer"
+    ]
   },
   "rightToRectificationOrDeletion": {
     "available": true,
-    "description": "L\u00f6schung Ihrer Daten verlangen, soweit diese f\u00fcr die Zwecke, f\u00fcr die sie erhoben wurden, nicht mehr notwendig sind",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "description": "Sie haben das Recht, bei Vorliegen der in Art. 17 DSGVO genannten Voraussetzungen, die Löschung Ihrer Daten zu verlangen. Danach können Sie beispielsweise die Löschung Ihrer Daten verlangen, soweit diese für die Zwecke, für die sie erhoben wurden, nicht mehr notwendig sind. Außerdem können Sie Löschung verlangen, wenn wir Ihre Daten auf der Grundlage Ihrer Einwilligung verarbeiten und Sie diese Einwilligung widerrufen.",
+    "url": "https://datenschutz.volkswagen.de/request",
+    "identificationEvidences": [
+      "Vorname",
+      "Nachname",
+      "Adresse",
+      "Geburtsdatum"
+    ]
   },
   "rightToDataPortability": {
     "available": true,
-    "description": "haben Sie  das Recht, Ihre Daten in einem strukturierten, g\u00e4ngigem und maschinenlesbaren Format zu erhalten und diese an einen anderen Datenverarbeiter zu \u00fcbermitteln",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "description": "Sofern die Datenverarbeitung auf der Grundlage eine Einwilligung oder einer Vertragserfüllung beruht und diese zudem unter Einsatz einer automatisierten Verarbeitung erfolgt, haben Sie  das Recht, Ihre Daten in einem strukturierten, gängigem und maschinenlesbaren Format zu erhalten und diese an einen anderen Datenverarbeiter zu übermitteln.",
+    "url": "https://datenschutz.volkswagen.de/request",
+    "identificationEvidences": [
+      "anhand unserer Systeme",
+      "PostIdent",
+      "Fahrzeugidentifikationsnummer"
+    ]
   },
   "rightToWithdrawConsent": {
     "available": true,
     "description": "Sofern die Datenverarbeitung auf einer Einwilligung beruht, haben Sie  das Recht, die Einwilligung mit Wirkung f\u00fcr die Zukunft jederzeit kostenlos zu widerrufen.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "url": "https://datenschutz.volkswagen.de/request",
   },
   "rightToComplain": {
     "available": true,
     "description": "Sie haben au\u00dferdem das Recht, sich bei einer Aufsichtsbeh\u00f6rde (z. B. bei der Landesbeauftragten f\u00fcr den Datenschutz Niedersachsen) \u00fcber unsere Verarbeitung Ihrer Daten zu beschweren.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Landesbeauftragte für den Datenschutz Niedersachsen",
+      "address": "Postfach 221, 30002 Hannover",
+      "country": "DE",
+      "email": "poststelle@lfd.niedersachsen.de",
+      "phone": "0511 1204500"
     }
   },
   "automatedDecisionMaking": {

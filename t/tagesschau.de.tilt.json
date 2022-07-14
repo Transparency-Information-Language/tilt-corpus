@@ -16,176 +16,289 @@
     "address": "Rothenbaumchaussee 132\n20149 Hamburg",
     "division": "Anstalt des \u00f6ffentlichen Rechts",
     "representative": {
-      "name": null,
-      "email": null,
-      "phone": null
+      "name": "Der Intendant",
+      "email": "https://www.tagesschau.de/mehr/kontakt/kontakt-uebersicht-101.html"
     }
   },
   "dataProtectionOfficer": {
     "email": "datenschutz@ndr.de",
-    "phone": null,
     "country": "Norddeutsch",
     "name": "Dr. Heiko Neuhoff",
     "address": "Gremienb\u00fcro\nRothenbaumchaussee 132\n20149 Hamburg"
   },
   "dataDisclosed": [
     {
-      "_id": [],
-      "category": [],
-      "purposes": [],
-      "legalBases": [],
-      "legitimateInterests": [],
-      "recipients": [],
-      "recipientsOnlyCategory": [],
-      "storage": [],
-      "nonDisclosure": []
+      "_id": "044bb4b9-6a3d-4f82-9d17-5f0f8f5ca309",
+      "category": "Protokolldaten",
+      "purposes": 
+      [
+        {
+          "purpose":"Bereitstellung einer funktionsfähigen App",
+          "description":"Erhoben und verwendet werden personenbezogene Daten der Nutzenden grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen App sowie unserer Inhalte und Leistungen erforderlich ist."
+        },
+        {
+          "purpose":"Nutzung von Programminhalten über Smartspeaker",
+          "description":"Bei der Nutzung von Programminhalten über Smartspeaker (Alexa, Google Play) wird direkt auf das Angebot von tagesschau.de zugegriffen. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Vertragsanbahnung und -erfüllung (Art. 6 Abs. 1 lit. b) DSGVO), z. B. um Ihnen eine von Ihnen angefragte Leistung zur Verfügung stellen zu können (bspw. Newsletter, Programmheft, personalisierter Zugang zu bestimmten Internetangeboten) zu ermöglichen"
+        },
+        {
+          "reference":"GDPR-6-1-e",
+          "description":"Wahrnehmung des Rundfunk- und Programmauftrags des NDR als Aufgabe, die im öffentlichen Interesse liegt, beispielsweise Bearbeitung von Hörerpost oder Programmbeschwerden"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Wahrung berechtigter Interessen des NDR in Abwägung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 f) DSGVO), beispielsweise Verarbeitung von personenbezogenen Daten für die Außendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen)."
+        }
+      ],
+      "legitimateInterests": {
+        "exists":true,
+        "reasoning":"Wahrung berechtigter Interessen des NDR in Abwägung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 f) DSGVO), beispielsweise Verarbeitung von personenbezogenen Daten für die Außendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen)."
+      },
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
+      "storage": {
+        "aggregationFunction":"min",
+        "purposeConditional":[
+          "Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind."
+        ],
+        "temporal":
+        [
+          {
+            "description":"Dies ist für die Speicherung der Daten in Logfiles nach spätestens sieben Tagen der Fall.",
+            "ttl": "P7D"
+          }
+        ]
+      },
+      "nonDisclosure":     {
+        "legalRequirement": false,
+        "contractualRegulation": true,
+        "obligationToProvide": true,
+        "consequences": "Die Erfassung der Daten zur Bereitstellung der App und deren Speicherung ist für den Betrieb des Angebots zwingend erforderlich, sodass seitens der Nutzenden keine Widerspruchsmöglichkeit besteht."
+      },
+      "subcategories":[
+        "Name der abgerufenen Datei",
+        "Datum und Uhrzeit des Aufrufs",
+        "übertragene Datenmenge",
+        "Meldung über erfolgreichen Abruf", 
+        "Typ des Browsers und verwendete Version",
+        "IP-Adresse (Kennung der Geräte der Nutzer*innen)",
+        "Betriebssystem der Nutzer*innen",
+        "Internet-Service-Provider der Nutzer*innen",
+        "Websites, von denen das System der Nutzer*innen auf unser Onlineangebot gelangt",
+        "Websites, die vom System der Nutzer*innen über unsere Website aufgerufen werden" 
+      ]
+    },
+    {
+      "_id": "866666c0-6f0d-498e-a4b2-aa852f61ad1d",
+      "category": "Kontaktaufnahme",
+      "purposes": 
+      [
+        {
+          "purpose":"Bearbeitung der Kontaktanfrage",
+          "description":"Die uns dazu übermittelten personenbezogenen Daten (z. B. Name, Anschrift, Telefonnummer oder E-Mail-Adresse) dienen ausschließlich der Bearbeitung von Kontaktanfragen der Nutzenden. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Einwilligung"
+        }
+      ],
+      "legitimateInterests": {
+        "exists":false
+      },
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
+      "storage": {
+        "aggregationFunction":"min",
+        "purposeConditional":[
+          "Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind."
+        ]
+      },
+      "nonDisclosure":     {
+        "legalRequirement": false,
+        "contractualRegulation": true,
+        "obligationToProvide": true,
+        "consequences": "Die Erfassung der Daten zur Bereitstellung der App und deren Speicherung ist für den Betrieb des Angebots zwingend erforderlich, sodass seitens der Nutzenden keine Widerspruchsmöglichkeit besteht."
+      },
+      "subcategories":[
+        "Name",
+        "Anschrift",
+        "Telefonnummer",
+        "E-Mail-Adresse" 
+      ]
+    },
+    {
+      "_id": "56396a1b-0f99-4fc0-a17c-768d08f5e7c2",
+      "category": "Kontaktformulare",
+      "purposes": 
+      [
+        {
+          "purpose":"Teilnahme an Gewinnspielen",
+          "description":"Personenbezogene Daten werden über Kontaktformulare erhoben, wenn Nutzende an Gewinnspielen teilnehmen."
+        },
+        {
+          "purpose":"Nutzung unserer Online-Serviceangebote",
+          "description":"Die uns im Rahmen der Nutzung unserer Online-Serviceangebote (z. B. Newsletter, Forumsbeiträge, Messenger, Blogs, Communitys, Gewinnspiele und Umfragen ) mitgeteilten Daten werden nur mit der ausdrücklichen Einwilligung der Nutzenden verarbeitet und nur insoweit gespeichert und verarbeitet, als es für die Nutzung der Angebote erforderlich ist. "
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Rechtsgrundlage ist die auf dem jeweiligen Kontaktformular erteilte Einwilligung in die entsprechende Datenverarbeitung."
+        }
+      ],
+      "legitimateInterests": {
+        "exists":false
+      },
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
+      "storage": {
+        "aggregationFunction":"max",
+        "purposeConditional":[
+          "Ihre Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten, die im Rahmen der Nutzung unserer Services und Dienste erhoben worden sind, ist dies bei deren Beendigung der Fall.",
+          "Sämtliche personenbezogene Daten, die im Zuge der Teilnahme an diesem Gewinnspiel gespeichert wurden, werden daraufhin nach Ablauf der gesetzlichen Speicherfristen gelöscht."
+        ]
+      },
+      "nonDisclosure":     {
+        "legalRequirement": false,
+        "contractualRegulation": true,
+        "obligationToProvide": false,
+        "consequences": ""
+      }
+    },
+    {
+      "_id": "8641f12a-1488-44fc-9ddf-abdd0bc8d517",
+      "category": "Firebase Analytics Werbe-ID",
+      "purposes": 
+      [
+        {
+          "purpose":"Statistik Cookies",
+          "description":"Dies geschieht jedoch anonym, da die auf diese Weise erhobenen Daten durch technische Vorkehrungen anonymisiert werden. Eine Zuordnung der Daten zu den aufrufenden Nutzenden ist nicht möglich. "
+        },
+        {
+          "purpose":" Nutzung der App besser zu verstehen und das Angebot zu verbessern",
+          "description":"Firebase Analytics nutzt eine Werbe-ID. In den Geräteeinstellungen Ihres Mobilgerätes können Sie diese Nutzung beschränken. \n Für Android: Einstellungen > Google > Anzeigen > Werbe-ID zurücksetzen \n Für iOS: Einstellungen > Datenschutz > Werbung > Kein Ad-Tracking"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Einwilligung"
+        }
+      ],
+      "legitimateInterests": {
+        "exists":false
+      },
+      "recipients": [
+          {
+              "name": null,
+              "division": null,
+              "address": null,
+              "country": null,
+              "representative": null,
+              "category": "none"
+          }
+      ],
+      "storage": {
+        "aggregationFunction":"min",
+        "purposeConditional":[
+          "Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind."
+        ]
+      },
+      "nonDisclosure":     {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false,
+        "consequences": null
+      },
+      "subcategories":[
+        "Name",
+        "Anschrift",
+        "Telefonnummer",
+        "E-Mail-Adresse" 
+      ]
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "country": null,
+      "adequacyDecision": null,
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null,
+      "standardDataProtectionClause": null
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
+    "available": true,
+    "description": "Sie haben das Recht, von uns nach Maßgabe der gesetzlichen Bestimmungen Auskunft über die zu Ihrer Person verarbeiteten personenbezogenen Daten zu verlangen",
+    "email": "auskunft-datenschutz@ndr.de"
   },
-  "sources": [
-    {
-      "_id": "0186c2bd-bd18-46b1-9d3e-b81c2810b34f",
-      "dataCategory": "Name der abgerufenen Datei",
-      "sources": [
-        {
-          "description": "Jede Nutzung unserer App und jeder Abruf einer in der App hinterlegten Datei werden protokolliert.",
-          "url": null,
-          "publiclyAvailable": false
-        }
-      ]
-    },
-    {
-      "_id": "855e557d-c140-4192-a040-d428cbea0519",
-      "dataCategory": "Datum und Uhrzeit des Abrufs",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    },
-    {
-      "_id": "ff42a7e4-7d93-41f9-b49f-ecffd673fa2b",
-      "dataCategory": "\u00fcbertragene Datenmenge",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    },
-    {
-      "_id": "4c3f704d-47b9-438a-bcf3-ffa2d852b0c2",
-      "dataCategory": "Meldung \u00fcber erfolgreichen Abruf",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    },
-    {
-      "_id": "cfc81df1-33ff-48fa-9cce-66133d56c751",
-      "dataCategory": "App-Kennung",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    },
-    {
-      "_id": "6c106931-46f6-4938-9030-3c799e114c90",
-      "dataCategory": "anfragende Domain",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    },
-    {
-      "_id": "4cf1df54-515a-4a75-b529-86431dfe9665",
-      "dataCategory": "IP-Adressen der anfragenden Ger\u00e4te",
-      "sources": [
-        {
-          "description": [],
-          "url": [],
-          "~publiclyAvailable": []
-        }
-      ]
-    }
+  "sources": [  
   ],
   "rightToInformation": {
     "available": null,
     "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "url": null
   },
   "rightToRectificationOrDeletion": {
     "available": true,
     "description": "Sie haben dar\u00fcber hinaus ein Recht auf Berichtigung und/oder Vervollst\u00e4ndigung der Sie betreffenden unrichtigen oder unvollst\u00e4ndigen personenbezogenen Daten. Ferner k\u00f6nnen Sie von uns verlangen, dass die Sie betreffenden personenbezogenen Daten unverz\u00fcglich gel\u00f6scht werden, soweit nicht die Verarbeitung der Daten zur Aus\u00fcbung der Meinungs- und Rundfunkfreiheit erforderlich ist.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "email": "datenschutz@ndr.de"
   },
   "rightToDataPortability": {
     "available": null,
     "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "email": null
   },
   "rightToWithdrawConsent": {
     "available": true,
     "description": "Sie haben zudem das Recht, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten Widerspruch einzulegen und Ihre zur Verarbeitung personenbezogener Daten erkl\u00e4rte Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtm\u00e4\u00dfigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht ber\u00fchrt.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
+    "email": "datenschutz@ndr.de"
   },
   "rightToComplain": {
     "available": true,
     "description": "Schlie\u00dflich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten zu beschweren, wenn Ihrer Ansicht nach ein Versto\u00df gegen das Datenschutzrecht vorliegt.",
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
+    "email": "datenschutz@ndr.de",
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Rundfunkdatenschutzbeauftragte des NDR",
+      "address": "Dr. Heiko Neuhoff \nRundfunkdatenschutzbeauftragter \nNorddeutscher Rundfunk (NDR) \nAnstalt des öffentlichen Rechts \nGremienbüro \nRothenbaumchaussee 132 \n20149 Hamburg",
+      "country": "DE",
+      "email": "datenschutz@ndr.de"
     }
   },
   "automatedDecisionMaking": {
-    "logicInvolved": "Personenbezogene Daten werden zu jeweils ganz unterschiedlichen Zwecken und immer auf gesetzm\u00e4\u00dfiger Grundlage verarbeitet, beispielsweise: Vertragsanbahnung und -erf\u00fcllung (Art. 6 Abs. 1 b) DSGVO), z. B. um Ihnen - Zutritt zu unserem Grundst\u00fcck und R\u00e4umlichkeiten im Rahmen von Auftragsbeziehungen oder bei Veranstaltungen oder auch zur Kantinennutzung gew\u00e4hren zu k\u00f6nnen, - eine von Ihnen angefragte Leistung zur Verf\u00fcgung stellen zu k\u00f6nnen (bspw. Newsletter, Programmheft, personalisierter Zugang zu bestimmten Internetangeboten), - eine Gewinnspiel- oder Verlosungsteilnahme zu erm\u00f6glichen, Schutz lebenswichtiger Interessen eines Betroffenen (Art. 6 Abs. 1 d) DSGVO), - beispielsweise Einsichtnahme in und Weitergabe von personenbezogenen Daten im Falle eines Unfalles, falls der Betroffene selbst nicht auskunftsf\u00e4hig sein sollte; Wahrnehmung des Rundfunk- und Programmauftrags des NDR als Aufgabe, die im \u00f6ffentlichen Interesse liegt (Art. 6 Abs. 1 e) DSGVO), - beispielsweise Bearbeitung von H\u00f6rerpost oder Programmbeschwerden; Wahrung berechtigter Interessen des NDR in Abw\u00e4gung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 f) DSGVO), - beispielsweise Verarbeitung von personenbezogenen Daten f\u00fcr die Au\u00dfendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen).",
-    "inUse": true,
+    "logicInvolved": null,
+    "inUse": null,
     "scopeAndIntendedEffects": null
   },
   "changesOfPurpose": [
