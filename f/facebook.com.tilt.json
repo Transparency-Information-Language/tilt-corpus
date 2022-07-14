@@ -11,10 +11,10 @@
     "_hash": "f9987454558443041ee3214688187950a5df17d52a55473e3c8d689c9a923acf"
   },
   "controller": {
-    "name": null,
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "Meta Platforms Ireland Limited",
+    "country": "IE",
+    "address": "4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland",
+    "division": "Meta Produkte",
     "representative": {
       "name": null,
       "email": null,
@@ -22,7 +22,7 @@
     }
   },
   "dataProtectionOfficer": {
-    "email": null,
+    "email": "https://www.facebook.com/help/contact/540977946302970",
     "phone": null,
     "country": null,
     "name": null,
@@ -30,79 +30,759 @@
   },
   "dataDisclosed": [
     {
-      "_id": [],
-      "category": [],
-      "purposes": [],
-      "legalBases": [],
-      "legitimateInterests": [],
-      "recipients": [],
-      "recipientsOnlyCategory": [],
-      "storage": [],
-      "nonDisclosure": []
-    }
+      "_id": "f34b3b2e-fc67-11ec-b939-0242ac120002",
+      "category": "Von dir bereitgestellte Informationen und Inhalte",
+      "purposes": [
+        {
+          "purpose": "Bereitstellung, Personalisierung und Verbesserung unserer Produkte",
+          "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um unsere Produkte bereitzustellen, also auch um Funktionen und Inhalte (u. a. deine Werbeanzeigen, deinen Facebook News Feed, deinen Instagram Feed und deine Instagram Stories) zu personalisieren und dir auf und außerhalb von unseren Produkten Vorschläge zu unterbreiten (wie z. B. Gruppen oder Veranstaltungen, an denen du möglicherweise interessiert bist, oder Themen, die du eventuell abonnieren möchtest). "
+        },
+        {
+            "purpose": "Informationen über verschiedene Meta-Produkte und Geräte hinweg",
+            "description": "Wir verbinden Informationen über deine Aktivitäten auf verschiedenen Meta-Produkten und Geräten miteinander, um dir ein individuelleres und einheitlicheres Erlebnis in allen von dir genutzten Meta-Produkten bereitzustellen, gleichgültig, wo du sie nutzt. Wir können dir beispielsweise vorschlagen, einer Gruppe auf Facebook beizutreten, der Personen angehören, denen du auf Instagram folgst oder mit denen du im Messenger kommunizierst. Außerdem können wir dein Erlebnis nahtloser gestalten, indem wir beispielsweise automatisch deine Registrierungsinformationen (wie deine Telefonnummer) von einem Meta-Produkt eingeben, wenn du dich auf einem anderen Produkt für ein Konto registrierst."
+          },
+          {
+            "purpose": "Standortbezogene Informationen",
+            "description": "Wir verwenden standortbezogene Informationen – wie deinen aktuellen Standort, deinen Wohnort, die Orte, die du gerne besuchst, und die Unternehmen und Personen in deiner Nähe – um dir und anderen unsere Produkte, einschließlich Werbeanzeigen, bereitzustellen und diese zu verbessern. Standortbezogene Informationen können auf Dingen wie dem genauen Gerätestandort (wenn du uns gestattet hast, diesen zu erheben), IP-Adressen sowie Informationen aus der Nutzung von Meta-Produkten durch dich und andere (wie besuchte Orte oder Veranstaltungen, an denen du teilgenommen hast) basieren."
+          },
+          {
+            "purpose": "Produktforschung und -entwicklung",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen zur Entwicklung, Erprobung und Verbesserung unserer Produkte, u. a. indem wir Umfragen und Studien sowie Tests und Fehler- bzw. Problembehebungen für neue Produkte und Funktionen durchführen."
+          },
+          {
+            "purpose": "Werbeanzeigen und andere gesponserte Inhalte",
+            "description": "Wir verwenden die uns über dich zur Verfügung stehenden Informationen – einschließlich Informationen über deine Interessen, Handlungen und Verbindungen – um die Werbeanzeigen, Angebote und sonstigen gesponserten Inhalte auszuwählen und zu personalisieren, die wir dir zeigen."
+          },
+          {
+            "purpose": "Bereitstellung von Messungen, Analysen und sonstigen Unternehmens-Services",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (einschließlich deiner Aktivitäten außerhalb unserer Produkte, wie z. B. die von dir besuchten Websites und die Werbeanzeigen, die du siehst), um Werbetreibenden und anderen Partnern zu helfen, die Effektivität und Verbreitung ihrer Werbeanzeigen und Dienste zu messen und Aufschluss über die Arten von Personen, die ihre Dienste nutzen, sowie darüber, wie Personen mit ihren Websites, Apps und Diensten interagieren, zu erlangen."
+          },
+          {
+            "purpose": "Förderung von Schutz, Integrität und Sicherheit",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um Konten und Aktivitäten zu verifizieren, schädliches Verhalten zu bekämpfen, Spam und andere negative Erlebnisse aufzudecken und zu verhindern, die Integrität unserer Produkte zu wahren und um den Schutz sowie die Sicherheit in und außerhalb von Meta-Produkten zu fördern. Zum Beispiel verwenden wir uns zur Verfügung stehende Daten, um verdächtige Aktivitäten oder Verstöße gegen unsere Nutzungsbedingungen oder Richtlinien zu untersuchen oder um festzustellen, wenn jemand Hilfe benötigt."
+          },
+          {
+            "purpose": "Kommunikation mit dir",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um dir Marketingkommunikationen zu senden, um mit dir über unsere Produkte zu kommunizieren und um dich über unsere Richtlinien und Nutzungsbedingungen zu informieren. Deine Informationen verwenden wir auch, um dir zu antworten, wenn du uns kontaktierst."
+          },
+          {
+            "purpose": "Forschung und Innovation für soziale Zwecke",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (u. a. von Forschungspartnern, mit denen wir zusammenarbeiten), um Forschung und Innovation zu Themen des sozialen Allgemeinwohls, des technologischen Fortschritts, des öffentlichen Interesses, der Gesundheit und des Wohlergehens durchzuführen und zu unterstützen. Beispielsweise analysieren wir die uns über Migrationsmuster in Krisensituationen zur Verfügung stehenden Informationen, um Hilfsmaßnahmen zu unterstützen."
+          }
+      ],
+      "legalBases": [
+        {
+          "reference": "DSGVO-6-1-a",
+          "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
+        },
+        {
+            "reference": "DSGVO-6-1-b",
+            "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
+          },
+          {
+            "reference": "DSGVO-6-1-c",
+            "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
+          },
+          {
+            "reference": "DSGVO-6-1-e",
+            "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
+          },
+          {
+            "reference": "DSGVO-6-1-f",
+            "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
+          },
+          {
+            "reference": "DSGVO-6-1-d",
+            "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
+          }
+      ],
+      "legitimateInterests": [
+        {
+          "~exists": false
+        }
+      ],
+      "recipients": [
+        {
+          "name": null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Partner, die unsere Analysedienste nutzen"
+        },
+        {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Werbetreibende"
+          },
+          {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+          },
+          {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Anbieter und Dienstleister"
+          },
+          {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Forscher und Wissenschaftler"
+          },
+          {
+            "name": null,
+            "country": null,
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+          }
+      ],
+      "storage": [
+        {
+          "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
+          "aggregationFunction": "max"
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+        "_id": "fbf5b57e-fc67-11ec-b939-0242ac120002",
+        "category": "Netzwerke und Verbindungen",
+        "purposes": [
+          {
+            "purpose": "Bereitstellung, Personalisierung und Verbesserung unserer Produkte",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um unsere Produkte bereitzustellen, also auch um Funktionen und Inhalte (u. a. deine Werbeanzeigen, deinen Facebook News Feed, deinen Instagram Feed und deine Instagram Stories) zu personalisieren und dir auf und außerhalb von unseren Produkten Vorschläge zu unterbreiten (wie z. B. Gruppen oder Veranstaltungen, an denen du möglicherweise interessiert bist, oder Themen, die du eventuell abonnieren möchtest). "
+          },
+          {
+              "purpose": "Informationen über verschiedene Meta-Produkte und Geräte hinweg",
+              "description": "Wir verbinden Informationen über deine Aktivitäten auf verschiedenen Meta-Produkten und Geräten miteinander, um dir ein individuelleres und einheitlicheres Erlebnis in allen von dir genutzten Meta-Produkten bereitzustellen, gleichgültig, wo du sie nutzt. Wir können dir beispielsweise vorschlagen, einer Gruppe auf Facebook beizutreten, der Personen angehören, denen du auf Instagram folgst oder mit denen du im Messenger kommunizierst. Außerdem können wir dein Erlebnis nahtloser gestalten, indem wir beispielsweise automatisch deine Registrierungsinformationen (wie deine Telefonnummer) von einem Meta-Produkt eingeben, wenn du dich auf einem anderen Produkt für ein Konto registrierst."
+            },
+            {
+              "purpose": "Standortbezogene Informationen",
+              "description": "Wir verwenden standortbezogene Informationen – wie deinen aktuellen Standort, deinen Wohnort, die Orte, die du gerne besuchst, und die Unternehmen und Personen in deiner Nähe – um dir und anderen unsere Produkte, einschließlich Werbeanzeigen, bereitzustellen und diese zu verbessern. Standortbezogene Informationen können auf Dingen wie dem genauen Gerätestandort (wenn du uns gestattet hast, diesen zu erheben), IP-Adressen sowie Informationen aus der Nutzung von Meta-Produkten durch dich und andere (wie besuchte Orte oder Veranstaltungen, an denen du teilgenommen hast) basieren."
+            },
+            {
+              "purpose": "Produktforschung und -entwicklung",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen zur Entwicklung, Erprobung und Verbesserung unserer Produkte, u. a. indem wir Umfragen und Studien sowie Tests und Fehler- bzw. Problembehebungen für neue Produkte und Funktionen durchführen."
+            },
+            {
+              "purpose": "Werbeanzeigen und andere gesponserte Inhalte",
+              "description": "Wir verwenden die uns über dich zur Verfügung stehenden Informationen – einschließlich Informationen über deine Interessen, Handlungen und Verbindungen – um die Werbeanzeigen, Angebote und sonstigen gesponserten Inhalte auszuwählen und zu personalisieren, die wir dir zeigen."
+            },
+            {
+              "purpose": "Bereitstellung von Messungen, Analysen und sonstigen Unternehmens-Services",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (einschließlich deiner Aktivitäten außerhalb unserer Produkte, wie z. B. die von dir besuchten Websites und die Werbeanzeigen, die du siehst), um Werbetreibenden und anderen Partnern zu helfen, die Effektivität und Verbreitung ihrer Werbeanzeigen und Dienste zu messen und Aufschluss über die Arten von Personen, die ihre Dienste nutzen, sowie darüber, wie Personen mit ihren Websites, Apps und Diensten interagieren, zu erlangen."
+            },
+            {
+              "purpose": "Förderung von Schutz, Integrität und Sicherheit",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um Konten und Aktivitäten zu verifizieren, schädliches Verhalten zu bekämpfen, Spam und andere negative Erlebnisse aufzudecken und zu verhindern, die Integrität unserer Produkte zu wahren und um den Schutz sowie die Sicherheit in und außerhalb von Meta-Produkten zu fördern. Zum Beispiel verwenden wir uns zur Verfügung stehende Daten, um verdächtige Aktivitäten oder Verstöße gegen unsere Nutzungsbedingungen oder Richtlinien zu untersuchen oder um festzustellen, wenn jemand Hilfe benötigt."
+            },
+            {
+              "purpose": "Kommunikation mit dir",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um dir Marketingkommunikationen zu senden, um mit dir über unsere Produkte zu kommunizieren und um dich über unsere Richtlinien und Nutzungsbedingungen zu informieren. Deine Informationen verwenden wir auch, um dir zu antworten, wenn du uns kontaktierst."
+            },
+            {
+              "purpose": "Forschung und Innovation für soziale Zwecke",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (u. a. von Forschungspartnern, mit denen wir zusammenarbeiten), um Forschung und Innovation zu Themen des sozialen Allgemeinwohls, des technologischen Fortschritts, des öffentlichen Interesses, der Gesundheit und des Wohlergehens durchzuführen und zu unterstützen. Beispielsweise analysieren wir die uns über Migrationsmuster in Krisensituationen zur Verfügung stehenden Informationen, um Hilfsmaßnahmen zu unterstützen."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "DSGVO-6-1-a",
+                "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
+              },
+              {
+                  "reference": "DSGVO-6-1-b",
+                  "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
+                },
+                {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
+                }
+        ],
+        "legitimateInterests": [
+          {
+            "~exists": false
+          }
+        ],
+        "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Partner, die unsere Analysedienste nutzen"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Werbetreibende"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Anbieter und Dienstleister"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Forscher und Wissenschaftler"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+              }
+          ],
+        "storage": [
+          {
+            "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": null,
+          "contractualRegulation": null,
+          "obligationToProvide": null
+        }
+      },
+      {
+        "_id": "051897c0-fc68-11ec-b939-0242ac120002",
+        "category": "Deine Nutzung",
+        "purposes": [
+          {
+            "purpose": "Bereitstellung, Personalisierung und Verbesserung unserer Produkte",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um unsere Produkte bereitzustellen, also auch um Funktionen und Inhalte (u. a. deine Werbeanzeigen, deinen Facebook News Feed, deinen Instagram Feed und deine Instagram Stories) zu personalisieren und dir auf und außerhalb von unseren Produkten Vorschläge zu unterbreiten (wie z. B. Gruppen oder Veranstaltungen, an denen du möglicherweise interessiert bist, oder Themen, die du eventuell abonnieren möchtest). "
+          },
+          {
+              "purpose": "Informationen über verschiedene Meta-Produkte und Geräte hinweg",
+              "description": "Wir verbinden Informationen über deine Aktivitäten auf verschiedenen Meta-Produkten und Geräten miteinander, um dir ein individuelleres und einheitlicheres Erlebnis in allen von dir genutzten Meta-Produkten bereitzustellen, gleichgültig, wo du sie nutzt. Wir können dir beispielsweise vorschlagen, einer Gruppe auf Facebook beizutreten, der Personen angehören, denen du auf Instagram folgst oder mit denen du im Messenger kommunizierst. Außerdem können wir dein Erlebnis nahtloser gestalten, indem wir beispielsweise automatisch deine Registrierungsinformationen (wie deine Telefonnummer) von einem Meta-Produkt eingeben, wenn du dich auf einem anderen Produkt für ein Konto registrierst."
+            },
+            {
+              "purpose": "Standortbezogene Informationen",
+              "description": "Wir verwenden standortbezogene Informationen – wie deinen aktuellen Standort, deinen Wohnort, die Orte, die du gerne besuchst, und die Unternehmen und Personen in deiner Nähe – um dir und anderen unsere Produkte, einschließlich Werbeanzeigen, bereitzustellen und diese zu verbessern. Standortbezogene Informationen können auf Dingen wie dem genauen Gerätestandort (wenn du uns gestattet hast, diesen zu erheben), IP-Adressen sowie Informationen aus der Nutzung von Meta-Produkten durch dich und andere (wie besuchte Orte oder Veranstaltungen, an denen du teilgenommen hast) basieren."
+            },
+            {
+              "purpose": "Produktforschung und -entwicklung",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen zur Entwicklung, Erprobung und Verbesserung unserer Produkte, u. a. indem wir Umfragen und Studien sowie Tests und Fehler- bzw. Problembehebungen für neue Produkte und Funktionen durchführen."
+            },
+            {
+              "purpose": "Werbeanzeigen und andere gesponserte Inhalte",
+              "description": "Wir verwenden die uns über dich zur Verfügung stehenden Informationen – einschließlich Informationen über deine Interessen, Handlungen und Verbindungen – um die Werbeanzeigen, Angebote und sonstigen gesponserten Inhalte auszuwählen und zu personalisieren, die wir dir zeigen."
+            },
+            {
+              "purpose": "Bereitstellung von Messungen, Analysen und sonstigen Unternehmens-Services",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (einschließlich deiner Aktivitäten außerhalb unserer Produkte, wie z. B. die von dir besuchten Websites und die Werbeanzeigen, die du siehst), um Werbetreibenden und anderen Partnern zu helfen, die Effektivität und Verbreitung ihrer Werbeanzeigen und Dienste zu messen und Aufschluss über die Arten von Personen, die ihre Dienste nutzen, sowie darüber, wie Personen mit ihren Websites, Apps und Diensten interagieren, zu erlangen."
+            },
+            {
+              "purpose": "Förderung von Schutz, Integrität und Sicherheit",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um Konten und Aktivitäten zu verifizieren, schädliches Verhalten zu bekämpfen, Spam und andere negative Erlebnisse aufzudecken und zu verhindern, die Integrität unserer Produkte zu wahren und um den Schutz sowie die Sicherheit in und außerhalb von Meta-Produkten zu fördern. Zum Beispiel verwenden wir uns zur Verfügung stehende Daten, um verdächtige Aktivitäten oder Verstöße gegen unsere Nutzungsbedingungen oder Richtlinien zu untersuchen oder um festzustellen, wenn jemand Hilfe benötigt."
+            },
+            {
+              "purpose": "Kommunikation mit dir",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um dir Marketingkommunikationen zu senden, um mit dir über unsere Produkte zu kommunizieren und um dich über unsere Richtlinien und Nutzungsbedingungen zu informieren. Deine Informationen verwenden wir auch, um dir zu antworten, wenn du uns kontaktierst."
+            },
+            {
+              "purpose": "Forschung und Innovation für soziale Zwecke",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (u. a. von Forschungspartnern, mit denen wir zusammenarbeiten), um Forschung und Innovation zu Themen des sozialen Allgemeinwohls, des technologischen Fortschritts, des öffentlichen Interesses, der Gesundheit und des Wohlergehens durchzuführen und zu unterstützen. Beispielsweise analysieren wir die uns über Migrationsmuster in Krisensituationen zur Verfügung stehenden Informationen, um Hilfsmaßnahmen zu unterstützen."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "DSGVO-6-1-a",
+                "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
+              },
+              {
+                  "reference": "DSGVO-6-1-b",
+                  "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
+                },
+                {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
+                }
+        ],
+        "legitimateInterests": [
+          {
+            "~exists": false
+          }
+        ],
+        "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Partner, die unsere Analysedienste nutzen"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Werbetreibende"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Anbieter und Dienstleister"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Forscher und Wissenschaftler"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+              }
+          ],
+        "storage": [
+          {
+            "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": null,
+          "contractualRegulation": null,
+          "obligationToProvide": null
+        }
+      },
+      {
+        "_id": "0ae24d0e-fc68-11ec-b939-0242ac120002",
+        "category": "Informationen über auf unseren Produkten durchgeführte Transaktionen",
+        "purposes": [
+          {
+            "purpose": "Bereitstellung, Personalisierung und Verbesserung unserer Produkte",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um unsere Produkte bereitzustellen, also auch um Funktionen und Inhalte (u. a. deine Werbeanzeigen, deinen Facebook News Feed, deinen Instagram Feed und deine Instagram Stories) zu personalisieren und dir auf und außerhalb von unseren Produkten Vorschläge zu unterbreiten (wie z. B. Gruppen oder Veranstaltungen, an denen du möglicherweise interessiert bist, oder Themen, die du eventuell abonnieren möchtest). "
+          },
+          {
+              "purpose": "Informationen über verschiedene Meta-Produkte und Geräte hinweg",
+              "description": "Wir verbinden Informationen über deine Aktivitäten auf verschiedenen Meta-Produkten und Geräten miteinander, um dir ein individuelleres und einheitlicheres Erlebnis in allen von dir genutzten Meta-Produkten bereitzustellen, gleichgültig, wo du sie nutzt. Wir können dir beispielsweise vorschlagen, einer Gruppe auf Facebook beizutreten, der Personen angehören, denen du auf Instagram folgst oder mit denen du im Messenger kommunizierst. Außerdem können wir dein Erlebnis nahtloser gestalten, indem wir beispielsweise automatisch deine Registrierungsinformationen (wie deine Telefonnummer) von einem Meta-Produkt eingeben, wenn du dich auf einem anderen Produkt für ein Konto registrierst."
+            },
+            {
+              "purpose": "Standortbezogene Informationen",
+              "description": "Wir verwenden standortbezogene Informationen – wie deinen aktuellen Standort, deinen Wohnort, die Orte, die du gerne besuchst, und die Unternehmen und Personen in deiner Nähe – um dir und anderen unsere Produkte, einschließlich Werbeanzeigen, bereitzustellen und diese zu verbessern. Standortbezogene Informationen können auf Dingen wie dem genauen Gerätestandort (wenn du uns gestattet hast, diesen zu erheben), IP-Adressen sowie Informationen aus der Nutzung von Meta-Produkten durch dich und andere (wie besuchte Orte oder Veranstaltungen, an denen du teilgenommen hast) basieren."
+            },
+            {
+              "purpose": "Produktforschung und -entwicklung",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen zur Entwicklung, Erprobung und Verbesserung unserer Produkte, u. a. indem wir Umfragen und Studien sowie Tests und Fehler- bzw. Problembehebungen für neue Produkte und Funktionen durchführen."
+            },
+            {
+              "purpose": "Werbeanzeigen und andere gesponserte Inhalte",
+              "description": "Wir verwenden die uns über dich zur Verfügung stehenden Informationen – einschließlich Informationen über deine Interessen, Handlungen und Verbindungen – um die Werbeanzeigen, Angebote und sonstigen gesponserten Inhalte auszuwählen und zu personalisieren, die wir dir zeigen."
+            },
+            {
+              "purpose": "Bereitstellung von Messungen, Analysen und sonstigen Unternehmens-Services",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (einschließlich deiner Aktivitäten außerhalb unserer Produkte, wie z. B. die von dir besuchten Websites und die Werbeanzeigen, die du siehst), um Werbetreibenden und anderen Partnern zu helfen, die Effektivität und Verbreitung ihrer Werbeanzeigen und Dienste zu messen und Aufschluss über die Arten von Personen, die ihre Dienste nutzen, sowie darüber, wie Personen mit ihren Websites, Apps und Diensten interagieren, zu erlangen."
+            },
+            {
+              "purpose": "Förderung von Schutz, Integrität und Sicherheit",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um Konten und Aktivitäten zu verifizieren, schädliches Verhalten zu bekämpfen, Spam und andere negative Erlebnisse aufzudecken und zu verhindern, die Integrität unserer Produkte zu wahren und um den Schutz sowie die Sicherheit in und außerhalb von Meta-Produkten zu fördern. Zum Beispiel verwenden wir uns zur Verfügung stehende Daten, um verdächtige Aktivitäten oder Verstöße gegen unsere Nutzungsbedingungen oder Richtlinien zu untersuchen oder um festzustellen, wenn jemand Hilfe benötigt."
+            },
+            {
+              "purpose": "Kommunikation mit dir",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um dir Marketingkommunikationen zu senden, um mit dir über unsere Produkte zu kommunizieren und um dich über unsere Richtlinien und Nutzungsbedingungen zu informieren. Deine Informationen verwenden wir auch, um dir zu antworten, wenn du uns kontaktierst."
+            },
+            {
+              "purpose": "Forschung und Innovation für soziale Zwecke",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (u. a. von Forschungspartnern, mit denen wir zusammenarbeiten), um Forschung und Innovation zu Themen des sozialen Allgemeinwohls, des technologischen Fortschritts, des öffentlichen Interesses, der Gesundheit und des Wohlergehens durchzuführen und zu unterstützen. Beispielsweise analysieren wir die uns über Migrationsmuster in Krisensituationen zur Verfügung stehenden Informationen, um Hilfsmaßnahmen zu unterstützen."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "DSGVO-6-1-a",
+                "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
+              },
+              {
+                  "reference": "DSGVO-6-1-b",
+                  "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
+                },
+                {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
+                }
+        ],
+        "legitimateInterests": [
+          {
+            "~exists": false
+          }
+        ],
+        "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Partner, die unsere Analysedienste nutzen"
+            },
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Werbetreibende"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Anbieter und Dienstleister"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Forscher und Wissenschaftler"
+              },
+              {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+              }
+          ],
+        "storage": [
+          {
+            "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": null,
+          "contractualRegulation": null,
+          "obligationToProvide": null
+        }
+      },
+      {
+        "_id": "11d9def6-fc68-11ec-b939-0242ac120002",
+        "category": "Aktivitäten anderer und von ihnen über dich bereitgestellte Informationen",
+        "purposes": [
+          {
+            "purpose": "Bereitstellung, Personalisierung und Verbesserung unserer Produkte",
+            "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um unsere Produkte bereitzustellen, also auch um Funktionen und Inhalte (u. a. deine Werbeanzeigen, deinen Facebook News Feed, deinen Instagram Feed und deine Instagram Stories) zu personalisieren und dir auf und außerhalb von unseren Produkten Vorschläge zu unterbreiten (wie z. B. Gruppen oder Veranstaltungen, an denen du möglicherweise interessiert bist, oder Themen, die du eventuell abonnieren möchtest). "
+          },
+          {
+              "purpose": "Informationen über verschiedene Meta-Produkte und Geräte hinweg",
+              "description": "Wir verbinden Informationen über deine Aktivitäten auf verschiedenen Meta-Produkten und Geräten miteinander, um dir ein individuelleres und einheitlicheres Erlebnis in allen von dir genutzten Meta-Produkten bereitzustellen, gleichgültig, wo du sie nutzt. Wir können dir beispielsweise vorschlagen, einer Gruppe auf Facebook beizutreten, der Personen angehören, denen du auf Instagram folgst oder mit denen du im Messenger kommunizierst. Außerdem können wir dein Erlebnis nahtloser gestalten, indem wir beispielsweise automatisch deine Registrierungsinformationen (wie deine Telefonnummer) von einem Meta-Produkt eingeben, wenn du dich auf einem anderen Produkt für ein Konto registrierst."
+            },
+            {
+              "purpose": "Standortbezogene Informationen",
+              "description": "Wir verwenden standortbezogene Informationen – wie deinen aktuellen Standort, deinen Wohnort, die Orte, die du gerne besuchst, und die Unternehmen und Personen in deiner Nähe – um dir und anderen unsere Produkte, einschließlich Werbeanzeigen, bereitzustellen und diese zu verbessern. Standortbezogene Informationen können auf Dingen wie dem genauen Gerätestandort (wenn du uns gestattet hast, diesen zu erheben), IP-Adressen sowie Informationen aus der Nutzung von Meta-Produkten durch dich und andere (wie besuchte Orte oder Veranstaltungen, an denen du teilgenommen hast) basieren."
+            },
+            {
+              "purpose": "Produktforschung und -entwicklung",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen zur Entwicklung, Erprobung und Verbesserung unserer Produkte, u. a. indem wir Umfragen und Studien sowie Tests und Fehler- bzw. Problembehebungen für neue Produkte und Funktionen durchführen."
+            },
+            {
+              "purpose": "Werbeanzeigen und andere gesponserte Inhalte",
+              "description": "Wir verwenden die uns über dich zur Verfügung stehenden Informationen – einschließlich Informationen über deine Interessen, Handlungen und Verbindungen – um die Werbeanzeigen, Angebote und sonstigen gesponserten Inhalte auszuwählen und zu personalisieren, die wir dir zeigen."
+            },
+            {
+              "purpose": "Bereitstellung von Messungen, Analysen und sonstigen Unternehmens-Services",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (einschließlich deiner Aktivitäten außerhalb unserer Produkte, wie z. B. die von dir besuchten Websites und die Werbeanzeigen, die du siehst), um Werbetreibenden und anderen Partnern zu helfen, die Effektivität und Verbreitung ihrer Werbeanzeigen und Dienste zu messen und Aufschluss über die Arten von Personen, die ihre Dienste nutzen, sowie darüber, wie Personen mit ihren Websites, Apps und Diensten interagieren, zu erlangen."
+            },
+            {
+              "purpose": "Förderung von Schutz, Integrität und Sicherheit",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um Konten und Aktivitäten zu verifizieren, schädliches Verhalten zu bekämpfen, Spam und andere negative Erlebnisse aufzudecken und zu verhindern, die Integrität unserer Produkte zu wahren und um den Schutz sowie die Sicherheit in und außerhalb von Meta-Produkten zu fördern. Zum Beispiel verwenden wir uns zur Verfügung stehende Daten, um verdächtige Aktivitäten oder Verstöße gegen unsere Nutzungsbedingungen oder Richtlinien zu untersuchen oder um festzustellen, wenn jemand Hilfe benötigt."
+            },
+            {
+              "purpose": "Kommunikation mit dir",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen, um dir Marketingkommunikationen zu senden, um mit dir über unsere Produkte zu kommunizieren und um dich über unsere Richtlinien und Nutzungsbedingungen zu informieren. Deine Informationen verwenden wir auch, um dir zu antworten, wenn du uns kontaktierst."
+            },
+            {
+              "purpose": "Forschung und Innovation für soziale Zwecke",
+              "description": "Wir verwenden die uns zur Verfügung stehenden Informationen (u. a. von Forschungspartnern, mit denen wir zusammenarbeiten), um Forschung und Innovation zu Themen des sozialen Allgemeinwohls, des technologischen Fortschritts, des öffentlichen Interesses, der Gesundheit und des Wohlergehens durchzuführen und zu unterstützen. Beispielsweise analysieren wir die uns über Migrationsmuster in Krisensituationen zur Verfügung stehenden Informationen, um Hilfsmaßnahmen zu unterstützen."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "DSGVO-6-1-a",
+                "description": "gWir verarbeiten deine Informationen, wenn du uns deine Einwilligung erteilst."
+              },
+              {
+                  "reference": "DSGVO-6-1-b",
+                  "description": "Wir verarbeiten deine Informationen, die zur Erfüllung unserer Verträge mit dir erforderlich sind."
+                },
+                {
+                  "reference": "DSGVO-6-1-c",
+                  "description": "Wir verarbeiten Informationen so, wie es für uns erforderlich ist, um eine rechtliche Pflicht zu erfüllen."
+                },
+                {
+                  "reference": "DSGVO-6-1-e",
+                  "description": "Wir verarbeiten Informationen so, wie es im öffentlichen Interesse erforderlich ist, wie z. B., wenn wir Studien durchführen oder den Schutz, die Sicherheit und die Integrität fördern"
+                },
+                {
+                  "reference": "DSGVO-6-1-f",
+                  "description": "Wir verarbeiten deine Informationen so, wie es für unsere berechtigten Interessen bzw. die von anderen erforderlich ist."
+                },
+                {
+                  "reference": "DSGVO-6-1-d",
+                  "description": "Wir verarbeiten Informationen, wenn dies deinem Schutz dient oder Schäden verhindert, wie z. B., wenn wir dein Leben oder das Leben von jemand anderem retten."
+                }
+        ],
+        "legitimateInterests": [
+          {
+            "~exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": null,
+                "country": null,
+                "division": null,
+                "address": null,
+                "representative": null,
+                "category": "Partner, die unsere Analysedienste nutzen"
+              },
+              {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Werbetreibende"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Partner, die Waren und Dienstleistungen in unseren Produkten anbieten"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Anbieter und Dienstleister"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Forscher und Wissenschaftler"
+                },
+                {
+                  "name": null,
+                  "country": null,
+                  "division": null,
+                  "address": null,
+                  "representative": null,
+                  "category": "Strafverfolgungs- bzw. Vollstreckungsbehörden oder rechtliche Anfragen"
+                }
+          ],
+        "storage": [
+          {
+            "purposeConditional": "Wir speichern Daten, bis sie nicht mehr benötigt werden, um unsere Dienste und Meta-Produkte bereitzustellen, oder bis dein Konto gelöscht wird, je nachdem, was zuerst eintritt.",
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": null,
+          "contractualRegulation": null,
+          "obligationToProvide": null
+        }
+      }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "country": " weltweit",
+      "adequacyDecision": {
+        "available": true,
+        "description": "und verlassen uns für Datenübermittlungen aus dem EWR in die USA und andere Länder ggf. auf die von der Europäischen Kommission erlassenen Angemessenheitsbeschlüsse bezüglich bestimmter Länder."
+      },
+      "appropriateGuarantees": {
+        "available": false
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": false
+      },
+      "standardDataProtectionClause": {
+        "available": true,
+        "description": "Wir verwenden von der Europäischen Kommission genehmigte Standardvertragsklauseln"
+      }
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
+    "available": false,
     "description": null,
     "url": null,
     "email": null,
-    "identificationEvidences": [],
+    "identificationEvidences": null,
     "administrativeFee": {
       "amount": null,
       "currency": null
     },
-    "dataFormats": []
+    "dataFormats": null
   },
   "sources": [
     {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
+      "_id": "18f718fc-fc68-11ec-b939-0242ac120002",
+      "dataCategory": "Partner für Messungen",
+      "sources": [
+        {
+          "description": "Wir teilen Information über dich mit Unternehmen, die diese zusammenfassen, um unseren Partnern Berichte über Analysen und Messungen bereitzustellen.",
+          "url": null,
+          "publiclyAvailable": false
+        }
+      ]
     }
   ],
   "rightToInformation": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Vorbehaltlich des geltenden Rechts hast du das Recht, auf deine Informationen zuzugreifen und sie zu berichtigen.",
     "url": null,
     "email": null,
-    "identificationEvidences": []
+    "identificationEvidences": null
   },
   "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Wenn rechtsgültige Gründe dafür vorliegen und vorbehaltlich des geltenden Rechts, hast du das Recht zu verlangen, dass wir deine Informationen löschen.",
     "url": null,
     "email": null,
-    "identificationEvidences": []
+    "identificationEvidences": null
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
+    "available": true,
+    "description": "In bestimmten Fällen und vorbehaltlich des geltenden Rechts hast du das Recht, deine Informationen zu übertragen.",
+    "url": "https://www.facebook.com/tyi/?source=yfi_web_settings",
     "email": null,
-    "identificationEvidences": []
+    "identificationEvidences": null
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Wenn wir uns auf deine Einwilligung zur Verarbeitung deiner Informationen stützen, kannst du deine Einwilligung jederzeit widerrufen. Wenn du deine Einwilligung widerrufst, berührt dies nicht die Rechtmäßigkeit der Verarbeitung, die aufgrund der Einwilligung bis zum Widerruf erfolgte.",
     "url": null,
     "email": null,
-    "identificationEvidences": []
+    "identificationEvidences": null
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Du kannst außerdem eine Beschwerde bei der für Meta Platforms Ireland Limited zuständigen führenden Aufsichtsbehörde, der irischen Datenschutzkommission, oder bei deiner lokalen Aufsichtsbehörde einreichen.",
     "url": null,
     "email": null,
-    "identificationEvidences": [],
+    "identificationEvidences": null,
     "supervisoryAuthority": {
       "name": null,
       "address": null,
@@ -118,10 +798,10 @@
   },
   "changesOfPurpose": [
     {
-      "description": [],
-      "affectedDataCategories": [],
-      "plannedDateOfChange": [],
-      "urlOfNewVersion": []
+      "description": "Wir benachrichtigen dich, bevor wir wesentliche Änderungen an dieser Richtlinie vornehmen. Du erhältst dann die Gelegenheit, die überarbeitete Richtlinie zu überprüfen, bevor du dich dazu entscheidest, unsere Produkte weiterhin zu nutzen.",
+      "affectedDataCategories": null,
+      "plannedDateOfChange": null,
+      "urlOfNewVersion": null
     }
   ]
 }
