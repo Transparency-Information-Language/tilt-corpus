@@ -12,21 +12,21 @@
   },
   "controller": {
     "name": "Toto-Lotto Niedersachsen GmbH",
-    "country": null,
-    "address": null,
-    "division": null,
+    "country": "DE",
+    "address": "Toto-Lotto Niedersachsen GmbH \nGeschäftsführung \nAxel Holthaus und Sven Osthoff \nAm TÜV 2 + 4 \n30519 Hannover \nDeutschland",
+    "division": "Geschäftsführung",
     "representative": {
       "name": null,
-      "email": null,
-      "phone": null
+      "email": "info@lotto-niedersachsen.de",
+      "phone": "051184020"
     }
   },
   "dataProtectionOfficer": {
     "email": "datenschutz(at)lotto-niedersachsen.de",
     "phone": null,
-    "country": null,
+    "country": "DE",
     "name": null,
-    "address": null
+    "address": "Datenschutzbeauftragter \nAm TÜV 2 + 4 \n 30519 Hannover\nDeutschland"
   },
   "dataDisclosed": [
     {
@@ -737,11 +737,11 @@
     "email": null,
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Landesbeauftragte für den Datenschutz Niedersachsen",
+      "address": "Landesbeauftragte für den Datenschutz Niedersachsen, Barbara Thiel, Prinzenstraße 5, 30159 Hannover",
+      "country": "DE",
+      "email": "poststelle@lfd.niedersachsen.de",
+      "phone": "0511-1204500"
     }
   },
   "automatedDecisionMaking": {

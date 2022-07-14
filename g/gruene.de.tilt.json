@@ -68,6 +68,11 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "country": null,
+          "address": null,
+          "representative":null,
+          "division":null,
           "category":"none"
         }
       ],
@@ -124,6 +129,11 @@
       ],
       "recipients": [
         {
+        "name": null,
+        "country": null,
+        "address": null,
+        "representative":null,
+        "division":null,
           "category":"none"
         }
       ],
