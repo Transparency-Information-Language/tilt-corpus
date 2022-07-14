@@ -54,7 +54,9 @@
           "name": "ZeroLight Limited",
           "address": "Live Works, 55-57 Quayside, Newcastle, UK NE1 3DE",
           "country": "UK",
-          "category":"Auftragsverarbeiter"
+          "category":"Auftragsverarbeiter",
+          "division": null,
+          "representative": null
         }
       ],
       "storage": [
@@ -100,18 +102,34 @@
       "recipients": [
         {
           "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Auftragsverarbeiter"
         },
         {
           "name": "Bosse Consulting GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Auftragsverarbeiter"
         },
         {
           "name": "Diconium GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Auftragsverarbeiter"
         },
         {
           "name":"Salesforce.com, Inc.",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter" 
         }
       ],
@@ -154,11 +172,18 @@
       "recipients": [
         {
           "name": "Amazon Web Services EMEA SARL",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Cloud Provider"
         },
         {
           "name":"CARIAD SE",
           "country":"DE",
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         }
       ],
@@ -219,10 +244,18 @@
       "recipients": [
         {
           "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
           "name":"Salesforce.com, Inc.",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         }
       ],
@@ -278,30 +311,42 @@
       "recipients": [
         {
           "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverabeiter"
         },
         {
           "name":"CARIAD SE",
           "country":"DE",
           "address":"Berliner Ring 2 Brieffach 1080/2, 38440 Wolfsburg",
+          "division": null,
+          "representative": null,
           "category":"Auftragsverabeiter"
         },
         {
           "name":"dx.one",
           "country":"DE",
           "address":"Daimlerstraße 6-8, 38446 Wolfsburg",
+          "division": null,
+          "representative": null,
           "category":"Auftragsverabeiter"
         },
         {
           "name":"Amazon Web Services Inc.",
           "country":"LU",
           "address":"Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855 Luxemburg",
+          "division": null,
+          "representative": null,
           "category":"Auftragsverabeiter"
         },
         {
           "name":"Salesforce.com EMEA Limited",
           "country":"UK",
           "address":"Floor 26 Salesforce Tower, 110 Bishopsgate, LONDON, EC2N 4AY, GR0ßBRITANNIEN",
+          "division": null,
+          "representative": null,
           "category":"Auftragsverabeiter"
         }
       ],
@@ -366,14 +411,26 @@
       "recipients": [
         {
           "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsdienstleister"
         },
         {
           "name":"Bosse Consulting GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
           "name":"Diconium GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         }
       ],
@@ -431,14 +488,26 @@
       "recipients": [
         {
           "name": "Volkswagen Deutschland GmbH & Co. KG",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsdienstleister"
         },
         {
           "name":"Bosse Consulting GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
           "name":"Diconium GmbH",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         }
       ],
@@ -499,32 +568,60 @@
       "recipients": [
         {
           "name":"Google Inc.",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Map Provider"
         },
         {
           "name":"HERE EUROPE BV",
           "country":"NL",
           "address":"HERE EUROPE BV, Kennedyplein 222, 5611 ZT Eindhoven, Niederlande",
+          "division": null,
+          "representative": null,
           "category":"Routenberechnung"
         },
         {
           "name":"NTT Data Group",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
+  
         },
         {
           "name":"Teleperformance Group Europe",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
           "name":"Middle-East and Africa SAS",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
           "name":"Salesforce.com EMEA Limited",
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Auftragsverarbeiter"
         },
         {
-          "category":"Service Partner"
+          "category":"Service Partner",
+          "name":null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null
         }
       ],
       "storage": [
@@ -547,7 +644,7 @@
          "legalRequirement": false,
          "contractualRegulation": false,
          "obligationToProvide": false,
-         "consequences": ""
+         "consequences": null
       },
       "subcategories":[
         "Geodaten",
@@ -624,7 +721,7 @@
   "rightToWithdrawConsent": {
     "available": true,
     "description": "Sofern die Datenverarbeitung auf einer Einwilligung beruht, haben Sie  das Recht, die Einwilligung mit Wirkung f\u00fcr die Zukunft jederzeit kostenlos zu widerrufen.",
-    "url": "https://datenschutz.volkswagen.de/request",
+    "url": "https://datenschutz.volkswagen.de/request"
   },
   "rightToComplain": {
     "available": true,

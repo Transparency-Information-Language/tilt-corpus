@@ -446,7 +446,26 @@
   ],
   "thirdCountryTransfers": [
     {
-      "country": "Israel",
+      "country": "IL",
+      "adequacyDecision": {
+        "available": true,
+        "description": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32011D0061"
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    },
+    {
+      "country": "MA",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -465,7 +484,7 @@
       }
     },
     {
-      "country": "Marokko",
+      "country": "JO",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -484,28 +503,9 @@
       }
     },
     {
-      "country": "Jordanien",
+      "country": "US",
       "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "USA",
-      "adequacyDecision": {
-        "available": null,
+        "available": false,
         "description": null
       },
       "appropriateGuarantees": {

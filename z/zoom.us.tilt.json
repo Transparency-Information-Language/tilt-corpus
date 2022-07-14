@@ -88,12 +88,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -170,12 +185,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -252,12 +282,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -334,12 +379,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -416,12 +476,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -498,12 +573,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -579,12 +669,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -661,12 +766,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -742,12 +862,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -824,12 +959,27 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Reseller"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Vendors"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Marketing, Advertising"
         }
       ],
@@ -851,6 +1001,10 @@
   "thirdCountryTransfers": [
     {
       "country": "US",
+      "standardDataProtectionClause": null,
+      "adequacyDecision": null,
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null,
       "_comment": "Therefore, by using Zoom Products or providing personal data for any of the purposes stated above, you acknowledge that your personal data may be transferred to or stored in the United States where we are established, as well as in other countries outside of the EEA, Switzerland, and the UK. Such countries may have data protection rules that are different and less protective than those of your country."
     }
   ],

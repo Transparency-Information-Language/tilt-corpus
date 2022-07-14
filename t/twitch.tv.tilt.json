@@ -24,7 +24,8 @@
     "email": "privacy@twitch.tv",
     "country": null,
     "name": null,
-    "address": null
+    "address": null,
+    "phone":null
   },
   "dataDisclosed": [
     {
@@ -88,18 +89,37 @@
           "reasoning":null
         }
       ],
-      "recipients": [
+      "recipients":[
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -181,18 +201,37 @@
           "reasoning":null
         }
       ],
-      "recipients": [
+      "recipients":[
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -276,16 +315,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -370,16 +428,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -464,16 +541,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -558,16 +654,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -650,18 +765,37 @@
           "reasoning":null
         }
       ],
-      "recipients": [
+      "recipients":[
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -744,18 +878,37 @@
           "reasoning":null
         }
       ],
-      "recipients": [
+      "recipients":[
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -840,16 +993,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -926,16 +1098,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1011,16 +1202,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1096,16 +1306,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1181,16 +1410,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1266,16 +1514,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1351,16 +1618,35 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Dienstanbieter in unserem Auftrag"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "Affiliates"
         },
         {
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Affiliates",
           "name":"Amazon.com, Inc."
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Behörden"
         }
       ],
@@ -1388,7 +1674,9 @@
       "appropriateGuarantees": {
         "available":true,
         "description":"Von Twitch erfasste Informationen können in deiner Region, in den Vereinigten Staaten (zum Beispiel in unseren großen Rechenzentren) oder in jedem anderen Land gespeichert und verarbeitet werden, in dem Twitch bzw. Affiliates, Tochtergesellschaften, Partner oder Dienstleister ihren Sitz haben oder über Einrichtungen verfügen.  Wenn wir solchen Einrichtungen Informationen über dich zur Verfügung stellen, ergreifen wir geeignete Maßnahmen, um sicherzustellen, dass deine Daten angemessen und gemäß diesem Datenschutzhinweis sowie gültiger Gesetze geschützt werden."
-      }
+      },
+      "adequacyDecision":null,
+      "contractualRegulation":null
     }
   ],
   "accessAndDataPortability": {

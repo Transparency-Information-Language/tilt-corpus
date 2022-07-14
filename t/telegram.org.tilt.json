@@ -70,20 +70,41 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
@@ -152,25 +173,46 @@
         }
       ],
       "recipients": [
-        {
-          "category": "bot developers"
-        },
-        {
-          "category":"Other Telegram Users"
-        },
-        {
-          "category":"Law Enforcement Authorities"
-        },
-        {
-          "category":"Telegram's Group Companies",
-          "name":"Telegram Group Inc",
-          "country":"VG"
-        },
-        {
-          "category":"Telegram's Group Companies",
-          "name":"Telegram FZ-LLC",
-          "country":"AE"
-        }
+          {
+            "name": null,
+            "division": null,
+            "address": null,
+            "country": null,
+            "representative": null,
+            "category": "bot developers"
+          },
+          {
+            "name": null,
+            "division": null,
+            "address": null,
+            "country": null,
+            "representative": null,
+            "category":"Other Telegram Users"
+          },
+          {
+            "name": null,
+            "division": null,
+            "address": null,
+            "country": null,
+            "representative": null,
+            "category":"Law Enforcement Authorities"
+          },
+          {
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category":"Telegram's Group Companies",
+            "name":"Telegram Group Inc",
+            "country":"VG"
+          },
+          {
+            "division": null,
+            "address": null,
+            "representative": null,
+            "category":"Telegram's Group Companies",
+            "name":"Telegram FZ-LLC",
+            "country":"AE"
+          }
       ],
       "storage": [
         {
@@ -238,29 +280,46 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
-        },
-        {
-          "category":"third-party service",
-          "name":"Google LLC"
         }
-      ],
+    ],
       "storage": [
         {
           "purposeConditional": [
@@ -331,27 +390,44 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
-        },
-        {
-          "category":"third-party service",
-          "name":"Google LLC"
         }
       ],
       "storage": [
@@ -420,27 +496,44 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
-        },
-        {
-          "category":"third-party service",
-          "name":"Google LLC"
         }
       ],
       "storage": [
@@ -509,25 +602,46 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
         }
-      ],
+    ],
       "storage": [
         {
           "purposeConditional": [
@@ -588,27 +702,48 @@
           "exists": true
         }
       ],
-      "recipients": [
+      "recipients":[
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
         }
-      ],
+    ],
       "storage": [
         {
           "purposeConditional": [
@@ -667,25 +802,46 @@
       ],
       "recipients": [
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category": "bot developers"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Other Telegram Users"
         },
         {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
           "category":"Law Enforcement Authorities"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram Group Inc",
           "country":"VG"
         },
         {
+          "division": null,
+          "address": null,
+          "representative": null,
           "category":"Telegram's Group Companies",
           "name":"Telegram FZ-LLC",
           "country":"AE"
         }
-      ],
+    ],
       "storage": [
         {
           "purposeConditional": [
@@ -708,14 +864,18 @@
       "standardDataProtectionClause": {
         "available":true,
         "description":"https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
-      }
+      },
+      "adequacyDecision":null,
+      "appropriateGuarantees":null
     },
     {
       "country": "VG",
       "standardDataProtectionClause": {
         "available":true,
         "description":"https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
-      }
+      },
+      "adequacyDecision":null,
+      "appropriateGuarantees":null
     }
   ],
   "accessAndDataPortability": {

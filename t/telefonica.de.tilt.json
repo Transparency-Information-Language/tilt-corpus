@@ -16,7 +16,8 @@
     "address": "Telefónica Germany GmbH & Co. OHG \n Georg-Brauchle-Ring 50 \n 80992 München",
     "representative": {
       "name": null,
-      "email": null
+      "email": null,
+      "phone":null
     }
   },
   "dataProtectionOfficer": {
@@ -53,13 +54,17 @@
           "name": "Youtube",
           "country": "US",
           "address": "YouTube LLC, 901 Cherry Avenue, San Bruno, CA 94066, USA",
-          "category": "Anzeige von YouTube-Videos"
+          "category": "Anzeige von YouTube-Videos",
+          "representative":null,
+          "division":null
         },
         {
           "name": "Flickr-Fotos",
           "country": "US",
           "address": "SmugMug, Inc., 67 E. Evelyn Ave, Suite 200, Mountain View, California, U.S.",
-          "category": "Anzeige von Flickr-Fotos"
+          "category": "Anzeige von Flickr-Fotos",
+          "representative":null,
+          "division":null
         }
       ],
       "storage": [
@@ -120,6 +125,14 @@
         }
       ],
       "recipients": [
+        {
+          "name": null,
+          "country": null,
+          "address": null,
+          "category": null,
+          "representative":null,
+          "division":null
+        }
       ],
       "storage": [
         {
