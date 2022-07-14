@@ -11,43 +11,236 @@
     "_hash": "f9987454558443041ee3214688187950a5df17d52a55473e3c8d689c9a923acf"
   },
   "controller": {
-    "name": null,
-    "country": null,
+    "name": "Adobe Systems Software Ireland Limited (Adobe Ireland)",
+    "country": "IR",
     "address": null,
-    "division": null,
+    "division":null,
     "representative": {
       "name": null,
       "email": null,
-      "phone": null
+      "phone":null
     }
   },
   "dataProtectionOfficer": {
-    "email": null,
-    "phone": null,
-    "country": null,
+    "email": "DPO@Adobe.com",
+    "country": "IR",
     "name": null,
-    "address": null
+    "address": "4-6 Riverwalk, Citywest Business Park, Dublin 24, Irland",
+    "phone": null
   },
   "dataDisclosed": [
     {
-      "_id": [],
-      "category": [],
-      "purposes": [],
-      "legalBases": [],
-      "legitimateInterests": [],
-      "recipients": [],
-      "recipientsOnlyCategory": [],
-      "storage": [],
-      "nonDisclosure": []
+      "_id": "49c98264-107f-42fc-bb63-360b4575d27c",
+      "category": "Adobe ID, Registrierung und Kundendienst",
+      "purposes": [
+        {
+          "purpose": "Um einen Vertrag zu erfüllen oder Maßnahmen in Verbindung mit einem Vertrag zu ergreifen",
+          "description":" Dies ist relevant, wenn Sie sich für die Nutzung einer Adobe-Applikation oder -Website registrieren (egal ob kostenpflichtig oder kostenlose Testversion). Dazu zählen die folgenden Aktionen:\n  Bereitstellung von Websites und Applikationen von Adobe, für die Sie sich registriert haben, sowie von anderen angeforderten Services oder Produkten\n  Bestätigung Ihrer Identität\n  Verarbeitung von Zahlungen\n  Zusendung obligatorischer Mitteilungen (zum Beispiel in Bezug auf Zahlungen oder den Ablauf Ihres Abonnements)\n  Bereitstellung von Kundenservice oder -support"
+        },
+        {
+          "purpose":"Wenn dies für Adobe zur Ausübung der Geschäftstätigkeit und Verfolgung berechtigter Interessen von Adobe erforderlich ist",
+          "description":"insbesondere die folgenden Aktionen:\n Bereitstellung von Websites und Applikationen von Adobe, für die Sie sich registriert haben, sowie von anderen angeforderten Produkten und Services\n Analyse Ihrer Nutzung und Messung der Wirksamkeit der Websites und Applikationen von Adobe, um besser zu verstehen, wie sie verwendet werden, damit Adobe sie verbessern und Benutzer binden und halten kann\n Zusendung von Informationen zu Adobe-Produkten und -Services, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke (sofern Ihre Zustimmung nicht erforderlich ist)\n Analyse Ihrer Nutzung der Websites und Applikationen von Adobe, Ihres Inhalts sowie Ihrer Interaktion mit den von Adobe erhaltenen Mitteilungen, um die Website oder die Applikation und die Marketingmitteilungen individuell anzupassen (weitere Informationen) (wenn Ihr Einverständnis nicht erforderlich ist)\n Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses (wenn Ihr Einverständnis nicht erforderlich ist)\n Diagnose von Problemen in den Applikationen und auf den Websites von Adobe\n Aufdeckung, Verhinderung oder anderweitige Handhabung von Betrug, sicherheitsbezogenen oder technischen Problemen sowie Schutz vor Verletzung der Rechte, des Eigentums oder der Sicherheit von Adobe, der Benutzer von Adobe oder der Öffentlichkeit\n Durchführung von Umfragen und Marktforschung über die Kunden von Adobe, ihre Interessen, die Wirksamkeit der Marketing-Kampagnen von Adobe und die Kundenzufriedenheit (es sei denn, Adobe benötigt für diese Umfragen Ihre Erlaubnis, welche Adobe in den entsprechenden Fällen einholen wird)\n Untersuchung und Beantwortung von Kommentaren oder Beschwerden, die Sie an Adobe senden\n Überprüfung der Gültigkeit der Bankleitzahl, Kontonummer und Kartennummer, die Sie bei Zahlung mit Kredit- oder Debitkarte angeben, um Zahlungsbetrug zu verhindern (dies wird von einem Drittanbieter durchgeführt – siehe unten den Abschnitt „Gibt Adobe meine personenbezogenen Informationen weiter?“)\n Weitergeben von unter einer geschäftlichen E-Mail-Adresse registrierten Kontoinformationen an den Arbeitgeber zu Kontomigrationszwecken\n Wenn Adobe mit einem anderen Unternehmen fusioniert oder von einem anderen Unternehmen übernommen wird, eine Website, Applikation oder Geschäftseinheit von Adobe verkauft oder wenn die gesamten Vermögenswerte von Adobe bzw. ein wesentlicher Teil davon von einem anderen Unternehmen erworben werden, ist es wahrscheinlich, dass Ihre Informationen den Beratern von Adobe und anderen Beratern des potenziellen Käufers offengelegt werden und einer der Vermögenswerte sind, die auf den neuen Besitzer übertragen werden\n In Zusammenhang mit Rechtsansprüchen, Compliance-, Regulierungs- und Ermittlungszwecken, falls erforderlich (einschließlich der Offenlegung von Informationen in Zusammenhang mit Behördenanfragen, rechtlichen Verfahren oder Rechtsstreitigkeiten)"
+        },
+        {
+          "purpose":"Zusendung von Informationen zu Produkten und Services von Adobe",
+          "description":" Zusendung von Informationen zu Produkten und Services von Adobe, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke;"
+        },
+        {
+          "purpose":"Hinterlegung von Cookies und Verwendung ähnlicher Technologien",
+          "description":"Hinterlegung von Cookies und Verwendung ähnlicher Technologien in den Websites, Applikationen und E-Mail-Mitteilungen von Adobe in Einklang mit der Cookies-Richtlinie von Adobe und den Informationen, die Ihnen bei Verwendung der besagten Technologien bereitgestellt werden"
+        },
+        {
+          "purpose":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte",
+          "description":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte"
+        },
+        {
+          "purpose":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen",
+          "description":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen"
+        },
+        {
+          "purpose":"Verbesserung der Services von Adobe und des Anwendererlebnisses",
+          "description":"Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses"
+        },
+        {
+          "purpose":"Aus rechtlichen Gründen",
+          "description":"Beantwortung von Anfragen von staatlichen Stellen oder Strafverfolgungsbehörden, die eine Untersuchung durchführen\nAufdeckung, Verhinderung oder anderweitige Bekämpfung von Betrug, sicherheitsrelevanten oder potenziell illegalen Aktivitäten, technischen Problemen und Softwarepiraterie (etwa um zu bestätigen, dass die Software echt und ordnungsgemäß lizenziert ist), um Sie und Adobe zu schützen"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wenn Sie Adobe Ihr erforderliches Einverständnis geben oder dies auf andere Weise den von Ihnen ausgewählten Optionen entspricht:\n Zusendung von Informationen zu Produkten und Services von Adobe, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke;\n Hinterlegung von Cookies und Verwendung ähnlicher Technologien in den Websites, Applikationen und E-Mail-Mitteilungen von Adobe in Einklang mit der Cookies-Richtlinie von Adobe und den Informationen, die Ihnen bei Verwendung der besagten Technologien bereitgestellt werden\n Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte\n Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen\n Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Sofern diese Verarbeitung und diese Offenlegung nicht gesetzlich vorgeschrieben sind, kann sich Adobe auf seine berechtigten Interessen und die der oben beschriebenen Dritten stützen."
+        }
+      ],
+      "legitimateInterests": {
+        "exists":true,
+        "resasoning":"Diese Datenschutzerklärung erläutert, wann Adobe personenbezogene Informationen für berechtigte Interessen von Adobe verarbeitet. "
+      },
+      "recipients": [
+        {"category":"innerhalb der Adobe-Unternehmensgruppe"},
+        {"category":"Datenverantwortliche von Drittanbietern"},
+        {"category":"Fachhändler von Adobe und andere Vertriebs- und Werbepartner"},
+        {"category":"Einzelhändler"},
+        {"category":"Forschungsorganisationen"},
+        {"category":"Werbetreibende"},
+        {"category":"Werbeagenturen"},
+        {"category":"Werbenetzwerke und -plattformen"},
+        {"category":"Informationsdienste"},
+        {"category":"Dienstleister für Betrugsüberwachung und -prävention"},
+        {"category":"Verlage und gemeinnützige Organisationen (mit Ihrem Einverständnis, falls erforderlich)."},
+        {"category":"Auftragsverarbeiter"}
+      ],
+      "storage": [
+        {
+          "aggregationFunction":"max",
+          "purposeConditional":[
+           "Wenn Sie sich für ein Konto registrieren und eine Adobe ID erstellen, verarbeitet und speichert Adobe die meisten personenbezogenen Informationen, die Adobe über Sie besitzt, solange Sie ein aktiver Anwender der Produkte, Services oder Applikationen von Adobe sind.",
+           "Wenn Adobe personenbezogene Informationen zu Marketingzwecken oder mit Ihrer Einwilligung verarbeitet, tut Adobe dies, bis Sie Adobe zur Unterlassung auffordern, und für einen kurzen Zeitraum danach (der erforderlich ist, um Ihre Aufforderungen umzusetzen). "
+          ],
+          "temporal":
+          [
+            {
+              "description":"Personenbezogene Informationen in Bezug auf den Vertrag und die geschäftlichen Transaktionen von Adobe mit Ihnen speichert Adobe jedoch gewöhnlich für einen Zeitraum von zehn Jahren nach Ihrer letzten Interaktion mit Adobe.",
+              "ttl": "P10Y"
+            }
+          ],
+          "legalBasisConditional": []
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false,
+        "consequences": " Wenn Adobe Ihre Daten aufgrund berechtigter Interessen verarbeitet, können Sie dieser Verarbeitung unter bestimmten Umständen widersprechen. In solchen Fällen wird Adobe die Verarbeitung der Daten einstellen, es sei denn, Adobe hat zwingende berechtigte Gründe, die Verarbeitung fortzusetzen, oder wenn dies aus rechtlichen Gründen erforderlich ist."
+     },
+     "subcategories":[
+      "Name",
+      "Geburtsdatum",
+      "Firma",
+      "Ihre E-Mail-Adresse",
+      "Telefonnummer",
+      "Adresse",
+      "Land",
+      "IP-Adresse",
+      "Mobilgeräte-ID",
+      "Zahlungs-/Rechnungsinformationen (wenn ein Programm oder eine Website kostenpflichtig ist)",
+      "Hinweise zu Berechtigungen (z. B. Programmsversionen für Schüler, Studierende und Lehrkräfte)",
+      "Arten der Programme und Websites von Interess",
+      "Inhalte der Kundensupportkommunikation"
+     ]
+    }
+    {
+      "_id": "",
+      "category": "Applikationen und Websites von Adobe",
+      "purposes": [
+        {
+          "purpose": "Um einen Vertrag zu erfüllen oder Maßnahmen in Verbindung mit einem Vertrag zu ergreifen",
+          "description":" Dies ist relevant, wenn Sie sich für die Nutzung einer Adobe-Applikation oder -Website registrieren (egal ob kostenpflichtig oder kostenlose Testversion). Dazu zählen die folgenden Aktionen:\n  Bereitstellung von Websites und Applikationen von Adobe, für die Sie sich registriert haben, sowie von anderen angeforderten Services oder Produkten\n  Bestätigung Ihrer Identität\n  Verarbeitung von Zahlungen\n  Zusendung obligatorischer Mitteilungen (zum Beispiel in Bezug auf Zahlungen oder den Ablauf Ihres Abonnements)\n  Bereitstellung von Kundenservice oder -support"
+        },
+        {
+          "purpose":"Wenn dies für Adobe zur Ausübung der Geschäftstätigkeit und Verfolgung berechtigter Interessen von Adobe erforderlich ist",
+          "description":"insbesondere die folgenden Aktionen:\n Bereitstellung von Websites und Applikationen von Adobe, für die Sie sich registriert haben, sowie von anderen angeforderten Produkten und Services\n Analyse Ihrer Nutzung und Messung der Wirksamkeit der Websites und Applikationen von Adobe, um besser zu verstehen, wie sie verwendet werden, damit Adobe sie verbessern und Benutzer binden und halten kann\n Zusendung von Informationen zu Adobe-Produkten und -Services, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke (sofern Ihre Zustimmung nicht erforderlich ist)\n Analyse Ihrer Nutzung der Websites und Applikationen von Adobe, Ihres Inhalts sowie Ihrer Interaktion mit den von Adobe erhaltenen Mitteilungen, um die Website oder die Applikation und die Marketingmitteilungen individuell anzupassen (weitere Informationen) (wenn Ihr Einverständnis nicht erforderlich ist)\n Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses (wenn Ihr Einverständnis nicht erforderlich ist)\n Diagnose von Problemen in den Applikationen und auf den Websites von Adobe\n Aufdeckung, Verhinderung oder anderweitige Handhabung von Betrug, sicherheitsbezogenen oder technischen Problemen sowie Schutz vor Verletzung der Rechte, des Eigentums oder der Sicherheit von Adobe, der Benutzer von Adobe oder der Öffentlichkeit\n Durchführung von Umfragen und Marktforschung über die Kunden von Adobe, ihre Interessen, die Wirksamkeit der Marketing-Kampagnen von Adobe und die Kundenzufriedenheit (es sei denn, Adobe benötigt für diese Umfragen Ihre Erlaubnis, welche Adobe in den entsprechenden Fällen einholen wird)\n Untersuchung und Beantwortung von Kommentaren oder Beschwerden, die Sie an Adobe senden\n Überprüfung der Gültigkeit der Bankleitzahl, Kontonummer und Kartennummer, die Sie bei Zahlung mit Kredit- oder Debitkarte angeben, um Zahlungsbetrug zu verhindern (dies wird von einem Drittanbieter durchgeführt – siehe unten den Abschnitt „Gibt Adobe meine personenbezogenen Informationen weiter?“)\n Weitergeben von unter einer geschäftlichen E-Mail-Adresse registrierten Kontoinformationen an den Arbeitgeber zu Kontomigrationszwecken\n Wenn Adobe mit einem anderen Unternehmen fusioniert oder von einem anderen Unternehmen übernommen wird, eine Website, Applikation oder Geschäftseinheit von Adobe verkauft oder wenn die gesamten Vermögenswerte von Adobe bzw. ein wesentlicher Teil davon von einem anderen Unternehmen erworben werden, ist es wahrscheinlich, dass Ihre Informationen den Beratern von Adobe und anderen Beratern des potenziellen Käufers offengelegt werden und einer der Vermögenswerte sind, die auf den neuen Besitzer übertragen werden\n In Zusammenhang mit Rechtsansprüchen, Compliance-, Regulierungs- und Ermittlungszwecken, falls erforderlich (einschließlich der Offenlegung von Informationen in Zusammenhang mit Behördenanfragen, rechtlichen Verfahren oder Rechtsstreitigkeiten)"
+        },
+        {
+          "purpose":"Zusendung von Informationen zu Produkten und Services von Adobe",
+          "description":" Zusendung von Informationen zu Produkten und Services von Adobe, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke;"
+        },
+        {
+          "purpose":"Hinterlegung von Cookies und Verwendung ähnlicher Technologien",
+          "description":"Hinterlegung von Cookies und Verwendung ähnlicher Technologien in den Websites, Applikationen und E-Mail-Mitteilungen von Adobe in Einklang mit der Cookies-Richtlinie von Adobe und den Informationen, die Ihnen bei Verwendung der besagten Technologien bereitgestellt werden"
+        },
+        {
+          "purpose":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte",
+          "description":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte"
+        },
+        {
+          "purpose":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen",
+          "description":"Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen"
+        },
+        {
+          "purpose":"Verbesserung der Services von Adobe und des Anwendererlebnisses",
+          "description":"Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses"
+        },
+        {
+          "purpose":"Aus rechtlichen Gründen",
+          "description":"Beantwortung von Anfragen von staatlichen Stellen oder Strafverfolgungsbehörden, die eine Untersuchung durchführen\nAufdeckung, Verhinderung oder anderweitige Bekämpfung von Betrug, sicherheitsrelevanten oder potenziell illegalen Aktivitäten, technischen Problemen und Softwarepiraterie (etwa um zu bestätigen, dass die Software echt und ordnungsgemäß lizenziert ist), um Sie und Adobe zu schützen"
+        }
+      ],
+      "legalBases": [
+        {
+          "reference":"GDPR-6-1-a",
+          "description":"Wenn Sie Adobe Ihr erforderliches Einverständnis geben oder dies auf andere Weise den von Ihnen ausgewählten Optionen entspricht:\n Zusendung von Informationen zu Produkten und Services von Adobe, Sonderangeboten und ähnlichen Informationen sowie Weitergabe Ihrer Informationen an Dritte für ihre eigenen Marketingzwecke;\n Hinterlegung von Cookies und Verwendung ähnlicher Technologien in den Websites, Applikationen und E-Mail-Mitteilungen von Adobe in Einklang mit der Cookies-Richtlinie von Adobe und den Informationen, die Ihnen bei Verwendung der besagten Technologien bereitgestellt werden\n Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und sich auf Ihre Nutzung von bzw. Interaktionen mit Websites und Applikationen (z. B. Adobe Connect-Meetings) beziehen, sowie Absturzberichte\n Zugriff auf Informationen, die auf Ihrem Gerät gespeichert sind und die Adobe über gerätebasierte Einstellungen (z. B. Fotos, Standort und Kamera) empfangen kann, um bestimmte Funktionen in den Applikationen und Websites von Adobe bereitzustellen\n Analyse Ihrer Inhalte durch Techniken wie maschinelles Lernen zur Verbesserung der Services von Adobe und des Anwendererlebnisses"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Sofern diese Verarbeitung und diese Offenlegung nicht gesetzlich vorgeschrieben sind, kann sich Adobe auf seine berechtigten Interessen und die der oben beschriebenen Dritten stützen."
+        }
+      ],
+      "legitimateInterests": {
+        "exists":true,
+        "resasoning":"Diese Datenschutzerklärung erläutert, wann Adobe personenbezogene Informationen für berechtigte Interessen von Adobe verarbeitet. "
+      },
+      "recipients": [
+        {"category":"innerhalb der Adobe-Unternehmensgruppe"},
+        {"category":"Datenverantwortliche von Drittanbietern"},
+        {"category":"Fachhändler von Adobe und andere Vertriebs- und Werbepartner"},
+        {"category":"Einzelhändler"},
+        {"category":"Forschungsorganisationen"},
+        {"category":"Werbetreibende"},
+        {"category":"Werbeagenturen"},
+        {"category":"Werbenetzwerke und -plattformen"},
+        {"category":"Informationsdienste"},
+        {"category":"Dienstleister für Betrugsüberwachung und -prävention"},
+        {"category":"Verlage und gemeinnützige Organisationen (mit Ihrem Einverständnis, falls erforderlich)."},
+        {"category":"Auftragsverarbeiter"}
+      ],
+      "storage": [
+        {
+          "aggregationFunction":"max",
+          "purposeConditional":[
+           "Wenn Sie sich für ein Konto registrieren und eine Adobe ID erstellen, verarbeitet und speichert Adobe die meisten personenbezogenen Informationen, die Adobe über Sie besitzt, solange Sie ein aktiver Anwender der Produkte, Services oder Applikationen von Adobe sind.",
+           "Wenn Adobe personenbezogene Informationen zu Marketingzwecken oder mit Ihrer Einwilligung verarbeitet, tut Adobe dies, bis Sie Adobe zur Unterlassung auffordern, und für einen kurzen Zeitraum danach (der erforderlich ist, um Ihre Aufforderungen umzusetzen). "
+          ],
+          "temporal":
+          [
+            {
+              "description":"Personenbezogene Informationen in Bezug auf den Vertrag und die geschäftlichen Transaktionen von Adobe mit Ihnen speichert Adobe jedoch gewöhnlich für einen Zeitraum von zehn Jahren nach Ihrer letzten Interaktion mit Adobe.",
+              "ttl": "P10Y"
+            }
+          ],
+          "legalBasisConditional": []
+        }
+      ],
+      "nonDisclosure": {
+        "legalRequirement": false,
+        "contractualRegulation": false,
+        "obligationToProvide": false,
+        "consequences": " Wenn Adobe Ihre Daten aufgrund berechtigter Interessen verarbeitet, können Sie dieser Verarbeitung unter bestimmten Umständen widersprechen. In solchen Fällen wird Adobe die Verarbeitung der Daten einstellen, es sei denn, Adobe hat zwingende berechtigte Gründe, die Verarbeitung fortzusetzen, oder wenn dies aus rechtlichen Gründen erforderlich ist."
+     },
+     "subcategories":[
+        "IP-Adresse",
+        "Art des Browsers und Geräts",
+        "Webseite, von der aus Sie auf eine Adobe-Website gelangt sind",
+        "in eine Suchmaschine eingegebene Suchbegriffe, die Sie zu einer Adobe-Website geführt haben",
+        "Nutzung und Navigation von Websites und Applikationen (erfasst durch Cookies und ähnliche Technologien oder durch Adobe-Server, wenn Sie bei der Applikation oder auf der Website angemeldet sind)",
+        "Analyse der Inhalte von Ihnen (z. B. Dokumente, Fotos, Videos, Aktivitätsprotokolle und direktes Feedback von Ihnen), die mit einer Online-Funktion einer Applikation oder Website von Adobe gesendet oder empfangen werden bzw. die auf Adobe-Servern gespeichert sind"
+     ]
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": [],
+      "country": "GB",
+      "standardDataProtectionClause": {
+        "available":true,
+        "description":"https://faq.whatsapp.com/general/about-standard-contractual-clauses"
+      },
       "adequacyDecision": [],
       "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
+      "presenceOfEnforceableRightsAndEffectiveRemedies": []
     }
   ],
   "accessAndDataPortability": {

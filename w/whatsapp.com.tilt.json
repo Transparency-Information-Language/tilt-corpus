@@ -128,11 +128,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -245,12 +280,46 @@
         }
       ],
       "recipients": [
-        {"category":"Personen, mit denen du dich entscheidest zu kommunizieren"},
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -372,11 +441,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -493,11 +597,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -598,11 +737,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -703,11 +877,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -820,11 +1029,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -957,11 +1201,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1086,11 +1365,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1207,11 +1521,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1317,11 +1666,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1449,11 +1833,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1578,11 +1997,46 @@
         }
       ],
       "recipients": [
-        {"category":"Aufsichtsbehörden"},
-        {"category":"Strafverfolgungsbehörden"},
-        {"category":"andere staatliche Behörden"},
-        {"category":"Branchenpartner"},
-        {"category":"Berater"}
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Aufsichtsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Strafverfolgungsbehörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"andere staatliche Behörden"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Branchenpartner"
+        },
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category":"Berater"
+        }
       ],
       "storage": [
         {
@@ -1624,7 +2078,9 @@
       "standardDataProtectionClause": {
         "available":true,
         "description":"https://faq.whatsapp.com/general/about-standard-contractual-clauses"
-      }
+      },
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null
     },
     {
       "country": "GB",
@@ -1638,14 +2094,20 @@
       "standardDataProtectionClause": {
         "available":true,
         "description":"https://faq.whatsapp.com/general/about-standard-contractual-clauses"
-      }
+      },
+      "adequacyDecision": null,
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null
     },
     {
       "country":"IL",
       "adequacyDecision": {
         "available": true,
         "description": "Wir übertragen deine Account-Informationen, Geräte- und Verbindungsdaten, Nutzungsinformationen und Benutzeroptionen (siehe Informationen, die wir erheben) auf Grundlage des Angemessenheitsbeschlusses der Europäischen Kommission für Israel aus dem Europäischen Wirtschaftsraum nach Israel."
-      }      
+      },
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null,
+      "standardDataProtectionClause": null      
     }
   ],
   "accessAndDataPortability": {

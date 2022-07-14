@@ -59,7 +59,16 @@
         "exists":true,
         "reasoning":"Wahrung berechtigter Interessen des NDR in Abwägung mit den Grundrechten und Grundfreiheiten der Betroffenen (Art. 6 Abs. 1 f) DSGVO), beispielsweise Verarbeitung von personenbezogenen Daten für die Außendarstellung des NDR oder in Wahrnehmung des Hausrechts (insbesondere Sicherheitsinteressen)."
       },
-      "recipients": [],
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
       "storage": {
         "aggregationFunction":"min",
         "purposeConditional":[
@@ -111,7 +120,16 @@
       "legitimateInterests": {
         "exists":false
       },
-      "recipients": [],
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
       "storage": {
         "aggregationFunction":"min",
         "purposeConditional":[
@@ -154,7 +172,16 @@
       "legitimateInterests": {
         "exists":false
       },
-      "recipients": [],
+      "recipients": [
+        {
+          "name": null,
+          "division": null,
+          "address": null,
+          "country": null,
+          "representative": null,
+          "category": "none"
+      }
+      ],
       "storage": {
         "aggregationFunction":"max",
         "purposeConditional":[
@@ -192,7 +219,16 @@
       "legitimateInterests": {
         "exists":false
       },
-      "recipients": [],
+      "recipients": [
+          {
+              "name": null,
+              "division": null,
+              "address": null,
+              "country": null,
+              "representative": null,
+              "category": "none"
+          }
+      ],
       "storage": {
         "aggregationFunction":"min",
         "purposeConditional":[
@@ -214,6 +250,13 @@
     }
   ],
   "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": null,
+      "appropriateGuarantees": null,
+      "presenceOfEnforceableRightsAndEffectiveRemedies": null,
+      "standardDataProtectionClause": null
+    }
   ],
   "accessAndDataPortability": {
     "available": true,
