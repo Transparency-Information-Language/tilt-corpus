@@ -177,12 +177,12 @@
       "purposes": [
         {
           "purpose": "Fehleranalyse, Optimierung oder Untersuchung von Missbrauchsfällen oder Performance-Engpässen",
-          "description:"Diese nicht anonymisierten Logdaten werden nach zwei Wochen automatisch gelöscht, nicht archiviert und ausschließlich zu nichtkommerziellen Zwecken genutzt. Sie werden nur im Bedarfsfall manuell eingesehen und zur Fehleranalyse, Optimierung oder Untersuchung von Missbrauchsfällen oder Performance-Engpässen benötigt. "
+          "description": "Diese nicht anonymisierten Logdaten werden nach zwei Wochen automatisch gelöscht, nicht archiviert und ausschließlich zu nichtkommerziellen Zwecken genutzt. Sie werden nur im Bedarfsfall manuell eingesehen und zur Fehleranalyse, Optimierung oder Untersuchung von Missbrauchsfällen oder Performance-Engpässen benötigt."
         }
       ],
       "legalBases": [
         {
-          "reference: "GDPR-6-1-f",
+          "reference": "GDPR-6-1-f",
           "description": "Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f EU-DSGVO dar. "
         }
       ],
