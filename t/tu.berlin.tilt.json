@@ -11,12 +11,12 @@
     "_hash": "1563783439b62982a5afcc43f3018adf4cb17bd8793c9f229a805b5c94c61455"
   },
   "controller": {
-    "name": null,
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "Technische Universität Berlin",
+    "country": "DE",
+    "address": "Straße des 17. Juni 135, 10623 Berlin",
+    "division": "Präsidentin",
     "representative": {
-      "name": null,
+      "name": "Prof. Dr. Geraldine Rauch",
       "email": null,
       "phone": null
     }
@@ -24,9 +24,9 @@
   "dataProtectionOfficer": {
     "email": "info@datenschutz.tu-berlin.de",
     "phone": "+49 30 314-21784, -29595, -28973",
-    "country": null,
+    "country": "DE",
     "name": "Ansprechpartner*innen f\u00fcr allgemeine Datenschutzfragen\nAnnette Hiller, Alexander Hoffmeier, Mattis Neiling",
-    "address": null
+    "address": "Straße des 17. Juni 135, 10623 Berlin"
   },
   "dataDisclosed": [
     {
@@ -40,14 +40,14 @@
       ],
       "legalBases": [
         {
-          "reference": "Eine Daten\u00fcbertragung erfolgt erst mit Ihrer Zustimmung durch Ihren aktiven Start des Chats im Sinne von Art. 6 Abs. 1 lit. a EU-DSGVO",
-          "description": null
+          "reference": "GDPR-6-1-a",
+          "description": "Eine Daten\u00fcbertragung erfolgt erst mit Ihrer Zustimmung durch Ihren aktiven Start des Chats im Sinne von Art. 6 Abs. 1 lit. a EU-DSGVO"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning":null,
+          "exists": false
         }
       ],
       "recipients": [
@@ -65,14 +65,14 @@
           "purposeConditional": [],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
         "consequences": null,
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
+        "obligationToProvide": false
       }
     },
     {
@@ -86,14 +86,14 @@
       ],
       "legalBases": [
         {
-          "reference": " (Art. 6 Abs. 1 lit. a EU-DSGVO)",
+          "reference": "GDPR-6-1-a",
           "description": "Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt ausschlie\u00dflich auf Grundlage Ihrer Einwilligung"
         }
       ],
       "legitimateInterests": [
         {
           "reasoning": [],
-          "~exists": []
+          "exists": false
         }
       ],
       "recipients": [
@@ -132,8 +132,8 @@
       ],
       "legalBases": [
         {
-          "reference": "berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f EU-DSGVO dar.",
-          "description": null
+          "reference": "GDPR-6-1-f"
+          "description": "berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f EU-DSGVO dar."
         }
       ],
       "legitimateInterests": [
@@ -144,7 +144,7 @@
       ],
       "recipients": [
         {
-          "name": "Die Betreiber von OpenStreetMap",
+          "name": "OpenStreetMap",
           "country": null,
           "division": null,
           "address": null,
@@ -173,23 +173,23 @@
     },
     {
       "_id": "e5ca90cb-803c-458d-933c-6f2e42529aa3",
-      "category": "Wenn Sie Webseiten der TU Berlin aufrufen oder Daten dieser Seiten herunterladen, werden Informationen hier\u00fcber in einer Logdatei mit folgendem Inhalt gespeichert:\n- die IP-Adresse Ihres Ger\u00e4tes,\n- das Datum und die Uhrzeit des Seitenaufrufs,\n- die aufgerufene Seite bzw. der Name der abgerufenen Datei,\n- die \u00fcbertragene Datenmenge,\n- der &#34;User Agent-String&#34; Ihres Webbrowsers,\n- die Webseite, von der aus Sie die aktuelle Seite oder Datei aufgerufen haben\n- und die Statusmeldung, ob der Zugriff bzw. Abruf erfolgreich war.",
+      "category": "Logdatei",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Fehleranalyse, Optimierung oder Untersuchung von Missbrauchsfällen oder Performance-Engpässen",
+          "description:"Diese nicht anonymisierten Logdaten werden nach zwei Wochen automatisch gelöscht, nicht archiviert und ausschließlich zu nichtkommerziellen Zwecken genutzt. Sie werden nur im Bedarfsfall manuell eingesehen und zur Fehleranalyse, Optimierung oder Untersuchung von Missbrauchsfällen oder Performance-Engpässen benötigt. "
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference: "GDPR-6-1-f",
+          "description": "Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f EU-DSGVO dar. "
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f EU-DSGVO dar. ",
+          "exists": true
         }
       ],
       "recipients": [
@@ -206,62 +206,25 @@
         {
           "purposeConditional": [],
           "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [{"description":"Diese nicht anonymisierten Logdaten werden nach zwei Wochen automatisch gelöscht, nicht archiviert und ausschließlich zu nichtkommerziellen Zwecken genutzt.", "ttl":"P2W"}],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
+        "consequences": "Ein Widerspruchsrecht nach Art. 21 EU-DSGVO ist nicht möglich aufgrund fehlender technischer Realisierbarkeit.",
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "e576760e-90f6-4ad4-adf4-6e86605313a2",
-      "category": " IP-Adresse Ihres Ger\u00e4te und Webseitenaufrufe\ngespeichert werden neben aufgerufenen Seiten und Dateien u.a. Daten zu verwendetem Betriebssystem, Browser, Browserplugins, Bildschirmaufl\u00f6sung, dem ungef\u00e4hren Standort (z.B. &#34;Berlin&#34;, jedoch keine konkrete Adresse) und Verweildauer.",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "obligationToProvide": true
+      },
+      "subcategories":[
+        "IP-Adresse Ihres Ger\u00e4tes",
+        "das Datum und die Uhrzeit des Seitenaufrufs",
+        "die aufgerufene Seite bzw. der Name der abgerufenen Datei",
+        "die \u00fcbertragene Datenmenge",
+        "der &#34;User Agent-String&#34; Ihres Webbrowsers",
+        "die Webseite, von der aus Sie die aktuelle Seite oder Datei aufgerufen haben",
+        "die Statusmeldung, ob der Zugriff bzw. Abruf erfolgreich war."
+      ]
     }
   ],
   "thirdCountryTransfers": [
@@ -274,8 +237,8 @@
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
+   "available": true,
+    "description": "Auskunftsrecht\nSie erhalten jederzeit ohne Angabe von Gr\u00fcnden kostenfrei Auskunft \u00fcber Ihre bei uns gespeicherten Daten. Hierzu wenden Sie sich bitte an die im Impressum angegebene Kontaktadresse. Gerne stehen wir Ihnen f\u00fcr weitergehende Fragen zu unseren Datenschutzhinweisen zur Verf\u00fcgung.",
     "url": null,
     "email": null,
     "identificationEvidences": [],
@@ -327,11 +290,11 @@
     "email": null,
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Berliner Beauftragte für Datenschutz und Informationsfreiheit",
+      "address": "Berliner Beauftragte für Datenschutz und Informationsfreiheit, Friedrichstr. 219 / Besuchereingang über Puttkamerstr. 16 -18,10969 Berlin",
+      "country": "DE",
+      "email": "mailbox@datenschutz-berlin.de",
+      "phone": "+49 30 13889-0"
     }
   },
   "automatedDecisionMaking": {
