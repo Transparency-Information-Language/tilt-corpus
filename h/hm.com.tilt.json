@@ -1,127 +1,270 @@
 {
-  "meta": {
-    "_id": "25e31117-3988-4497-b52c-ee70cd01fca1",
-    "name": "h&m",
-    "created": "2021-06-21T12:21:52.587366",
-    "modified": "2021-06-21T12:21:52.587384",
-    "version": 1,
-    "language": "de",
-    "status": "active",
-    "url": "https://www2.hm.com/de_de/customer-service/rechtshinweis-datenschutz/datenschutzerklarung.html",
-    "_hash": "f9987454558443041ee3214688187950a5df17d52a55473e3c8d689c9a923acf"
-  },
-  "controller": {
-    "name": null,
-    "country": null,
-    "address": null,
-    "division": null,
-    "representative": {
-      "name": null,
-      "email": null,
-      "phone": null
-    }
-  },
-  "dataProtectionOfficer": {
-    "email": null,
-    "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
-  },
-  "dataDisclosed": [
-    {
-      "_id": [],
-      "category": [],
-      "purposes": [],
-      "legalBases": [],
-      "legitimateInterests": [],
-      "recipients": [],
-      "recipientsOnlyCategory": [],
-      "storage": [],
-      "nonDisclosure": []
-    }
-  ],
-  "thirdCountryTransfers": [
-    {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
-    }
-  ],
-  "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
+    "meta": {
+      "_id": "25e31117-3988-4497-b52c-ee70cd01fca1",
+      "name": "h&m",
+      "created": "2021-06-21T12:21:52.587366",
+      "modified": "2021-06-21T12:21:52.587384",
+      "version": 1,
+      "language": "de",
+      "status": "active",
+      "url": "https://www2.hm.com/de_de/customer-service/rechtshinweis-datenschutz/datenschutzerklarung.html",
+      "_hash": "f9987454558443041ee3214688187950a5df17d52a55473e3c8d689c9a923acf"
     },
-    "dataFormats": []
-  },
-  "sources": [
-    {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
-    }
-  ],
-  "rightToInformation": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToComplain": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "supervisoryAuthority": {
-      "name": null,
-      "address": null,
+    "controller": {
+      "name": "H & M Hennes & Mauritz GBC AB",
+      "country": "SE",
+      "address": "Mäster Samuelsgatan 46, 106 38 Stockholm, Schweden",
+      "division": null,
+      "representative": {
+        "name": null,
+        "email": null,
+        "phone": null
+      }
+    },
+    "dataProtectionOfficer": {
+      "email": "dataprotection.de@hm.com",
+      "phone": null,
       "country": null,
+      "name": null,
+      "address": null
+    },
+    "dataDisclosed": [
+      {
+        "_id": "a7d0fb1e-0266-4a38-b100-54ae8630a1bd",
+        "category": "Personenbezogene Daten",
+        "purposes": [
+            {
+                "purpose": "Online-Einkäufe",
+                "description": "Wir verwenden Ihre personenbezogenen Daten, um Ihnen Informationen, Produkte und Dienstleistungen zur Verfügung zu stellen, die Sie bei uns im Rahmen eines Online-Einkaufs anfordern oder kaufen. In diesem Zusammenhang verwenden wir Ihre personenbezogenen Daten, um Ihre Bestellbestätigung und die Zahlungsvorgänge zu bearbeiten und Ihre Lieferungen, Ansprüche, Rückgaben und Kostenerstattungen auf sichere und effektive Weise zu verwalten. Bestell- und Zahlungsdaten, die für den oben genannten Zweck erhoben wurden, werden unter bestimmten Bedingungen und Einschränkungen auch für Marketing-, Geschäftsentwicklungs- und Analysezwecke sowie zur Aufdeckung von Betrug und Diebstahl im Zusammenhang mit Online-Verkäufen und zur Einhaltung geltender Gesetze verwendet."
+            },
+            {
+                "purpose": "Einkaufen im Geschäft",
+                "description": "Wir verwenden Ihre personenbezogenen Daten, um Ihre Kauf- und Zahlungsvorgänge zu bearbeiten und Ihre Ansprüche, Rückgaben und Kostenerstattungen auf sichere und effektive Weise zu verwalten. Zahlungsdaten, die für den oben genannten Zweck erhoben wurden, werden unter bestimmten Bedingungen und Einschränkungen auch für Geschäftsentwicklungs- und Analysezwecke sowie zur Aufdeckung von Betrug und Diebstahl im Zusammenhang mit Verkäufen und zur Einhaltung geltender Gesetze verwendet."
+            },
+            {
+                "purpose": "Werbung und Aktionen",
+                "description": "Wir verwenden Ihre personenbezogenen Daten, um Anzeigen und Werbeaktionen zu generieren und auszusenden, einschließlich Style- und Shopping-Empfehlungen, Benachrichtigungen, Informationen, Umfragen und Einladungen über mehrere Kommunikationskanäle.  "
+            },
+            {
+                "purpose": "H&M-Kundenkonto",
+                "description": "H&M verwendet Ihre personenbezogenen Daten für die Verwaltung Ihres H&M-Kontos, einschließlich der Einholung von Einwilligungen, der Feststellung und Bestätigung der Identität des Nutzers des Kontos, der Verhinderung von unbefugtem Zugriff und Nutzung, der Beschränkung der Nutzung durch Minderjährige, des Versands von Mitteilungen und Benachrichtigungen, der Ergreifung von Maßnahmen gegen Missbrauch des Kontos, der Verfolgung von Verstößen gegen die Nutzungsbedingungen und der Bearbeitung des Widerrufs von Einwilligungen.  Wir verwenden Ihre personenbezogenen Daten auch, um Ihnen ein personalisiertes Online-Erlebnis zu bieten und Ihnen sofort Informationen zu Ihrem Kauf zur Verfügung zu stellen. "
+            },
+            {
+                "purpose": "H&M-Mitgliedschaft",
+                "description": "Wir verwenden Ihre personenbezogenen Daten, etwa Ihre Member-ID, um Ihr H&M Mitgliedschaftskonto zu erstellen und zu verwalten und Ihnen alle gewährten Vorteile und Prämien zukommen zu lassen. "
+            },
+            {
+                "purpose": "Kundenservice",
+                "description": "Wir verwenden Ihre personenbezogenen Daten, um Ihnen mittels E-Mail, Chat-Funktion, Telefon und Social-Media Dienstleistungen und Unterstützung zu bieten und das allgemeine Erlebnis unseres Dienstes zu verbessern. In diesem Zusammenhang verwenden wir Ihre personenbezogenen Daten zur Verwaltung Ihrer Anfragen, zur Bearbeitung von Beschwerden und Gewährleistungsfragen für Produkte, für technische Supportangelegenheiten und zur Verbesserung des Kundenerlebnisses. Zudem werden wir Ihre Daten im weiteren Verlauf analysieren, um Einblicke in Kundenvorlieben, -erwartungen, -trends usw. zu erhalten."
+            },
+            {
+                "purpose": "Gewinnspiele",
+                "description": "Wir verarbeiten Ihre Daten, wenn Sie an unseren Gewinnspielen teilnehmen. Ihre personenbezogenen Daten werden von H&M verwendet, um Gewinnspielteilnehmer vor und nach einer Veranstaltung zu dem Gewinnspiel zu kontaktieren, um die Identität der Teilnehmer festzustellen, das Alter der Teilnehmer zu bestimmen, Gewinner zu kontaktieren, Preise zuzuschicken und deren Zustellung zu überprüfen."
+            },
+            {
+                "purpose": "Entwicklung und Verbesserung",
+                "description": "Wir möchten stets die Erwartungen unserer Kunden und Nutzer übertreffen. Nur mit den richtigen Angeboten und der Bereitstellung des besten Nutzer- und Einkaufserlebnisses können wir relevant bleiben. Daher können wir Ihre personenbezogenen Daten verwenden, um unsere Produkte, Services, Systeme, Lieferketten und Geschäfte zu bewerten, weiterzuentwickeln und zu verbessern."
+            },
+            {
+                "purpose": "Einhaltung von Gesetzen",
+                "description": "Um bestimmte gesetzliche Pflichten zu erfüllen, müssen wir personenbezogene Daten über unsere Kunden verarbeiten."
+            },
+            {
+                "purpose": "Verhindern von Missbrauch und Kriminalität",
+                "description": "Um unsere Kunden, Nutzer, Besucher, Vermögenswerte und Unternehmen vor Gewalt, Betrug, Diebstahl, Missbrauch und anderen schädlichen Aktivitäten zu schützen, hat H&M verschiedene Sicherheitsvorkehrungen getroffen. Einige dieser Vorkehrungen erfordern die Erhebung und Verarbeitung personenbezogener Daten. "
+            },
+            {
+                "purpose": "W-LAN in unseren Geschäften",
+                "description": "Wenn Sie sich mit unserem kostenlosen WLAN verbinden, erheben wir personenbezogene Daten von Ihrem Gerät (MAC-Adresse), damit wir Ihnen WLAN bereitstellen können. Wenn Sie sich beim WLAN anmelden und es nutzen, verwenden wir Ihre personenbezogenen Daten auch, um zu überprüfen, ob Sie die Geschäftsbedingungen für die WLAN-Nutzung einhalten. Wir können auch zu statistischen Zwecken mithilfe von Anonymisierungstechniken personenbezogene Daten in anonymisierte (nicht personenbezogene) Daten umwandeln. "
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-a",
+                "description": "Die Verarbeitung deiner personenbezogenen Daten für Ihr Konto basiert auf deiner Zustimmung, wenn du dein H&M-Konto anlegst."
+            },
+            {
+            "reference": "GDPR-6-1-b",
+            "description": "Bei der Bereitstellung von Produkten und Dienstleistungen verarbeitet H&M Ihre personenbezogenen Daten, die für den Abschluss eines Vertrags mit Ihnen und für die Erfüllung der sich aus diesem Vertrag ergebenden Verpflichtungen erforderlich sind. Dies geschieht unabhängig davon, ob sich der Vertrag auf eine Bestellbestätigung und eine Zahlung oder die Inanspruchnahme sonstiger von uns oder von Dritten angebotener Dienstleistungen bezieht. Um Sie zu identifizieren und zu kontaktieren, wenn ein Artikel, für den Sie sich für den Erhalt entsprechender Informationen angemeldet haben, wieder zum Kauf verfügbar ist, fungiert unser berechtigtes Geschäftsinteresse als Rechtsgrundlage für die Verarbeitung."
+            },
+            {
+                "reference": "GDPR-6-1-c",
+                "description": "Um bestimmte gesetzliche Pflichten zu erfüllen, müssen wir personenbezogene Daten über unsere Kunden verarbeiten."
+            }
+        ],
+        "legitimateInterests": [
+            {
+                "reasoning": "Um Sie zu identifizieren und zu kontaktieren, wenn ein Artikel, für den Sie sich für den Erhalt entsprechender Informationen angemeldet haben, wieder zum Kauf verfügbar ist, fungiert unser berechtigtes Geschäftsinteresse als Rechtsgrundlage für die Verarbeitung.",
+                "exists": true
+            }
+        ],
+        "recipients": [
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "H&M-Gruppe"
+            },            
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Dienstleister"
+            },
+            {
+              "name": null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "elektronische Kommunikationsdienste"
+            }
+          ],
+        "recipientsOnlyCategory": [],
+        "storage": [
+            {
+              "description": "Die Aufnahmen unserer Überwachungskameras werden maximal 30 Tage aufbewahrt, es sei denn, wir sind gesetzlich oder behördlich verpflichtet, die Daten für einen längeren Zeitraum aufzubewahren und/oder zu verarbeiten.",  
+              "temporal": "P30D",
+              "aggregationFunction": "MAX"
+            },
+            {
+                "description": "Wir speichern Ihre personenbezogenen Daten und verarbeiten sie so lange weiter, wie dies notwendig ist, um unsere vertraglichen Pflichten zu erfüllen, längstens bis zur Beendigung der H&M-Mitgliedschaft. ",  
+                "aggregationFunction": "MAX"
+            },
+            {
+                "description": "Wir bewahren Ihre personenbezogenen Daten für einen Zeitraum von 45 Tagen nach Gewinnspielende auf.", 
+                "temporal": "P45D", 
+                "aggregationFunction": "MAX"
+            },
+            {
+                "description": "Wir speichern Ihre personenbezogenen Daten so lange, wie es für die Bereitstellung des WLAN gemäß den vereinbarten Geschäftsbedingungen erforderlich ist. Die Aufbewahrungsfrist beträgt bis zu 14 Monate ab der letzten Verbindung mit dem WLAN.", 
+                "temporal": "P14M", 
+                "aggregationFunction": "MAX"
+            }
+          ],
+        "nonDisclosure": {
+            "consequences": [],
+            "legalRequirement": false,
+            "contractualRegulation": false,
+            "obligationToProvide": false
+          }
+      },
+      {
+        "_id": "2f021ddc-8a57-4185-86f0-4499527eed42",
+        "category": "Cookies",
+        "purposes": [
+          {
+            "purpose": "Analyse der Benutzung",
+            "description": "Die H&M-Gruppe verwendet Cookies und andere Tracking-Technologien, um dir alle Funktionalitäten der Website zu bieten, das Benutzererlebnis an dich anzupassen, Analysen durchzuführen und personalisierte Werbung über unsere Websites, Apps und Newsletter im Internet und über Social-Media-Plattformen bereitzustellen."
+          }
+        ],
+        "legalBases": [
+          {
+            "reference": "GDPR-6-1-a",
+            "description": "Einwilligung"
+          }
+        ],
+        "legitimateInterests": [
+          {
+            "~exists": false
+          }
+        ],
+        "recipients": [
+          {
+            "name": [],
+            "country": [],
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": []
+          }
+        ],
+        "storage": [
+          {
+            "aggregationFunction": "MAX"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": "Wenn du dich dafür entscheiden solltest, Cookies zu deaktivieren, kann dies zu Funktionseinschränkungen und einem schlechteren Benutzererlebnis führen.  ",
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      }
+    ],
+    "thirdCountryTransfers": [],
+    "accessAndDataPortability": {
+      "available": true,
+      "description": "Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu verlangen.",
+      "url": "https://www2.hm.com/de_de/account/settings/request-data",
       "email": null,
-      "phone": null
-    }
-  },
-  "automatedDecisionMaking": {
-    "logicInvolved": null,
-    "inUse": null,
-    "scopeAndIntendedEffects": null
-  },
-  "changesOfPurpose": [
-    {
-      "description": [],
-      "affectedDataCategories": [],
-      "plannedDateOfChange": [],
-      "urlOfNewVersion": []
-    }
-  ]
-}
+      "dataFormats": [],
+      "identificationEvidences": []
+    },
+    "sources": [
+      {
+        "_id": [],
+        "dataCategory": [],
+        "sources": []
+      }
+    ],
+    "rightToInformation": {
+      "available": true,
+      "description": "Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu verlangen.",
+      "url": "https://www2.hm.com/de_de/account/settings/request-data",
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToRectificationOrDeletion": {
+      "available": true,
+      "description": "Sie haben das Recht, die Berichtigung Ihrer personenbezogenen Daten zu verlangen, sollten diese fehlerhaft sein. Dies beinhaltet das Recht, unvollständige personenbezogene Daten ergänzen zu lassen. ",
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToDataPortability": {
+      "available": true,
+      "description": "Wenn H&M Ihre personenbezogenen Daten mit Ihrer Zustimmung oder aufgrund einer entsprechenden Vereinbarung automatisch verarbeitet, haben Sie das Recht, eine Kopie Ihrer Daten in einem strukturierten, allgemein üblichen und maschinenlesbaren Format anzufordern, das an Sie oder eine andere Partei gesendet wird. Dies betrifft nur die personenbezogenen Daten, die Sie uns übermittelt haben.",
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToWithdrawConsent": {
+      "available": true,
+      "description": "Sie haben das Recht, der Verarbeitung Ihrer personenbezogenen Daten aufgrund eines berechtigten Interesse von H&M zu widersprechen. ",
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToComplain": {
+      "available": true,
+      "description": "Falls Sie Beschwerden hinsichtlich der Verarbeitung und des Schutzes Ihrer personenbezogenen Daten durch die H&M-Gruppe haben, haben Sie das Recht, jederzeit eine Beschwerde bei der schwedischen Datenschutzbehörde (Integritetsskyddsmyndigheten – IMY) oder einer anderen zuständigen Aufsichtsbehörde im Land Ihres Wohnsitzes einzureichen.",
+      "url": null,
+      "email": null,
+      "identificationEvidences": [],
+      "supervisoryAuthority": {
+        "name": "Integritetsskyddsmyndigheten – IMY",
+        "address": null,
+        "country": null,
+        "email": null,
+        "phone": null
+      }
+    },
+    "automatedDecisionMaking": {
+      "logicInvolved": null,
+      "inUse": null,
+      "scopeAndIntendedEffects": null
+    },
+    "changesOfPurpose": [
+      {
+        "description": [],
+        "affectedDataCategories": [],
+        "plannedDateOfChange": [],
+        "urlOfNewVersion": []
+      }
+    ]
+  }

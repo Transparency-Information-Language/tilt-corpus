@@ -1,1358 +1,676 @@
 {
-  "meta": {
-    "_id": "732d237e-0aec-4033-8ac4-5adb346eaec9",
-    "name": "Luca App",
-    "created": "2021-07-30T11:41:37.194017",
-    "modified": "2021-07-30T11:41:37.194046",
-    "version": 1,
-    "language": "de",
-    "status": "active",
-    "url": "https://www.luca-app.de/app-privacy-policy",
-    "_hash": "2e9253ce62c796f3e5bdad5605d3b9212003affa0bf097f305c933afa3d8bac9"
-  },
-  "controller": {
-    "name": "culture4life GmbH",
-    "country": "Deutschland",
-    "address": "culture4life GmbH\nCharlottenstra\u00dfe 59\n10117 Berlin\nDeutschland",
-    "division": null,
-    "representative": {
-      "name": null,
+    "meta": {
+      "_id": "45fa45a5-39b6-4149-b953-8600b96b4cc0",
+      "name": "Luca App",
+      "created": "2021-07-30T11:41:37.194017",
+      "modified": "2021-07-30T11:41:37.194046",
+      "version": 1,
+      "language": "de",
+      "status": "active",
+      "url": "https://www.luca-app.de/app-privacy-policy",
+      "_hash": "2e9253ce62c796f3e5bdad5605d3b9212003affa0bf097f305c933afa3d8bac9"
+    },
+    "controller": {
+      "name": "culture4life GmbH",
+      "country": "Deutschland",
+      "address": "culture4life GmbH\nMörikestraße 67\n70199 Stuttgart\nDeutschland",
+      "division": null,
+      "representative": {
+        "name": null,
+        "email": "info@culture4life.de",
+        "phone": null
+      }
+    },
+    "dataProtectionOfficer": {
+      "email": "privacy@culture4life.de",
+      "phone": null,
+      "country": "Deutschland",
+      "name": "culture4life GmbH",
+      "address": "Charlottenstra\u00dfe 59\n10117 Berlin\nDeutschland"
+    },
+    "dataDisclosed": [
+      {
+        "_id": "fe3abf2d-3b87-48f3-81f1-035e8dcce734",
+        "category": "Kontaktdaten",
+        "purposes": [
+          {
+            "purpose": "Nutzung der Dienste",
+            "description": "Bei Registrierung erheben und speichern wir Ihre Kontaktdaten sowie Funktionalen Daten, um eine Nutzung der Dienste unserer App gewährleisten zu können."
+          },
+          {
+            "purpose": "Verifizierung",
+            "description": "Bei der Registrierung verifizieren wir Ihre Telefonnummer durch automatisierten SMS-Versand oder Anruf. Auf diese Weise kann eine Kontaktaufnahme durch das Gesundheitsamt zur richtigen Person sichergestellt werden."
+          },
+          {
+            "purpose": "Kontaktnachverfolgung",
+            "description": "Sofern sich ein Gesundheitsamt mit der Bitte um das Teilen Ihrer Besuchshistorie bei Ihnen meldet, können Sie dies freiwillig über die luca App durchführen. Dann werden Ihre Kontaktdaten, Funktionalen Daten sowie die Aufenthaltsdaten für den ausgewählten Zeitraum zum Zwecke der digitalen Kontaktnachverfolgung an das jeweilige Gesundheitsamt übermittelt."
+          },
+          {
+            "purpose": "Kontakt mit dem Gesundheitsamt",
+            "description": "Möchten Sie von Ihrem Gesundheitsamt über das luca System gefunden und über die luca App von diesem kontaktiert werden, werden Ihre hinterlegten Daten Ihres Impf- oder Genesenennachweises sowie Ihre Kontaktdaten verarbeitet. Die Verarbeitung dieser Daten ist notwendig, damit das Gesundheitsamt Sie als Person identifizieren und Ihnen als Person (und keiner anderen) Nachrichten zukommen lassen kann."
+          }
+        ],
+        "legalBases": [
+          {
+            "reference": "GDPR-6-1-b",
+            "description": "Art. 6 (1) 1 b) DSGVO: Auf Grundlage der zwischen Ihnen und uns geltenden Nutzungsbedingungen für die luca Dienste"
+          },
+          {
+            "reference": "GDPR-6-1-a",
+            "description": "Art. 9 (2) a) iVm Art. 6 (1) 1 a) DSGVO: Ausdrückliche Einwilligung, weil wir auf Ihren Wunsch hin ein Gesundheitsdatum an ein Gesundheitsamt übertragen sollen(siehe auch Abschnitt C. 3.)"
+          }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+          {
+            "name": "neXenio GmbH",
+            "country": "DE",
+            "division": [],
+            "address": "Charlottenstraße 59, 10117 Berlin",
+            "representative": [],
+            "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+          },
+          {
+            "name": "Deutsche Telekom AG",
+            "country": "DE",
+            "division": [],
+            "address": "Landgrabenweg 151, 53227 Bonn",
+            "representative": [],
+            "category": "IT-Infrastrukturleistungen (Server)"
+          },
+          {
+            "name": "Bundesdruckerei Gruppe GmbH",
+            "country": "DE",
+            "division": [],
+            "address": "Kommandantenstraße 18, 10969 Berlin",
+            "representative": [],
+            "category": "IT-Infrastrukturleistungen"
+          },
+          {
+            "name": "Message Mobile GmbH",
+            "country": "DE",
+            "division": [],
+            "address": "Stresemannstraße 6, 21335 Lüneburg",
+            "representative": [],
+            "category": "SMS-Versandleistungen"
+          },
+          {
+            "name": "Sinch Germany GmbH",
+            "country": "DE",
+            "division": [],
+            "address": "Wilhelm-Wagenfeld-Str. 20, 80807 München",
+            "representative": [],
+            "category": "SMS-Versandleistungen"
+          }
+        ],
+        "storage": [
+          {
+            "temporal": [
+              {
+                "description":"Ihre Funktionalen Daten, die durch das Einchecken bei einer Betreiber:in verschlüsselt hinterlegt wurden, werden automatisch nach 28 Tagen gelöscht.",
+                "ttl":"P28D"
+              }
+            ],
+            "purposeConditional":[
+              "Nach Betätigen des Löschbuttons verbleiben Ihre Daten noch 28 Tagen in dem luca-System.",
+              "Ihre Kontaktdaten werden bei anhaltender Inaktivität jährlich im luca System gelöscht. Wird die luca App nach jährlicher Löschung der Daten auf den Servern wieder zum Check-In verwendet, werden die noch auf dem Smartphone gespeicherten Kontaktdaten erneut innerhalb des luca Systems verschlüsselt abgelegt."
+            ],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": "Bitte beachten Sie, dass bei Widerruf die verschlüsselten Daten aufgrund der Verschlüsselung Ihnen nicht zugeordnet und daher bis zu ihrer automatischen Löschung nicht von einer Verarbeitung ausgeschlossen werden können. ",
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "cca425b1-9a68-4abf-93ee-aeceed752b74",
+        "category": "Funktionale Daten",
+        "purposes": [
+            {
+                "purpose": "Nutzung der Dienste",
+                "description": "Bei Registrierung erheben und speichern wir Ihre Kontaktdaten sowie Funktionalen Daten, um eine Nutzung der Dienste unserer App gewährleisten zu können."
+            },
+            {
+                "purpose": "Check-In",
+                "description": "Zugleich werden bei Ihrem Check-In Ihre Funktionalen Daten an Betreiber:innen übermittelt, um die Verknüpfung zwischen Ihnen und Ihrem Aufenthalt zu erstellen"
+            },
+            {
+                "purpose": "Kontaktnachverfolgung",
+                "description": "Sofern sich ein Gesundheitsamt mit der Bitte um das Teilen Ihrer Besuchshistorie bei Ihnen meldet, können Sie dies freiwillig über die luca App durchführen. Dann werden Ihre Kontaktdaten, Funktionalen Daten sowie die Aufenthaltsdaten für den ausgewählten Zeitraum zum Zwecke der digitalen Kontaktnachverfolgung an das jeweilige Gesundheitsamt übermittelt."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-b",
+                "description": "Art. 6 (1) 1 b) DSGVO: Auf Grundlage der zwischen Ihnen und uns geltenden Nutzungsbedingungen für die luca Dienste"
+            },
+            {
+                "reference": "GDPR-6-1-a",
+                "description": "Art. 9 (2) a) iVm Art. 6 (1) 1 a) DSGVO: Ausdrückliche Einwilligung, weil wir auf Ihren Wunsch hin ein Gesundheitsdatum an ein Gesundheitsamt übertragen sollen(siehe auch Abschnitt C. 3.)"
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              },
+              {
+                "name": "Bundesdruckerei Gruppe GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Kommandantenstraße 18, 10969 Berlin",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen"
+              }
+        ],
+        "storage": [
+          {
+            "temporal": [
+              {
+                "description":"Ihre Funktionalen Daten, die durch das Einchecken bei einer Betreiber:in verschlüsselt hinterlegt wurden, werden automatisch nach 28 Tagen gelöscht.",
+                "ttl":"P28D"
+              }
+            ],
+            "purposeConditional":[
+              "Nach Betätigen des Löschbuttons verbleiben Ihre Daten noch 28 Tagen in dem luca-System.",
+              "Ihre Kontaktdaten werden bei anhaltender Inaktivität jährlich im luca System gelöscht. Wird die luca App nach jährlicher Löschung der Daten auf den Servern wieder zum Check-In verwendet, werden die noch auf dem Smartphone gespeicherten Kontaktdaten erneut innerhalb des luca Systems verschlüsselt abgelegt."
+            ],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "40b5a9c0-fdfb-4de8-8acd-eb1ec9d1af4e",
+        "category": "Aufenthaltsdaten",
+        "purposes": [
+          {
+            "purpose": "Check-In",
+            "description": "Wenn Sie bei einer Betreiber:in einchecken, erhebt diese mittels luca Ihre Aufenthaltsdaten sowie ggf. Zusätzliche Eingabedaten."
+          },
+          {
+            "purpose": "Besuchshistorie",
+            "description": "Ihre Aufenthaltsdaten stehen Ihnen zur Ansicht in Klarform innerhalb der Historie in der App zur Verfügung. Der Zweck dahinter ist Ihnen jederzeit zu ermöglichen die Richtigkeit Ihres Aufenthalts zu kontrollieren und Ihnen die Auskunft der noch gespeicherten Aufenthaltsdaten zur Verfügung zu stellen."
+          },
+          {
+            "purpose": "Kontaktnachverfolgung",
+            "description": "Sofern sich ein Gesundheitsamt mit der Bitte um das Teilen Ihrer Besuchshistorie bei Ihnen meldet, können Sie dies freiwillig über die luca App durchführen. Dann werden Ihre Kontaktdaten, Funktionalen Daten sowie die Aufenthaltsdaten für den ausgewählten Zeitraum zum Zwecke der digitalen Kontaktnachverfolgung an das jeweilige Gesundheitsamt übermittelt."
+        }
+    ],
+    "legalBases": [
+        {
+            "reference": "GDPR-6-1-b",
+            "description": "Art. 6 (1) 1 b) DSGVO: Auf Grundlage der zwischen Ihnen und uns geltenden Nutzungsbedingungen für die luca Dienste"
+        },
+        {
+            "reference": "GDPR-6-1-a",
+            "description": "Art. 9 (2) a) iVm Art. 6 (1) 1 a) DSGVO: Ausdrückliche Einwilligung, weil wir auf Ihren Wunsch hin ein Gesundheitsdatum an ein Gesundheitsamt übertragen sollen(siehe auch Abschnitt C. 3.)"
+        }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              },
+              {
+                "name": "Bundesdruckerei Gruppe GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Kommandantenstraße 18, 10969 Berlin",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen"
+              }
+        ],
+        "storage": [
+          {
+            "temporal": [
+              {
+                "description":"Ihre Funktionalen Daten, die durch das Einchecken bei einer Betreiber:in verschlüsselt hinterlegt wurden, werden automatisch nach 28 Tagen gelöscht.",
+                "ttl":"P28D"
+              }
+            ],
+            "purposeConditional":[
+              "Nach Betätigen des Löschbuttons verbleiben Ihre Daten noch 28 Tagen in dem luca-System.",
+              "Ihre Kontaktdaten werden bei anhaltender Inaktivität jährlich im luca System gelöscht. Wird die luca App nach jährlicher Löschung der Daten auf den Servern wieder zum Check-In verwendet, werden die noch auf dem Smartphone gespeicherten Kontaktdaten erneut innerhalb des luca Systems verschlüsselt abgelegt."
+            ],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "e3d40a09-88fb-4149-8c13-f46245546cfe",
+        "category": "Zusätzliche Eingabedaten",
+        "purposes": [
+            {
+                "purpose": "Check-In",
+                "description": "Wenn Sie bei einer Betreiber:in einchecken, erhebt diese mittels luca Ihre Aufenthaltsdaten sowie ggf. Zusätzliche Eingabedaten."
+            },
+            {
+                "purpose": "Kontaktnachverfolgung",
+                "description": "Eine durch Sie aufgesuchte Betreiber:in kann um Übermittlung der Besucherdaten für einen bestimmten Zeitraum von einem Gesundheitsamt angefragt werden. Dabei werden Ihre Kontaktdaten, Funktionalen Daten, Aufenthaltsdaten und ggf. Zusätzliche Eingabedaten (soweit sich die Betreiber:in für die Erhebung und Übermittlung dieser entscheidet) zum Zwecke der digitalen Kontaktnachverfolgung an das Gesundheitsamt übermittelt. Die Übermittlung erfolgt sofern Betreiber und Gesundheitsamt die Entschlüsselung der Daten vollziehen."
+            }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-a",
+                "description": " Bei freiwillig luca nutzenden Betreiber:innen ist dies Ihre Einwilligung (Art. 6 (1) 1 a) DSGVO)."
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "~exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              },
+              {
+                "name": "Bundesdruckerei Gruppe GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Kommandantenstraße 18, 10969 Berlin",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen"
+              }
+        ],
+        "storage": [
+          {
+            "temporal": [],
+            "purposeConditional":[
+              "Nach Betätigen des Löschbuttons verbleiben Ihre Daten noch 28 Tagen in dem luca-System.",
+              "Ihre Kontaktdaten werden bei anhaltender Inaktivität jährlich im luca System gelöscht. Wird die luca App nach jährlicher Löschung der Daten auf den Servern wieder zum Check-In verwendet, werden die noch auf dem Smartphone gespeicherten Kontaktdaten erneut innerhalb des luca Systems verschlüsselt abgelegt."
+            ],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "d20340d4-fdd4-405b-8913-b57a6b93f9d3",
+        "category": "Temporäre Nutzungdaten",
+        "purposes": [
+          {
+            "purpose": "Gewährleistung der Sicherheit",
+            "description": "Bei Registrierung sowie Nutzung der luca App werden Temporäre Nutzungsdaten erhoben und gespeichert. Zweck ist die Gewährleistung der Sicherheit des luca Systems und damit die Gewährleistung der Leistungserbringung an Sie."
+          }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-b",
+                "description": "Art. 6 (1) 1 b) DSGVO: Auf Grundlage der zwischen Ihnen und uns geltenden Nutzungsbedingungen für die luca App"
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              },
+              {
+                "name": "Bundesdruckerei Gruppe GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Kommandantenstraße 18, 10969 Berlin",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen"
+              }
+        ],
+        "storage": [
+          {
+            "temporal": [
+              {
+                "description":"Ihre Temporären Nutzungsdaten werden in Logfiles verarbeitet. Diese werden von uns für maximal 7 Tage gespeichert und anschließend automatisch gelöscht. Eine darüberhinausgehende Speicherung findet nicht statt.",
+                "ttl":"P7D"
+              }
+            ],
+            "purposeConditional":[],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "0980b076-f258-4d1b-9144-a17aae62b477",
+        "category": "Testergebnis-/ Genesenen-/ Impfdokument",
+        "purposes": [
+          {
+            "purpose": "Hinterlegung des Dokuments",
+            "description": "Möchten Sie Ihr Dokument in der luca App auf Ihrem Smartphone hinterlegen, werden die Daten der Testergebnis-/ Genesenen-/ Impfdokumente lokal an Ihr Smartphone übermittelt. Dies dient dem Zwecke der Hinterlegung des Dokuments, sodass dieses nach Wunsch vorgezeigt werden kann."
+          },
+          {
+            "purpose": "Scan mit Kamera",
+            "description": "Sofern Sie Ihr Dokument per Scannen des QR-Codes (das Vorhalten der Smartphone-Kamera über den QR-Code) in der luca App hinterlegen wollen, ist das Einschalten Ihrer Kamera notwendig. Nur der QR-Code wird dabei eingelesen. Im Umfeld befindliche Daten werden nicht erfasst. Dies dient dem Zwecke der Hinterlegung des Dokuments, sodass dieses nach Wunsch vorgezeigt werden kann."
+          },
+          {
+            "purpose": "Datenabgleich",
+            "description": "Nach dem Einfügen des Dokuments in Ihrer luca App, gleicht Ihre App den Vor- und Nachnamen von dem Dokument mit Ihren Eingaben in der luca App ab. Dies erfolgt ausschließlich lokal auf Ihrem Endgerät und dient der Zuordnung zu Ihrer Person."
+          },
+          {
+            "purpose": "Missbrauchsprävention",
+            "description": "Zur Vorbeugung von Missbrauch, sodass das Dokument nicht mehrfach von unterschiedlichen Personen in der luca App hinterlegt werden kann, wird von Ihrer luca App eine pseudonymisierte Kennung erstellt und an das luca System übertragen und dort gespeichert."
+          },
+          {
+            "purpose": "Kontakt mit dem Gesundheitsamt",
+            "description": "Möchten Sie von Ihrem Gesundheitsamt über das luca System gefunden und über die luca App von diesem kontaktiert werden, werden Ihre hinterlegten Daten Ihres Impf- oder Genesenennachweises sowie Ihre Kontaktdaten verarbeitet. Die Verarbeitung dieser Daten ist notwendig, damit das Gesundheitsamt Sie als Person identifizieren und Ihnen als Person (und keiner anderen) Nachrichten zukommen lassen kann."
+          }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-a",
+                "description": "Art. 6 (1) 1 a) DSGVO: Einwilligung durch das Einfügen des Dokuments."
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              }
+        ],
+        "storage": [
+          {
+            "temporal": [
+              {
+                "description":"Ein lokal in der luca App hinterlegter Antigen-/ PCR-Test wird automatisch nach 48 (Antigentest)/ 72 (PCR-Test) Stunden gelöscht.",
+                "ttl":"P48H"
+              },
+              {
+                "description":"Ein lokal in der luca App hinterlegter Antigen-/ PCR-Test wird automatisch nach 48 (Antigentest)/ 72 (PCR-Test) Stunden gelöscht.",
+                "ttl":"P72H"
+              },
+              {
+                "description":"Die pseudonymisierte Kennung des Dokuments wird automatisch nach 72 Stunden aus dem luca System gelöscht. Die Kennung des jeweiligen Dokuments dient ausschließlich der Vorbeugung von Missbrauch, sodass das jeweilige Dokument nicht mehrfach ggf. von unterschiedlichen Personen in der luca App hinterlegt werden kann.",
+                "ttl":"P72H"
+              }
+            ],
+            "purposeConditional":[
+              "Alle lokal hinterlegten Dokumente werden automatisch gelöscht, sobald die Gültigkeit des Dokuments überschritten wird. ",
+              "Sie können Ihr COVID-Testergebnis, den Genesenen- oder Impfstatus ebenfalls jederzeit innerhalb Ihrer App manuell löschen."
+            ],
+            "legalBasisConditional":null,
+            "aggregationFunction": "max"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      },
+      {
+        "_id": "73fe3baf-83d8-4f82-a5d1-ae2e3942df6d",
+        "category": "Identitätsnachweis",
+        "purposes": [
+          {
+            "purpose": "Datenabgleich",
+            "description": "Sofern Sie Ihren Identitätsnachweis hinterlegen wollen, tauscht Ihre luca App mit unserem Unterauftragnehmer (IDnow) zunächst Ihren Vor- und Nachnamen aus. Ihr Vor- und Nachname wird von IDnow mit den Daten Ihres Ausweisdokumentes (nach Übermittlung) abgeglichen.  "
+          },
+          {
+            "purpose": "Verifizierung",
+            "description": "Im Anschluss nutzen Sie die IDnow App, um Aufnahmen Ihrer Person und Ihres Ausweisdokumentes hochzuladen. IDnow verifiziert nun Ihren Ausweisdokument:  Aus den von Ihnen erstellten Bildern Ihres Ausweisdokumentes werden die Daten elektronisch ausgelesen und es wird Ihr Portraitbild mit den Bildern Ihres Ausweisdokumentes abgeglichen (Gesichtsabgleich). "
+          },
+          {
+            "purpose": "Kamera und Mikrofon",
+            "description": "Im Rahmen eines Identifizierungs-Vorgangs in der IDnow-App benötigt IDnow den Zugriff auf das Mikrofon und die Kamera. Dies beinhaltet auch den Zugriff auf das Kameralicht, das aktiviert wird, um die Hologramme auf den Ausweisdokumenten besser sichtbar zu machen.  Die Prüfung und Aufnahmen dieser Sicherheitsmerkmale ist aufgrund der regulatorischen Vorgaben für eine erfolgreiche Identifizierung zwingend notwendig und vorgeschrieben.  "
+          }
+        ],
+        "legalBases": [
+            {
+                "reference": "GDPR-6-1-a",
+                "description": "Art. 6 (1) 1 a) DSGVO: Jeder Nutzer wird vor dem eigentlichen Identifizierungs-Vorgang darauf hingewiesen, dass die App Zugriff auf das Mikrophon und die Kamera braucht und er muss beides explizit freigeben. "
+            },
+            {
+                "reference": "GDPR-6-1-a",
+                "description": "Art. 6 (1) 1 a) DSGVO (Einwilligung)"
+            }
+        ],
+        "legitimateInterests": [
+          {
+            "reasoning": [],
+            "exists": false
+          }
+        ],
+        "recipients": [
+            {
+                "name": "neXenio GmbH",
+                "country": "DE",
+                "division": [],
+                "address": "Charlottenstraße 59, 10117 Berlin",
+                "representative": [],
+                "category": "Softwareentwicklung, Softwarewartungs- und Softwarebetriebsleistungen"
+              },
+              {
+                "name": "Deutsche Telekom AG",
+                "country": "DE",
+                "division": [],
+                "address": "Landgrabenweg 151, 53227 Bonn",
+                "representative": [],
+                "category": "IT-Infrastrukturleistungen (Server)"
+              },
+            {    
+              "name": "IDnow GmbH",
+              "country": "DE",
+              "division": [],
+              "address": "Auenstr. 100, 80469 München",
+              "representative": [],
+              "category": "Identitätsverifizierungen"
+            }
+        ],
+        "storage": [
+          {
+            "temporal": "P7D",
+            "aggregationFunction": "MAX"
+          }
+        ],
+        "nonDisclosure": {
+          "consequences": null,
+          "legalRequirement": false,
+          "contractualRegulation": false,
+          "obligationToProvide": false
+        }
+      }
+    ],
+    "thirdCountryTransfers": [
+      {
+        "country": [],
+        "adequacyDecision": [],
+        "appropriateGuarantees": [],
+        "presenceOfEnforceableRightsAndEffectiveRemedies": [],
+        "standardDataProtectionClause": []
+      }
+    ],
+    "accessAndDataPortability": {
+      "available": true,
+      "description": "Anders als wir selbst, können Sie in der eigenen Historie und den eigenen Kontaktdaten alle via luca App erhobenen und verschlüsselt gespeicherten Daten einsehen. Innerhalb der App haben Sie ebenfalls die Möglichkeit Ihre bei uns gespeicherten Daten herunterzuladen, indem Sie den Auskunftsbutton bedienen.",
+      "url": null,
       "email": null,
-      "phone": null
-    }
-  },
-  "dataProtectionOfficer": {
-    "email": "privacy@culture4life.de",
-    "phone": null,
-    "country": "Deutschland",
-    "name": "culture4life GmbH",
-    "address": "Charlottenstra\u00dfe 59\n10117 Berlin\nDeutschland"
-  },
-  "dataDisclosed": [
-    {
-      "_id": "5a130d80-8da4-4af0-8dc9-8ecb25edd961",
-      "category": "Name",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+      "identificationEvidences": [],
+      "administrativeFee": {
+        "amount": null,
+        "currency": null
+      },
+      "dataFormats": []
     },
-    {
-      "_id": "6592a107-c95a-4281-82fb-cd96538485df",
-      "category": "Anschrift",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
+    "sources": [
+      {
+        "_id": [],
+        "dataCategory": [],
+        "sources": []
       }
-    },
-    {
-      "_id": "924d1fbb-f7c2-42b0-89f7-20d86778949c",
-      "category": "Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "e3d40a09-88fb-4149-8c13-f46245546cfe",
-      "category": "E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2b175b17-22fc-4abb-ab22-641eb8b19daa",
-      "category": "Datenzuordnungs-IDs",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "dab14221-e6fb-4f2e-8199-84f4b2133500",
-      "category": "Schl\u00fcssel ",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2ee84289-8b41-4281-97e6-896acc9bc063",
-      "category": " QR-Codes",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "bdb1849f-69e0-4326-9437-6a30f832b700",
-      "category": " Betreiber:innen, bei denen Sie sich aufgehalten haben",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "50f5191c-6d3e-4207-9c2b-8b462e0f5de2",
-      "category": "Datum",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "3bbf4b4f-ddcc-49e0-90e1-16136f9dfcc8",
-      "category": " Beginn und Ende Ihres Aufenthalts",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f1c684fa-8db9-4307-b3d2-86e4b1d429af",
-      "category": "Adresse Ihres Aufenthaltsorts",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fc28eb1b-70b4-4ece-abc8-d6877ec2fc19",
-      "category": "Notizen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "ae38698c-6da0-4993-afa8-bd1b0ecb92e6",
-      "category": " IP-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d629a983-9d04-4e23-a936-c97fc7afaf11",
-      "category": "IP-Standort",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fb3563ea-986d-4791-b9f8-0252beca5f44",
-      "category": "Art und Version des eingesetzten Endger\u00e4ts",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fd1a9d04-4222-4ecf-8eae-ae677dccf04d",
-      "category": " Informationen zum genutzten mobilen Netzwerk",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f9e29b36-38f2-4eba-8b62-ff96492206a1",
-      "category": " Zeitzonen-Einstellungen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2bb72e21-8324-4a2b-8e1c-5c431f623d27",
-      "category": " Betriebssystem und Plattform",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "739f569c-f6fe-46e5-9cb9-f9f080b8566c",
-      "category": "Testergebnis-/ Genesenen-/ Impfdokument",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "4d557e55-65d8-4627-8bf6-cbcfe7ee8657",
-      "category": "Geburtsdatum",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "348385d0-7b87-41b6-a654-3f00cec529a6",
-      "category": "Infektionsstatus ",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d9422c4d-d356-4809-b700-16ff7c3fc7f8",
-      "category": "Typ des Tests (PCR oder Antigentest)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "6b137bdb-e8b7-441d-bb6b-3620b1286177",
-      "category": "Angaben zum Testhersteller",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "1ef99425-3d48-4763-934d-a0303d23bd77",
-      "category": "Teststelle sowie zur Ausgabestelle des Zertifikats",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "afacc854-02d7-408e-a98d-30f823171c2f",
-      "category": "Test- und Ausstellungszeitpunkt",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "e3075b60-f77c-49b6-8372-13edb71f9699",
-      "category": "Bei dem Genesenenausweis: Datum der Positivtestung, Angaben zur Herausgabestelle, G\u00fcltigkeitszeitraum",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fe0e9cff-dc04-4f6d-b35e-f84a39abf7ee",
-      "category": "ei dem Impfausweis: Datum der Impfung, Anzahl der Impfungen, Angaben zum Impfstoff (Krankheit, Hersteller, Produkt), Angaben zur Herausgabestelle",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    }
-  ],
-  "thirdCountryTransfers": [
-    {
-      "country": [],
-      "adequacyDecision": [],
-      "appropriateGuarantees": [],
-      "presenceOfEnforceableRightsAndEffectiveRemedies": [],
-      "standardDataProtectionClause": []
-    }
-  ],
-  "accessAndDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "administrativeFee": {
-      "amount": null,
-      "currency": null
-    },
-    "dataFormats": []
-  },
-  "sources": [
-    {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
-    }
-  ],
-  "rightToInformation": {
-    "available": true,
-    "description": "Recht auf Auskunft",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToRectificationOrDeletion": {
-    "available": true,
-    "description": "\u201eRecht auf Vergessenwerden",
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToDataPortability": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
-    "url": null,
-    "email": null,
-    "identificationEvidences": []
-  },
-  "rightToComplain": {
-    "available": true,
-    "description": "Recht, Beschwerde ",
-    "url": null,
-    "email": null,
-    "identificationEvidences": [],
-    "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
+    ],
+    "rightToInformation": {
+      "available": true,
+      "description": "Das Recht, eine Aussage darüber zu verlangen, ob Ihre personenbezogenen Daten verarbeitet werden und, sofern dies der Fall ist, das Recht auf Auskunft über diese Daten",
+      "url": null,
       "email": null,
-      "phone": null
-    }
-  },
-  "automatedDecisionMaking": {
-    "logicInvolved": null,
-    "inUse": null,
-    "scopeAndIntendedEffects": null
-  },
-  "changesOfPurpose": [
-    {
-      "description": [],
-      "affectedDataCategories": [],
-      "plannedDateOfChange": [],
-      "urlOfNewVersion": []
-    }
-  ]
+      "identificationEvidences": []
+    },
+    "rightToRectificationOrDeletion": {
+      "available": true,
+      "description": "Das Recht, die Berichtigung Ihrer personenbezogenen Daten zu verlangen, sofern diese unrichtig oder unvollständig sind ",
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToDataPortability": {
+      "available": false,
+      "description": null,
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToWithdrawConsent": {
+      "available": true,
+      "description": "Das Recht, eine hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten gegenüber uns erteilte Einwilligung (für das Teilen Ihrer Historie mit dem Gesundheitsamt, für das Erheben der Daten mittels Geo-Fencing sowie bei der Nutzung Ihrer Kamera) jederzeit zu widerrufen",
+      "url": null,
+      "email": null,
+      "identificationEvidences": []
+    },
+    "rightToComplain": {
+      "available": true,
+      "description": "Ungeachtet der vorstehenden Rechte haben Sie das Recht, Beschwerde bei einer Aufsichtsbehörde für Datenschutz und Informationsfreiheit, beispielsweise bei der Berliner Beauftragten für Datenschutz und Informationsfreiheit einzulegen:",
+      "url": null,
+      "email": null,
+      "identificationEvidences": [],
+      "supervisoryAuthority": {
+        "name": "Berliner Beauftragte für Datenschutz und Informationsfreiheit",
+        "address": "Friedrichstr. 219, 10969 Berlin",
+        "country": "DE",
+        "email": "mailbox@datenschutz-berlin.de",
+        "phone": "030/13889-0"
+      }
+    },
+    "automatedDecisionMaking": {
+      "logicInvolved": null,
+      "inUse": null,
+      "scopeAndIntendedEffects": null
+    },
+    "changesOfPurpose": [
+      {
+        "description": [],
+        "affectedDataCategories": [],
+        "plannedDateOfChange": [],
+        "urlOfNewVersion": []
+      }
+    ]
 }
