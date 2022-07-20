@@ -11,1165 +11,406 @@
     "_hash": "db271845c6bdb0fe0d37195b1cafd2ec72566b87534e8f187099a2951a7fce27"
   },
   "controller": {
-    "name": "1&amp;amp;amp;amp;amp;amp;1 Mail &amp;amp;amp;amp;amp;amp; Media GmbH",
-    "country": null,
-    "address": null,
-    "division": null,
+    "name": "1&1 Mail & Media GmbH",
+    "country": "DE",
+    "address": "1&1 Mail & Media GmbH, Zweigniederlassung Karlsruhe, Brauerstr. 48, 76135 Karlsruhe, Deutschland",
+    "division": "Zweigniederlassung Karlsruhe",
     "representative": {
-      "name": null,
-      "email": null,
-      "phone": null
+      "name": "Alexander Charles, Ralf Hartings, Thomas Ludwig, Jan Oetjen",
+      "email": "info@web.de",
+      "phone": "(+49) 07219609740"
     }
   },
   "dataProtectionOfficer": {
     "email": "datenschutz@webde.de",
     "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
+    "country": "DE",
+    "name": "Datenschutzbeauftragter der 1&1 Mail & Media GmbH",
+    "address": "Datenschutzbeauftragter der 1&1 Mail & Media GmbH, Elgendorfer Str. 57, 56410 Montabaur"
   },
   "dataDisclosed": [
     {
       "_id": "a1e3bb55-e949-4d98-8b3b-ddd84cb64b1c",
-      "category": "Namen und Anschrift",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "335cb46b-16cf-4ad9-9a0d-d65a38f967bf",
-      "category": "Ihre E-Mails. Adressbuchkontakte oder\nDaten, die Sie im Online-Speicher ablegen.\nDaten, die Sie z. B. in Apps hochladen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "be7c6773-f696-443b-b181-9bec44d72463",
-      "category": "Datum und Uhrzeit des Zugriffes bzw. der Zustellung oder die IP-Adresse des Ger\u00e4tes",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2090ec9f-8aa1-4eae-ae18-d3d49e91a17a",
-      "category": "Standort",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "c2bad841-22ed-4de8-9081-ec0d147084ea",
-      "category": "Abrufe von bestimmten Elementen des Magazins oder das Datum bzw. die Uhrzeit Ihres Besuchs",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "bdf7fe85-d8cc-4a95-933c-fbf6d845fed2",
-      "category": "Nutzungsdaten, wie z.B. Suchanfragen, IP-Adressen und anonyme Daten des Webbrowsers.",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "b9774e96-6654-42f8-b902-34d4dbb8e816",
-      "category": "Suchanfragen\nIP-Adresse\nAnonyme Daten Ihres Webbrowsers\nKlicks auf Suchergebnisse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "724a1844-5fe1-4ad9-8a15-8d8aefed8a81",
-      "category": " Ihren Namen und Ihre Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "391dbe1f-c8a6-4b25-b763-57917f247ed7",
-      "category": "Ihren Namen und Ihre Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "21aa527c-4e60-4f22-8f75-729f2b2c1a38",
-      "category": "Inhaltsdaten sind die Inhalte, die Sie als Nutzer aktiv erstellen oder verwenden, zum Beispiel E-Mails, die Sie geschrieben haben",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "b507b995-5ba4-4176-84a1-c4c50f6fc9e1",
-      "category": "Datum und Uhrzeit des Zugriffes bzw. der Zustellung oder die IP-Adresse des Ger\u00e4tes",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fee4cbe9-a38d-4e0f-98cd-1679dff0114a",
-      "category": "Verkehrsdaten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "96273907-5459-41a7-a278-408592d967ef",
-      "category": "Inhalts-, Nutzungs-, Kontakt- und Bestandsdaten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "9d24c924-323d-4eaf-935a-20ec324ca4af",
       "category": "Bestandsdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Personalisierte Werbung und Inhalte",
+          "description": "Angebote und Inhalte zu sehen, die besser auf Ihre Interessen zugeschnitten sind. Dies geschieht durch die folgenden Prozesse: Um den Dienst anbieten zu können, müssen wir ein entsprechendes Interessenprofil erstellen, auf dessen Basis Sie richtig angesprochen werden können. Dieses Profil wird durch Ableitung und Extraktion des Inhalts Ihrer E-Mails erstellt. Um eine bessere Genauigkeit zu gewährleisten, werden die gesammelten Informationen mit anderen Datenbanken und, falls erforderlich, mit hochgerechneten Daten und Modellen verknüpft."
+        },
+        {
+          "purpose":"Vertragsverhältnis mit Ihnen erfüllen",
+          "description":"Generell gilt: Bestandsdaten und Inhaltsdaten werden von uns erhoben, um das Vertragsverhältnis mit Ihnen erfüllen zu können. "
+        },
+        {
+          "purpose":"Artikel kommentieren",
+          "description":"Um Artikel kommentieren zu können, ist eine E-Mail-Adresse bei WEB.DE notwendig, mit der Sie sich zum Kommentieren einloggen. Insofern verarbeiten wir Bestandsdaten, wenn Sie einen Artikel kommentieren."
+        },
+        {
+          "purpose":"Bestellung unserer Mobilfunktarife",
+          "description":"Im Zusammenhang mit der Bestellung unserer Mobilfunktarife erheben und verarbeiten wir die von Ihnen selbst mitgeteilten Bestandsdaten. Um Ihnen einen Handy-Tarif zur Verfügung zu stellen, nutzen wir die Daten, die Sie uns per Formular bei der Bestellung eingeben."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung nach Art. 6.(1).a DSGVO Um alle notwendigen Vorgänge durchführen zu können, benötigen wir auch einige der von Ihnen hier erteilten Einwilligungen. "
+        },
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Die Datenverarbeitung ist für die Erbringung der Dienstleistung erforderlich"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Gelegentlich verarbeiten wir die Daten unserer Nutzer auch auf der Basis der Rechtsgrundlage des Art. 6 Abs. 1 f DSGVO. "
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Bei der Verarbeitung Ihrer Daten verfolgen wir in diesem Fall, sofern unten nichts anderes angegeben, die folgenden berechtigten Interessen: \ndie Verbesserung unseres Angebots \nden Schutz vor Missbrauch \nfür interne statistische Zwecke",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
+          "name": "1&1 Ionos SE",
+          "country": "DE",
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Drittanbieter Homepagebaukasten"
+        },
+        {
+          "name":"Lotto24",
+          "country": "DE",
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Glücksspiel"
+        },
+        {
+          "name":"United Internet AG",
+          "country": "DE",
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Konzernunternehmen"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Drittdienstleister"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "öffentliche Stellen und Regierungsbehörden"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Strafverfolgungsbehörden"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Nach der Kündigung bzw. der Löschung des Accounts erfolgt eine sofortige Löschung aller Bestandsdaten, soweit dieser keine gesetzlich längeren Aufbewahrungsfristen entgegenstehen."
+          ],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
+        "consequences": "Generell gilt: Bestandsdaten und Inhaltsdaten werden von uns erhoben, um das Vertragsverhältnis mit Ihnen erfüllen zu können. Um deren Verarbeitung zu unterbinden, müssten Sie Ihren bestehenden WEB.DE FreeMail Vertrag kündigen oder widerrufen und die Nutzung Ihrer Produkte bei WEB.DE FreeMail einstellen.",
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "obligationToProvide": true
+      },
+      "subcategories":
+      [
+        "Namen", 
+        "Anschrift",
+        "E-Mail Adresse"
+      ]
     },
     {
-      "_id": "24d0ac2a-d506-4b79-99ca-61d83599b031",
-      "category": "Ihre Bestandsdaten beinhalten Name, Anschrift, E-Mail-Adresse, und Geburtsdatum",
+      "_id": "47367b0b-7efa-4b83-b95d-8b7751fd538c",
+      "category": "Inhaltsdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Bessere und übersichtlichere Darstellungen",
+          "description": "Bessere und übersichtlichere Darstellungen innerhalb des Postfachs anbieten zu können durch u.a. die folgenden Funktionen: \nGruppierung: Indexierung der E-Mails zur Gruppierung und Verlaufsdarstellung \nKategorisierung von E-Mails: E-Mail mit dem Label einer Kategorie markieren \nExtrahierung: Daten extrahieren (z. B. eine Paket- oder Bestellnummer) aus Ihren E-Mails um eine bessere und übersichtlichere Darstellung anbieten zu können \nSuchfunktion: Indexierung des Inhaltes einer E-Mail für die Suchfunktion \nAuto-Vervollständigen: Vervollständigung während der Eingabe einer E-Mailadresse \nErkennen wichtiger E-Mail-Kontakte: E-Mail-Adressen erkennen und als \"wichtigen Kontakte\" einstufen"
+        },
+        {
+          "purpose":"Track & Trace",
+          "description":"Darstellung der Status- und Verlaufsanzeige von Paketen. Dafür werden die Sendungsnummern von DHL-, DPD- und GLS-Paketen ausgelesen und dort über eine Schnittstelle der jeweilige Sendungsstatus abgefragt"
+        },   
+        {
+          "purpose": "Personalisierte Werbung und Inhalte",
+          "description": "Angebote und Inhalte zu sehen, die besser auf Ihre Interessen zugeschnitten sind. Dies geschieht durch die folgenden Prozesse: Um den Dienst anbieten zu können, müssen wir ein entsprechendes Interessenprofil erstellen, auf dessen Basis Sie richtig angesprochen werden können. Dieses Profil wird durch Ableitung und Extraktion des Inhalts Ihrer E-Mails erstellt. Um eine bessere Genauigkeit zu gewährleisten, werden die gesammelten Informationen mit anderen Datenbanken und, falls erforderlich, mit hochgerechneten Daten und Modellen verknüpft."
+        },
+        {
+          "purpose":"Manuelle Qualitätsoptimierung",
+          "description":"Damit unsere Systeme in der Lage sind, automatisch verarbeitete E-Mails und Daten richtig zu erkennen, müssen die sie unterstützenden automatischen Systeme trainiert werden. Um das \"Intelligente Postfach\" und die anderen damit verbundenen Dienste anbieten und erweitern zu können, werden die E-Mails daher in einigen Fällen manuell von einem Mitarbeiter bearbeitet. Dabei geht es um die Sicherstellung der korrekten automatisierten Datenverarbeitung. Die Bearbeitung erfolgt nur durch eine begrenzte Anzahl von Mitarbeitern, die auch entsprechend im Datenschutz geschult sind. Alle anderen Anforderungen, die einen angemessenen Schutz der verarbeiteten Daten sicherstellen, sind jederzeit gewährleistet. Die Analyse dient letztlich der Bestätigung des richtigen Funktionierens des Dienstes und der Entwicklung neuer Datenverarbeitungen für eingewilligten Zwecke. "
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung nach Art. 6.(1).a DSGVO Um alle notwendigen Vorgänge durchführen zu können, benötigen wir auch einige der von Ihnen hier erteilten Einwilligungen. "
+        },
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Die Datenverarbeitung ist für die Erbringung der Dienstleistung erforderlich"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Gelegentlich verarbeiten wir die Daten unserer Nutzer auch auf der Basis der Rechtsgrundlage des Art. 6 Abs. 1 f DSGVO. "
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Bei der Verarbeitung Ihrer Daten verfolgen wir in diesem Fall, sofern unten nichts anderes angegeben, die folgenden berechtigten Interessen: \ndie Verbesserung unseres Angebots \nden Schutz vor Missbrauch \nfür interne statistische Zwecke",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
+          "name": "1&1 Ionos SE",
+          "country": "DE",
           "division": [],
-          "address": [],
+          "address": "1&1 Ionos SE, Elgendorfer Str. 57, 56410 Montabaur",
           "representative": [],
-          "category": []
+          "category": "Drittanbieter Homepagebaukasten"
+        },
+        {
+          "name": "myLoc managed IT AG",
+          "country": "DE",
+          "division": [],
+          "address": "myLoc managed IT AG, Am Gatherhof 44, 40472 Düsseldorf",
+          "representative": [],
+          "category": "Drittanbieter Homepagebaukasten"
+        },
+        {
+          "name":"DHL",
+          "country": "DE",
+          "division": [],
+          "address": "DHL, Sträßchensweg 10, 53113 Bonn",
+          "representative": [],
+          "category": "Post"
+        },
+        {
+          "name":"DPD",
+          "country": "DE",
+          "division": [],
+          "address": "DPD, Wailandtstraße 1, 63741 Aschaffenburg",
+          "representative": [],
+          "category": "Post"
+        },
+        {
+          "name":"GLS",
+          "country": "DE",
+          "division": [],
+          "address": "GLS (General Logistics Systems Germany GmbH & Co. OHG), GLS-Germany-Straße 1-7 36286 Neuenstein",
+          "representative": [],
+          "category": "Glücksspiel"
+        },
+        {
+          "name":"United Internet AG",
+          "country": "DE",
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Konzernunternehmen"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Drittdienstleister"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "öffentliche Stellen und Regierungsbehörden"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Strafverfolgungsbehörden"
         }
       ],
       "storage": [
         {
           "purposeConditional": [],
           "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [
+            {
+              "description":"Nach 180 Tagen der Inaktivität werden diese gelöscht. Die durch Inhaltsdaten gewonnenen Informationen, die für die verschiedenen Profilierungsmodelle verwendet werden, werden weiterhin verarbeitet, solange sie keine Re-Identifizierung des Nutzers ermöglichen.",
+              "ttl":"P180D"
+            },
+            {
+              "description":"werden nach einem Jahr gelöscht",
+              "ttl":"P1Y"
+            }
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
+        "consequences": "Generell gilt: Bestandsdaten und Inhaltsdaten werden von uns erhoben, um das Vertragsverhältnis mit Ihnen erfüllen zu können. Um deren Verarbeitung zu unterbinden, müssten Sie Ihren bestehenden WEB.DE FreeMail Vertrag kündigen oder widerrufen und die Nutzung Ihrer Produkte bei WEB.DE FreeMail einstellen.",
         "legalRequirement": null,
         "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "obligationToProvide": true
+      },
+      "subcategories":[
+        "Inhalte, die Sie als Nutzer aktiv erstellen oder verwenden", 
+        "E-Mails und deren Inhalte, die Sie empfangen haben",
+        "Kalendereinträge",
+        "Addressbuchkontakte",
+        "Daten, die Sie im Online-Speicher ablegen",
+        "Daten, die Sie z.B. in Apps hochladen"
+      ]
     },
     {
-      "_id": "e246f0bb-a611-40d9-8320-d76f522b8527",
-      "category": "Inhaltsdaten sind die Inhalte, die Sie als Nutzer aktiv erstellen oder verwenden",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "0c260b4f-b299-42c7-bc79-31f8c964e5fb",
-      "category": "Unter Nutzungsdaten versteht man alle Informationen, die bei der Verwendung eines Dienstes entstehen und die auf den Umfang der Nutzung des Produktes schlie\u00dfen lassen",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "e2fe216f-e7c1-4957-94f1-ee4f3a45adb1",
-      "category": "    den Partner, bei dem Sie eingekauft haben\n\u2022    das Datum, an dem Sie eingekauft haben\n\u2022    den Umsatz, der f\u00fcr die H\u00f6he der WEB.Cent Aussch\u00fcttung verantwortlich ist\n\u2022    Informationen \u00fcber gekaufte Waren/Dienstleistungen (je nach Partner unterschiedlich)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "90d4f458-65a5-439c-962c-bca8750665df",
-      "category": "Vor- und Nachname, Anrede, E-Mail-Adresse, Geburtstag, Postanschrift (wie von Ihnen selbst auf der Formularseite des Gewinnspiels angegeben)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "638c59e9-552a-4eb5-8a59-d9375e3caf9f",
-      "category": "Anrede, Geburtsjahr, Land, Postleitzahl, Hashwert der E-Mail-Adresse und Ihre IP-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "556ef557-901f-49c2-97dc-b2529ab09e84",
-      "category": "Ihre E-Mail-Adresse \u2013 haben Sie uns mitgeteilt. E-Mail-Adressen von Drittanbieterdiensten (Gmail und Outlook.com)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "c1f3e717-ffaa-4c76-a5ab-813cf22c336e",
-      "category": "Bestandsdaten (s.u.)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "399a0c04-5258-4be4-b363-4c22ed6b83bb",
-      "category": "Name, Adresse und E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "4e6cd61e-01cd-44ad-9c64-fb428d5cda8a",
-      "category": "vertragsbezogene Daten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "7fdf91ae-4008-49e0-9030-16faed0a8c53",
+      "_id": "e4b16213-a0ff-42a5-81be-b511291c3a94",
       "category": "Nutzungsdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
-        }
+          "purpose": "Personalisierte Werbung und Inhalte",
+          "description": "Angebote und Inhalte zu sehen, die besser auf Ihre Interessen zugeschnitten sind. Dies geschieht durch die folgenden Prozesse: Um den Dienst anbieten zu können, müssen wir ein entsprechendes Interessenprofil erstellen, auf dessen Basis Sie richtig angesprochen werden können. Dieses Profil wird durch Ableitung und Extraktion des Inhalts Ihrer E-Mails erstellt. Um eine bessere Genauigkeit zu gewährleisten, werden die gesammelten Informationen mit anderen Datenbanken und, falls erforderlich, mit hochgerechneten Daten und Modellen verknüpft."
+        },
+        {
+          "purpose":"Internetsuche",
+          "description":"Mit Ihrer Einwilligung bietet WEB.DE die Internetsuche in Partnerschaft mit Google, Youtube (Google), Yahoo EMEA Limited (Yahoo Search) und Bing (Microsoft) an. "
+        }  
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Einwilligung nach Art. 6.(1).a DSGVO Um alle notwendigen Vorgänge durchführen zu können, benötigen wir auch einige der von Ihnen hier erteilten Einwilligungen. "
+        },
+        {
+          "reference":"GDPR-6-1-b",
+          "description":"Die Datenverarbeitung ist für die Erbringung der Dienstleistung erforderlich"
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Gelegentlich verarbeiten wir die Daten unserer Nutzer auch auf der Basis der Rechtsgrundlage des Art. 6 Abs. 1 f DSGVO. "
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Bei der Verarbeitung Ihrer Daten verfolgen wir in diesem Fall, sofern unten nichts anderes angegeben, die folgenden berechtigten Interessen: \ndie Verbesserung unseres Angebots \nden Schutz vor Missbrauch \nfür interne statistische Zwecke",
+          "exists": true
         }
       ],
       "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
+            {
+              "name": "Google",
+              "country": null,
+              "division": [],
+              "address": null,
+              "representative": [],
+              "category": "Drittanbieter Internetsuche"
+            },
+            {
+              "name": "Youtube (Google)",
+              "country": null,
+              "division": [],
+              "address": null,
+              "representative": [],
+              "category": "Drittanbieter Internetsuche"
+            },
+            {
+              "name": "Yahoo EMEA Limited (Yahoo Search)",
+              "country": null,
+              "division": [],
+              "address": null,
+              "representative": [],
+              "category": "Drittanbieter Internetsuche"
+            },
+            {
+              "name": "Bing (Microsoft)",
+              "country": null,
+              "division": [],
+              "address": null,
+              "representative": [],
+              "category": "Drittanbieter Internetsuche"
+            },
+            {
+              "name":"United Internet AG",
+              "country": "DE",
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Konzernunternehmen"
+            },
+            {
+              "name":null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Drittdienstleister"
+            },
+            {
+              "name":null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "öffentliche Stellen und Regierungsbehörden"
+            },
+            {
+              "name":null,
+              "country": null,
+              "division": null,
+              "address": null,
+              "representative": null,
+              "category": "Strafverfolgungsbehörden"
+            }
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Werden nach Ende der Nutzung gelöscht. Die durch Nutzungsdaten gewonnenen Informationen, die für die verschiedenen Profilierungsmodelle verwendet werden, werden weiterhin verarbeitet, solange sie keine Re-Identifizierung des Nutzers ermöglichen.",
+            "Nutzungsdaten werden entsprechend der gesetzlichen Regelung nach Ende der Nutzung wieder gelöscht."
+          ],
           "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [
+            {
+              "description":"Wir speichern die pseudonymisierten Nutzungsdaten im Zusammenhang mit der WEB.DE Suche in der Regel 7 Tage, maximal 21 Tage.",
+              "ttl":"P7D"
+            },
+            {
+              "description":"Wir speichern die pseudonymisierten Nutzungsdaten im Zusammenhang mit der WEB.DE Suche in der Regel 7 Tage, maximal 21 Tage.",
+              "ttl":"P21D"
+            },
+            {
+              "description":"Ihre Nutzungsdaten werden nach spätestens einem Jahr gelöscht.",
+              "ttl":"P1Y"
+            }
+          ],
+          "aggregationFunction": "min"
         }
       ],
       "nonDisclosure": {
@@ -1177,697 +418,137 @@
         "legalRequirement": null,
         "contractualRegulation": null,
         "obligationToProvide": null
-      }
+      },
+      "subcategories":
+        [
+          "Unter Nutzungsdaten versteht man alle Informationen, die bei der Verwendung eines Dienstes entstehen und auf den Umfang der Nutzung des jeweiligen Produktes.",
+          "Suchanfragen",
+          "IP-Adressen"
+        ]
     },
     {
-      "_id": "ca634582-c6bc-4d4f-92af-4086c295e9a8",
-      "category": "Ihren Namen, Ihre Post-Adresse etc.",
+      "_id": "2cb3518d-32c6-465b-9831-3e1e52d7f9a2",
+      "category": "Verkehrsdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose":"Bessere und übersichtlichere Darstellungen",
+          "description":"Bessere und übersichtlichere Darstellungen innerhalb des Postfachs anbieten zu können durch u.a. die folgenden Funktionen: \nGruppierung: Indexierung der E-Mails zur Gruppierung und Verlaufsdarstellung \nKategorisierung von E-Mails: E-Mail mit dem Label einer Kategorie markieren \nExtrahierung: Daten extrahieren (z. B. eine Paket- oder Bestellnummer) aus Ihren E-Mails um eine bessere und übersichtlichere Darstellung anbieten zu können \nSuchfunktion: Indexierung des Inhaltes einer E-Mail für die Suchfunktion \nAuto-Vervollständigen: Vervollständigung während der Eingabe einer E-Mailadresse \nErkennen wichtiger E-Mail-Kontakte: E-Mail-Adressen erkennen und als \"wichtigen Kontakte\" einstufen"
+        },
+        {
+          "purpose": "Personalisierte Werbung und Inhalte",
+          "description": "Angebote und Inhalte zu sehen, die besser auf Ihre Interessen zugeschnitten sind. Dies geschieht durch die folgenden Prozesse: Um den Dienst anbieten zu können, müssen wir ein entsprechendes Interessenprofil erstellen, auf dessen Basis Sie richtig angesprochen werden können. Dieses Profil wird durch Ableitung und Extraktion des Inhalts Ihrer E-Mails erstellt. Um eine bessere Genauigkeit zu gewährleisten, werden die gesammelten Informationen mit anderen Datenbanken und, falls erforderlich, mit hochgerechneten Daten und Modellen verknüpft."
+        },
+        {
+          "purpose":"Track & Trace",
+          "description":"Darstellung der Status- und Verlaufsanzeige von Paketen. Dafür werden die Sendungsnummern von DHL-, DPD- und GLS-Paketen ausgelesen und dort über eine Schnittstelle der jeweilige Sendungsstatus abgefragt"
+        },
+        {
+          "purpose":"Manuelle Qualitätsoptimierung",
+          "description":"Damit unsere Systeme in der Lage sind, automatisch verarbeitete E-Mails und Daten richtig zu erkennen, müssen die sie unterstützenden automatischen Systeme trainiert werden. Um das \"Intelligente Postfach\" und die anderen damit verbundenen Dienste anbieten und erweitern zu können, werden die E-Mails daher in einigen Fällen manuell von einem Mitarbeiter bearbeitet. Dabei geht es um die Sicherstellung der korrekten automatisierten Datenverarbeitung. Die Bearbeitung erfolgt nur durch eine begrenzte Anzahl von Mitarbeitern, die auch entsprechend im Datenschutz geschult sind. Alle anderen Anforderungen, die einen angemessenen Schutz der verarbeiteten Daten sicherstellen, sind jederzeit gewährleistet. Die Analyse dient letztlich der Bestätigung des richtigen Funktionierens des Dienstes und der Entwicklung neuer Datenverarbeitungen für eingewilligten Zwecke. "
         }
       ],
       "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
+            {
+              "reference": "GDPR-6-1-a",
+              "description": "Einwilligung nach Art. 6.(1).a DSGVO Um alle notwendigen Vorgänge durchführen zu können, benötigen wir auch einige der von Ihnen hier erteilten Einwilligungen. "
+            },
+            {
+              "reference":"GDPR-6-1-b",
+              "description":"Die Datenverarbeitung ist für die Erbringung der Dienstleistung erforderlich"
+            },
+            {
+              "reference":"GDPR-6-1-f",
+              "description":"Gelegentlich verarbeiten wir die Daten unserer Nutzer auch auf der Basis der Rechtsgrundlage des Art. 6 Abs. 1 f DSGVO. "
+            }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "~exists": []
+          "reasoning": "Bei der Verarbeitung Ihrer Daten verfolgen wir in diesem Fall, sofern unten nichts anderes angegeben, die folgenden berechtigten Interessen: \ndie Verbesserung unseres Angebots \nden Schutz vor Missbrauch \nfür interne statistische Zwecke",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
-          "country": [],
+            "name": "1&1 Ionos SE",
+            "country": "DE",
+            "division": [],
+            "address": [],
+            "representative": [],
+            "category": "Drittanbieter Homepagebaukasten"
+        },
+        {
+          "name":"Lotto24",
+          "country": "DE",
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Glücksspiel"
+        },
+        {
+          "name":"United Internet AG",
+          "country": "DE",
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Konzernunternehmen"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Drittdienstleister"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "öffentliche Stellen und Regierungsbehörden"
+        },
+        {
+          "name":null,
+          "country": null,
+          "division": null,
+          "address": null,
+          "representative": null,
+          "category": "Strafverfolgungsbehörden"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Verkehrsdaten: werden nach Ablauf der gesetzlichen Aufbewahrungsfrist gelöscht"
+          ],
           "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [
+            {
+              "description":"3 Monate",
+              "ttl":"P3M"
+            }
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
+        "consequences": "Die Speicherung und sonstige Verarbeitung von Verkehrsdaten unterliegt strengen gesetzlichen Anforderungen. Bei zur Diensterbringung erforderlichen Verkehrsdaten ist kein Wiederspruch möglich.",
+        "legalRequirement": true,
         "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "7ad89d75-4312-41b3-9858-6e1e42c3941f",
-      "category": "Namen und Ihre E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "9ab884d0-c25e-4587-92f2-35974390f18d",
-      "category": "Namen und Ihre Anschrift",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "8e99ad47-e0c8-412c-8210-2f9652462040",
-      "category": "Name und Ihre E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "83c3c6dc-5825-4a96-98d2-6d212c1e816e",
-      "category": "IP-Adresse, Datum und Uhrzeit des Seitenaufrufs, sowie weitere Daten wie Tipphistorie und Gewinne",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "fa06c765-760f-4c2c-b055-5a21f5a1c9b7",
-      "category": "Klickverhalten in den WEB.DE Magazinen oder auch die Nutzung weiterer Services wie Cloudspeicher und weiterer Nutzungsdaten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "c3a5606e-a856-4009-9a4b-9ae84e7bbcd2",
-      "category": "Absender, Datum und Uhrzeit des Zugriffes bzw. der Zustellung oder die IP-Adresse des Ger\u00e4tes",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "46bd586a-2cd9-4982-9488-2aeb83af0c49",
-      "category": "Adress- und Negativdaten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "3cd880dd-8752-49f8-94f0-60ae6018fe62",
-      "category": "Name, Anschrift, Geburtsdatum, E-Mail-Adresse, gegebenenfalls Telefonnummer und Bankverbindung sowie Passwort des Nutzers erforderlich (Bestandsdaten)",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d8eddc69-3440-458c-b8e5-6e27b0ed18f9",
-      "category": " Name und Anschrift",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f00d783a-cd40-4d7f-992c-e5ddcc0ccc7b",
-      "category": " E-Mail-Adresse und um Sie pers\u00f6nlich anzusprechen Vor- und Nachnamen, sowie Ihr Geschlecht f\u00fcr die Anrede",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "53906ee1-7246-4cdc-a060-741b244f13ba",
-      "category": "Wohnsitz",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "~exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+        "obligationToProvide": true
+      },
+      "subcategories":
+      [
+        "Informationen, die bei der Nutzung des E-Mail-Dienstes anfallen", 
+        "Datum und Uhrzeit des Zugriffes bzw. der Zustellung",
+        "IP-Adresse des Gerätes, mit dem Sie auf Ihr Postfach zugegriffen haben."
+      ]
     }
   ],
   "thirdCountryTransfers": [
     {
-      "country": "billiger.de (Solute GmbH)\nAmazon\nGoogle\nYahoo Search (Verizon Media)\nBing (Microsoft)\nYoutube (Google)\nshopping24",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "DomainsBot S.r.l.\nVia Bruno Buozzi 105\n00197 Roma, Italy",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Plesk International GmbH\nVordergasse 59\n8200 Schaffhausen / CH",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Vertrags- bzw. Auftragsnummer bei der Deutsche Post AG, den aktuellen Status des Vertrages und das Datum, wann sich der Vertragsstatus \u00e4ndert",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Sitespect, De Corridor 27, 3621 ZA Breukelen ,The Netherlands",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": " Advanzia Bank",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Daher kann es sein, dass Ihre pseudonymen Nutzungsdaten in diesen F\u00e4llen auch au\u00dferhalb Deutschlands zur Auswahl von Werbemitteln verwendet werden",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland (\"Google\") ",
+      "country": "Bei der Vergabe von Werbeplätzen auf unserem Internetportal arbeiten wir mit Unternehmen aus der ganzen Welt zusammen. Viele Firmen haben auch Standorte im Ausland. ",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -1887,7 +568,7 @@
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
+    "available": true,
     "description": null,
     "url": null,
     "email": null,
@@ -1900,8 +581,8 @@
   },
   "sources": [
     {
-      "_id": "001a1b4f-b5e4-43bb-ab35-5465c387df78",
-      "dataCategory": "Alter, Geschlecht, Nationalit\u00e4t, Berufliche T\u00e4tigkeit, Familienstand, Allgemeine Angaben zum Haushalt, Haushalts-Einkommen, Wohnort, Internetnutzung, Online-Interessen, Nutzungsort, Nutzertyp",
+      "_id": null,
+      "dataCategory": null,
       "sources": [
         {
           "description": [],
@@ -1921,14 +602,14 @@
   "rightToRectificationOrDeletion": {
     "available": true,
     "description": "das Recht auf L\u00f6schung nach Artikel 17 DSGVO",
-    "url": null,
+    "url": "https://account.web.de/ciss/login;jsessionid=9517484926B956539E10F683D342F211",
     "email": null,
     "identificationEvidences": []
   },
   "rightToDataPortability": {
     "available": true,
     "description": "Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, g\u00e4ngigen und maschinenlesbaren Format zu erhalten und Sie haben das Recht, diese Daten einem anderen zu \u00fcbermitteln",
-    "url": null,
+    "url": "https://account.web.de/ciss/login;jsessionid=9517484926B956539E10F683D342F211",
     "email": null,
     "identificationEvidences": []
   },
@@ -1940,22 +621,22 @@
     "identificationEvidences": []
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Darüber hinaus besteht ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde (Artikel 77 DSGVO i. V. m § 19 BDSG).",
     "url": null,
     "email": null,
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
+      "name": "Die Bundesbeauftragte für den Datenschutz",
+      "address": "Die Bundesbeauftragte für den Datenschutz, und die Informationsfreiheit (BfDI), Graurheindorfer Straße 153, 53117 Bonn",
+      "country": "DE",
       "email": null,
       "phone": null
     }
   },
   "automatedDecisionMaking": {
-    "logicInvolved": "setzen wir standardisierte Analyseverfahren ein",
-    "inUse": true,
+    "logicInvolved": "Wir nutzen zur Begründung und Durchführung unserer Geschäftsbeziehung mit Ihnen keine vollautomatisierte Entscheidungsfindung gem. Art. 22 DSGVO, die Ihnen gegenüber rechtlicher Wirkung entfaltet oder Sie in ähnlicher Weise erheblich beeinträchtigt.",
+    "inUse": false,
     "scopeAndIntendedEffects": null
   },
   "changesOfPurpose": [
