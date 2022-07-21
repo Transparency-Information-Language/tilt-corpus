@@ -170,7 +170,7 @@
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
