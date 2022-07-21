@@ -132,7 +132,7 @@
       "legitimateInterests": [
         {
           "reasoning": [],
-          "~exists": []
+          "exists": []
         }
       ],
       "recipients": [
