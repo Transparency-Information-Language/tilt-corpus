@@ -98,7 +98,7 @@
       ],
       "legitimateInterests": [
         {
-          "~exists": false
+          "exists": false
         }
       ],
       "recipients": [
@@ -233,7 +233,7 @@
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
@@ -368,7 +368,7 @@
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
@@ -503,7 +503,7 @@
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
@@ -638,7 +638,7 @@
         ],
         "legitimateInterests": [
           {
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [
