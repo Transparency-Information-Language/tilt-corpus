@@ -11,9 +11,9 @@
     "_hash": "46eed911fc8a520c2c0b7b74346f464e511182ce730da6dd79cc88d4dd814f37"
   },
   "controller": {
-    "name": null,
-    "country": null,
-    "address": null,
+    "name": "Chefkoch GmbH",
+    "country": "DE",
+    "address": "Chefkoch GmbH, Rheinwerk 3, Joseph-Schumpeter-Allee 33, 53227 Bonn",
     "division": null,
     "representative": {
       "name": null,
@@ -24,40 +24,100 @@
   "dataProtectionOfficer": {
     "email": "datenschutz@chefkoch.de",
     "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
+    "country": "DE",
+    "name": "Timon Mertens",
+    "address": "Datenschutzbeauftragter,Timon Mertens, Carl-Bertelsmann-Str. 270, 33311 Gütersloh"
   },
   "dataDisclosed": [
     {
       "_id": "2a6e495b-2c75-420e-af91-7e66e01fa504",
-      "category": "E-Mail-Adresse,",
+      "category": "Klardaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Individualisierung",
+          "description": "um dir nicht ständig dieselben Beiträge und Banner vorzuschlagen bzw. anzuzeigen, und zudem möglichst nur solche, die dich vermutlich auch interessieren;"
+        },
+        {
+          "purpose":"Betrugsprävention",
+          "description":"zur Betrugsprävention, zur Verifikation einer angegebenen Lieferanschrift und zur Bonitätsprüfung, deren Ausgang wir gegebenenfalls davon abhängig machen, welche Bezahlmöglichkeiten wir dir anbieten"
+        },
+        {
+          "purpose":"Pflegen der Kundenbeziehung und zum Direktmarketing",
+          "description":"zum Pflegen der Kundenbeziehung und zum Direktmarketing in eigener Sache sowie für unsere Sponsoren, Kooperationspartner oder sonstige Dritte, sowohl durch uns selbst als auch teilweise eigenverantwortlich durch die jeweiligen Dritten;"
+        },
+        {
+          "purpose":"Bestellung durchführen und abrechnen",
+          "description":"um deine Bestellung durchzuführen und abzurechnen, um Dinge wie Newsletter und Gewinnspiele anzubieten oder Funktionen wie den Upload bzw. die Kommentierung von Inhalten benutzerfreundlich zu realisieren;"
+        },
+        {
+          "purpose":"Optimierung",
+          "description":"um herauszufinden, was unsere User statistisch gesehen besonders begeistert und was eher nicht und was sonst beim Benutzen unserer Services möglicherweise verbessert werden kann;"
+        },
+        {
+          "purpose":"Finanzierung",
+          "description":"um Banner für Anzeigenkunden auftragsgemäß zu schalten und mit den Werbeerlösen unsere Redaktion, Fotografen, Techniker etc. zu bezahlen sowie unser Angebot für dich weitestgehend kostenlos zu halten;"
+        },
+        {
+          "purpose":"Personalisierung",
+          "description":"um dich im Newsletter oder bei anderer Gelegenheit mit deinem Namen ansprechen zu können, dir zum Geburtstag zu gratulieren oder sonst speziell auf dich abgestimmte Themen, Inhalte und Banner in die Services einzubinden"
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-b",
+          "description": "konkret auf Basis eines Vertragsschlusses mit dir (z.B. bei Zustimmung unserer AGB) bzw. vorvertraglicher,"
+        },
+        {
+          "reference": "GDPR-6-1-c",
+          "description": "konkret zur Erfüllung gesetzlicher bzw. behördlicher Vorgaben"
+        },
+        {
+          "reference": "GDPR-6-1-f",
+          "description": "konkret nach Abwägung berechtigter Interessen im Einzelfall (z.B. bei der Nutzung unserer Plattform)"
+        },
+        {
+          "reference":"TMG-15-3",
+          "description":null
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "exists": []
+          "reasoning": " nach Abwägung berechtigter Interessen im Einzelfall (z.B. bei der Nutzung unserer Plattform)",
+          "exists": true
         }
       ],
       "recipients": [
         {
-          "name": [],
+          "name": "Facebook",
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Social-Media-Anbieter"
+        },
+        {
+          "name": "Google",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Social-Media-Anbieter"
+        },
+        {
+          "name": "Twitter",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Social-Media-Anbieter"
+        },
+        {
+          "name": "Pinterest",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Social-Media-Anbieter"
         }
       ],
       "storage": [
@@ -73,283 +133,18 @@
         "legalRequirement": null,
         "contractualRegulation": null,
         "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "35d4b68d-1b3e-4e0e-8616-e8b503f8d08b",
-      "category": "Username",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "de2f97d1-9dde-4dd7-be1b-18049b062948",
-      "category": "Passwort",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "cbe67160-d341-4142-ab9c-f95b06296275",
-      "category": "Name",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "af1483bf-7a57-4564-870c-96405e262779",
-      "category": "Postanschrift",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "4cd15178-1f98-4260-b3df-8443ff3a73be",
-      "category": "Telefonnummer",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "4f0a9c70-beea-4339-a120-da4018efa48a",
-      "category": " Bestell-, Liefer- und Zahlungsdaten",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+      },
+      "subcategories":[
+        "E-Mail-Adresse", 
+        "Username",
+        "Passwort",
+        "Name", 
+        "Postanschrift", 
+        "Telefonnummer", 
+        "Bestell-, Liefer- und Zahlungsdaten",
+        "Benutzerprofil",
+        "Beiträge (z. B. Postings, Kommentare oder Bilder)"
+      ]
     }
   ],
   "thirdCountryTransfers": [
@@ -375,9 +170,15 @@
   },
   "sources": [
     {
-      "_id": [],
-      "dataCategory": [],
-      "sources": []
+      "_id": "e7e26611-fbfa-44b7-a9dd-64e8a1b5e2e5",
+      "dataCategory": "Klardaten",
+      "sources": [
+        {
+          "description": "Das ist beispielsweise der Fall, wenn du für die Anmeldung in unserem Service einen Sign-In-Dienst nutzt, etwa die von Facebook oder Google. ",
+          "url": null,
+          "publiclyAvailable": false
+      }
+      ]
     }
   ],
   "rightToInformation": {
@@ -388,38 +189,38 @@
     "identificationEvidences": []
   },
   "rightToRectificationOrDeletion": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Berichtigung (Artikel 16 DSGVO)",
     "url": null,
-    "email": null,
+    "email": "support@chefkoch.de",
     "identificationEvidences": []
   },
   "rightToDataPortability": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Du hast ferner das Recht auf Daten-Übertragbarkeit (Artikel 20 DSGVO).",
     "url": null,
-    "email": null,
+    "email": "support@chefkoch.de",
     "identificationEvidences": []
   },
   "rightToWithdrawConsent": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": " Außerdem hast du natürlich das Recht, jederzeit eine erteilte Einwilligung zur Verarbeitung von personenbezogenen Daten zu widerrufen (Artikel 7 Abs. 3) sowie einer Verarbeitung zu widersprechen, die auf Basis der Abwägung berechtigter Interessen erfolgt (Artikel 21 Absatz 4 DSGVO). Du kannst der Nutzung deiner Daten z.B. für Newsletter (z.B. wöchentlicher Newsletter, Rezept des Tages Newsletter, Partner-Newsletter) oder Werbe- und Marktforschungszwecke widersprechen. Nutze hierfür bitte die Opt-Out Links, die in den jeweiligen Newslettern durch uns bereitgestellt werden, oder kontaktiere unseren Kundenservice. ",
     "url": null,
-    "email": null,
+    "email": "support@chefkoch.de",
     "identificationEvidences": []
   },
   "rightToComplain": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Du kannst dich gemäß Art. 77 DSGVO bei einer Aufsichtsbehörde beschweren, wenn du der Ansicht bist, dass die Verarbeitung deiner personenbezogenen Daten rechtswidrig erfolgt. Wende dich dazu bitte an die Datenschutzbehörde, die für deinen Wohnort bzw. dein Bundesland zuständig ist oder an die für uns zuständige DatenschutzbehördeDu kannst dich gemäß Art. 77 DSGVO bei einer Aufsichtsbehörde beschweren, wenn du der Ansicht bist, dass die Verarbeitung deiner personenbezogenen Daten rechtswidrig erfolgt. Wende dich dazu bitte an die Datenschutzbehörde, die für deinen Wohnort bzw. dein Bundesland zuständig ist oder an die für uns zuständige Datenschutzbehörde",
     "url": null,
-    "email": null,
+    "email": "support@chefkoch.de",
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
-      "phone": null
+      "name": "Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen",
+      "address": "Landesbeauftragte für Datenschutz und Informationsfreiheit, Nordrhein-Westfalen, Postfach 20 04 44, 40102 Düsseldorf",
+      "country": "DE",
+      "email": "poststelle@ldi.nrw.de",
+      "phone": "0211/38424-0"
     }
   },
   "automatedDecisionMaking": {
