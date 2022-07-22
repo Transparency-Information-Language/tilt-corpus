@@ -175,64 +175,7 @@
   ],
   "thirdCountryTransfers": [
     {
-      "country": "ZIP code when you ask for the weather",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "custom music stations",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "information about your Auxiliary Products",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "content of your requests",
+      "country":null,
       "adequacyDecision": {
         "available": null,
         "description": null
