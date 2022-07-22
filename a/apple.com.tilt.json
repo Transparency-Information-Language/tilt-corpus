@@ -16,8 +16,8 @@
     "address": "One Apple Park Way, Cupertino, California, USA, 95014",
     "division": "Data",
     "representative": {
-      "name": "apple.com/legal/privacy/contact or by calling 1-800-275-2273",
-      "email": null,
+      "name": null,
+      "email": "apple.com/legal/privacy/contact",
       "phone": "1-800-275-2273"
     }
   },
