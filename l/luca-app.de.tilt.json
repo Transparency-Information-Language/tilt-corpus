@@ -317,7 +317,7 @@
         "legitimateInterests": [
           {
             "reasoning": [],
-            "~exists": false
+            "exists": false
           }
         ],
         "recipients": [

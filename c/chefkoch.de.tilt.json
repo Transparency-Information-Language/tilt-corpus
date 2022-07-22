@@ -38,10 +38,6 @@
           "description": "um dir nicht ständig dieselben Beiträge und Banner vorzuschlagen bzw. anzuzeigen, und zudem möglichst nur solche, die dich vermutlich auch interessieren;"
         },
         {
-          "purpose":"Erfüllung gesetzlicher Vorgaben",
-          "description":"zur Erfüllung gesetzlicher Vorgaben, insbesondere handels- und steuerrechtlicher Aufbewahrungspflichten, und etwaigen Auskunftspflichten gegenüber Behörden sowie zur Strafverfolgung, zur Abwehr oder Durchsetzung von Ansprüchen einschließlich der Ausübung und Durchsetzung unseres ‘digitalen Hausrechts’."
-        },
-        {
           "purpose":"Betrugsprävention",
           "description":"zur Betrugsprävention, zur Verifikation einer angegebenen Lieferanschrift und zur Bonitätsprüfung, deren Ausgang wir gegebenenfalls davon abhängig machen, welche Bezahlmöglichkeiten wir dir anbieten"
         },
@@ -52,10 +48,6 @@
         {
           "purpose":"Bestellung durchführen und abrechnen",
           "description":"um deine Bestellung durchzuführen und abzurechnen, um Dinge wie Newsletter und Gewinnspiele anzubieten oder Funktionen wie den Upload bzw. die Kommentierung von Inhalten benutzerfreundlich zu realisieren;"
-        },
-        {
-          "purpose":"Sicherstellung des Betriebs",
-          "description":"um Angriffsmuster zu erkennen und abzuwehren sowie Fehler im System aufzudecken, um zu verhindern, dass du gegen deinen Willen E-Mails von uns erhältst;"
         },
         {
           "purpose":"Optimierung",
@@ -71,10 +63,6 @@
         }
       ],
       "legalBases": [
-        {
-          "reference": "GDPR-6-1-a",
-          "description": "konkret auf Basis deiner Einwilligung (z.B. beim Newsletter-Versand)"
-        },
         {
           "reference": "GDPR-6-1-b",
           "description": "konkret auf Basis eines Vertragsschlusses mit dir (z.B. bei Zustimmung unserer AGB) bzw. vorvertraglicher,"
