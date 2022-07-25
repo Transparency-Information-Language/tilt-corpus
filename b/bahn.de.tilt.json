@@ -11,22 +11,22 @@
     "_hash": "2e6f3895bdb9fc43a13fc2c5e02b0f8d8a87f47d73021025ce0601df0687f852"
   },
   "controller": {
-    "name": "DB Vertrieb GmbH",
-    "country": null,
-    "address": null,
+    "name": "DB Vertrieb GmbH, DB Fernverkehr AG, DB Regio AG",
+    "country": "DE",
+    "address":"Europa-Allee 78-84, 60486 Frankfurt",
     "division": null,
     "representative": {
       "name": null,
-      "email": null,
+      "email": "p.d-datenschutz@deutschebahn.com",
       "phone": null
     }
   },
   "dataProtectionOfficer": {
     "email": "ecommerce-datenschutz@bahn.de",
     "phone": null,
-    "country": null,
-    "name": null,
-    "address": null
+    "country": "DE",
+    "name": "Frau Dr. Marein Müller",
+    "address": "Europa-Allee 78-84, 60486 Frankfurt"
   },
   "dataDisclosed": [
     {
@@ -34,8 +34,12 @@
       "category": "Datum und die Dauer des Besuchs, die genutzten Webseiten, die Erkennungsdaten des verwendeten Browser- und Betriebssystemtyps sowie die Webseite",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Websites",
+          "description": "Nutzung von Websites für den Vertrieb von Produkten und Services, die Bereitstellung von Informationen und zur Marketing-Kommunikation"
+        },
+        {
+          "purpose":"technische Notwendigkeiten",
+          "description":"Aus technischen Gründen müssen beim Besuch von bahn.de/bahn.com bestimmte Daten erhoben und gespeichert werden wie z.B. das Datum und die Dauer des Besuchs, die genutzten Webseiten, die Erkennungsdaten des verwendeten Browser- und Betriebssystemtyps sowie die Webseite, von der aus Sie uns besuchen)."
         }
       ],
       "legalBases": [
@@ -77,17 +81,45 @@
     },
     {
       "_id": "9a9f416f-7970-42a7-b91f-648fabff1fba",
-      "category": "Kontaktdaten (Name, Anschrift und E-Mail-Adresse, die wir aus unserer Gesch\u00e4ftsbeziehung mit Ihnen erhalten haben)",
+      "category": "Kontaktdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Erfüllung eines Vertrages",
+          "description": "Zur Erfüllung eines Vertrages benötigen wir von Ihnen bestimmte personenbezogene Daten. Diese Daten werden dazu benötigt, Ticketbuchungen, Zahlungsabwicklungen, im Falle von Postversand die Zustellung an die genannte Adresse und um ggf. die Abwicklung von Stornierungen und Erstattungen durchzuführen."
+        },
+        {
+          "purpose":"Anlegen eines Kundenkontos",
+          "description":"Für das Anlegen eines Kundenkontos auf bahn.de/bahn.com ist eine Registrierung erforderlich (Hier geht's zur Anmeldung). Die Datenschutzhinweise zum Kundenkonto finden Sie unter bahn.de/datenschutz-kundenkonto."
+        },
+        {
+          "purpose":"Buchung eines Digitalen Tickets",
+          "description":"Bei der Buchung von Digitalen Tickets werden Adressdaten sowie Name, Vorname und E-Mail-Adresse erfasst. Bei Buchung von internationalen Fahrkarten über international-bahn.de und einigen regionalen Angeboten wird zusätzlich das Geburtsdatum erfasst. Im Zug werden bei der Kontrolle diejenigen Informationen im Kontrollgerät (mobilen Terminal) angezeigt, die sich auf dem Ticket befinden (Vorname und Name)."
+        },
+        {
+          "purpose":"Abo-Online-Bestellung",
+          "description":"Bei der Bestellung einer Zeitkarte im Abo werden Kontakt- und Zahlungsdaten erhoben. Je nach Angebot können auch Identifizierungsdaten, wie z.B. Geburtsdatum oder Lichtbild, erforderlich sein."
+        },
+        {
+          "purpose":"Anmeldung zum Newsletter",
+          "description":"Melden Sie sich zu einem Newsletter von uns an, wird als Pflichtangabe die E-Mail-Adresse erhoben. Bei der Anmeldung zum Newsletter speichern wir zudem die vom Internet-Service-Provider (ISP) vergebene IP-Adresse Ihres zum Zeitpunkt der Anmeldung verwendeten Endgerätes sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den (möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb unserer rechtlichen Absicherung. Um Ihnen ansprechende und für Sie relevante Inhalte anbieten zu können, erfassen wir Ihr Interesse an den Inhalten des bahn.de-Newsletters anhand des Anklickens und der Anzeige von Inhalten mittels individualisierter Links. Ihre E-Mail-Adresse kann in diesem Fall von uns für werbliche Zwecke genutzt werden."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference":"GDPR-6-1-a",
+          "description":"Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung von Ihnen einholen (z.B. wenn Sie den Newsletter bestellen) dient diese nach Artikel 6 Absatz 1 lit. a) DSGVO als Rechtsgrundlage."
+        },
+        {
+          "reference": "GDPR-6-1-b",
+          "description":"In diesem Fall ist der Vertrag nach Artikel 6 Absatz 1 lit. b) DSGVO die Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten. Artikel 6 Absatz 1 lit. b) DSGVO gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zu unseren Produkten oder Leistungen."
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description":"Unterliegt unser Unternehmen einer rechtlichen Verpflichtung, durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 Abs. 1 lit. c) DSGVO."
+        },
+        {
+          "reference":"GDPR-6-1-f",
+          "description":"Wir möchten Ihnen auf Basis vorheriger und aktueller Nutzung von bahn.de/bahn.com personalisierte Inhalte zeigen, um unser Angebot für Sie als Nutzer interessanter auszugestalten. Hierzu speichern und analysieren wir Nutzungsdaten aus dem Online-Bereich auf pseudonymer Basis. Bei einer weiteren Ticketbuchung können wir Ihnen dann besondere Vorteile wie Fahrvergünstigungen und kostenlose Sitzplatzreservierungen anbieten. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f) DSGVO. Wir sind zudem daran interessiert, die Kundenbeziehung mit Ihnen zu pflegen und Ihnen Informationen und Angebote zukommen zu lassen, von denen wir glauben, dass sie zu Ihren Reisewünschen und Interessen passen. Deshalb verarbeiten wir auf Grundlage von Artikel 6 Abs. 1 lit. f) DSGVO (auch mit Hilfe von Dienstleistern) Ihre Daten, um Ihnen Informationen und Angebote zuzusenden. Wir verwenden Ihre Kontaktdaten (Name, Anschrift und E-Mail-Adresse, die wir aus unserer Geschäftsbeziehung mit Ihnen erhalten haben) für Werbung per Post und für ähnliche Waren oder Dienstleistungen per E-Mail, insbesondere Marktforschung, sofern Sie einer solchen Verwendung nicht widersprechen."
         }
       ],
       "legitimateInterests": [
@@ -103,53 +135,63 @@
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d88a6923-61fd-42ee-8c50-c44c68a748f4",
-      "category": "Adressdaten sowie Name und Vorname und E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
+          "category": "Rechenzentrumsbetreiber"
+        },
         {
           "name": [],
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Druck- oder Versanddienstleistern"
+        },
+        {
+          "name": "Europäische Reiseversicherung AG",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Reiseversicherungen"
+        },
+        {
+          "name": "HRS",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Hotelreservierungspartner"
+        },
+        {
+          "name": "Sixt",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
+        {
+          "name": "Europcar",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
+        {
+          "name": "DB Rent",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Inkassounternehmen"
         }
       ],
       "storage": [
@@ -165,15 +207,24 @@
         "legalRequirement": null,
         "contractualRegulation": null,
         "obligationToProvide": null
-      }
+      },
+      "subcategories":[
+        "Name", 
+        "Anschrift",
+        "E-Mail-Adresse"
+      ]
     },
     {
       "_id": "52b7d926-5801-4f56-83c2-2caeb2d4339c",
       "category": "Geburtsdatum",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Buchung einer BahnCard",
+          "description": "Beim Erwerb einer BahnCard werden Kontakt- und Identifizierungsdaten (bspw. Geburtsdatum) erfasst. "
+        },
+        {
+          "purpose":"Abo-Online-Bestellung",
+          "description":"Bei der Bestellung einer Zeitkarte im Abo werden Kontakt- und Zahlungsdaten erhoben. Je nach Angebot können auch Identifizierungsdaten, wie z.B. Geburtsdatum oder Lichtbild, erforderlich sein."
         }
       ],
       "legalBases": [
@@ -195,199 +246,75 @@
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "07d54ca4-57bb-4862-8c34-7ca8d28d81bc",
-      "category": "Vorname und Name",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
+          "category": "Rechenzentrumsbetreiber"
+        },
         {
           "name": [],
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
+          "category": "Druck- oder Versanddienstleistern"
+        },
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "7fb2b58b-3ecd-488b-ac44-945d05df47e5",
-      "category": "Betrag, Buchungsreferenz, Buchungsbeschreibung, Zahlungspflichtiger",
-      "purposes": [
+          "name": "Europäische Reiseversicherung AG",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Reiseversicherungen"
+        },
         {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
+          "name": "HRS",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Hotelreservierungspartner"
+        },
         {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
+          "name": "Sixt",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
         {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
+          "name": "Europcar",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
+        {
+          "name": "DB Rent",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
         {
           "name": [],
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Inkassounternehmen"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Wir speichern Ihre Daten nur so lange, wie sie für die Erfüllung des Zwecks, zu dem sie erhoben wurden (bspw. im Rahmen eines Vertragsverhältnisses) erforderlich sind ",
+            "So speichern wir im Rahmen eines Vertragsverhältnisses Ihre Daten mindestens bis zur vollständigen Beendigung des Vertrages.",
+            "Anschließend werden die Daten für die Dauer der gesetzlichen Aufbewahrungsfristen aufbewahrt."
+          ],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "8e5a5495-60ac-4b61-9afe-cbd92be57907",
-      "category": "Kontakt- und Identifizierungsdaten (bspw. Geburtsdatum) ",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "f30bedc1-71a4-4503-b572-fa4edfb2f7e2",
-      "category": "E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -399,23 +326,31 @@
     },
     {
       "_id": "8dd0e879-3751-45c0-b8ca-07e009073491",
-      "category": "Kontakt- und Zahlungsdaten",
+      "category": "Zahlungsdaten",
       "purposes": [
         {
-          "purpose": [],
-          "description": []
+          "purpose": "Sichere Abwicklung der von Ihnen veranlassten Zahlungen",
+          "description": "Für die sichere Abwicklung der von Ihnen veranlassten Zahlungen werden die erforderlichen Zahlungsdaten (Betrag, Buchungsreferenz, Buchungsbeschreibung, Zahlungspflichtiger) an Zahlungsdienstleistern übermittelt. "
+        },
+        {
+          "purpose":"Betrugsprävention",
+          "description":"Für Zwecke der Betrugsprävention wird mithilfe eines Auftragsverarbeiters ein Fingerprint Ihres Gerätes oder Browsers zusammen mit den Zahlungsdaten verarbeitet. Dies dient Ihrem und unserem Schutz, um der missbräuchlichen Verwendung Ihres Zahlungsmittels zur Zahlung bei bahn.de/bahn.com vorbeugen zu können."
+        },
+        {
+          "purpose":"Abo-Online-Bestellung",
+          "description":"Bei der Bestellung einer Zeitkarte im Abo werden Kontakt- und Zahlungsdaten erhoben. Je nach Angebot können auch Identifizierungsdaten, wie z.B. Geburtsdatum oder Lichtbild, erforderlich sein."
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-f",
+          "description": "Für Zwecke der Betrugsprävention wird mithilfe eines Auftragsverarbeiters ein Fingerprint Ihres Gerätes oder Browsers zusammen mit den Zahlungsdaten verarbeitet. Dies dient Ihrem und unserem Schutz, um der missbräuchlichen Verwendung Ihres Zahlungsmittels zur Zahlung bei bahn.de/bahn.com vorbeugen zu können. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f) DSGVO"
         }
       ],
       "legitimateInterests": [
         {
-          "reasoning": [],
-          "exists": []
+          "reasoning": "Für Zwecke der Betrugsprävention wird mithilfe eines Auftragsverarbeiters ein Fingerprint Ihres Gerätes oder Browsers zusammen mit den Zahlungsdaten verarbeitet. Dies dient Ihrem und unserem Schutz, um der missbräuchlichen Verwendung Ihres Zahlungsmittels zur Zahlung bei bahn.de/bahn.com vorbeugen zu können.",
+          "exists": "true"
         }
       ],
       "recipients": [
@@ -425,107 +360,99 @@
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "79dbc62c-439a-41e4-ae35-3a0ece03ab91",
-      "category": "Identifizierungsdaten, wie z.B. Geburtsdatum oder Lichtbild",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
+          "category": "Rechenzentrumsbetreiber"
+        },
         {
           "name": [],
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
+          "category": "Druck- oder Versanddienstleistern"
+        },
         {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "52885103-5219-46ea-a4c1-2b922d2a3cc4",
-      "category": "IP-Adresse Ihres zum Zeitpunkt der Anmeldung verwendeten Endger\u00e4tes sowie das Datum und die Uhrzeit der Anmeldung",
-      "purposes": [
+          "name": "Europäische Reiseversicherung AG",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Reiseversicherungen"
+        },
         {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
+          "name": "HRS",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "Hotelreservierungspartner"
+        },
         {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
+          "name": "Sixt",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
         {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
+          "name": "Europcar",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
+        {
+          "name": "DB Rent",
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": "DB Mietwagenangebot"
+        },
         {
           "name": [],
           "country": [],
           "division": [],
           "address": [],
           "representative": [],
-          "category": []
+          "category": "Inkassounternehmen"
+        },
+        {
+          "name": "PAYONE GmbH",
+          "country": "DE",
+          "division": [],
+          "address": "PAYONE GmbH, Lyoner Straße 9, 60528 Frankfurt am Main",
+          "representative": [],
+          "category": "Zahlungsdienstleister"
+        },
+        {
+          "name": " PayPal (Europe) S.à r.l. et Cie, S.C.A.",
+          "country": "LU",
+          "division": [],
+          "address": " PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg",
+          "representative": [],
+          "category": "Zahlungsdienstleister"
+        },    
+        {
+          "name": "paydirekt GmbH",
+          "country": "DE",
+          "division": [],
+          "address": "paydirekt GmbH, Hamburger Allee 26-28, 60486 Frankfurt am Main",
+          "representative": [],
+          "category": "Zahlungsdienstleister"
         }
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Wir speichern Ihre Daten nur so lange, wie sie für die Erfüllung des Zwecks, zu dem sie erhoben wurden (bspw. im Rahmen eines Vertragsverhältnisses) erforderlich sind ",
+            "So speichern wir im Rahmen eines Vertragsverhältnisses Ihre Daten mindestens bis zur vollständigen Beendigung des Vertrages.",
+            "Anschließend werden die Daten für die Dauer der gesetzlichen Aufbewahrungsfristen aufbewahrt."
+          ],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -568,56 +495,14 @@
       ],
       "storage": [
         {
-          "purposeConditional": [],
+          "purposeConditional": [
+            "Wir speichern Ihre Daten nur so lange, wie sie für die Erfüllung des Zwecks, zu dem sie erhoben wurden (bspw. im Rahmen eines Vertragsverhältnisses) erforderlich sind ",
+            "So speichern wir im Rahmen eines Vertragsverhältnisses Ihre Daten mindestens bis zur vollständigen Beendigung des Vertrages.",
+            "Anschließend werden die Daten für die Dauer der gesetzlichen Aufbewahrungsfristen aufbewahrt."
+          ],
           "legalBasisConditional": [],
           "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "d48385fb-27c1-45c3-8bd5-4cf34037f7d8",
-      "category": "Browserversion, anonymisierte IP-Adressen, geographische Lage sowie Anzahl der Klicks oder Views",
-      "purposes": [
-        {
-          "purpose": [],
-          "description": []
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -630,7 +515,45 @@
   ],
   "thirdCountryTransfers": [
     {
-      "country": "PayPal (Europe) S.\u00e0 r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg ",
+      "country": "LU",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": true,
+        "description": "GDPR"
+      }
+    },
+    {
+      "country": "SW",
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": "true",
+        "description": null
+      }
+    },
+    {
+      "country": "US",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -649,7 +572,7 @@
       }
     },
     {
-      "country": "Klarna Bank AB (publ), Sveav\u00e4gen 46, 111 34 Stockholm",
+      "country": "IR",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -663,12 +586,12 @@
         "description": null
       },
       "standardDataProtectionClause": {
-        "available": null,
+        "available": "true",
         "description": null
       }
     },
     {
-      "country": "Tealium Inc., 11095 Torreyana Road, San Diego, CA 92121",
+      "country": "DK",
       "adequacyDecision": {
         "available": null,
         "description": null
@@ -682,109 +605,14 @@
         "description": null
       },
       "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Dublin 24, Republic of Ireland",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Optimizely (631 Howard Street, Suite 100, San Francisco, CA 94105, United States)",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "Qualtrics LLC (333 W. River Park Drive, Provo UT 84604, USA)",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": " Intuition Machines Inc. (350 Alabama St, San Francisco, CA 94110, USA)",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
-        "description": null
-      }
-    },
-    {
-      "country": "AdForm A/S\n(Wildersgade 10B, 1, 1408 Copenhagen K, Denmark) ",
-      "adequacyDecision": {
-        "available": null,
-        "description": null
-      },
-      "appropriateGuarantees": {
-        "available": null,
-        "description": null
-      },
-      "presenceOfEnforceableRightsAndEffectiveRemedies": {
-        "available": null,
-        "description": null
-      },
-      "standardDataProtectionClause": {
-        "available": null,
+        "available": "true",
         "description": null
       }
     }
   ],
   "accessAndDataPortability": {
-    "available": null,
-    "description": null,
+    "available": true,
+    "description": "Sie können Auskunft darüber verlangen, welche Daten über Sie gespeichert sind.",
     "url": null,
     "email": null,
     "identificationEvidences": [],
@@ -802,8 +630,8 @@
     }
   ],
   "rightToInformation": {
-    "available": true,
-    "description": "Sie k\u00f6nnen Auskunft dar\u00fcber verlangen, welche Daten \u00fcber Sie gespeichert sind.",
+    "available": null,
+    "description": null,
     "url": null,
     "email": null,
     "identificationEvidences": []
@@ -812,34 +640,34 @@
     "available": true,
     "description": "Sie k\u00f6nnen Berichtigung, L\u00f6schung und Einschr\u00e4nkung der Bearbeitung (Sperrung) ihrer personenbezogenen Daten verlangen",
     "url": null,
-    "email": null,
+    "email": "p.d-datenschutz@deutschebahn.com",
     "identificationEvidences": []
   },
   "rightToDataPortability": {
     "available": true,
     "description": "Recht auf \u00dcbertragbarkeit derjenigen Daten, die Sie uns auf der Basis einer Einwilligung oder eines Vertrages bereitgestellt haben",
     "url": null,
-    "email": null,
+    "email": "p.d-datenschutz@deutschebahn.com",
     "identificationEvidences": []
   },
   "rightToWithdrawConsent": {
     "available": true,
     "description": "Wenn Sie uns eine Einwilligung zur Datenverarbeitung erteilt haben, k\u00f6nnen Sie diese jederzeit auf demselben Wege widerrufen, auf dem Sie sie erteilt haben.",
     "url": null,
-    "email": null,
+    "email": "p.d-datenschutz@deutschebahn.com",
     "identificationEvidences": []
   },
   "rightToComplain": {
     "available": true,
     "description": "Recht, Beschwerde bei einer Aufsichtsbeh\u00f6rde einzulegen",
     "url": null,
-    "email": null,
+    "email": "p.d-datenschutz@deutschebahn.com",
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
-      "email": null,
+      "name": "Der Hessische Datenschutzbeauftragte",
+      "address": "Der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65189 Wiesbaden",
+      "country": "DE",
+      "email": "poststelle@datenschutz.hessen.de",
       "phone": null
     }
   },
