@@ -31,115 +31,47 @@
   "dataDisclosed": [
     {
       "_id": "60a89516-46ea-48bf-8df9-3d7d6ea3c943",
-      "category": "Bei Bestellung von Informationsmaterial werden die gemachten Angaben an den mit der Abwicklung der Bestellung beauftragten Vertragspartner des Deutschen Bundestages weitergegeben und dort f\u00fcr die Abwicklung der Bestellung genutzt.",
+      "category": "Kommunikationsdaten",
       "purposes": [
         {
           "purpose": " Abwicklung der Bestellung",
-          "description": null
+          "description": "Bei Bestellung von Informationsmaterial werden die gemachten Angaben an den mit der Abwicklung der Bestellung beauftragten Vertragspartner des Deutschen Bundestages weitergegeben und dort f\u00fcr die Abwicklung der Bestellung genutzt."
+        },
+        {
+          "purpose":"Newsletter",
+          "description":"Newsletter-Bestellung\nWenn Sie sich in einen der Newsletter-Verteiler eintragen, werden die gemachten Angaben an den f\u00fcr die Versendung der Newsletter beauftragten Vertragspartner des Deutschen Bundestages weitergegeben und dort f\u00fcr die Betreuung des Newsletterabonnements und den Versand des Newsletters genutzt. Den Namen und die Anschrift des jeweiligen Vertragspartners k\u00f6nnen Sie unter vorzimmer.ik6@bundestag.de erfragen."
+        },
+        {
+          "purpose":"Terminkalender: Erinnerungen",
+          "description":"Über unseren Terminkalender haben Sie die Möglichkeit, sich per E-Mail zu einem bestimmten Zeitpunkt an einen Termin erinnern zu lassen. Hierzu müssen Sie bei der entsprechenden Funktion Ihre E-Mail-Adresse eingeben. Diese wird von uns lediglich dazu gespeichert, um Ihnen die gewünschte E-Mail zuschicken zu können."
+        },
+        {
+          "purpose":"Kontaktaufnahme",
+          "description":"Bei einer Kontaktaufnahme zum Deutschen Bundestag über das Kontaktformular können Sie Ihre persönlichen Daten wie zum Beispiel Name, E-Mail-Adresse oder Telefonnummer angeben, sofern Sie eine Antwort wünschen. Diese Angaben werden zusammen mit Ihrer Nachricht an den ausgewählten Adressaten weitergeleitet. "
         }
       ],
       "legalBases": [
         {
-          "reference": [],
-          "description": []
+          "reference": "GDPR-6-1-a",
+          "description": "Die von Ihnen jeweils mitgeteilten Daten einschließlich Ihrer Kommunikationsdaten (Name, Adresse, Telefonnummer, E-Mail-Adresse) verarbeiten wir aufgrund Ihres Einverständnisses (Art. 6 Abs 1a DSGVO), um mit Ihnen in Kontakt treten zu können,"
+        },
+        {
+          "reference":"GDPR-6-1-e",
+          "description":"zur Wahrnehmung der in der Zuständigkeit der Verwaltung des Deutschen Bundestages liegenden Aufgaben "
+        },
+        {
+          "reference":"BDSG-3",
+          "description":"zur Wahrnehmung der in der Zuständigkeit der Verwaltung des Deutschen Bundestages liegenden Aufgaben "
+        },
+        {
+          "reference":"GDPR-6-1-c",
+          "description":"Erfüllung rechtlicher Verpflichtungen (Art. 6 Abs. 1c DSGVO)"
         }
       ],
       "legitimateInterests": [
         {
           "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "2b3fe7e4-bb9a-490b-8465-4b715a964f32",
-      "category": "Newsletter-Bestellung\nWenn Sie sich in einen der Newsletter-Verteiler eintragen, werden die gemachten Angaben an den f\u00fcr die Versendung der Newsletter beauftragten Vertragspartner des Deutschen Bundestages weitergegeben und dort f\u00fcr die Betreuung des Newsletterabonnements und den Versand des Newsletters genutzt. Den Namen und die Anschrift des jeweiligen Vertragspartners k\u00f6nnen Sie unter vorzimmer.ik6@bundestag.de erfragen.",
-      "purposes": [
-        {
-          "purpose": "f\u00fcr die Versendung der Newsletter",
-          "description": null
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "7ff964c4-f0f2-4a0d-b9a3-b16281fe2238",
-      "category": "Terminkalender: Erinnerungen\n\u00dcber unseren Terminkalender haben Sie die M\u00f6glichkeit, sich per E-Mail zu einem bestimmten Zeitpunkt an einen Termin erinnern zu lassen. Hierzu m\u00fcssen Sie bei der entsprechenden Funktion Ihre E-Mail-Adresse eingeben.",
-      "purposes": [
-        {
-          "purpose": "sich per E-Mail zu einem bestimmten Zeitpunkt an einen Termin erinnern zu lassen",
-          "description": null
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": [],
-          "description": []
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
+          "exists": false
         }
       ],
       "recipients": [
@@ -155,14 +87,20 @@
       "storage": [
         {
           "purposeConditional": [
-            "Diese wird von uns lediglich dazu gespeichert, um Ihnen die gew\u00fcnschte E-Mail zuschicken zu k\u00f6nnen"
+            "Grundsätzlich löschen wir Ihre Daten, sobald sie für die oben genannten Zwecke nicht mehr erforderlich sind, es sei denn, die vorübergehende Aufbewahrung ist weiterhin notwendig. "
           ],
           "legalBasisConditional": [],
-          "temporal": {
-            "description": null,
-            "ttl": null
-          },
-          "aggregationFunction": null
+          "temporal": [
+            {
+              "ttl":"P14D",
+              "description":"Aus Sicherheitsgründen wird die IP-Adresse 14 Tage gespeichert und dann gelöscht."
+            },
+            {
+              "ttl":"P5Y",
+              "description":"Soweit nicht anders vermerkt, werden Ihre Daten spätestens fünf Jahre nach Ablauf des Jahres gelöscht, in dem der letzte Kontakt zwischen Ihnen und der Verwaltung des Deutschen Bundestages bestand."
+            }
+          ],
+          "aggregationFunction": "min"
         }
       ],
       "nonDisclosure": {
@@ -170,21 +108,27 @@
         "legalRequirement": null,
         "contractualRegulation": null,
         "obligationToProvide": null
-      }
+      },
+      "subcategories":[
+        "Name",
+        "Adresse",
+        "Telefonnummer",
+        "E-Mail-Adresse"
+      ]
     },
     {
-      "_id": "f6942eb3-f7b6-4581-9109-41d6b79f3329",
-      "category": " IP-Adressen werden in Matomo in anonymisierter Form erfasst.",
+      "_id": "2b3fe7e4-bb9a-490b-8465-4b715a964f32",
+      "category": "Logfiles",
       "purposes": [
         {
-          "purpose": "Nutzung der Website des Deutschen Bundestages zu analysieren",
+          "purpose": "",
           "description": null
         }
       ],
       "legalBases": [
         {
-          "reference": "aufgrund Ihres Einverst\u00e4ndnisses (Art. 6 Abs 1a DSGVO),",
-          "description": null
+          "reference": [],
+          "description": []
         }
       ],
       "legitimateInterests": [
@@ -207,8 +151,13 @@
         {
           "purposeConditional": [],
           "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
+          "temporal": [
+            {
+              "ttl":"P60D",
+              "description":"Bei jedem Zugriff auf das Internetangebot des Deutschen Bundestages werden folgende Daten in den Logfiles für 60 Tage gespeichert"
+            }
+          ],
+          "aggregationFunction": "max"
         }
       ],
       "nonDisclosure": {
@@ -216,61 +165,13 @@
         "legalRequirement": null,
         "contractualRegulation": null,
         "obligationToProvide": null
-      }
-    },
-    {
-      "_id": "6d6489f0-1d06-4af0-bc17-bdc05c017716",
-      "category": "Name, Adresse, Telefonnummer, E-Mail-Adresse",
-      "purposes": [
-        {
-          "purpose": "um mit Ihnen in Kontakt treten zu k\u00f6nnen",
-          "description": "um mit Ihnen in Kontakt treten zu k\u00f6nnen"
-        },
-        {
-          "purpose": "zur Wahrnehmung der in der Zust\u00e4ndigkeit der Verwaltung des Deutschen Bundestages liegenden Aufgaben",
-          "description": "zur Wahrnehmung der in der Zust\u00e4ndigkeit der Verwaltung des Deutschen Bundestages liegenden Aufgaben"
-        },
-        {
-          "purpose": "sowie zur Erf\u00fcllung rechtlicher Verpflichtungen",
-          "description": "sowie zur Erf\u00fcllung rechtlicher Verpflichtungen"
-        }
-      ],
-      "legalBases": [
-        {
-          "reference": "(Art. 6 Abs 1a DSGVO)",
-          "description": "verarbeiten wir aufgrund Ihres Einverst\u00e4ndnisses"
-        }
-      ],
-      "legitimateInterests": [
-        {
-          "reasoning": [],
-          "exists": []
-        }
-      ],
-      "recipients": [
-        {
-          "name": [],
-          "country": [],
-          "division": [],
-          "address": [],
-          "representative": [],
-          "category": []
-        }
-      ],
-      "storage": [
-        {
-          "purposeConditional": [],
-          "legalBasisConditional": [],
-          "temporal": [],
-          "aggregationFunction": []
-        }
-      ],
-      "nonDisclosure": {
-        "consequences": null,
-        "legalRequirement": null,
-        "contractualRegulation": null,
-        "obligationToProvide": null
-      }
+      },
+      "subcategories":[
+        "Datum und Uhrzeit des Abrufs", 
+        "IP-Adresse und Zieladresse (Protokollversion, HTTP-Methode, Referer, UserAgent String)", 
+        "Name der abgerufenen Datei und übertragene Datenmenge", 
+        "Meldung, ob der Abruf erfolgreich war (HTTP Status Code)"
+      ]
     }
   ],
   "thirdCountryTransfers": [
@@ -324,7 +225,7 @@
   },
   "rightToWithdrawConsent": {
     "available": true,
-    "description": "Recht auf Einschr\u00e4nkung der Verarbeitung",
+    "description": "Die uns von Ihnen erteilte Einwilligung zur Verarbeitung personenbezogener Daten für bestimmte Zwecke können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Bitte beachten Sie, dass in diesem Falle eine weitere Bearbeitung eines Anliegens unter Umständen nicht mehr möglich ist.",
     "url": null,
     "email": "mail@bundestag.de",
     "identificationEvidences": []
@@ -336,9 +237,9 @@
     "email": "mail@bundestag.de",
     "identificationEvidences": [],
     "supervisoryAuthority": {
-      "name": null,
-      "address": null,
-      "country": null,
+      "name": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+      "address": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit,Graurheindorfer Straße 153, D - 53117 Bonn",
+      "country": "DE",
       "email": null,
       "phone": null
     }
