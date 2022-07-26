@@ -2112,7 +2112,10 @@
   ],
   "accessAndDataPortability": {
     "available": true,
-    "description": "Du kannst auf deine Informationen zugreifen bzw. sie \u00fcbertragen"
+    "description": "Du kannst auf deine Informationen zugreifen bzw. sie \u00fcbertragen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
   },
   "sources": [
     {
