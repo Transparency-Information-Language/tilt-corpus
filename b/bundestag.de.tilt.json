@@ -12,19 +12,19 @@
   },
   "controller": {
     "name": "Deutscher Bundestag",
-    "country": "D - 11011 Berlin",
-    "address": "Platz der Republik 1\nD - 11011 Berlin",
+    "country": "DE",
+    "address": "\nDeutscher Bundestag\nPlatz der Republik 1\nD - 11011 Berlin",
     "division": null,
     "representative": {
       "name": null,
-      "email": null,
-      "phone": null
+      "email": "mail@bundestag.de",
+      "phone": "+49 30 227-0"
     }
   },
   "dataProtectionOfficer": {
-    "email": "mail@bundestag.de",
-    "phone": "Telefon: +49 30 227-0",
-    "country": "D - 11011 Berlin",
+    "email": "datenschutz.bdb@bundestag.de",
+    "phone": "+49 30 227-0",
+    "country": "DE",
     "name": "Verantwortlicher f\u00fcr die Datenverarbeitung",
     "address": "Deutscher Bundestag\nPlatz der Republik 1"
   },
@@ -34,7 +34,7 @@
       "category": "Kommunikationsdaten",
       "purposes": [
         {
-          "purpose": " Abwicklung der Bestellung",
+          "purpose": "Abwicklung der Bestellung",
           "description": "Bei Bestellung von Informationsmaterial werden die gemachten Angaben an den mit der Abwicklung der Bestellung beauftragten Vertragspartner des Deutschen Bundestages weitergegeben und dort f\u00fcr die Abwicklung der Bestellung genutzt."
         },
         {
