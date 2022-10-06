@@ -19,7 +19,8 @@
       "name": null,
       "email": "apple.com/legal/privacy/contact",
       "phone": "1-800-275-2273"
-    }
+    },
+    "sector": "C"
   },
   "dataProtectionOfficer": {
     "email": " apple.com/legal/privacy/contact",
