@@ -19,7 +19,8 @@
       "name": null,
       "email": null,
       "phone": null
-    }
+    },
+    "sector": "S"
   },
   "dataProtectionOfficer": {
     "email": "mailbox@datenschutz-berlin.de",
