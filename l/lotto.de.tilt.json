@@ -19,7 +19,8 @@
       "name": null,
       "email": "info@lotto-niedersachsen.de",
       "phone": "051184020"
-    }
+    },
+    "sector": "R"
   },
   "dataProtectionOfficer": {
     "email": "datenschutz(at)lotto-niedersachsen.de",
