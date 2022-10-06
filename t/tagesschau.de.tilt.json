@@ -18,7 +18,9 @@
     "representative": {
       "name": "Der Intendant",
       "email": "https://www.tagesschau.de/mehr/kontakt/kontakt-uebersicht-101.html"
-    }
+    },
+    "sector": "J"
+    
   },
   "dataProtectionOfficer": {
     "email": "datenschutz@ndr.de",
