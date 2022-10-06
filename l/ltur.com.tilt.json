@@ -19,7 +19,8 @@
       "name": null,
       "email": null,
       "phone": null
-    }
+    },
+    "sector": "R"
   },
   "dataProtectionOfficer": {
     "email": null,
