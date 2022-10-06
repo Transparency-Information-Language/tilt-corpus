@@ -19,7 +19,8 @@
       "name": null,
       "email": null,
       "phone": null
-    }
+    },
+    "sector": "K"
   },
   "dataProtectionOfficer": {
     "email": null,
