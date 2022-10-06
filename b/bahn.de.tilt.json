@@ -19,7 +19,8 @@
       "name": null,
       "email": "p.d-datenschutz@deutschebahn.com",
       "phone": null
-    }
+    },
+    "sector": "H"
   },
   "dataProtectionOfficer": {
     "email": "ecommerce-datenschutz@bahn.de",
