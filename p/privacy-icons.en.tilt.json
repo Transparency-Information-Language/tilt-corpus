@@ -19,7 +19,8 @@
         "name": "",
         "email": "",
         "phone": ""
-      }
+      },
+      "sector": "M"
     },
     "dataProtectionOfficer": {
       "name": "",
