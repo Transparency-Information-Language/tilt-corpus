@@ -19,7 +19,8 @@
       "name": null,
       "email": "mail@bundestag.de",
       "phone": "+49 30 227-0"
-    }
+    },
+    "sector": "O"
   },
   "dataProtectionOfficer": {
     "email": "datenschutz.bdb@bundestag.de",
