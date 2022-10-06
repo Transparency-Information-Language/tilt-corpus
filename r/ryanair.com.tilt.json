@@ -19,7 +19,8 @@
       "name": " Ryanair D.A.C",
       "email": "DPO@ryanair.com",
       "phone": null
-    }
+    },
+    "sector": "H"
   },
   "dataProtectionOfficer": {
     "email": null,
