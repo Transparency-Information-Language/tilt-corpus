@@ -19,7 +19,8 @@
         "name": "Prof. Dr. Geraldine Rauch",
         "email": null,
         "phone": null
-      }
+      },
+       "sector":"M"
     },
     "dataProtectionOfficer": {
       "email": "info@datenschutz.tu-berlin.de",
