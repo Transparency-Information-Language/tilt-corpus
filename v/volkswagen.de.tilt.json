@@ -18,7 +18,8 @@
       "name": null,
       "email": "kundenbetreuung@volkswagen.de",
       "phone": null
-    }
+    },
+    "sector":"C"
   },
   "dataProtectionOfficer": {
     "email": "datenschutz@volkswagen.de",
