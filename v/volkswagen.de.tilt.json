@@ -661,7 +661,7 @@
   "thirdCountryTransfers": [
     {
       "country": "US",
-      "companies": ["Salesforce.com, Inc", "Amazon Web Services EMEA SARL", "Google Inc.", "Commercetools Pte. Ltd."],
+      "_comment": ["Salesforce.com, Inc", "Amazon Web Services EMEA SARL", "Google Inc.", "Commercetools Pte. Ltd."],
       "adequacyDecision": {
         "available": false
       },
