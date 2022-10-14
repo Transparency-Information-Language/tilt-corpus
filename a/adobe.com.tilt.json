@@ -79,7 +79,7 @@
       ],
       "legitimateInterests": {
         "exists":true,
-        "resasoning":"Diese Datenschutzerklärung erläutert, wann Adobe personenbezogene Informationen für berechtigte Interessen von Adobe verarbeitet. "
+        "reasoning":"Diese Datenschutzerklärung erläutert, wann Adobe personenbezogene Informationen für berechtigte Interessen von Adobe verarbeitet. "
       },
       "recipients": [
         {"category":"innerhalb der Adobe-Unternehmensgruppe"},
