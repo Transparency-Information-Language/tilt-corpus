@@ -2109,7 +2109,7 @@
     {
       "_id": "17f8918a-d683-4fdb-936e-56b4a100ae9a",
       "dataCategory": "Von anderen über dich bereitgestellte Informationen",
-      "subcategories": [
+      "_comment": [
         "Telefonnummer", "Nachrichten"
       ],
       "sources": [
