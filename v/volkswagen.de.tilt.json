@@ -455,7 +455,7 @@
     {
       "_id": "a9e5ba9a-8b79-4756-88e7-b71d64f5b0fb",
       "category": "Volkswagen ID",
-      "additional": "https://vwid.vwgroup.io/data-privacy",
+      "_comment": "https://vwid.vwgroup.io/data-privacy",
       "purposes": [
         {
           "purpose":"persönliche Gestaltung der digitalen Services",
