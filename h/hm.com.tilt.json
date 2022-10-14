@@ -129,7 +129,11 @@
         "storage": [
             {
               "description": "Die Aufnahmen unserer Überwachungskameras werden maximal 30 Tage aufbewahrt, es sei denn, wir sind gesetzlich oder behördlich verpflichtet, die Daten für einen längeren Zeitraum aufzubewahren und/oder zu verarbeiten.",  
-              "temporal": "P30D",
+              "temporal":[
+                            {
+                              "ttl": "P30D"
+                            }
+                  ],
               "aggregationFunction": "MAX"
             },
             {
@@ -138,12 +142,20 @@
             },
             {
                 "description": "Wir bewahren Ihre personenbezogenen Daten für einen Zeitraum von 45 Tagen nach Gewinnspielende auf.", 
-                "temporal": "P45D", 
+                "temporal":[
+                            {
+                              "ttl": "P45D"
+                            }
+                  ], 
                 "aggregationFunction": "MAX"
             },
             {
                 "description": "Wir speichern Ihre personenbezogenen Daten so lange, wie es für die Bereitstellung des WLAN gemäß den vereinbarten Geschäftsbedingungen erforderlich ist. Die Aufbewahrungsfrist beträgt bis zu 14 Monate ab der letzten Verbindung mit dem WLAN.", 
-                "temporal": "P14M", 
+                "temporal":[
+                            {
+                              "ttl": "P14M"
+                            }
+                  ], 
                 "aggregationFunction": "MAX"
             }
           ],
