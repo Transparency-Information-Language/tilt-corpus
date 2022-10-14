@@ -88,7 +88,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -97,12 +97,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -240,7 +240,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -249,12 +249,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -354,7 +354,7 @@
          "consequences": "Wenn du die Informationen, die zur Nutzung einer Funktion benötigt werden, nicht bereitstellen möchtest, kannst du die betreffende Funktion nicht nutzen. "
       },
       "subcategories": ["Deine Nachrichten", "in Nachrichten enthaltene Medien", "Anrufe"],
-      "comment":"Wir bieten für unsere Dienste eine Ende-zu-Ende-Verschlüsselung an. Ende-zu-Ende-Verschlüsselung bedeutet, dass deine Anrufe, Nachrichten, in Nachrichten enthaltene Medien, darunter Inhalte wie Bilder, Audio, Video, Dokumente und Dateien, verschlüsselt sind, um sie davor zu schützen, dass Dritte (einschließlich WhatsApp) diese Inhalte sehen können. Erfahre mehr über Ende-zu-Ende-Verschlüsselung und darüber, wie Unternehmen auf WhatsApp mit dir kommunizieren."
+      "_comment":"Wir bieten für unsere Dienste eine Ende-zu-Ende-Verschlüsselung an. Ende-zu-Ende-Verschlüsselung bedeutet, dass deine Anrufe, Nachrichten, in Nachrichten enthaltene Medien, darunter Inhalte wie Bilder, Audio, Video, Dokumente und Dateien, verschlüsselt sind, um sie davor zu schützen, dass Dritte (einschließlich WhatsApp) diese Inhalte sehen können. Erfahre mehr über Ende-zu-Ende-Verschlüsselung und darüber, wie Unternehmen auf WhatsApp mit dir kommunizieren."
     },
     {
       "_id": "b6c62e77-c573-4ac2-8170-04df6de27d22",
@@ -401,7 +401,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -410,12 +410,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -557,7 +557,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -566,12 +566,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -697,7 +697,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -706,12 +706,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -837,7 +837,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -846,12 +846,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -989,7 +989,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -998,12 +998,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1161,7 +1161,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1170,12 +1170,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1325,7 +1325,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1334,12 +1334,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1481,7 +1481,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1490,12 +1490,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1595,7 +1595,7 @@
          "consequences": " Wenn du die Informationen, die zur Nutzung einer Funktion benötigt werden, nicht bereitstellen möchtest, kannst du die betreffende Funktion nicht nutzen. "
       },
       "subcategories": ["IP-Adresse", "genauer Standort", "Telefonvorwahl"],
-      "comment":"Auch dann, wenn du unsere Funktionen im Zusammenhang mit deinem genauen Standort nicht nutzen möchtest (siehe Informationen, die von dir und uns an Dritte weitergegeben werden), verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort zu bestimmen (z. B. das Land)."
+      "_comment":"Auch dann, wenn du unsere Funktionen im Zusammenhang mit deinem genauen Standort nicht nutzen möchtest (siehe Informationen, die von dir und uns an Dritte weitergegeben werden), verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort zu bestimmen (z. B. das Land)."
     },
     {
       "_id": "ca413958-b8c3-42f2-b329-effad76490c6",
@@ -1626,7 +1626,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1635,12 +1635,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1793,7 +1793,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1802,12 +1802,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
@@ -1957,7 +1957,7 @@
         {
           "reference":"BRIa",
           "description":"Zivil- und Handelssachen: Wenn uns ein Gerichtsbeschluss vorgelegt wird, aufgrund dessen wir Informationen für ein Gerichtsverfahren offenlegen müssen, etwa gemäß Verordnung (EU) Nr. 1215/2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen.",
-          "comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
+          "_comment": "Bezieht sich auf die gesamte \"Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen\""
         },
         {
           "reference":"CJMP-10",
@@ -1966,12 +1966,12 @@
         {
           "reference":"IRCCPA",
           "description":"Verbrauchersachen: Zur Erfüllung von Verpflichtungen gemäß dem Verbraucherrecht, etwa dem Competition and Consumer Protection Act 2014, zum Beispiel wenn die irische Wettbewerbs- und Verbraucherschutzkommission Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Competition and Consumer Protection Act\" aus 2014"
         },
         {
           "reference":"IRCA",
           "description":"Unternehmens- und Steuersachen: Zur Erfüllung unserer Verpflichtungen gemäß der Unternehmensgesetzgebung und dem Steuerrecht, etwa dem Companies Act 2014, sofern die irische Steuerbehörde Informationen anfordert.",
-          "comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
+          "_comment":"Beziet sich auf das irische Gesetz: \"Companies Act\" aus 2014"
         },
         {
           "reference":"GDPR-31",
