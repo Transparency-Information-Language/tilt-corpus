@@ -579,7 +579,11 @@
         ],
         "storage": [
           {
-            "temporal": "P7D",
+            "temporal": [
+              {
+                "ttl":"P7D"
+              }
+            ],
             "aggregationFunction": "MAX"
           }
         ],
