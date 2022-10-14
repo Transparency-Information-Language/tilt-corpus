@@ -1020,7 +1020,7 @@
       "_id": [],
       "dataCategory": "Information from Partners",
       "sources": [{
-        "descriptopn":"",
+        "description":"",
         "url":"",
         "publiclyAvailable":false,
         "category":"market data enrichment services"
