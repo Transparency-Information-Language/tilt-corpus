@@ -2109,9 +2109,7 @@
     {
       "_id": "17f8918a-d683-4fdb-936e-56b4a100ae9a",
       "dataCategory": "Von anderen über dich bereitgestellte Informationen",
-      "_comment": [
-        "Telefonnummer", "Nachrichten"
-      ],
+      "_comment":"Telefonnummer, Nachrichten",
       "sources": [
         {
           "description": "Wir erhalten Informationen über dich von anderen Benutzern. Wenn beispielsweise andere Benutzer, die du kennst, unsere Dienste nutzen, stellen sie unter Umständen deine Telefonnummer zur Verfügung, wenn sie den Kontakt-Upload nutzen,so wie auch du ihre Telefonnummer bereitstellen kannst. Wir verlangen von allen diesen Benutzern, dass sie dazu berechtigt sind, deine Informationen zu erheben, zu verwenden und zu teilen, bevor sie uns irgendwelche Informationen bereitstellen. Sie können auch Nachrichten an dich oder an Gruppen senden, denen du angehörst, oder dich anrufen. Du solltest dir immer bewusst sein, dass generell jeder beliebige Benutzer Screenshots von deinen Chats oder Nachrichten machen oder Telefongespräche zwischen dir und ihm aufzeichnen und an WhatsApp oder irgendwelche anderen Personen senden oder auf anderen Plattformen veröffentlichen kann.",
