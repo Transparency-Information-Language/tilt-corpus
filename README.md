@@ -1,5 +1,5 @@
 # tilt-corpus
-A corpus of GDPR machine-readable transparency information powered by the [Transparency Information Language](https://github.com/Transparency-Information-Language/meta) and Toolkit (TILT).
+A corpus of GDPR machine-readable transparency information powered by the [Transparency Information Language](https://github.com/Transparency-Information-Language/meta) and Toolkit (TILT). These statements were extracted from real-world services for academic research purposes. They contain information about the collection, processing, and use of personal data in accordance with the legal requirements of the GDPR. The corpus makes it possible to process the information for various applications, such as automated checks or analyses, and to illustrate the practical applicability.
 
 ##
 
